@@ -151,4 +151,18 @@
       <testCaseId>Test Cases/Release 2/Odbory - Odstrániť odbor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c5a409cf-2975-4a38-951b-45befa0289d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Kritériá - Pridať kritériá</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a8c8f735-cd73-4764-ac88-74840b9072b3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Kritériá - Odstrániť kritériá</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

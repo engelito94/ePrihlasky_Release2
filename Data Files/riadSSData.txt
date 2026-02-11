@@ -22,7 +22,6 @@ Andrej;Pažitný;090617/9923
 Eduard;Škrovina;090521/5729
 Pavol;Tomčík;091018/3197
 Michal;Lacko;090714/3930
-Jozef;Maťko;090620/6994
 Daniel;Poliak;090926/3696
 Martin;Gažo;090304/3372
 Filip;Šoltys;090507/4445
@@ -31,7 +30,6 @@ Martina;Vlachová;096009/4982
 Tomáša;Balážová;095216/7766
 Lucia;Kováčiková;096110/5079
 Sandra;Drobňová;095906/0179
-Jana;Švecová;095715/1316
 Filipína;Šuleková;095109/1141
 Andrea;Suchá;095522/8637
 Patrícia;Hrubá;095909/1903
