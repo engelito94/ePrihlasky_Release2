@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_rove poskytovanho digitlneho rozvoja i_6e7296</name>
+   <tag></tag>
+   <elementGuidId>7ba40134-53b9-45e4-9267-393c08b40ae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.subcategory > span.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='najst-skolu-content']/div[7]/div/div[2]/div[2]/div[4]/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c6201c86-d4fc-4070-9997-d6c743127779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>2311ab68-1a3e-4589-9c65-7940cc2f0f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ccfd2345-323d-4cdb-82e1-93e577e6a1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>1b7d9759-5f99-497f-b92a-23558ecfe2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;najst-skolu-content&quot;)/div[@class=&quot;modal-wrapper profil-skoly-modal-wrapper&quot;]/div[@class=&quot;modal profil-skoly-modal&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;kategorie&quot;]/div[@class=&quot;category&quot;]/div[@class=&quot;subcategories&quot;]/div[@class=&quot;subcategory&quot;]/span[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>2454f7e7-4d87-431b-b85e-ab8a9fd68788</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='najst-skolu-content']/div[7]/div/div[2]/div[2]/div[4]/div[2]/div[2]/span</value>
+      <webElementGuid>f1538e71-e0d2-438f-b309-7fa77f8da7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Úroveň poskytovaného digitálneho rozvoja žiakov'])[1]/following::span[1]</value>
+      <webElementGuid>4df71449-4938-4d95-98ca-85ec598549ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bez vonkajšieho ihriska'])[1]/following::span[2]</value>
+      <webElementGuid>d41d0332-39ba-4557-a5bc-75bf3ca177d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prístup k Wi-Fi pre žiakov školy'])[1]/preceding::span[10]</value>
+      <webElementGuid>21ec8a8b-8d5a-4b4a-a032-7fadd722fcdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::span[11]</value>
+      <webElementGuid>cb6bfd0f-e9e4-404b-92f8-d7aa5ae592c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='check']/parent::*</value>
+      <webElementGuid>2b9f9a1a-ce4c-4641-bb4c-56ec2c526172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div[2]/div[2]/span</value>
+      <webElementGuid>e28fb0d1-2aca-43a0-99c5-4e1e4966af57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'check' or . = 'check')]</value>
+      <webElementGuid>78021548-84bc-48be-93a2-551c5b4179e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Prihlsi sa_failure-heading</name>
+   <tag></tag>
+   <elementGuidId>f5e15dad-0649-4e7e-85be-8a8736fe642d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='failure-heading']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#failure-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c39ee529-8582-4af7-8303-fa0a932e8fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>failure-heading</value>
+      <webElementGuid>656ece95-6afa-481e-b085-62ab507e8f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-heading-m</value>
+      <webElementGuid>24347600-51df-40e4-9162-7a811af76743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Neúspešná registrácia do systému
+            </value>
+      <webElementGuid>51334898-03f0-43e8-9c3d-819dc0543080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;failure-heading&quot;)</value>
+      <webElementGuid>bac9211f-1d2e-41ae-8e68-e8657604b3b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='failure-heading']</value>
+      <webElementGuid>da2b8c26-9c18-4c66-b1c1-d2ce9146d7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='last-step']/div[2]/div/div/h3</value>
+      <webElementGuid>04ed5af6-420e-425b-be08-21b6dfbfcac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihlásiť sa'])[3]/following::h3[1]</value>
+      <webElementGuid>9e85119f-4361-444d-9145-9961ec3d3434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na hlavnú stránku'])[1]/following::h3[1]</value>
+      <webElementGuid>166cb336-880f-449d-9f57-992758affdc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nás kontaktujte'])[1]/preceding::h3[1]</value>
+      <webElementGuid>94aa0a49-c5fe-434b-b5e2-c809f14e7bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na hlavnú stránku'])[2]/preceding::h3[1]</value>
+      <webElementGuid>f21fff28-912b-48fa-ac12-1b94947d5858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neúspešná registrácia do systému']/parent::*</value>
+      <webElementGuid>a99a5d84-7d0a-4156-b6e1-bef46c854d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/h3</value>
+      <webElementGuid>dbbf3b2e-3adb-4a5f-949f-8ab9e2181485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'failure-heading' and (text() = '
+                Neúspešná registrácia do systému
+            ' or . = '
+                Neúspešná registrácia do systému
+            ')]</value>
+      <webElementGuid>f294377f-4daf-4f70-ad93-b163596c3e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

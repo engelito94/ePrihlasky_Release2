@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Dnes</name>
+   <tag></tag>
+   <elementGuidId>e1be31f3-b967-4e07-8d67-c38e3ceb55ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Celé obdobie'])[2]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>be008d66-96c9-4613-8a2d-e4505c893038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-range-key</name>
+      <type>Main</type>
+      <value>Dnes</value>
+      <webElementGuid>4f30db86-7565-4520-b045-f7fad5298221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dnes</value>
+      <webElementGuid>9d80d147-02e8-4525-8ae5-2525bf086add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;daterangepicker ltr auto-apply show-ranges opensright&quot;]/div[@class=&quot;ranges&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>f8182f00-2877-4fec-b221-a1a7f9b96e27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celé obdobie'])[2]/following::li[1]</value>
+      <webElementGuid>6544ff91-7b11-4e24-88b1-8ea67a9ffeb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::li[2]</value>
+      <webElementGuid>d467a1b9-ec0b-444e-8e08-adc71e0470dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posledných 7 dní'])[2]/preceding::li[1]</value>
+      <webElementGuid>635d5ce3-28d4-460b-b087-831ba5a7f676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posledných 14 dní'])[2]/preceding::li[2]</value>
+      <webElementGuid>bf4516ab-f6ec-46f6-b238-d6c450200d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li[2]</value>
+      <webElementGuid>aefc9ffe-2bd9-437a-b9be-0681f4543f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Dnes' or . = 'Dnes')]</value>
+      <webElementGuid>3f0d23a6-8db5-4842-a333-b2c98ebf06d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

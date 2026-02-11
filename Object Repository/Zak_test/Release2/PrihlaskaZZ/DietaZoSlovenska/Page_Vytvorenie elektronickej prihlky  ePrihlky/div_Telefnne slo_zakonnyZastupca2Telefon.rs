@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Telefnne slo_zakonnyZastupca2Telefon</name>
+   <tag></tag>
+   <elementGuidId>b17bf7a7-5647-449b-8a4c-3d23ca9d24b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.zakonnyZastupca2Telefon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div[5]/div[8]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7cb8163e-a3ce-4365-9f68-43b2763feebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zakonnyZastupca2Telefon</value>
+      <webElementGuid>250a09d5-fcb2-4019-b8eb-be4dfdddfd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+421963215485</value>
+      <webElementGuid>15da0164-23a3-4749-a4a3-92681e0ea605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zz2 info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;zakonnyZastupca2Telefon&quot;]</value>
+      <webElementGuid>687de942-d5dc-4229-8011-cfd58b2a1c6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div[5]/div[8]/div[2]</value>
+      <webElementGuid>8a73a093-473a-4712-8fb9-85ff4668e554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefónne číslo'])[5]/following::div[1]</value>
+      <webElementGuid>0f31b70b-262f-4ee4-826e-e6c3271e957d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hodom47373@gopicta.com'])[3]/following::div[3]</value>
+      <webElementGuid>7eef1c9d-702a-4bea-9e07-577c4b41bd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestne vyhlasujem, že s podaním prihlášky súhlasí aj druhý zákonný zástupca žiaka'])[1]/preceding::div[1]</value>
+      <webElementGuid>cb61d2ef-726f-4196-bfa9-577f24586f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::div[2]</value>
+      <webElementGuid>9831e638-7474-492b-b2ae-dc6fc19b8bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+421963215485']/parent::*</value>
+      <webElementGuid>d11f6d24-6f8b-42a9-a022-7b3ae652226e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[8]/div[2]</value>
+      <webElementGuid>e5b62261-91db-44e2-bf94-0cc0f1ef5cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+421963215485' or . = '+421963215485')]</value>
+      <webElementGuid>e2c79890-7b69-42e9-aa7f-ee57ddf1e383</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Odstrnenie odboru_material-icons-outlined</name>
+   <tag></tag>
+   <elementGuidId>43db8457-6fc4-406c-889a-30679effbae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal.odstranenie-odboru-modal > div.modal-header > button.modal-close > span.material-icons-outlined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b49aa83-d487-4b7e-94fe-62ba954df227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons-outlined</value>
+      <webElementGuid>f42a9999-3872-4759-b231-ee12060166ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a754aed6-cb74-411c-bb68-441172c76248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        close
+                    </value>
+      <webElementGuid>daed3c1d-50dd-4b04-a915-f9d64b539cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-a-kriteria-content&quot;)/div[@class=&quot;modal-wrapper odstranenie-odboru-modal-wrapper&quot;]/div[@class=&quot;modal odstranenie-odboru-modal&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;modal-close&quot;]/span[@class=&quot;material-icons-outlined&quot;]</value>
+      <webElementGuid>478a0d91-4c19-417c-89ae-b0e82589f0c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div/button/span</value>
+      <webElementGuid>a3ad087e-5962-427c-b545-df472f17c50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstránenie odboru'])[1]/following::span[1]</value>
+      <webElementGuid>4e23457f-ce08-4ad9-be3d-85abe58539e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uložiť'])[2]/following::span[1]</value>
+      <webElementGuid>d300db1d-4379-4631-a408-ab19ff30bcc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[3]/preceding::span[1]</value>
+      <webElementGuid>dff12f19-699f-4a71-a23a-5e4b5452e3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[2]/preceding::span[1]</value>
+      <webElementGuid>61ac265d-78cb-46df-ae1d-f456cff0dae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button/span</value>
+      <webElementGuid>fb0b77e2-353b-48be-ab37-7432860345ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                        close
+                    ' or . = '
+                        close
+                    ')]</value>
+      <webElementGuid>dbe2e99b-0f36-4d5a-a951-5c4d1ad907b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3</name>
+   <tag></tag>
+   <elementGuidId>036470b2-021c-46fe-8d42-6b3f37fc4303</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skoly']/div[2]/div[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b305f90c-38f3-4fa6-b2a7-03ac7e5b71bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>čašník, servírka</value>
+      <webElementGuid>09447b66-8e08-4c0d-abd3-7864c32d3d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[2]</value>
+      <webElementGuid>d4a83199-dbae-4874-98c6-605728aea379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skoly']/div[2]/div[5]/div[2]</value>
+      <webElementGuid>e84d22b6-1367-4b3c-97a3-5b7c73a0499d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov odboru'])[1]/following::div[1]</value>
+      <webElementGuid>3ac1015d-a268-4c75-83cc-0f624858f5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kód odboru'])[1]/following::div[4]</value>
+      <webElementGuid>a658672f-c344-422e-8860-c970301dd6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ odboru'])[1]/preceding::div[1]</value>
+      <webElementGuid>b0a23242-1e2b-4f67-aeac-60a74fc7b05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netalentový'])[1]/preceding::div[2]</value>
+      <webElementGuid>316da500-f094-4d16-9f6b-6aa3ed549db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[5]/div[2]</value>
+      <webElementGuid>62606e0a-68e1-4da0-9873-121720326ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'čašník, servírka' or . = 'čašník, servírka')]</value>
+      <webElementGuid>a98a3069-7cde-4454-b2ed-9549a5b09d1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

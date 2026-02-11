@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pick a date</name>
+   <tag></tag>
+   <elementGuidId>a197bb3e-d16f-4d9d-84ad-fb7e7d35950a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#OUDatumPodaniaPrihlasky > div.govuk-form-group.input-control.required > div.input-wrapper.govuk-date > span.Zebra_DatePicker_Icon_Wrapper > button.Zebra_DatePicker_Icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a0af96ec-e3d7-45ea-bd9a-3d6d05ba86fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6eab76df-daad-4b4c-a1e8-e45437368217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Zebra_DatePicker_Icon</value>
+      <webElementGuid>554fe266-ea1e-4d03-a9b3-367ef358613f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>9ee4a5f1-e61e-4b24-a087-7c4d50fc1ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pick a date</value>
+      <webElementGuid>3573d2f3-b9b0-4589-a97a-6ffb902a2ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OUDatumPodaniaPrihlasky&quot;)/div[@class=&quot;govuk-form-group input-control required&quot;]/div[@class=&quot;input-wrapper govuk-date&quot;]/span[@class=&quot;Zebra_DatePicker_Icon_Wrapper&quot;]/button[@class=&quot;Zebra_DatePicker_Icon&quot;]</value>
+      <webElementGuid>ca431c36-fdf0-4982-b427-be39fa12a4d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>37741892-0077-408e-a220-8b8dcad2af2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='OUDatumPodaniaPrihlasky']/div/div[2]/span/button</value>
+      <webElementGuid>97761ae7-0678-457d-8198-acd71df5efff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[71]/following::button[1]</value>
+      <webElementGuid>9f31525c-105d-4b9e-861c-a3e81503dc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania prihlášky'])[1]/following::button[1]</value>
+      <webElementGuid>36684aec-0f6e-4e57-a3f8-9afdb02c5c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[4]/preceding::button[1]</value>
+      <webElementGuid>5ae8b62f-05d8-4f3e-9d82-9595b954f79f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F Y'])[4]/preceding::button[1]</value>
+      <webElementGuid>f1c29754-be28-4274-ab31-669a821812d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span/button</value>
+      <webElementGuid>faf37604-dc10-4282-99bd-2e856b6e7bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pick a date' or . = 'Pick a date')]</value>
+      <webElementGuid>98c49c3b-b9dc-410e-8319-575b84e5465c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

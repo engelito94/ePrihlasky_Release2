@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_alebo ho sem potiahnite (max. 10 MB, vo f_05689b_4</name>
+   <tag></tag>
+   <elementGuidId>898d2115-7adc-4528-8110-ad2b3beb7069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prilohyUploadZone5 > #dropZoneContentMain > div.idsk-card__content > #vybratPrilohuButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='vybratPrilohuButton'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70239e33-a8ce-4963-b47c-80447765a288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vybratPrilohuButton</value>
+      <webElementGuid>1c915f09-fccf-4910-a12f-8a9aca946482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__large</value>
+      <webElementGuid>0dcb73f8-6644-4bc3-a859-96112d38b973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>46178168-9ab2-4439-83aa-949868bc349f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>9ddcc03d-9396-4e70-af7d-2a8aa449fad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    add
+                                    Vybrať súbor
+                                </value>
+      <webElementGuid>ec7045d8-9a1a-47df-b5ab-b248eaa969e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prilohyUploadZone5&quot;)/div[@id=&quot;dropZoneContentMain&quot;]/div[@class=&quot;idsk-card__content&quot;]/a[@id=&quot;vybratPrilohuButton&quot;]</value>
+      <webElementGuid>57a8d9ec-c971-4b65-b738-595128e75ef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='vybratPrilohuButton'])[5]</value>
+      <webElementGuid>c1feabec-d298-47c1-b865-ff2baf2981cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='dropZoneContentMain']/div/a)[5]</value>
+      <webElementGuid>a34c5cd9-50fb-4a65-b2a8-f0b2a3a7d05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='alebo ho sem potiahnite (max. 10 MB, vo formáte .jpeg, .jpg, .pdf, .png)'])[5]/following::a[1]</value>
+      <webElementGuid>ca9fe42d-8ae3-482e-90a8-fc2c0d594a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrajte súbor'])[5]/following::a[1]</value>
+      <webElementGuid>ac73f415-86e5-4b2b-adf5-dbdb1995d7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrané súbory'])[5]/preceding::a[1]</value>
+      <webElementGuid>b7d865b4-7bb4-4cc3-b213-9a241ca26d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doklad o úspešnej účasti v predmetovej olympiáde alebo v súťaži'])[1]/preceding::a[1]</value>
+      <webElementGuid>33398003-ab26-4a92-a46f-38562d6f99b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[16]</value>
+      <webElementGuid>a7360ead-9182-477c-aa72-a2089298877b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/form/div[4]/div/a</value>
+      <webElementGuid>7f01cb27-0160-4e40-a28e-4e809f1b106e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'vybratPrilohuButton' and @href = 'javascript:void(0);' and (text() = '
+                                    add
+                                    Vybrať súbor
+                                ' or . = '
+                                    add
+                                    Vybrať súbor
+                                ')]</value>
+      <webElementGuid>e5d37bf9-cb52-4413-a5cd-2677bb1097dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

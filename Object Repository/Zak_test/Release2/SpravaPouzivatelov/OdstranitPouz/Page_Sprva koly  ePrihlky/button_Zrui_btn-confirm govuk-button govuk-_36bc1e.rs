@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zrui_btn-confirm govuk-button govuk-_36bc1e</name>
+   <tag></tag>
+   <elementGuidId>cd3d4ef9-a672-45e4-ae39-1a0842d716fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-confirm.govuk-button.govuk-button__large.last-focusable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a6e33db-fdd2-47b2-922f-5d0600f319de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-confirm govuk-button govuk-button__large last-focusable</value>
+      <webElementGuid>2e44537b-ee89-4a7a-9d51-cec2eceb636e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Potvrdiť</value>
+      <webElementGuid>c1821f46-5362-47cd-98e5-dc141d4adcc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;modal-wrapper confirm-modal-wrapper&quot;]/div[@class=&quot;modal confirm-modal modal-1-MO&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-confirm govuk-button govuk-button__large last-focusable&quot;]</value>
+      <webElementGuid>409c19e4-8af9-41b7-8363-219423bc865d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[1]/following::button[1]</value>
+      <webElementGuid>3e06f11a-f8ec-4bf6-bef0-dd9e62d74a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chystáte sa vymazať údaje. Prosím potvrďte svoju akciu.'])[1]/following::button[2]</value>
+      <webElementGuid>408fb6a8-8921-4643-9d1f-1fc6bac4f868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>d104fe80-2a69-4799-8d17-2e31b3d2aeec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Potvrdiť' or . = 'Potvrdiť')]</value>
+      <webElementGuid>76231990-4324-40a9-82f6-643e85bc406a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

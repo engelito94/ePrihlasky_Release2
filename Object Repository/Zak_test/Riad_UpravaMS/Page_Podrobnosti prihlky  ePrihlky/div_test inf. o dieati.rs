@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_test inf. o dieati</name>
+   <tag></tag>
+   <elementGuidId>2f4d79ad-4576-4590-8efe-d0ef26855c0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dpDietataPoznamka']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dpDietataPoznamka</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6255107-db1e-412e-abcd-fddee14755ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dpDietataPoznamka</value>
+      <webElementGuid>ec5b06af-90b3-462a-90d0-8caa90053ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test inf. o dieťati</value>
+      <webElementGuid>07c312d7-625b-47b7-8b9a-9191ea963bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dpDietataPoznamka&quot;)</value>
+      <webElementGuid>448e4785-f604-44c9-9089-77e8385ec6f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dpDietataPoznamka']</value>
+      <webElementGuid>a5989fdc-08d5-4ecd-92a9-0be1f61f2739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div[2]/div[5]/div[7]/div[2]</value>
+      <webElementGuid>f128be19-1c2b-4b57-ac72-d4932448a641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poznámka'])[1]/following::div[1]</value>
+      <webElementGuid>4803e1a0-e09e-4f95-8961-058523ca846c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[10]/following::div[3]</value>
+      <webElementGuid>d0bf80ce-6604-4359-a3eb-d1e741fb37c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bla bla'])[1]/preceding::div[3]</value>
+      <webElementGuid>08a81906-48cf-42b3-b919-007b23408c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Údaj sa nezhoduje s údajom rodiča v RFO.'])[1]/preceding::div[4]</value>
+      <webElementGuid>27cf67f4-970a-48e3-b967-74ac6a75a0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test inf. o dieťati']/parent::*</value>
+      <webElementGuid>a8a76f92-a114-4006-92e7-7c0a3e3e7f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[5]/div[7]/div[2]</value>
+      <webElementGuid>9a5abc9b-00f8-44f9-971f-202b2c35858e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dpDietataPoznamka' and (text() = 'test inf. o dieťati' or . = 'test inf. o dieťati')]</value>
+      <webElementGuid>852cfd75-610b-4c3e-bfc0-eb5778d6acf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Elena Hronov</name>
+   <tag></tag>
+   <elementGuidId>4b936353-b54d-4c73-b0be-7a45a727044c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zakonnyZastupca2MenoAPriezvisko</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zakonnyZastupca2MenoAPriezvisko']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03b57d97-310c-4492-bcd3-2e3fc7244a56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zakonnyZastupca2MenoAPriezvisko</value>
+      <webElementGuid>9c79c042-0253-4cc3-add1-29a1befb0a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elena Hronová</value>
+      <webElementGuid>8cef6980-727a-4415-b4ae-1b46b973937a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zakonnyZastupca2MenoAPriezvisko&quot;)</value>
+      <webElementGuid>b20a9b87-a90e-4aaf-ae46-5bca88b45b3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zakonnyZastupca2MenoAPriezvisko']</value>
+      <webElementGuid>f93f1bd8-af01-47a0-a0ea-b4861b4689ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz2']/div/div[2]</value>
+      <webElementGuid>cb3f582f-98cf-4636-ad7a-efbc29016de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno a priezvisko'])[2]/following::div[1]</value>
+      <webElementGuid>94838977-5388-4b80-8809-98667d712c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o zákonnom zástupcovi č.2:'])[1]/following::div[4]</value>
+      <webElementGuid>d5616f1f-e0e7-4814-af83-74d5b0076b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[3]/preceding::div[1]</value>
+      <webElementGuid>968b473c-db91-4590-8ba5-252fbbca590c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Číslo elektronickej schránky'])[2]/preceding::div[4]</value>
+      <webElementGuid>75059ef8-20e7-4227-b18f-a1026f32d941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Elena Hronová']/parent::*</value>
+      <webElementGuid>d652c71d-0c88-4493-99c6-111af9ceeca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div/div[2]</value>
+      <webElementGuid>f7bd539b-209a-453d-89f2-a8b495fbffe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zakonnyZastupca2MenoAPriezvisko' and (text() = 'Elena Hronová' or . = 'Elena Hronová')]</value>
+      <webElementGuid>69a68460-16b3-4b18-bf1f-a11d2fc93f99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

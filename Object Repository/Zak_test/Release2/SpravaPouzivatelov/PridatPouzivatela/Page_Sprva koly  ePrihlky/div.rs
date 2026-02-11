@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>ce18f9b9-30c4-4a67-b5a4-39463c6c4d33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pouzivatel-item > div.pouzivatel-name-wrapper > div > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sprava-pouzivatelov']/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76e6c6b9-c673-41ba-938f-88801bdbe738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EDUID: 930570706</value>
+      <webElementGuid>17c48a2b-b724-4ac3-a1e4-51ff32f63b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;sprava-pouzivatelov-main&quot;]/div[@class=&quot;pouzivatel-item-container&quot;]/div[@class=&quot;pouzivatel-item&quot;]/div[@class=&quot;pouzivatel-name-wrapper&quot;]/div[1]/div[1]</value>
+      <webElementGuid>5738d389-45b4-493c-acf5-b85dfc98aafb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sprava-pouzivatelov']/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>630a3083-1be0-4f13-8f5f-ef73cd6bb2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Martin Martinský'])[1]/following::div[1]</value>
+      <webElementGuid>1e2858bb-151f-49ae-8dd2-ec23bec415bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[1]/following::div[4]</value>
+      <webElementGuid>6b96dae6-275b-499b-aa19-939d5fb5214a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rola'])[1]/preceding::div[1]</value>
+      <webElementGuid>c2449abd-ca93-4181-ac65-922ecbb9a640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[10]/preceding::div[1]</value>
+      <webElementGuid>b5ab352a-4b49-43de-88ad-064e33a22e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EDUID: 930570706']/parent::*</value>
+      <webElementGuid>7b6e09ac-8cdb-4ca1-bccd-009e1a638a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>bb49968a-a958-4935-90c2-12f96bebca09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EDUID: 930570706' or . = 'EDUID: 930570706')]</value>
+      <webElementGuid>d6bf4eec-17c6-4bb5-9c96-21f288c068d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

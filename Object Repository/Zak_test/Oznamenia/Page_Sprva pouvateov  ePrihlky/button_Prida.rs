@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prida</name>
+   <tag></tag>
+   <elementGuidId>1583c6c9-1b7d-4d4b-995c-c460546fbb95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[1]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.buttons > button.govuk-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c466cb2-0425-4bb0-b651-08b77dda7212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>af21358c-5fcc-48da-9913-b04a644cef27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>7a2b44c6-2f62-43c9-a629-668f6d4d8d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>2f3b9d25-16f3-4af8-a976-9cdf5d46f3ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať</value>
+      <webElementGuid>6f123a80-89eb-4e84-b1c2-36aa609d60e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-width-container&quot;]/div[@class=&quot;govuk-main-wrapper govuk-width-container&quot;]/div[@class=&quot;sprava-pouzivatelov-add&quot;]/div[@class=&quot;govuk-form-group idsk-card card-sprava-pouzivatelov&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;govuk-button&quot;]</value>
+      <webElementGuid>3cc96197-2fa5-45b4-b663-5ad7db958eb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sprava-pouzivatelov']/div/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>b8a08f98-e929-4065-9479-48b0ba7be9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[6]/following::button[1]</value>
+      <webElementGuid>15a00ba7-9e59-4d02-84c6-76dd53ccc8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte rolu'])[1]/following::button[1]</value>
+      <webElementGuid>d62bbd81-2ee8-4c07-8d5b-100b48e7555c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[1]/preceding::button[1]</value>
+      <webElementGuid>ea55a789-71d2-4976-9616-15e36d0e3343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>4086c99c-af2d-49a6-a284-70db6c18a3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'javascript: void(0);' and (text() = 'Pridať' or . = 'Pridať')]</value>
+      <webElementGuid>8fd0c3b8-bea2-4837-82c1-b9ec88b45d57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

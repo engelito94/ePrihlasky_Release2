@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_5</name>
+   <tag></tag>
+   <elementGuidId>b53b5541-2892-419a-96f4-d7ed26e9d423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skoly']/div[2]/div[7]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7deaeac-3912-41f1-9c5f-93031ba69cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. termín</value>
+      <webElementGuid>06294486-3f37-49ac-aa05-8133a9bc9768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[2]</value>
+      <webElementGuid>c5245848-46af-449c-a386-1fbd53f40142</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skoly']/div[2]/div[7]/div[2]</value>
+      <webElementGuid>23294460-201a-4566-893d-9fdecce15a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termín prijímacej skúšky'])[2]/following::div[1]</value>
+      <webElementGuid>df6c6a7e-4792-4f60-b2ae-8aa2f8745ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netalentový'])[1]/following::div[3]</value>
+      <webElementGuid>10ca2d5d-59ad-4e34-b3a3-abcb6c5ff63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyučovací jazyk odboru'])[1]/preceding::div[1]</value>
+      <webElementGuid>5b4536f8-9630-456f-b287-88b553af4dd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[7]/preceding::div[2]</value>
+      <webElementGuid>15571c7f-d387-4069-beff-84eb719b46d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1. termín']/parent::*</value>
+      <webElementGuid>c6e4db0f-1d6f-4864-8de6-cb30e8199d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[7]/div[2]</value>
+      <webElementGuid>4fc19ada-5e0a-444e-80e2-f54a70e0d8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1. termín' or . = '1. termín')]</value>
+      <webElementGuid>f165bb1c-0f69-4d22-a7c3-f8370cffc64d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

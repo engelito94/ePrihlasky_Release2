@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prida odbor_btnPridatOdbor</name>
+   <tag></tag>
+   <elementGuidId>50abce12-9a06-4f15-96ab-419fa44b5354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnPridatOdbor</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnPridatOdbor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>96a62d7b-e836-472a-a7fe-23decf78eabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnPridatOdbor</value>
+      <webElementGuid>a77e5ad6-7017-424d-aa05-94ad1899f35b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__large</value>
+      <webElementGuid>eab84cf6-0005-41f6-a7bf-8ef3e1856f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>14c1b56e-a765-4e2c-904a-b1cba2bbed30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Pridať odbor
+                    </value>
+      <webElementGuid>8121f2f9-8f68-4ba5-bf95-4d5a47190fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnPridatOdbor&quot;)</value>
+      <webElementGuid>2391aa24-ab79-48f2-bd1e-39879d081db6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnPridatOdbor']</value>
+      <webElementGuid>c209d62f-7ac0-4592-8b56-dedb8c48e9c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-ziadne-odbory']/div/div[2]/div[2]/button</value>
+      <webElementGuid>4e86ff35-d945-47f8-94d7-ba364de45327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor'])[1]/following::button[1]</value>
+      <webElementGuid>044e2fcb-1698-4112-ad2f-c10c682cef0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiadne odbory v ročníku'])[1]/following::button[1]</value>
+      <webElementGuid>08286328-5b2b-4586-a042-f9d49ea37242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Por.'])[1]/preceding::button[1]</value>
+      <webElementGuid>969ee684-be99-4f69-aede-a760fe1ad379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>0f98c944-6ac2-4ea8-aabd-64a13c937d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnPridatOdbor' and (text() = '
+                        Pridať odbor
+                    ' or . = '
+                        Pridať odbor
+                    ')]</value>
+      <webElementGuid>36d98d72-caa1-471a-ad2a-aa9294add692</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

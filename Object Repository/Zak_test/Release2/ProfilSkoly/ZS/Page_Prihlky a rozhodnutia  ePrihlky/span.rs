@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>875f64c1-e009-4f8b-b27e-a3c71b048223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header-navigation']/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd66681c-3b59-4896-9e6e-0c1e8a96bf47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Správa školy</value>
+      <webElementGuid>993a1027-ed67-4d8b-b3f2-b6c202eed199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navigation&quot;)/div[@class=&quot;govuk-header__navigation-list&quot;]/ul[@class=&quot;govuk-width-container&quot;]/li[@class=&quot;govuk-header__navigation-item&quot;]/a[@class=&quot;govuk-header__link link-with-down-arrow&quot;]/span[1]</value>
+      <webElementGuid>42f37883-52ff-4506-8e0e-9d3d472d378f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header-navigation']/div/ul/li[2]/a/span</value>
+      <webElementGuid>30b8f0be-71fb-4064-af13-74817c5ebffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/following::span[1]</value>
+      <webElementGuid>e377453c-8498-46fc-b95b-5df07f809ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správa prihlášok'])[1]/following::span[2]</value>
+      <webElementGuid>7ae4a3fe-5529-4a15-9b5c-34bad2f20555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[2]/preceding::span[1]</value>
+      <webElementGuid>8d2aa4e8-b688-4092-b086-c517e5c27012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pomoc a podpora'])[1]/preceding::span[2]</value>
+      <webElementGuid>9aef5972-e8db-4242-b436-b9a9808f3d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Správa školy']/parent::*</value>
+      <webElementGuid>95d066de-bc15-49c7-b263-6a87c8efc6c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>2222e708-f412-463e-9684-e08484eb645e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Správa školy' or . = 'Správa školy')]</value>
+      <webElementGuid>59ed44ce-3282-4a08-a76a-28e74fb8c987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

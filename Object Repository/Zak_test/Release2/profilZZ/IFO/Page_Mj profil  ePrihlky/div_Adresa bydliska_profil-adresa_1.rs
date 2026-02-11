@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa bydliska_profil-adresa_1</name>
+   <tag></tag>
+   <elementGuidId>63d950c1-9304-4218-a677-54c33bf61b4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#profil-adresa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profil-adresa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e6c1997-169f-444b-a7fe-74cd89e19599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>profil-adresa</value>
+      <webElementGuid>95895274-86de-49eb-a58e-27fa7ac685ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kotrčiná Lúčka 58, 02001, Kotrčiná Lúčka, Slovenská republika</value>
+      <webElementGuid>ca983a12-9199-4250-b005-10a34af5f270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profil-adresa&quot;)</value>
+      <webElementGuid>6088bab7-a4b9-4d5c-a05b-d002721b2705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='profil-adresa']</value>
+      <webElementGuid>16d81f37-ea87-41f8-ad86-487a5e00cfc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profil']/div[2]/div/div[2]</value>
+      <webElementGuid>bc4d2068-e143-407e-ab74-ed355257c4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa bydliska'])[1]/following::div[1]</value>
+      <webElementGuid>1632573f-be6e-4ffc-b7d9-1a0486fbc234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť údaje'])[1]/following::div[4]</value>
+      <webElementGuid>5c2f9417-4bb4-4ca8-add3-9d73d9b9bd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné číslo'])[1]/preceding::div[1]</value>
+      <webElementGuid>c0e579d7-a711-4b10-83fc-0746c062d1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[1]/preceding::div[4]</value>
+      <webElementGuid>adf423bb-f0b8-45b1-a881-f26078e4fb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kotrčiná Lúčka 58, 02001, Kotrčiná Lúčka, Slovenská republika']/parent::*</value>
+      <webElementGuid>0c9a077b-b378-4663-b391-376b5b460a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>761f1b70-d865-483e-803f-0e64c727a54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'profil-adresa' and (text() = 'Kotrčiná Lúčka 58, 02001, Kotrčiná Lúčka, Slovenská republika' or . = 'Kotrčiná Lúčka 58, 02001, Kotrčiná Lúčka, Slovenská republika')]</value>
+      <webElementGuid>ebc0fb61-8ea9-47d6-a688-e6c2d114fa55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

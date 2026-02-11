@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Meno a priezvisko</name>
+   <tag></tag>
+   <elementGuidId>74fec144-a05b-410f-bc99-d159a8c9c0b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zz1 > div.panel-item > div.panel-item-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zz1']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1292fa7e-bfe8-45b8-af5b-36d1f0e36122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-item-label</value>
+      <webElementGuid>4abdf8ed-b03e-4750-8d8d-07e0b572eb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Meno a priezvisko</value>
+      <webElementGuid>d4cb8a13-2be8-4993-a41d-6d1bd4a29a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zz1&quot;)/div[@class=&quot;panel-item&quot;]/div[@class=&quot;panel-item-label&quot;]</value>
+      <webElementGuid>d7e1c22f-6d2d-469c-9240-a757c8c962e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz1']/div/div</value>
+      <webElementGuid>970846c8-7d8e-4319-90f0-ef1f1f745f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o zákonnom zástupcovi č.1:'])[1]/following::div[3]</value>
+      <webElementGuid>a9e7153e-e3eb-47ef-b95a-611433f68ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[4]/following::div[5]</value>
+      <webElementGuid>f63db712-3515-4903-ae02-03a8ed72928d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emanuel Zelený'])[1]/preceding::div[1]</value>
+      <webElementGuid>0de583cb-ba84-4361-9cfc-d74137e6eb0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[2]/preceding::div[2]</value>
+      <webElementGuid>8e8572ef-271d-4e62-9744-6aed6be30da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Meno a priezvisko']/parent::*</value>
+      <webElementGuid>7e84c8f2-b6a0-45be-94b1-d1fc13892171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[2]/div/div</value>
+      <webElementGuid>8b95400c-ef74-44a6-ab95-703f0dc35a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Meno a priezvisko' or . = 'Meno a priezvisko')]</value>
+      <webElementGuid>4a3a8c81-99d7-4ee3-b500-9c2664ff907c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

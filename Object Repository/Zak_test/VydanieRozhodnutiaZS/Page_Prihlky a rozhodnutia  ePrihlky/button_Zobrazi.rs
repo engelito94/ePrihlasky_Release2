@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zobrazi</name>
+   <tag></tag>
+   <elementGuidId>e98f4f9d-2c56-423c-9a2f-d4997018774b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.govuk-button.govuk-button--sec.btn-zobrazit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prihlasky']/div[5]/div[2]/div[2]/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cabfaf44-263a-4f55-b240-4f0da800896b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec btn-zobrazit</value>
+      <webElementGuid>9a0fa46e-ca87-41b4-84d5-bba83f2a9df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zobraziť</value>
+      <webElementGuid>abac58a5-2e1b-45da-9544-e53bfd28f0e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prihlasky&quot;)/div[@class=&quot;riaditel-prihlasky-list&quot;]/div[@class=&quot;riaditel-prihlasky-list-inner-wrapper&quot;]/div[@class=&quot;riaditel-prihlasky-list-row&quot;]/div[@class=&quot;cell akcie&quot;]/button[@class=&quot;govuk-button govuk-button--sec btn-zobrazit&quot;]</value>
+      <webElementGuid>0b9e3fed-4229-4ba7-97c0-7040467651ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prihlasky']/div[5]/div[2]/div[2]/div[4]/button</value>
+      <webElementGuid>15c2c57c-c4c4-4f07-a32d-8aa75a7cea92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spádová prihláška'])[2]/following::button[1]</value>
+      <webElementGuid>5d29cd75-be64-4281-a45e-6ca308d78e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Návrh na neprijatie'])[3]/following::button[1]</value>
+      <webElementGuid>525beefb-6717-41a8-90dd-f99147cf7e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nevalidované voči RFO'])[3]/preceding::button[1]</value>
+      <webElementGuid>396c0069-b5bc-43ee-8034-e52d5c443736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anna Nováková'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5c21dd3-c2ea-4738-977f-f1f985ac8fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zobraziť']/parent::*</value>
+      <webElementGuid>3a0e676b-8f8d-4659-88fd-b7cde696d1b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>7c1d4a8e-4398-421c-9245-258fdd0f3cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Zobraziť' or . = 'Zobraziť')]</value>
+      <webElementGuid>8f857234-b35f-4bcb-9804-33d4d565b5b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa bydliska_profil-adresa</name>
+   <tag></tag>
+   <elementGuidId>b4e38819-8820-477f-aeaf-ef86e1d275eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profil-adresa']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#profil-adresa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abfa872a-d0e6-469b-ade7-73238c48bc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>profil-adresa</value>
+      <webElementGuid>4f4f7a29-0493-402e-83cb-f45d4015cc3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Záštepy 32/98, 06578, Trebatice, Slovenská republika</value>
+      <webElementGuid>3d3c405c-6ef3-4595-befd-1f5f1b5e328d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profil-adresa&quot;)</value>
+      <webElementGuid>8afa08e7-e143-4927-8b11-685bd212140f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='profil-adresa']</value>
+      <webElementGuid>6991fa5d-2777-4060-9f3a-502eed50529c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profil']/div[2]/div/div[2]</value>
+      <webElementGuid>6f5e7105-4721-450f-a6ea-17aaed984f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa bydliska'])[1]/following::div[1]</value>
+      <webElementGuid>8fe1ddbc-ad84-439e-8041-8e19bcd464e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť údaje'])[1]/following::div[4]</value>
+      <webElementGuid>2113c8fc-623d-4a38-b7bf-8b3be836fd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné číslo'])[1]/preceding::div[1]</value>
+      <webElementGuid>772e3a04-ffc8-4d65-bd5c-340b735357e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[2]</value>
+      <webElementGuid>b7c16ef8-30d1-469e-aba0-a0b1dfada621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Záštepy 32/98, 06578, Trebatice, Slovenská republika']/parent::*</value>
+      <webElementGuid>1977e68d-5559-4883-bb3b-1b4fe8fbf700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>9f76c226-7125-4c4e-a6d4-ea6796ea1f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'profil-adresa' and (text() = 'Záštepy 32/98, 06578, Trebatice, Slovenská republika' or . = 'Záštepy 32/98, 06578, Trebatice, Slovenská republika')]</value>
+      <webElementGuid>632156b6-cb1d-4b83-bc5c-d97c1cb59be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pernek 87, 05478, Pernek, Slovenská republika']/parent::*</value>
+      <webElementGuid>bcf2ed7b-a168-45b2-961a-7f160bec63b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'profil-adresa' and (text() = 'Pernek 87, 05478, Pernek, Slovenská republika' or . = 'Pernek 87, 05478, Pernek, Slovenská republika')]</value>
+      <webElementGuid>86662c0b-3d5a-430d-b226-81dcf9f89ac2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

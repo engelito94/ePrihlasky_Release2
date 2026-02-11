@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Profil koly_govuk-header__link</name>
+   <tag></tag>
+   <elementGuidId>cc63612a-0589-42a2-90d8-90e27991fff3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-navigation']/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dfa1c45d-d6b1-4bd5-a7da-6ab7ed23fa5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-switch-target</name>
+      <type>Main</type>
+      <value>sub-riaditel-sprava-pouzivatelov</value>
+      <webElementGuid>379de0fd-c097-4963-8639-f722714832cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-header__link</value>
+      <webElementGuid>5bf7de0e-89c1-450c-9dbc-6bfda7c82483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>a69cd699-f0bd-4c70-914d-26068c86eab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Správa používateľov
+                            </value>
+      <webElementGuid>9a8d7bc2-e558-4711-84b0-1cb5cf956627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-navigation&quot;)/div[@class=&quot;govuk-header__navigation-list&quot;]/ul[1]/li[@class=&quot;govuk-header__navigation-item&quot;]/a[@class=&quot;govuk-header__link&quot;]</value>
+      <webElementGuid>e2480b3c-b273-4364-a41b-496b421a59c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-navigation']/div/ul/li[2]/a</value>
+      <webElementGuid>a81e788a-0a28-414f-8aa2-995b1c5e6fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Správa používateľov')]</value>
+      <webElementGuid>5cedcc9e-3125-4426-9ddd-90e34aa9106a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil školy'])[1]/following::a[1]</value>
+      <webElementGuid>62c7cb22-9a2c-4d82-b013-638d5e56dda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::a[2]</value>
+      <webElementGuid>62e70330-a1b3-4d9b-82a0-8529186ca910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil školy'])[2]/preceding::a[1]</value>
+      <webElementGuid>e67f0b6e-df1f-4258-af8b-5d1f9588fa96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/preceding::a[1]</value>
+      <webElementGuid>1752bd2e-37fd-4acb-9195-afe0eaca8fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Správa používateľov']/parent::*</value>
+      <webElementGuid>3ede550f-29f8-4206-9ede-96d4f8607ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
+      <webElementGuid>4074ebf5-dfcd-42c3-83da-a8c1ff2f1b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>a5a6138b-168f-46ee-a176-258e9d6e8899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '
+                                Správa používateľov
+                            ' or . = '
+                                Správa používateľov
+                            ')]</value>
+      <webElementGuid>0a0d957c-6de4-43ab-86a5-46fabe625c12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

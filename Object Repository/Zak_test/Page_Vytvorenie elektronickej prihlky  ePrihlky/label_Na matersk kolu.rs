@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Na matersk kolu</name>
+   <tag></tag>
+   <elementGuidId>889fd8e0-383d-4bcb-94b3-e14ec21f8b91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radioGroup-typ-skoly']/div/fieldset/div[3]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4826f81a-7df5-4ba5-8d52-38f22692a4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label govuk-radios__label</value>
+      <webElementGuid>b7d61bc4-fbae-46e9-8793-f4b026fd700c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radioGroup-typ-skoly_option_1</value>
+      <webElementGuid>5bd9c8b2-590e-4cb6-bdbc-7a8447e4acc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Na materskú školu</value>
+      <webElementGuid>e89ef5af-4186-4e70-ae60-4a923733a374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radioGroup-typ-skoly&quot;)/div[@class=&quot;govuk-form-group radiogroup-control required&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
+      <webElementGuid>0645996f-b17c-4b8e-af39-3a52d7128d11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radioGroup-typ-skoly']/div/fieldset/div[3]/div[2]/label</value>
+      <webElementGuid>eaa00c7e-5eb3-423c-9b3a-fe494fe9d47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na základnú školu'])[1]/following::label[1]</value>
+      <webElementGuid>46c79c2e-1b3d-46b4-8725-b835a2393f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[2]/following::label[2]</value>
+      <webElementGuid>a1b9649f-fdfe-40d5-8216-541eb866b30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Krok 2/2'])[2]/preceding::label[1]</value>
+      <webElementGuid>7fb3997c-5aaa-4608-8013-5268c39619cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte školy, na ktoré chcete prihlásiť svoje dieťa.'])[1]/preceding::label[1]</value>
+      <webElementGuid>92ec372c-8ea2-493e-ad47-7b505a98ee0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Na materskú školu']/parent::*</value>
+      <webElementGuid>5fd10dc7-c49e-48ee-b2f8-28554201d5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div/fieldset/div[3]/div[2]/label</value>
+      <webElementGuid>cfceae26-1b72-48bf-bb92-0a2da2e5f31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Na materskú školu' or . = 'Na materskú školu')]</value>
+      <webElementGuid>214412c9-698b-4ca9-80d7-97015dcecd52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

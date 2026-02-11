@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_iadne prihlky_btn-vytvorit-prihlasku</name>
+   <tag></tag>
+   <elementGuidId>a56dce03-2931-43d6-925e-4ab2ddacdf31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prihlaska-nenajdena > #btn-vytvorit-prihlasku</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='btn-vytvorit-prihlasku'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dae0a807-51ec-4eb7-8be2-d5864fa2bfa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-vytvorit-prihlasku</value>
+      <webElementGuid>545b190f-22b7-42cb-b547-d500a7ca74f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Vytvoriť prihlášku</value>
+      <webElementGuid>c0532488-f108-45a4-821d-93928178ffe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__large</value>
+      <webElementGuid>9f0f2358-1bb8-4f1c-adb5-95fe7554ddd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>765d86b7-6616-4216-810b-5bc385ef7a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vytvoriť prihlášku</value>
+      <webElementGuid>79c32de0-d36a-4fe9-936b-bc407ddf67c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaska-nenajdena&quot;)/a[@id=&quot;btn-vytvorit-prihlasku&quot;]</value>
+      <webElementGuid>4aa5920b-3476-4560-a7c1-107b8b5c8ad4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='btn-vytvorit-prihlasku'])[2]</value>
+      <webElementGuid>02c12e64-15ee-4807-b760-775206686966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaska-nenajdena']/a</value>
+      <webElementGuid>f4806f2c-c21b-4855-8edb-5ccdb8630974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Vytvoriť prihlášku')])[2]</value>
+      <webElementGuid>80f35192-051c-4ce4-96ba-51896935c483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiadne prihlášky'])[1]/following::a[1]</value>
+      <webElementGuid>d0473d1c-50bf-45a7-87af-28ce48101cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prejsť na vzory formulárov'])[2]/following::a[1]</value>
+      <webElementGuid>162bb08c-e450-4654-982a-abe095062e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať existujúcu prihlášku'])[2]/preceding::a[1]</value>
+      <webElementGuid>be4e4dad-d7c4-41c5-95d1-a7a7f3dcab6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='História prihlášok'])[1]/preceding::a[2]</value>
+      <webElementGuid>d67cd6ae-37bb-4cce-9489-d693d6f48622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[3]/a</value>
+      <webElementGuid>5c09d111-755a-4e74-b05b-a88b994e80a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn-vytvorit-prihlasku' and @name = 'Vytvoriť prihlášku' and (text() = 'Vytvoriť prihlášku' or . = 'Vytvoriť prihlášku')]</value>
+      <webElementGuid>8e38381b-1dc3-4b79-bcc5-70409bf60cec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Prejs na prihlku</name>
+   <tag></tag>
+   <elementGuidId>79fe1bbc-b13f-4e58-a044-e987f415248f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.oznamenie-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbd0b6aa-6420-4aed-a35e-108d6f6b40be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>0c4845f9-5b2b-408c-be66-267ac56f6df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oznamenie-link</value>
+      <webElementGuid>f1dfaa7a-d2e0-4c08-92c6-6ed9cff706ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prejsť na prihlášku</value>
+      <webElementGuid>0e7ea790-6065-447e-a61c-0031c6db2565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-oznamenia&quot;)/div[@class=&quot;sub-container&quot;]/div[@class=&quot;riaditel-oznamenia-list&quot;]/div[@class=&quot;oznamenie-item&quot;]/div[@class=&quot;oznamenie-col1&quot;]/a[@class=&quot;oznamenie-link&quot;]</value>
+      <webElementGuid>76a0d9b1-67b7-49e5-9e75-38c515c5c131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/a</value>
+      <webElementGuid>35caa9ce-fae6-415b-8237-272e5097b487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Prejsť na prihlášku')]</value>
+      <webElementGuid>5648192e-c364-47c4-b50a-f95d96d7443c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Požadované prílohy boli doplnené'])[1]/following::a[1]</value>
+      <webElementGuid>9494ae3c-22d7-458e-9b1a-f776d251d98a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right_rounded'])[1]/following::a[1]</value>
+      <webElementGuid>aa5a9f98-bd4b-4c5a-a3b5-607fc57a9cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prečítaná'])[1]/preceding::a[1]</value>
+      <webElementGuid>5087589a-e048-4bf8-9877-4a7d54639efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prejsť na prihlášku'])[2]/preceding::a[1]</value>
+      <webElementGuid>44e1bfb8-2231-42ab-8bef-f9ad89b29a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prejsť na prihlášku']/parent::*</value>
+      <webElementGuid>4826c489-b969-4d93-9055-a66258b036ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript: void(0);')]</value>
+      <webElementGuid>aa51a7e9-95ef-4c53-b6ff-9fe4693de722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/a</value>
+      <webElementGuid>10fb9590-d1f9-4909-9528-0732491b6e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript: void(0);' and (text() = 'Prejsť na prihlášku' or . = 'Prejsť na prihlášku')]</value>
+      <webElementGuid>f2e34ae2-17fd-4408-8a3f-ac74453ed4ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Uloi zmeny_govuk-heading-xl</name>
+   <tag></tag>
+   <elementGuidId>6ecee7d3-7909-4878-9a87-9cf86bd5a5e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sprava-pouzivatelov-main > h1.govuk-heading-xl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sprava-pouzivatelov']/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6fdb3521-693e-4ea3-b552-aa491aeea745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-heading-xl</value>
+      <webElementGuid>b9514638-1d34-40fc-afe8-c58ca8efb75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Správa používateľov</value>
+      <webElementGuid>22f19e01-ccab-4911-82ef-4634be953ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;sprava-pouzivatelov-main&quot;]/h1[@class=&quot;govuk-heading-xl&quot;]</value>
+      <webElementGuid>0ac26320-b77c-4bc5-9242-7a721cf40cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sprava-pouzivatelov']/div/div/h1</value>
+      <webElementGuid>c680f29f-3330-4d8a-816f-cc233cf27727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uložiť zmeny'])[1]/following::h1[1]</value>
+      <webElementGuid>58ac4cdd-865e-42c9-8cf8-3040e9c63606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popíšte špeciálne vybavenie, vaše úspechy alebo vás unikátny prístup k vzdelávaniu.'])[1]/following::h1[1]</value>
+      <webElementGuid>2d9c6bd7-cdf2-425f-8487-e17aa09b8ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Používatelia'])[1]/preceding::h1[1]</value>
+      <webElementGuid>6775f798-7f91-4f1b-9b62-75ff301b9f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[9]/preceding::h1[1]</value>
+      <webElementGuid>326fd6c1-41d6-4d37-8d0b-f94c558e530c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/h1</value>
+      <webElementGuid>06c4f504-6e87-4e2e-bda4-968175f14be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Správa používateľov' or . = 'Správa používateľov')]</value>
+      <webElementGuid>bc773d2a-9e51-4f56-af13-c118fbc4d01e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

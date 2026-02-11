@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(nepovinn)_rozsirene-filtre-btn-toggle-text</name>
+   <tag></tag>
+   <elementGuidId>7c7fb69c-229b-408d-91be-4a62be0b1b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='rozsirene-filtre-btn-zobrazit']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.rozsirene-filtre-btn-toggle-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3b9b0257-c9d5-4445-b036-f367cbf60cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rozsirene-filtre-btn-toggle-text</value>
+      <webElementGuid>81b99ae8-1081-4962-b0f4-4b409e35c833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Zobraziť rozšírený filter
+                    </value>
+      <webElementGuid>744944af-2ac4-46d7-ba87-9a0b0e07280b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rozsirene-filtre-btn-zobrazit&quot;)/span[@class=&quot;rozsirene-filtre-btn-toggle-text&quot;]</value>
+      <webElementGuid>6ff2d880-5c69-4a4a-bc89-ac6c648d1467</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='rozsirene-filtre-btn-zobrazit']/span</value>
+      <webElementGuid>e0dfe0b7-62cc-4e2b-951a-a29c529e41d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[8]/following::span[1]</value>
+      <webElementGuid>e1d0aee8-85ab-4c23-8b89-fa7a3d221425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bez prijímacej skúšky'])[1]/following::span[2]</value>
+      <webElementGuid>70911bd2-2778-4a58-b750-c4972bd21586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skryť rozšírený filter'])[1]/preceding::span[2]</value>
+      <webElementGuid>3a33685c-fd56-4e02-9a87-7b6e68e6ded4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre'])[3]/preceding::span[4]</value>
+      <webElementGuid>2d079180-9427-4380-a696-1eeb0de33b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zobraziť rozšírený filter']/parent::*</value>
+      <webElementGuid>3d215a04-184b-4749-8f8d-1f8ae395a30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>41add48e-1e81-4a8b-a98f-d822d3927794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                        Zobraziť rozšírený filter
+                    ' or . = '
+                        Zobraziť rozšírený filter
+                    ')]</value>
+      <webElementGuid>d3387cfe-1340-4ed6-8709-6f039ab0e70a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

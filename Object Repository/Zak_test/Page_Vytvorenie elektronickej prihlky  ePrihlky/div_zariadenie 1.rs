@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_zariadenie 1</name>
+   <tag></tag>
+   <elementGuidId>6887d2c3-f14d-4883-8212-217e2b46025d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-item > #nazovZariadenia</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='nazovZariadenia'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>064a59c8-6bcb-4c72-bb62-0f0e87347d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nazovZariadenia</value>
+      <webElementGuid>a4851eb1-b3e3-41b8-b904-32a8f0bfc87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>zariadenie #1</value>
+      <webElementGuid>85f9994a-ce69-4d23-9d76-826fc95a555b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zz1&quot;)/div[@class=&quot;panel-item&quot;]/div[@id=&quot;nazovZariadenia&quot;]</value>
+      <webElementGuid>68568e6f-77e3-453a-b563-b0cab1759fa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='nazovZariadenia'])[2]</value>
+      <webElementGuid>531c7e2c-2fe5-435d-bb27-35ddd04feef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz1']/div[7]/div[2]</value>
+      <webElementGuid>fca3f385-ebd8-4e52-a358-4634a53cdbb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov zariadenia'])[2]/following::div[1]</value>
+      <webElementGuid>97dc5925-1c67-4b6b-abb1-73ffb1e50a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::div[3]</value>
+      <webElementGuid>52731af9-698a-4699-93cb-5cdbab96c2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IČO zariadenia'])[2]/preceding::div[1]</value>
+      <webElementGuid>eeb70e97-a2fc-405e-9186-89a6c7e98fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o zákonnom zástupcovi č.2:'])[1]/preceding::div[5]</value>
+      <webElementGuid>3b8e0042-9396-4f0f-8d1b-5b2f19fced0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='zariadenie #1']/parent::*</value>
+      <webElementGuid>74414f74-bde5-467b-b2d8-321185fbcaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[7]/div[2]</value>
+      <webElementGuid>d4cdd120-7c8d-41b6-81ed-99041a03ebab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nazovZariadenia' and (text() = 'zariadenie #1' or . = 'zariadenie #1')]</value>
+      <webElementGuid>eabf30d2-e2d5-4c7a-9514-04f74e16e878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kolsk rok_ziadostSkolskyRok</name>
+   <tag></tag>
+   <elementGuidId>79c27df1-3288-47a1-a174-193d68c94b80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ziadostSkolskyRok</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ziadostSkolskyRok']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d340f86a-be5b-4ab6-8207-2c0a8d911349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ziadostSkolskyRok</value>
+      <webElementGuid>ab4e6e66-7e28-487b-9f67-56e2faffa8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2025 / 2026</value>
+      <webElementGuid>87916996-0ccb-4aa7-8811-56b50c836de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ziadostSkolskyRok&quot;)</value>
+      <webElementGuid>35287034-4704-4d56-9d92-8b3371f0936a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='ziadostSkolskyRok']</value>
+      <webElementGuid>1bf3799f-d86d-48d1-89e9-cf57c82dba97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>e9a1dd6d-db96-4ad0-8d32-5a934bb8a699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Školský rok'])[2]/following::div[1]</value>
+      <webElementGuid>c899c12b-4a7b-4789-b51c-4f03928e7be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::div[3]</value>
+      <webElementGuid>87909d97-0ee9-4c44-ab9a-ca9142f3e4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania'])[1]/preceding::div[1]</value>
+      <webElementGuid>7bac2acd-ad3f-4cf5-95a8-26e9bf623c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spôsob podania'])[1]/preceding::div[4]</value>
+      <webElementGuid>972deede-10ca-43bb-9799-b461b12cb4ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2025 / 2026']/parent::*</value>
+      <webElementGuid>c8f6f48b-5e7d-4dcc-bd26-87a0dcc99a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>f663e34a-5773-4fc6-a7f4-ee70ce065b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'ziadostSkolskyRok' and (text() = '2025 / 2026' or . = '2025 / 2026')]</value>
+      <webElementGuid>38f9d16a-11b4-4ea8-a460-86aad21f2597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

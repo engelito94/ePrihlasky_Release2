@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Albeta Hronov3</name>
+   <tag></tag>
+   <elementGuidId>b6f7be69-4b26-4233-857a-d32df30b0274</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radioGroup-deti']/div/fieldset/div[3]/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.govuk-label.govuk-radios__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0f1b3ec3-ec97-4ad9-985c-f0244a6cb6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label govuk-radios__label</value>
+      <webElementGuid>eac44b8d-5b26-4f14-abbc-fdb41466ca7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radioGroup-deti_option_0</value>
+      <webElementGuid>51c4f0ed-de8e-45f9-9dcb-1f9cc3e0bbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alžbeta Hronová </value>
+      <webElementGuid>83e91903-1b6b-4882-8fe5-e71185203731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radioGroup-deti&quot;)/div[@class=&quot;govuk-form-group radiogroup-control required&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
+      <webElementGuid>5eb6d1c8-8a74-43f7-9ab9-0ddcfe931c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radioGroup-deti']/div/fieldset/div[3]/div/label</value>
+      <webElementGuid>a35e63c0-5cb1-4202-b859-ad0d99743339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/following::label[1]</value>
+      <webElementGuid>b23bc2ce-6bca-4142-8204-5f043e4e279e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dieťa'])[1]/following::label[1]</value>
+      <webElementGuid>9cd4854c-2bdd-42c1-ac62-f00177580f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samuel Hrozný'])[1]/preceding::label[1]</value>
+      <webElementGuid>80d59d05-2d6e-412f-8ece-e477af58d1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peter Veľký'])[1]/preceding::label[2]</value>
+      <webElementGuid>7cc4cf3a-cc73-4134-b16b-86b287427a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alžbeta Hronová']/parent::*</value>
+      <webElementGuid>b8b0c6a7-dc8b-46f4-a51b-8920b340f411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>83cac7b0-e38a-41d4-adab-0c49edf4b5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Alžbeta Hronová ' or . = 'Alžbeta Hronová ')]</value>
+      <webElementGuid>3d3ea1de-1a75-4382-9166-8daa8c7d23c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

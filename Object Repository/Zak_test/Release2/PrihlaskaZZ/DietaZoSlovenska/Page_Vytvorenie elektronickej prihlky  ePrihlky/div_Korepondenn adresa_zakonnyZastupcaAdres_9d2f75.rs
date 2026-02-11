@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Korepondenn adresa_zakonnyZastupcaAdres_9d2f75</name>
+   <tag></tag>
+   <elementGuidId>af9a68af-3b58-44a7-a082-9318183c2e62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.zakonnyZastupcaAdresaBydliska</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div[2]/div[6]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5339b9ad-9c78-48b6-ad61-cca67d0f53ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zakonnyZastupcaAdresaBydliska</value>
+      <webElementGuid>557ba016-d72c-46ef-a80f-27c89b70183f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zvolen (Zvolen) 16, Zvolen (Zvolen), Slovenská republika</value>
+      <webElementGuid>227c901b-62fc-4151-8950-561e5f2ae2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zz1 info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;zakonnyZastupcaAdresaBydliska&quot;]</value>
+      <webElementGuid>742c62a0-7f62-471c-a288-5a6df406496e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div[2]/div[6]/div[2]</value>
+      <webElementGuid>b63c8a52-7ddf-47b7-b7f5-68cf94c66d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Korešpondenčná adresa'])[4]/following::div[1]</value>
+      <webElementGuid>377bd4ea-3847-40f8-9125-1e0319018455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[6]/following::div[4]</value>
+      <webElementGuid>70a231bb-6905-49c0-ac20-46426a88f3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[3]/preceding::div[1]</value>
+      <webElementGuid>adf004c1-d76f-42cc-9ba3-df2ba344b131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hodom47373@gopicta.com'])[2]/preceding::div[2]</value>
+      <webElementGuid>f291f79b-90a5-4144-9347-ef894f6e5729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/div[6]/div[2]</value>
+      <webElementGuid>fcee7238-4560-482c-ae38-03a0a5047759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Zvolen (Zvolen) 16, Zvolen (Zvolen), Slovenská republika' or . = 'Zvolen (Zvolen) 16, Zvolen (Zvolen), Slovenská republika')]</value>
+      <webElementGuid>b634ff20-6cb8-4523-b1ff-3069863b2f06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

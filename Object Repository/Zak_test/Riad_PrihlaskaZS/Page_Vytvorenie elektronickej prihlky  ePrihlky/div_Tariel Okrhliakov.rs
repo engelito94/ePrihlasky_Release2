@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tariel Okrhliakov</name>
+   <tag></tag>
+   <elementGuidId>3ab4fb9c-919f-483a-8830-190e16edce3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zakonnyZastupcaMenoAPriezvisko']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zakonnyZastupcaMenoAPriezvisko</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>397930de-3d7f-4347-bdfb-3b1db48b72a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zakonnyZastupcaMenoAPriezvisko</value>
+      <webElementGuid>621b462a-7186-48ba-9f77-de53c48e3337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tariel Okrúhliaková</value>
+      <webElementGuid>9553dcb9-f0f9-4355-a62f-a586c01728ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zakonnyZastupcaMenoAPriezvisko&quot;)</value>
+      <webElementGuid>7ad63976-2f08-41d9-8b83-c151f9d3f36b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zakonnyZastupcaMenoAPriezvisko']</value>
+      <webElementGuid>16e8ff2d-567e-4d78-b122-db0fe6c2965c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz1']/div/div[2]</value>
+      <webElementGuid>93c223c6-6184-4bb0-a51d-fc03d61c6dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno a priezvisko'])[1]/following::div[1]</value>
+      <webElementGuid>9a04221d-d451-4de7-8529-a49cb37881d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o zákonnom zástupcovi č.1:'])[1]/following::div[4]</value>
+      <webElementGuid>9b151881-5b6d-470e-b6d1-41208ea55410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[5]/preceding::div[1]</value>
+      <webElementGuid>9ddf9fe9-a8f0-4bbb-82ce-ce04619730ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Číslo elektronickej schránky'])[3]/preceding::div[4]</value>
+      <webElementGuid>8174d64c-c27b-4f09-b6fa-8756492c4bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tariel Okrúhliaková']/parent::*</value>
+      <webElementGuid>5fa1e09f-1050-4d99-9a6b-e7805a9d1096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>d435fd0a-21bb-479e-960b-9f0b715a5f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zakonnyZastupcaMenoAPriezvisko' and (text() = 'Tariel Okrúhliaková' or . = 'Tariel Okrúhliaková')]</value>
+      <webElementGuid>c3424955-dbe3-4a07-9d69-cde6e04169da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

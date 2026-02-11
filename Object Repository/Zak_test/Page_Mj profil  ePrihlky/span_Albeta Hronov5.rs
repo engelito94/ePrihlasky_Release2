@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Albeta Hronov5</name>
+   <tag></tag>
+   <elementGuidId>ea40e8f6-dae2-420b-9e78-9e84b4843ff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.meno-dietata</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='deti-table']/tbody/tr[5]/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7584951e-2b19-4203-b5cc-38158cfc06cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>meno-dietata</value>
+      <webElementGuid>a6b529e5-d67d-4e1d-ac78-1c4d2440a36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alžbeta Hronová</value>
+      <webElementGuid>0379bbb1-b1c5-422a-8340-330f27dc6afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deti-table&quot;)/tbody[1]/tr[1]/td[1]/span[@class=&quot;meno-dietata&quot;]</value>
+      <webElementGuid>46adcd06-f675-4752-9205-078efe9121a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='deti-table']/tbody/tr/td/span</value>
+      <webElementGuid>e6e8f576-114d-4b25-98b2-647eb940600d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akcia'])[1]/following::span[1]</value>
+      <webElementGuid>a4a42533-2939-43a2-9f94-f982c79148a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dieťa'])[1]/following::span[1]</value>
+      <webElementGuid>90775f22-baa0-4717-8dc0-44343f4a984d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[1]/preceding::span[1]</value>
+      <webElementGuid>a05a22df-a365-4723-bafe-ee28fa657367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[1]/preceding::span[2]</value>
+      <webElementGuid>3ce7ed0d-4140-40ed-9349-6abbea804a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alžbeta Hronová']/parent::*</value>
+      <webElementGuid>9e53eb55-5bc4-4397-8af8-5fa8ccbfc337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span</value>
+      <webElementGuid>50f6d78c-a4cf-487d-be89-8942fd48c3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Alžbeta Hronová' or . = 'Alžbeta Hronová')]</value>
+      <webElementGuid>5fb1a6c4-bc42-4b66-bd5c-451aa312883f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

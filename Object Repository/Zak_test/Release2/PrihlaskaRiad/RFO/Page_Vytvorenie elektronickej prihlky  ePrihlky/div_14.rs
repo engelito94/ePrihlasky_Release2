@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_14</name>
+   <tag></tag>
+   <elementGuidId>40d8b512-964b-48da-948d-17b4bd5a8ed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vysledky-vzdelavania-suhrn']/div[2]/div[25]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4d8067b-5ffa-4feb-88a6-bb55b8421a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>veľmi dobré</value>
+      <webElementGuid>2fc2e267-f7f4-41aa-91e3-6355b4e0a2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vysledky-vzdelavania-suhrn&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[2]</value>
+      <webElementGuid>78cfe5af-6f5c-4398-a472-a10183cffb6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vysledky-vzdelavania-suhrn']/div[2]/div[25]/div[2]</value>
+      <webElementGuid>0ef7e196-5c72-4a09-8af7-c507b19eb74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správanie'])[7]/following::div[1]</value>
+      <webElementGuid>336117e0-7f6e-4bc8-89bb-299c25eb9cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Druhý cudzí jazyk - Nemecký jazyk'])[3]/following::div[6]</value>
+      <webElementGuid>a6baf7c4-66fa-4f22-9528-a5e53d76ac25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slovenský jazyk a literatúra'])[7]/preceding::div[1]</value>
+      <webElementGuid>02a75dba-9af6-4de2-9418-ac63525667d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matematika'])[7]/preceding::div[4]</value>
+      <webElementGuid>a35c68e1-b06f-4f77-85ca-540b8deb9585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[25]/div[2]</value>
+      <webElementGuid>c6269b50-5345-4cc3-94b0-4c72cbb4b58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'veľmi dobré' or . = 'veľmi dobré')]</value>
+      <webElementGuid>3460741d-dfd8-458b-bbd6-2a7e18eab702</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

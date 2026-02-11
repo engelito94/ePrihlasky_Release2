@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prejs na podpis</name>
+   <tag></tag>
+   <elementGuidId>972384db-9595-4ae9-a8b8-4fadf3434a5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-dalej.prejst-na-podpis.govuk-button.govuk-button__basic</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vydat-rozhodnutia']/div[5]/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9dc862eb-91c6-4410-8500-2a25e33b5074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-dalej prejst-na-podpis govuk-button govuk-button__basic</value>
+      <webElementGuid>2d5fcd84-30d1-40eb-8eae-2114b9437411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ba5820f9-6d69-4376-802c-91ff3f7ccea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prejsť na podpis</value>
+      <webElementGuid>28e4eb58-aa1f-4d27-8256-4c856efe2143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vydat-rozhodnutia&quot;)/div[@class=&quot;step-2&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-dalej prejst-na-podpis govuk-button govuk-button__basic&quot;]</value>
+      <webElementGuid>79e06ec6-7f31-4308-a580-021dfddaab12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vydat-rozhodnutia']/div[5]/div[4]/div/button</value>
+      <webElementGuid>66eb32f8-0eb7-4a61-9edd-6b38f0305454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[2]/following::button[1]</value>
+      <webElementGuid>dd4f1126-9476-4e64-8ae8-f033b34f10fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Krok 3/3'])[1]/preceding::button[1]</value>
+      <webElementGuid>67973544-6078-425b-9bfb-2e1b1ad3da40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podpis rozhodnutí'])[1]/preceding::button[1]</value>
+      <webElementGuid>6b951348-23f4-463a-9bb3-1fd2577359ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prejsť na podpis']/parent::*</value>
+      <webElementGuid>6e54003f-2abf-4639-8291-3e9de6c2ee95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]/div/button</value>
+      <webElementGuid>b7cd0ee8-a980-4b90-b48f-d6288859de03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Prejsť na podpis' or . = 'Prejsť na podpis')]</value>
+      <webElementGuid>47efe1f1-47a6-4ff0-bd3f-55c9a9cd7dc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

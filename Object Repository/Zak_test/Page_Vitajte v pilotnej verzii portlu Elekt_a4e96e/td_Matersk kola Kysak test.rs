@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Matersk kola Kysak test</name>
+   <tag></tag>
+   <elementGuidId>44b0569a-ff4d-4f5e-803c-520f74f7e68f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prihlaskapodana-128c9a29-5879-42a8-9c78-fdbcfa4eb7f8']/div/div[3]/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.prihlasky-row-item > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>98af2d5f-9aec-41b3-b726-54d0bb0865a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Materská škola Kysak test</value>
+      <webElementGuid>4154ba50-2e12-4246-b8a1-bb66cd3f17be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-128c9a29-5879-42a8-9c78-fdbcfa4eb7f8&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;card_prihlasky_content&quot;]/table[@class=&quot;zoznam-prihlasok&quot;]/tbody[1]/tr[@class=&quot;prihlasky-row-item&quot;]/td[2]</value>
+      <webElementGuid>493805dc-498a-4075-af6f-26a98500b9f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-128c9a29-5879-42a8-9c78-fdbcfa4eb7f8']/div/div[3]/table/tbody/tr/td[2]</value>
+      <webElementGuid>b8d8f01c-3bc5-4de1-aa4b-9d48d61da455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akcia'])[2]/following::td[2]</value>
+      <webElementGuid>dc8fad8f-1465-445d-9bf8-ac58954f7d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav'])[2]/following::td[2]</value>
+      <webElementGuid>c4d14ef0-95c7-4a8e-af73-f01f60670af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-2025-569.01'])[1]/preceding::td[1]</value>
+      <webElementGuid>8ec23544-d785-44b6-9cef-a183cf12f621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/table/tbody/tr/td[2]</value>
+      <webElementGuid>c568bb9f-0ff8-4ee9-aad1-f357a8091bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Materská škola Kysak test' or . = 'Materská škola Kysak test')]</value>
+      <webElementGuid>2ab355ab-406d-4f1c-b4a8-829eb2b44011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

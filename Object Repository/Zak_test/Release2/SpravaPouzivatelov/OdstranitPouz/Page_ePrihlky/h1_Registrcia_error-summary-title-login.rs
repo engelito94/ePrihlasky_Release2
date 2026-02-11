@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Registrcia_error-summary-title-login</name>
+   <tag></tag>
+   <elementGuidId>34390175-d56b-4398-b52f-ad3f66f7e004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#error-summary-title-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='error-summary-title-login']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>aff11de1-5d2f-4189-98b5-c6d2fcf242f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-heading-l</value>
+      <webElementGuid>1d442b9d-83ce-4230-92d7-10f92edfac75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error-summary-title-login</value>
+      <webElementGuid>1acc3a7d-4111-439a-afce-ba0825b3cb73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Neúspešné prihlásenie do systému
+                        </value>
+      <webElementGuid>ee12f78a-d3a9-4086-8184-3ba1a64f9572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-summary-title-login&quot;)</value>
+      <webElementGuid>945840da-0699-4de6-b425-c0b2ab3fb82c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='error-summary-title-login']</value>
+      <webElementGuid>7ce72447-872d-4de9-b094-f9098d645ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error-login']/div/div/div/h1</value>
+      <webElementGuid>7562c259-c0f8-4c29-a09d-ecdd713e763a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrácia'])[2]/following::h1[1]</value>
+      <webElementGuid>b6392775-8111-445c-8f52-4e3e67e12446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihlásiť sa'])[2]/following::h1[1]</value>
+      <webElementGuid>8e3f9276-ab54-4a7e-87aa-2fe7d582a562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boli tieto informácie pre vás užitočné?'])[1]/preceding::h1[1]</value>
+      <webElementGuid>dbacd880-4f87-41ff-89a3-bfb9d1b175db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c6f097a4-7cf8-49fc-9a22-eefb46b9893e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neúspešné prihlásenie do systému']/parent::*</value>
+      <webElementGuid>15ffbb38-6a1f-4c97-9c78-87617b3c8a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>a418ce42-1d4e-4dea-9be5-0080e27a9fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'error-summary-title-login' and (text() = '
+                            Neúspešné prihlásenie do systému
+                        ' or . = '
+                            Neúspešné prihlásenie do systému
+                        ')]</value>
+      <webElementGuid>ced9a8d6-10dd-4fd3-967a-d1204525ace4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

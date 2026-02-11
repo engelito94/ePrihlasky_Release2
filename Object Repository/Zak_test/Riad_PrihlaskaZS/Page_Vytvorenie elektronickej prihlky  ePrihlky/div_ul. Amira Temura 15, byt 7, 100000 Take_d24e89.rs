@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ul. Amira Temura 15, byt 7, 100000 Take_d24e89</name>
+   <tag></tag>
+   <elementGuidId>73b5b837-19c7-4dd0-8167-61b7acad521b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zakonnyZastupcaAdresaBydliska']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zakonnyZastupcaAdresaBydliska</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61ffb3d8-b89a-4c02-9c73-d482fb5b9a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zakonnyZastupcaAdresaBydliska</value>
+      <webElementGuid>4147d283-981c-4bd1-a7e0-7d4df34ebdbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ul. Amira Temura 15, byt 7, 100000 Taškent, Uzbekistan, Uzbecká republika</value>
+      <webElementGuid>399414e7-bc00-414c-93ac-332b9ef08338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zakonnyZastupcaAdresaBydliska&quot;)</value>
+      <webElementGuid>66292821-0c9b-4262-940b-a623676aca80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zakonnyZastupcaAdresaBydliska']</value>
+      <webElementGuid>bf59260d-6023-4cce-bacc-4dd440d36a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz1']/div[4]/div[2]</value>
+      <webElementGuid>62ac81f2-454a-4d3a-8571-a0a000b30196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa bydliska'])[3]/following::div[1]</value>
+      <webElementGuid>d145e143-09f1-4b4f-8143-732a71b8b073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/following::div[3]</value>
+      <webElementGuid>a06d74b6-13a9-4b9d-aa0c-e0733753f1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[3]/preceding::div[1]</value>
+      <webElementGuid>1ae2bdf7-d808-4c1c-b898-115b9180a66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/preceding::div[2]</value>
+      <webElementGuid>fdfd70db-06f8-4149-a020-d7b8140e05ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ul. Amira Temura 15, byt 7, 100000 Taškent, Uzbekistan, Uzbecká republika']/parent::*</value>
+      <webElementGuid>79de06d8-ecae-4011-86a5-b0edc2e6e5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div[4]/div[2]</value>
+      <webElementGuid>3b0ee0a0-3503-4711-b7d7-0b36e4dcad62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zakonnyZastupcaAdresaBydliska' and (text() = 'ul. Amira Temura 15, byt 7, 100000 Taškent, Uzbekistan, Uzbecká republika' or . = 'ul. Amira Temura 15, byt 7, 100000 Taškent, Uzbekistan, Uzbecká republika')]</value>
+      <webElementGuid>fdd744cb-c852-4cfc-ab4b-64c0b72f7c2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

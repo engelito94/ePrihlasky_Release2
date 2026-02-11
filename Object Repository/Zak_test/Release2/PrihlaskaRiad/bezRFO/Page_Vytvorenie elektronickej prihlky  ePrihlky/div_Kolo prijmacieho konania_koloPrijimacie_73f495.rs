@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kolo prijmacieho konania_koloPrijimacie_73f495</name>
+   <tag></tag>
+   <elementGuidId>13507214-5f60-47a8-b541-f342ddc807b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#koloPrijimaciehoKonania</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='koloPrijimaciehoKonania']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd2ce3f1-18f7-4350-b411-f045294db0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>koloPrijimaciehoKonania</value>
+      <webElementGuid>4e6c28e3-c9b4-4484-a00f-eaeadf6b981a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. kolo</value>
+      <webElementGuid>47bfa160-f686-478b-b747-e31662d06601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;koloPrijimaciehoKonania&quot;)</value>
+      <webElementGuid>2a052b83-9395-4265-b3b2-4a809fd7f005</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='koloPrijimaciehoKonania']</value>
+      <webElementGuid>614859b4-7f82-4a18-b1d7-6e1de24ef899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[2]/div[2]/div[6]/div[2]</value>
+      <webElementGuid>84a93235-e9b0-4a80-a2c9-1185fabfaa35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kolo prijímacieho konania'])[1]/following::div[1]</value>
+      <webElementGuid>d08d2bbf-bf06-4e4b-b350-42f7ea3959e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='poznámka k ostatným údajom'])[1]/following::div[3]</value>
+      <webElementGuid>384d48d3-577e-44f5-a036-84f9836a1aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Osobné údaje žiaka'])[5]/preceding::div[1]</value>
+      <webElementGuid>1b80eac3-c67b-474f-8061-777ca1ed7c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno'])[5]/preceding::div[3]</value>
+      <webElementGuid>5bcd979c-878a-4c80-9f6b-8ed99b62b03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1. kolo']/parent::*</value>
+      <webElementGuid>6e06ff77-9443-4c88-aecf-5a9a6eb8b47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[2]/div[2]/div[6]/div[2]</value>
+      <webElementGuid>34f891f0-1032-4522-b8cb-33d2090aa486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'koloPrijimaciehoKonania' and (text() = '1. kolo' or . = '1. kolo')]</value>
+      <webElementGuid>331e0e4b-f2bf-48da-ae2e-9bd56adce86d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

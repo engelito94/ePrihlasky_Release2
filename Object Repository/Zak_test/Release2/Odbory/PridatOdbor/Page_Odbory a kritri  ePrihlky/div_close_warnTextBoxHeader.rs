@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_close_warnTextBoxHeader</name>
+   <tag></tag>
+   <elementGuidId>5fcef73b-32fb-4d65-862b-f037a3b23c66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.warnTextBoxHeader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oznacit-ako-skontrolovane-container']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c6470d6-2501-44b3-910b-dac003e37ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warnTextBoxHeader</value>
+      <webElementGuid>7ebe5c17-c3cb-4c85-a579-d3b3558261bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odbory sú pripravené na zverejnenie</value>
+      <webElementGuid>33773fef-979b-4cd9-9746-a6b701f02ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-message-box&quot;)/div[@id=&quot;oznacit-ako-skontrolovane-container&quot;]/div[@class=&quot;warnTextBox&quot;]/div[@class=&quot;warnTextBoxHeader&quot;]</value>
+      <webElementGuid>14beb6b2-1c76-4b43-a2d2-b1a7a36c7fee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oznacit-ako-skontrolovane-container']/div/div</value>
+      <webElementGuid>f3a63d6a-4f99-46eb-b6f2-115f882f62cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/following::div[4]</value>
+      <webElementGuid>afbf1d87-bed2-4b50-aafa-70a5e4e1377e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokument bol úspešne nahratý.'])[1]/following::div[4]</value>
+      <webElementGuid>e452ece5-73ef-4fb5-b567-dea67f0984c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pred zverejnením odborov označte všetky odbory ako skontrolované.'])[1]/preceding::div[1]</value>
+      <webElementGuid>22df8f5b-2115-445f-9216-de63fee3da12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Označiť ako skontrolované'])[1]/preceding::div[2]</value>
+      <webElementGuid>fa60931d-fee2-4b30-a06b-ada746de4f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odbory sú pripravené na zverejnenie']/parent::*</value>
+      <webElementGuid>eef5a5ca-f604-4e52-b1e0-4d1111693c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>893c625d-fe27-4fb7-b8a0-8cbb7144abdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Odbory sú pripravené na zverejnenie' or . = 'Odbory sú pripravené na zverejnenie')]</value>
+      <webElementGuid>b78f8762-47ba-478b-b1c0-6c8551253df7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

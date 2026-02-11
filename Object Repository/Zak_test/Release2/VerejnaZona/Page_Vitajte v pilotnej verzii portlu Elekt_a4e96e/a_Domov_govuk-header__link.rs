@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Domov_govuk-header__link</name>
+   <tag></tag>
+   <elementGuidId>779c0d89-1233-400e-b11b-53bed45b8cc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header-navigation']/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2a81c55b-5ffa-4be2-a02c-e20d5d5706f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-header__link</value>
+      <webElementGuid>8f3b5ff6-c875-4979-a3e6-8dbaef46c4c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Najst-skolu</value>
+      <webElementGuid>19a8be6f-0f0b-4cc8-b5a7-391d4481b6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Nájsť školu
+                                    </value>
+      <webElementGuid>1935c428-90eb-4ce3-bc93-1a26d494de4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navigation&quot;)/div[@class=&quot;govuk-header__navigation-list&quot;]/ul[@class=&quot;govuk-width-container&quot;]/li[@class=&quot;govuk-header__navigation-item&quot;]/a[@class=&quot;govuk-header__link&quot;]</value>
+      <webElementGuid>7c563825-5c03-4307-94ed-a05796587271</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header-navigation']/div/ul/li[2]/a</value>
+      <webElementGuid>7f6bc3f0-580a-4e96-aa81-f97bb5d5860d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nájsť školu')]</value>
+      <webElementGuid>9efbd077-ebbe-4628-8cb5-6e51e9faefb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domov'])[1]/following::a[1]</value>
+      <webElementGuid>eaa1c291-10af-4bc8-b1de-9beba6bb7027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[2]/following::a[2]</value>
+      <webElementGuid>3be063e9-c344-490c-9404-905fa2d84e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pomoc a podpora'])[1]/preceding::a[1]</value>
+      <webElementGuid>26c51f0b-c0a1-4e11-bccb-b518fd01a714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre školy'])[2]/preceding::a[2]</value>
+      <webElementGuid>83971a03-e0f1-4d98-afcf-a4636068ac51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nájsť školu']/parent::*</value>
+      <webElementGuid>9ba799a7-5475-47da-a2cf-bfb08f175e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Najst-skolu')]</value>
+      <webElementGuid>34f12f4d-beee-4d85-8271-72cff7c97b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>cb4d5d3b-e5d1-42ee-8a5e-167f59108454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Najst-skolu' and (text() = '
+                                        Nájsť školu
+                                    ' or . = '
+                                        Nájsť školu
+                                    ')]</value>
+      <webElementGuid>7b68bfd2-99c4-4acc-9d4e-e5ba7524cce8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Odoslanie prihlášky ZŠ - max.počet škôl</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c775a959-b73a-4bd1-9bd2-20e8f6c97c48</testCaseGuid>
+</TestCaseEntity>

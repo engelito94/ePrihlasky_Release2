@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prchod iaka_prichodZiakaSuhrn</name>
+   <tag></tag>
+   <elementGuidId>9232f12c-1c58-4443-a60c-f0ead9e36b47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.prichodZiakaSuhrn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='info-o-zs']/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40d19023-4e49-4109-b1e2-2d0a1e11618d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prichodZiakaSuhrn</value>
+      <webElementGuid>a6643a4a-e51c-4238-923b-6d7fd2cb974b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zo školy v zahraničí</value>
+      <webElementGuid>2466ac7c-3a3b-42f5-9825-3f3de9f91696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;info-o-zs&quot;)/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;prichodZiakaSuhrn&quot;]</value>
+      <webElementGuid>e1eb7394-7cc9-411c-b92a-eae850460acb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-o-zs']/div[2]/div/div[2]</value>
+      <webElementGuid>bcc904ac-042a-4334-a582-67acef36b0fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Príchod žiaka'])[2]/following::div[1]</value>
+      <webElementGuid>1cbbcd71-c07a-4ecf-8ece-9588228c7de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o základnej škole'])[5]/following::div[4]</value>
+      <webElementGuid>50ebb1ab-e5ed-451f-97b2-b876b57b9469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID základnej školy'])[3]/preceding::div[1]</value>
+      <webElementGuid>8410345d-2b29-4dca-beb1-5e6e3452a5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov základnej školy'])[3]/preceding::div[4]</value>
+      <webElementGuid>ab338996-4ad5-4ec7-af09-622fa14842a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div[2]</value>
+      <webElementGuid>bd491693-005e-4f4d-980c-2a7d7af9acde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Zo školy v zahraničí' or . = 'Zo školy v zahraničí')]</value>
+      <webElementGuid>bced2b89-d9dd-45a8-b243-7b2194152a2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vaa prihlka bola uloen ako koncept. Met_f1b2e6</name>
+   <tag></tag>
+   <elementGuidId>e5487584-32a3-487d-b7f7-824b0faafe71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prihlaska-koncept-c0dbf975-cc4b-4c65-9201-06d773040039']/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#prihlaska-koncept-c0dbf975-cc4b-4c65-9201-06d773040039 > div.prihlaska-koncept-sub > div.idsk-card__description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6ccc0b5-6aa4-4aa1-885e-3de413b5f8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>idsk-card__description</value>
+      <webElementGuid>123fd100-dfe5-4f43-ab15-9f75f3c274b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vaša prihláška bola uložená ako koncept. Môžete pokračovať v jej vypĺňaní kedykoľvek.</value>
+      <webElementGuid>ce353edc-fa0f-480a-8ec4-f37ddb823fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaska-koncept-c0dbf975-cc4b-4c65-9201-06d773040039&quot;)/div[@class=&quot;prihlaska-koncept-sub&quot;]/div[@class=&quot;idsk-card__description&quot;]</value>
+      <webElementGuid>58d5ed9c-9083-400c-a398-e5d1afb16a7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaska-koncept-c0dbf975-cc4b-4c65-9201-06d773040039']/div[2]/div[2]</value>
+      <webElementGuid>e4aa52cc-1245-4e77-94d7-8bf73d6ad235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihláška nie je dokončená'])[2]/following::div[1]</value>
+      <webElementGuid>927ffdff-97b5-4878-bce9-84d8a90afa91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rozpracovaná'])[1]/following::div[3]</value>
+      <webElementGuid>97c5fded-1c9c-48c9-b02f-612323380d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pokračovať v podaní prihlášky'])[2]/preceding::div[1]</value>
+      <webElementGuid>09277dfc-835a-4769-970f-5edb2eceb914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[7]/preceding::div[1]</value>
+      <webElementGuid>e219665b-9207-4212-b3d0-1a95cfadf250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]</value>
+      <webElementGuid>e6cf263a-3854-49b2-a186-23975e7754eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Vaša prihláška bola uložená ako koncept. Môžete pokračovať v jej vypĺňaní kedykoľvek.' or . = 'Vaša prihláška bola uložená ako koncept. Môžete pokračovať v jej vypĺňaní kedykoľvek.')]</value>
+      <webElementGuid>fb199833-8b7d-4f91-a50c-2a421efb94f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

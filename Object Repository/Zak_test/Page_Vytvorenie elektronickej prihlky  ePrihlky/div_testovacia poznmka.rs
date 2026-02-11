@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_testovacia poznmka</name>
+   <tag></tag>
+   <elementGuidId>c85ee553-abd8-4ff8-91c2-310fbfada9a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#poznamkaSkoly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='poznamkaSkoly']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17732aff-e0b3-4141-9c98-755060be20e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>poznamkaSkoly</value>
+      <webElementGuid>0e164b4c-675e-467a-89c9-68bba8eac309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testovacia poznámka</value>
+      <webElementGuid>546c1d17-f58c-443f-9c4f-c0e700255fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;poznamkaSkoly&quot;)</value>
+      <webElementGuid>f2210494-3db9-40af-b195-be7632add910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='poznamkaSkoly']</value>
+      <webElementGuid>12d506d4-365f-4dea-86cf-3a509adb6537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[2]/div[2]/div[4]/div[2]</value>
+      <webElementGuid>e5a8b48b-c12a-4869-b537-bdacb6851bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poznámka školy'])[1]/following::div[1]</value>
+      <webElementGuid>a409d2a4-de5d-4d84-b54c-d90cac297027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania'])[1]/following::div[4]</value>
+      <webElementGuid>abf1d7ce-cbe5-4d34-9477-aace85bb616d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podrobnosti o dieťati'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7085074-03cd-4c16-8254-d17f369a2927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno a priezvisko dieťaťa'])[1]/preceding::div[2]</value>
+      <webElementGuid>90cf38ed-49be-410e-afc4-96bad93d44d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='testovacia poznámka']/parent::*</value>
+      <webElementGuid>49730c9b-42c5-432f-ab4f-41207ca39c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[4]/div[2]</value>
+      <webElementGuid>2537c049-0858-449b-ac5b-17dac808f76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'poznamkaSkoly' and (text() = 'testovacia poznámka' or . = 'testovacia poznámka')]</value>
+      <webElementGuid>c125edb1-f654-4c9e-b120-6c5af11905a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sa_sutaz-item sutaz-nazov</name>
+   <tag></tag>
+   <elementGuidId>4a0d4cf0-448f-4bc1-883c-96fdd6f28ba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sutaz-item.sutaz-nazov</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sutaze-suhrn']/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a173399a-c966-43fd-afd1-561e0d920a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sutaz-item sutaz-nazov</value>
+      <webElementGuid>088e3c2f-7def-4a50-909e-e0b4ab1729ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Klokaniáda</value>
+      <webElementGuid>429b466a-66fc-4648-97be-bf816240d7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sutaze-suhrn&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sutaz-element&quot;]/span[@class=&quot;sutaz-item sutaz-nazov&quot;]</value>
+      <webElementGuid>ffbd6c67-acd1-47ab-b166-fc9caa7b8969</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sutaze-suhrn']/div[2]/div[2]/div/span</value>
+      <webElementGuid>5a6f6846-d8f6-411f-acf8-5ac793f8ddac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súťaž'])[3]/following::span[1]</value>
+      <webElementGuid>1ff55bce-0e5e-4c45-b125-ae9ffba8bb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neboli nahrané žiadne súťaže.'])[1]/following::span[1]</value>
+      <webElementGuid>4396aac0-7a9d-407f-9c7f-addb43f1a89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vedomostné vrátane predmetových'])[2]/preceding::span[2]</value>
+      <webElementGuid>b9b4fc79-a0a4-45f2-9bab-a1c48dfaa842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Školský rok: 2024/2025'])[3]/preceding::span[3]</value>
+      <webElementGuid>4c3f0be0-3188-49db-83fb-ab77c0af6ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Klokaniáda']/parent::*</value>
+      <webElementGuid>013b4d81-61f3-40db-83a8-373216ab32f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div[2]/div/span</value>
+      <webElementGuid>6c5cf448-5241-4ac8-9dca-1f3536f3ad8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Klokaniáda' or . = 'Klokaniáda')]</value>
+      <webElementGuid>cf527e83-ecdb-48a1-af2d-92e537e64b86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Odhlsi_warnTextBoxHeader</name>
+   <tag></tag>
+   <elementGuidId>f7fb3952-979f-4dad-8ec2-ba3d2c669c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.warnTextBoxHeader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zverejnit-odbory-container']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c24417ab-1796-4264-b31c-04c90b6cf524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warnTextBoxHeader</value>
+      <webElementGuid>3abc1384-3c1d-486f-ba38-d79df1904634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odbory nie sú zverejnené</value>
+      <webElementGuid>4397f1ef-012c-4a7c-ad9c-4258408fea56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-message-box&quot;)/div[@id=&quot;zverejnit-odbory-container&quot;]/div[@class=&quot;warnTextBox&quot;]/div[@class=&quot;warnTextBoxHeader&quot;]</value>
+      <webElementGuid>d2289c53-43a9-4b4b-8c58-05d134b00605</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zverejnit-odbory-container']/div/div</value>
+      <webElementGuid>9341410b-64cd-4638-909d-4fec8cbeb2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::div[7]</value>
+      <webElementGuid>8b993d95-71c9-4761-8d3b-f702a66f3805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oznámenia'])[2]/following::div[7]</value>
+      <webElementGuid>0236697b-c799-4ae8-b2dd-4ecb38508069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upozorňujeme, že po zverejnení už nebude možné tieto odbory upravovať.'])[1]/preceding::div[2]</value>
+      <webElementGuid>861488e1-db1a-4f8b-bbe5-a2ea1fa52388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zverejniť odbory'])[1]/preceding::div[3]</value>
+      <webElementGuid>0130a767-425f-417c-9d8d-fed69a5a1f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odbory nie sú zverejnené']/parent::*</value>
+      <webElementGuid>eed7263d-decb-4e1a-8579-c153055123fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>6b2826fb-edae-4511-9907-3118a4a22bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Odbory nie sú zverejnené' or . = 'Odbory nie sú zverejnené')]</value>
+      <webElementGuid>33b53a0e-ad52-45d8-b41e-fc4255479ff2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

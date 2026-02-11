@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Priradenie role pouvatea</name>
+   <tag></tag>
+   <elementGuidId>49ccb9e8-e4bb-4fa6-ab83-123f36d477c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.selected-items-string</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='typ']/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b15a31cd-3e38-415f-ad8e-0fe4557f34df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-items-string</value>
+      <webElementGuid>4b691008-e40b-44c5-9de9-1b7357cc52ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Priradenie role používateľa</value>
+      <webElementGuid>c10a4f58-2f97-4444-b21d-9412e91f93d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typ&quot;)/div[@class=&quot;govuk-form-group input-control&quot;]/div[@class=&quot;dtc-multiselect&quot;]/div[@class=&quot;dtc-multiselect-box govuk-select&quot;]/div[@class=&quot;selected-items&quot;]/span[@class=&quot;selected-items-string&quot;]</value>
+      <webElementGuid>f0ed8650-7df9-4180-8755-ffce25b7e628</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='typ']/div/div/div/div/span[2]</value>
+      <webElementGuid>f1a9cefa-9812-43f4-aa91-8c74f3f12807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Všetky'])[1]/following::span[1]</value>
+      <webElementGuid>c5d491c7-e574-4167-bae0-115e0910b3d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ notifikácie'])[1]/following::span[2]</value>
+      <webElementGuid>c6ffc6c4-7f07-4a5b-ba9b-a721cb4d9501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/preceding::span[1]</value>
+      <webElementGuid>e0936301-6aed-4d2e-96f4-8d72dedfac26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_up'])[1]/preceding::span[2]</value>
+      <webElementGuid>a7ff25da-60d4-4edb-a6c9-9a22054c483a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Priradenie role používateľa']/parent::*</value>
+      <webElementGuid>1eab6b7b-eb04-4543-a71b-ab72b991416b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span[2]</value>
+      <webElementGuid>a40a7ff0-8e00-4e22-9220-b78678ac921b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Priradenie role používateľa' or . = 'Priradenie role používateľa')]</value>
+      <webElementGuid>c1b34f2c-cdae-4b35-aa25-9f62ca57ec8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

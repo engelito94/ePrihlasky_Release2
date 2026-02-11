@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_check_circle_panel-text_1</name>
+   <tag></tag>
+   <elementGuidId>f3fd64f8-0cb3-4405-880c-f3aaf419faf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profil-nastavenie2']/div/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.panel-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52194c98-980f-483a-be92-4c18c51ea43f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-text</value>
+      <webElementGuid>74c97ff6-0969-4e95-98dc-ca60b564a1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vašu emailovú adresu sme úspešne zmenili.</value>
+      <webElementGuid>b80e411b-4ca6-43fa-b29d-3dac29404a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profil-nastavenie2&quot;)/div[@class=&quot;menu-layout&quot;]/div[@class=&quot;privatna-zona-content govuk-main-wrapper&quot;]/div[@class=&quot;govuk-panel govuk-!-margin-bottom-8 govuk-panel--confirmation&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text&quot;]</value>
+      <webElementGuid>115fa2bc-1dd3-488b-a323-dc1edb948ad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profil-nastavenie2']/div/div/div/div/div/span</value>
+      <webElementGuid>ff6c75f1-0aab-4f2b-aa56-b9aebf8248fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::span[1]</value>
+      <webElementGuid>6fe2e948-64e1-4bd6-8f54-e7a5c6773619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::span[2]</value>
+      <webElementGuid>a9394946-c832-4656-86ef-08a332daebae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::span[1]</value>
+      <webElementGuid>51a11c04-1c5a-4b58-9c1c-a36d9743a08f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Účet a zabezpečenie'])[1]/preceding::span[2]</value>
+      <webElementGuid>bc5c47dc-7b6d-42b1-8060-196b1b8a10a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vašu emailovú adresu sme úspešne zmenili.']/parent::*</value>
+      <webElementGuid>946a0eca-b176-416b-a9e4-9ab094aa3657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>c874b17d-67ff-485d-a227-c0531663914d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vašu emailovú adresu sme úspešne zmenili.' or . = 'Vašu emailovú adresu sme úspešne zmenili.')]</value>
+      <webElementGuid>c5148d0b-6a0c-44f0-b3b0-db936a084e2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

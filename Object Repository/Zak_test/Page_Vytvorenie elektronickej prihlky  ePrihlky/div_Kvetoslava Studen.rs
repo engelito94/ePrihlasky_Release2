@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kvetoslava Studen</name>
+   <tag></tag>
+   <elementGuidId>7b29fc93-3070-4a8c-a367-2016a0d1399b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaMenoAPriezvisko']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaMenoAPriezvisko</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c5fa2fa-36b9-42af-aed8-5108efcacd61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaMenoAPriezvisko</value>
+      <webElementGuid>a06ef769-6ff4-4824-8232-d8764cf53a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kvetoslava Studená</value>
+      <webElementGuid>4b489d1c-8671-44d8-b5a7-1747495a43a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaMenoAPriezvisko&quot;)</value>
+      <webElementGuid>efdfffb0-713b-4971-ad12-6d309e56fae3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaMenoAPriezvisko']</value>
+      <webElementGuid>a55563b2-de82-4452-8fd7-98a3a54161f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>d0a09da8-e00a-497f-ad2f-180a0b454c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno a priezvisko dieťaťa'])[2]/following::div[1]</value>
+      <webElementGuid>5234485e-4609-40dc-a305-b3ffeca9ad24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podrobnosti o dieťati'])[2]/following::div[4]</value>
+      <webElementGuid>ff205a57-a77a-481b-82be-71e5895eda53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné priezvisko'])[2]/preceding::div[1]</value>
+      <webElementGuid>af6c91a8-d745-457d-a14a-e7ee23a7505d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studená'])[2]/preceding::div[2]</value>
+      <webElementGuid>bf220118-6d3e-47eb-b799-84d8ff055a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>5de3c096-d43a-4c8d-a35b-11e9b84b2093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaMenoAPriezvisko' and (text() = 'Kvetoslava Studená' or . = 'Kvetoslava Studená')]</value>
+      <webElementGuid>d9f28612-50cb-4753-ad7f-3421a90242a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

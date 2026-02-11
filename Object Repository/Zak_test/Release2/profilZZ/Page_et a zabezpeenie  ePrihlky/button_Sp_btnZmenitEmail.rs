@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sp_btnZmenitEmail</name>
+   <tag></tag>
+   <elementGuidId>29804de0-c764-4d32-a90f-63332e0b204b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnZmenitEmail']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnZmenitEmail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fe8eb54a-a0bb-492e-aaf6-1b6f1663f0ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnZmenitEmail</value>
+      <webElementGuid>53e47911-be85-4dff-93f3-49beb0a7af74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Zmeniť email</value>
+      <webElementGuid>66f8a7d9-1bd8-49e8-8506-d3ef9861fbbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__large</value>
+      <webElementGuid>df213699-61d5-4dec-8e40-f9c7d5f6b0fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>b5def07c-46cb-45cd-ad54-a7545f0903c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>df0a9dd4-b8d3-4026-a32b-d898314644b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Zmeniť email
+                            </value>
+      <webElementGuid>881b730d-18bb-438a-9001-24a89ad04727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnZmenitEmail&quot;)</value>
+      <webElementGuid>de7335f0-2a34-49ba-9e28-c863b9343ea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnZmenitEmail']</value>
+      <webElementGuid>bc3c43ea-791a-4bad-887d-5775039a25cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zmena-emailu']/div/div[4]/button[2]</value>
+      <webElementGuid>1285ff66-57bb-4384-8ce7-0c051ab887f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[1]/following::button[1]</value>
+      <webElementGuid>00bacccf-d44f-4daf-b2bd-53b3e1e1b5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na novú emailovú adresu Vám pošleme overovací kód.'])[1]/following::button[2]</value>
+      <webElementGuid>614ba777-0c8f-4908-8379-8e014bc56802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overenie emailovej adresy'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5e84a2f-1bec-49e8-b3eb-ec1c2ae0dbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[21]/preceding::button[1]</value>
+      <webElementGuid>909189a9-d971-4b63-a9c6-50bdabef2642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/button[2]</value>
+      <webElementGuid>9a8a4e44-6775-4900-990b-b44500cc525a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnZmenitEmail' and @name = 'Zmeniť email' and (text() = '
+                                Zmeniť email
+                            ' or . = '
+                                Zmeniť email
+                            ')]</value>
+      <webElementGuid>9e123a37-0140-478a-9af4-238e9de5af9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

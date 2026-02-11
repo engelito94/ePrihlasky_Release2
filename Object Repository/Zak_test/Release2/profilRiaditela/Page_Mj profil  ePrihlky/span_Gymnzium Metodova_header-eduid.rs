@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gymnzium Metodova_header-eduid</name>
+   <tag></tag>
+   <elementGuidId>a79244cc-f915-4732-97c3-c13e99fd4f42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='header-eduid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header-eduid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cdda3740-f7ca-45f6-817e-f3b7547c576e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>header-eduid</value>
+      <webElementGuid>3b8ca99c-9b3c-4442-9569-7140b83eb79d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>riaditel-eduid__header</value>
+      <webElementGuid>80d4a435-7134-4b74-9f11-299366c9f440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EDUID 910020859</value>
+      <webElementGuid>7f21e6cf-9da6-4cb1-8083-947481df8a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-eduid&quot;)</value>
+      <webElementGuid>77f51d81-f6d6-4122-878e-ae98cb44d862</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='header-eduid']</value>
+      <webElementGuid>70995962-a9ae-4c99-a669-f7a0db338cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gymnázium Metodova —'])[1]/following::span[1]</value>
+      <webElementGuid>06a0667a-adc7-4ffe-8913-2f4e08abdc53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenčina'])[2]/following::span[2]</value>
+      <webElementGuid>b4afb6ce-4d85-46fa-96f6-b146bfd9df7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronické prihlášky do škôl'])[1]/preceding::span[1]</value>
+      <webElementGuid>82ceb2d2-3f13-479f-9018-97ef9411a798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::span[2]</value>
+      <webElementGuid>79553b28-5b9d-4de7-ae01-be898e81cf11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EDUID 910020859']/parent::*</value>
+      <webElementGuid>b608f864-98fb-4882-8c17-48e24f970442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/span</value>
+      <webElementGuid>5bbb474f-0761-41a2-9f3e-7d07809ae490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'header-eduid' and (text() = 'EDUID 910020859' or . = 'EDUID 910020859')]</value>
+      <webElementGuid>7a5fe393-a6b0-42d9-9211-852ec5554324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

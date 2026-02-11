@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_no</name>
+   <tag></tag>
+   <elementGuidId>0d0f8c19-4868-4eb1-8d97-be872b0eb5ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zsDPDStravovanieRadio']/div/fieldset/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zsDPDStravovanieRadio > div.govuk-form-group.radiogroup-control.required > fieldset.govuk-fieldset > div.govuk-radios.govuk-radios--inline > div.govuk-radios__item > label.govuk-label.govuk-radios__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>861c1528-beca-4669-94db-57d296aa0de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label govuk-radios__label</value>
+      <webElementGuid>310a48a6-6caa-4aa1-8152-0b9b0d2cb2b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>zsDPDStravovanieRadio_option_0</value>
+      <webElementGuid>97dfbbd8-74a4-469d-8386-cd7e57cc0a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Áno 
+                         </value>
+      <webElementGuid>68c6f0a6-7f46-4938-925d-34f32c11c905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zsDPDStravovanieRadio&quot;)/div[@class=&quot;govuk-form-group radiogroup-control required&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios govuk-radios--inline&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
+      <webElementGuid>1901ed27-8fed-47d6-8068-9f838b1914ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zsDPDStravovanieRadio']/div/fieldset/div[3]/div/label</value>
+      <webElementGuid>8d371ea3-3413-47aa-9749-b5f888c1175f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[65]/following::label[1]</value>
+      <webElementGuid>c4616d86-06ad-444f-a4b5-1adbc692d7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Záujem o stravovanie v jedálni'])[1]/following::label[1]</value>
+      <webElementGuid>f38b6bdc-2d59-4bec-8621-4dfd51e13aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nie'])[2]/preceding::label[1]</value>
+      <webElementGuid>f5710f42-d63b-4520-b060-5b44bf10fa21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Záujem o Školský klub detí'])[1]/preceding::label[2]</value>
+      <webElementGuid>be7f321d-b184-496d-a3bc-0c811357f86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/fieldset/div[3]/div/label</value>
+      <webElementGuid>42326447-914d-4be9-964b-4e3f0bb510e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Áno 
+                         ' or . = 'Áno 
+                         ')]</value>
+      <webElementGuid>bdb2ded2-2939-4cfa-a73d-e98b1f42bfff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Odoslanie prihlášky MŠ - iná adresa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a41b68c-4b4a-40f5-b18b-0ff47d8fa7b7</testCaseGuid>
+</TestCaseEntity>

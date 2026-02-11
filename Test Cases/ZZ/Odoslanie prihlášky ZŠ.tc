@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Odoslanie prihlášky ZŠ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fda43285-c276-405b-92c7-efa896a6aedd</testCaseGuid>
+</TestCaseEntity>

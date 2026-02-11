@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zdravotn - nevie sa podpsa</name>
+   <tag></tag>
+   <elementGuidId>f477fb18-7ba3-4de2-96b9-3701a0914ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dovodNezabezpeceniaSuhlasu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dovodNezabezpeceniaSuhlasu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f833e42-07f3-499b-b737-2e5c051c61f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dovodNezabezpeceniaSuhlasu</value>
+      <webElementGuid>e3579719-2a94-4e70-9ffb-58b663cdbe6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zdravotný - nevie sa podpísať</value>
+      <webElementGuid>3bf20003-bcd1-4da1-b0dd-4a4155131cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dovodNezabezpeceniaSuhlasu&quot;)</value>
+      <webElementGuid>7282f881-d8c0-44c3-80f9-b930ca300ea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dovodNezabezpeceniaSuhlasu']</value>
+      <webElementGuid>97637b8d-29cc-41f9-aea9-fcb804672459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz2']/div[8]/div[2]</value>
+      <webElementGuid>a95659a3-ef2f-4cbe-ad65-acdba68dd439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dôvod nezabezpečenia súhlasu'])[2]/following::div[1]</value>
+      <webElementGuid>66087524-4865-45f3-a212-4c39e9dd14c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nie'])[5]/following::div[3]</value>
+      <webElementGuid>d5839871-cb04-486f-817b-95ffd4f2ee8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Druhý zákonný zástupca nie je známy.'])[1]/preceding::div[1]</value>
+      <webElementGuid>29488720-cee8-40b8-b7d7-afaeb91d5726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy a doplňujúce informácie o dieťati'])[1]/preceding::div[2]</value>
+      <webElementGuid>3a79e57b-8239-409e-ab11-a81c3f1dd122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[8]/div[2]</value>
+      <webElementGuid>c775ffe5-809e-4391-a7a8-ae02d445c188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dovodNezabezpeceniaSuhlasu' and (text() = 'Zdravotný - nevie sa podpísať' or . = 'Zdravotný - nevie sa podpísať')]</value>
+      <webElementGuid>56015349-5da3-4e0c-bff8-8f7b95655141</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

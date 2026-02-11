@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Menu_profile-photo</name>
+   <tag></tag>
+   <elementGuidId>8ce0422e-f99b-45df-ac68-114803fa4470</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.profile-photo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8e352bc-d9c5-414a-ad18-2115ff861bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-photo</value>
+      <webElementGuid>3d14480c-c6e0-4631-a6de-f2ab2cd02248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        CK
+                                    </value>
+      <webElementGuid>c2be36c7-e9a4-412a-8cd5-7e6a756131f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;wrapper-full header&quot;]/div[@class=&quot;govuk-header__wrapper&quot;]/header[@class=&quot;govuk-header idsk-shadow-head&quot;]/div[@class=&quot;govuk-predheader govuk-width-container&quot;]/div[@class=&quot;govuk-header__btns-search&quot;]/div[@class=&quot;govuk-header__actionPanel desktop mobile-hidden&quot;]/a[@class=&quot;idsk-secondary-navigation__heading-button idsk-button idsk-dropdow profil-dropdown&quot;]/div[@class=&quot;profile-photo&quot;]</value>
+      <webElementGuid>b70dcf08-867f-46d1-a8a8-9ac194ca009b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::div[2]</value>
+      <webElementGuid>8501a97b-5eaa-4955-b61d-988dc73c0551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronické prihlášky do škôl'])[1]/following::div[4]</value>
+      <webElementGuid>752a42eb-5db8-46bd-8a3a-940a1cca857d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Môj profil'])[1]/preceding::div[1]</value>
+      <webElementGuid>55d0c003-ca7d-40ac-92f6-c1a0b0bccba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>657e7b1a-a796-41c4-8eab-7d6da4b6bca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                        CK
+                                    ' or . = '
+                                        CK
+                                    ')]</value>
+      <webElementGuid>868eb07e-7de4-4856-b83f-f550ad26d398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

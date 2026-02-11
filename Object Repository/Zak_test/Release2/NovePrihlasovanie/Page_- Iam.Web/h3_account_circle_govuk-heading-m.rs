@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_account_circle_govuk-heading-m</name>
+   <tag></tag>
+   <elementGuidId>e6c0ee87-bb9c-4b95-a4ce-c5c0d32f9141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='account_circle'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.govuk-heading-m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>dfbd74e7-1f6a-4794-a136-6e0a77ddd2e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-heading-m</value>
+      <webElementGuid>72639772-a50e-4799-8d7c-fe8212e25e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prihlasovacie meno  a heslo</value>
+      <webElementGuid>6d6e8e15-e352-4dc6-8b2a-0004f3100e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper-full&quot;]/div[@class=&quot;govuk-width-container&quot;]/div[@class=&quot;govuk-main-wrapper&quot;]/main[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;vyber&quot;]/a[@class=&quot;idsk-card idsk-card--vertical&quot;]/div[@class=&quot;content&quot;]/h3[@class=&quot;govuk-heading-m&quot;]</value>
+      <webElementGuid>20925652-1e94-4a56-8116-f556ab41eebc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_circle'])[1]/following::h3[1]</value>
+      <webElementGuid>b796b51a-5bf1-483e-ace8-8fc847b24b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zaregistrujte sa.'])[1]/following::h3[1]</value>
+      <webElementGuid>513fffd8-79ff-44a7-add2-667be0c004f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihlásenie zadaním prihlasovacieho mena a hesla vytvorených pri registrácii.'])[1]/preceding::h3[1]</value>
+      <webElementGuid>baef149e-13ab-4f43-8778-4676f1f26979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contact_emergency'])[1]/preceding::h3[1]</value>
+      <webElementGuid>72b14252-141c-4dae-889b-68969bc82943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/h3</value>
+      <webElementGuid>62890095-14e4-4b99-a1b5-6e3e372364d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Prihlasovacie meno  a heslo' or . = 'Prihlasovacie meno  a heslo')]</value>
+      <webElementGuid>98990332-f476-4b10-bd2d-6f7867507558</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

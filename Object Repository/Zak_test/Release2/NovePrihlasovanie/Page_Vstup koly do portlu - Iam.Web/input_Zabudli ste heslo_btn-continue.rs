@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Zabudli ste heslo_btn-continue</name>
+   <tag></tag>
+   <elementGuidId>0bcccee1-f6d1-4429-999f-673fc2d6524a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='btn-continue']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;btn-continue&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>98978540-5830-46d2-8456-f59117a97d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Prihlásiť sa</value>
+      <webElementGuid>8985313f-2996-47f4-814f-3594592085ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>btn-continue</value>
+      <webElementGuid>e8db3df8-cd60-40b9-827c-d8d969e0f809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>886acd48-94a6-44d9-af25-83d46e79aed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__large</value>
+      <webElementGuid>20633241-008c-4692-89ac-766c25cc4bc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper-full&quot;]/div[@class=&quot;govuk-width-container&quot;]/div[@class=&quot;govuk-main-wrapper&quot;]/form[1]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-one-half&quot;]/div[@class=&quot;govuk-form-group&quot;]/input[@class=&quot;govuk-button govuk-button__large&quot;]</value>
+      <webElementGuid>886a7f53-9d0a-4137-8bc1-230686b5c211</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='btn-continue']</value>
+      <webElementGuid>4875b25c-d98e-4505-9ed2-6dd7e7ba1959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>b332cd03-6447-4d14-9cca-0b0dab6595b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'btn-continue' and @type = 'submit']</value>
+      <webElementGuid>8b132661-67a3-42da-9732-1e094a8c6483</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

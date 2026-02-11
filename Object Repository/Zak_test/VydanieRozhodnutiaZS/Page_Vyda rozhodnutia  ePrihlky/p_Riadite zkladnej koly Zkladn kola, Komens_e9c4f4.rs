@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Riadite zkladnej koly Zkladn kola, Komens_e9c4f4</name>
+   <tag></tag>
+   <elementGuidId>e5d105ce-c3f9-4b9c-800a-55bc8e86b627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='podpis-table']/div[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f1618e36-08c3-4cb4-8757-c7ba0daae8d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-rozhodnutia</value>
+      <webElementGuid>10cab5af-db4f-4c7f-9ca9-18ef2235cdca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riaditeľ základnej školy Základná škola, Komenského 12, Sobrance, ako orgán vecne príslušný na rozhodovanie podľa § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v nadväznosti na § 60 ods. 1 až 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 46 a 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov vo veci žiadosti zákonného zástupcu/zákonných zástupcov: Tariel Okrúhliaková,  o prijatie dieťaťa Marek Varga, 09.09.2021, 2 2/87, 62874, Banská Bystrica na základné vzdelávanie v škole Základná škola, Komenského 12, Sobrance (ďalej len „základná škola“) zo dňa 04.06.2025, rozhodol takto:</value>
+      <webElementGuid>24c0d3cf-1151-49b5-a88c-16eb845efa31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;podpis-table&quot;)/div[@class=&quot;nahlad-rozhodnutia&quot;]/p[@class=&quot;text-rozhodnutia&quot;]</value>
+      <webElementGuid>293042a9-9f61-443d-badb-72c817b0236c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='podpis-table']/div[4]/p</value>
+      <webElementGuid>68f5b86d-5680-4c90-9a2f-c44b73019d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROZHODNUTIE'])[3]/following::p[1]</value>
+      <webElementGuid>0e655c9f-b318-4ff4-a0cf-aeb47e105199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prijímam na základné vzdelávanie'])[1]/preceding::p[1]</value>
+      <webElementGuid>474137c6-bd08-4525-836c-de51680359f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='meno a priezvisko dieťaťa:'])[3]/preceding::p[2]</value>
+      <webElementGuid>48d72496-3758-475d-987f-359932085954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p</value>
+      <webElementGuid>1ebf8321-c43e-4051-8fd0-837a778024f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Riaditeľ základnej školy Základná škola, Komenského 12, Sobrance, ako orgán vecne príslušný na rozhodovanie podľa § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v nadväznosti na § 60 ods. 1 až 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 46 a 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov vo veci žiadosti zákonného zástupcu/zákonných zástupcov: Tariel Okrúhliaková,  o prijatie dieťaťa Marek Varga, 09.09.2021, 2 2/87, 62874, Banská Bystrica na základné vzdelávanie v škole Základná škola, Komenského 12, Sobrance (ďalej len „základná škola“) zo dňa 04.06.2025, rozhodol takto:' or . = 'Riaditeľ základnej školy Základná škola, Komenského 12, Sobrance, ako orgán vecne príslušný na rozhodovanie podľa § 5 ods. 3 písm. a) zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov v nadväznosti na § 60 ods. 1 až 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a podľa § 46 a 47 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov vo veci žiadosti zákonného zástupcu/zákonných zástupcov: Tariel Okrúhliaková,  o prijatie dieťaťa Marek Varga, 09.09.2021, 2 2/87, 62874, Banská Bystrica na základné vzdelávanie v škole Základná škola, Komenského 12, Sobrance (ďalej len „základná škola“) zo dňa 04.06.2025, rozhodol takto:')]</value>
+      <webElementGuid>09593f48-47be-4fd1-8ec2-c388fe75b7c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

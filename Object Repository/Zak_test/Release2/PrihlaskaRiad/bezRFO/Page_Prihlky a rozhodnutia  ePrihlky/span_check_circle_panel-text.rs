@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_check_circle_panel-text</name>
+   <tag></tag>
+   <elementGuidId>85b94443-5b70-45db-a10c-66161af83069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.panel-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-home-page']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fabddedb-c140-42c5-ad57-f8760c17ff5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-text</value>
+      <webElementGuid>c2ec4278-716b-4fac-bd62-f7cabaed15bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prihlášku pre dieťa ste úspešne pridali.</value>
+      <webElementGuid>b3633abd-da15-4f01-b278-a295f6328dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-home-page&quot;)/div[@class=&quot;govuk-panel govuk-panel--confirmation panel-8090&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text&quot;]</value>
+      <webElementGuid>55b2ae98-8587-45a5-b8c9-55b8481b61fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-home-page']/div/div/div/span</value>
+      <webElementGuid>c3ea52de-dd2d-4cf6-a017-081fcfdbfd01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::span[1]</value>
+      <webElementGuid>447f45a1-0c2d-4c92-bfeb-dc7c34dab526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::span[2]</value>
+      <webElementGuid>807bfd7f-1655-4a10-8fbb-4fcb35d3ce2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ce1fed3-2c71-47ca-9598-a915f44216ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správa prihlášok'])[2]/preceding::span[2]</value>
+      <webElementGuid>5a36acb6-4db8-4bde-9f87-1a9d6dca7fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prihlášku pre dieťa ste úspešne pridali.']/parent::*</value>
+      <webElementGuid>0b323b2e-a2ef-4a5f-8904-6e1dfcf9b04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>e7545014-4c17-4ff9-92e8-7e298ec0495b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Prihlášku pre dieťa ste úspešne pridali.' or . = 'Prihlášku pre dieťa ste úspešne pridali.')]</value>
+      <webElementGuid>f0d975e9-1141-4806-9abd-470e88cd2e1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nvrh na prijatie</name>
+   <tag></tag>
+   <elementGuidId>e2d53971-2e97-4f06-97bb-39818557db25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup-main']/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>84aa3464-8127-4a07-841e-6786610e1fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stav-prihlasky-link</value>
+      <webElementGuid>1a308869-823b-46e6-93fa-ee9c4b043e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>45445427-7eb7-4927-9a4d-c833fbdb4c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-stav-kod</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>101c21a8-19e5-4716-8a37-d4c5831b4a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Návrh na prijatie</value>
+      <webElementGuid>6f8012c7-3ca3-41af-ace1-1898b38e8e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup-main&quot;)/div[@class=&quot;popup-content popup-stav-prihlasky&quot;]/a[@class=&quot;stav-prihlasky-link&quot;]</value>
+      <webElementGuid>8e36f9de-a297-4d27-973b-cc55a9b7279c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup-main']/div/a[2]</value>
+      <webElementGuid>66ca79a0-36a9-459e-8fbe-5387934abce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Návrh na prijatie')])[2]</value>
+      <webElementGuid>f721a2d5-152b-418c-abc7-bd3ad3ffe966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V spracovaní'])[4]/following::a[1]</value>
+      <webElementGuid>889d3c07-fa69-4e81-8fad-2a609010f9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vydať rozhodnutia'])[1]/following::a[2]</value>
+      <webElementGuid>7772a0b2-e192-456f-95f8-5fbc01ae2b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/preceding::a[1]</value>
+      <webElementGuid>def62ccc-011f-443f-a8ae-9b0a4cd4f4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyhlásenie o prístupnosti'])[1]/preceding::a[1]</value>
+      <webElementGuid>35a9d3b4-4e17-4d57-ba8e-28ad403b6ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript: void(0);')])[10]</value>
+      <webElementGuid>e37d5ce6-15de-48df-b3ef-4800153ab6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a[2]</value>
+      <webElementGuid>e25106ef-9bd5-4667-9853-9d33579650fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript: void(0);' and (text() = 'Návrh na prijatie' or . = 'Návrh na prijatie')]</value>
+      <webElementGuid>3f009077-6a9e-4068-a5d6-81303652e967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

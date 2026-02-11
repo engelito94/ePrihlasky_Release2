@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Zadanm vyhadvacm kritrim nevyhovuje ia_2c872a</name>
+   <tag></tag>
+   <elementGuidId>723b1f0a-1faa-41b0-a437-669893a21bc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.panel-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-oznamenia']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1dfe2225-fd24-4984-ae28-6adc3f2a285a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-text</value>
+      <webElementGuid>3b0cdeca-5116-4507-8b92-909ab85fc8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zadaným vyhľadávacím kritériám nevyhovuje žiadne oznámenie.</value>
+      <webElementGuid>60a512d9-24d0-40cc-8483-77c40e98acb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-oznamenia&quot;)/div[@class=&quot;govuk-panel govuk-!-margin-bottom-8 govuk-panel--confirmation&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text&quot;]</value>
+      <webElementGuid>6788b950-d83b-462e-bc2b-a3d010f58541</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-oznamenia']/div/div/div/span</value>
+      <webElementGuid>8b81b6d1-a525-441b-9c43-6494af5bd069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::span[1]</value>
+      <webElementGuid>85583670-600e-4445-8203-210353c17766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pomoc a podpora'])[1]/following::span[2]</value>
+      <webElementGuid>95e87fb0-f7a5-4f83-b902-9232cb14af9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::span[1]</value>
+      <webElementGuid>0102a131-8a85-439f-be03-4bb5802187d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oznámenia'])[2]/preceding::span[2]</value>
+      <webElementGuid>391fb73e-4f8e-45f9-bffa-8e1b8fc40265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zadaným vyhľadávacím kritériám nevyhovuje žiadne oznámenie.']/parent::*</value>
+      <webElementGuid>863c8d72-f262-4663-9287-3e07dfd4411e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>532db933-836c-49a9-8089-0a8190d23d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Zadaným vyhľadávacím kritériám nevyhovuje žiadne oznámenie.' or . = 'Zadaným vyhľadávacím kritériám nevyhovuje žiadne oznámenie.')]</value>
+      <webElementGuid>ec0879c6-5100-4787-a3a6-b6a4d42a2eb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_PS</name>
+   <tag></tag>
+   <elementGuidId>99516632-54f4-4a7c-9249-f9e39ae36df6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zastupca1InaAdresaPSC > div.govuk-form-group.input-control.required > div.label-wrapper > label.govuk-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'autocomplete-dropdown']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8d2bafb0-787a-4426-b192-7c44e944ed64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label</value>
+      <webElementGuid>29298ebf-0d76-4273-a5bb-cfc3d6639e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-zastupca1InaAdresaPSC</value>
+      <webElementGuid>5ab718fa-fff3-4abc-b5d3-a031b9aec866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PSČ</value>
+      <webElementGuid>0581dec7-2c81-437e-8d72-97deec5f1e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupca1InaAdresaPSC&quot;)/div[@class=&quot;govuk-form-group input-control required&quot;]/div[@class=&quot;label-wrapper&quot;]/label[@class=&quot;govuk-label&quot;]</value>
+      <webElementGuid>4aa6d3d3-2bca-448b-8b4c-85136f513b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupca1InaAdresaPSC']/div/div/label</value>
+      <webElementGuid>3ed9ca9c-6c32-41a9-ae63-89a0a4f319d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[43]/following::label[1]</value>
+      <webElementGuid>76562599-82e0-4cdd-9943-414fbc08fe02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orientačné číslo'])[3]/following::label[1]</value>
+      <webElementGuid>53b8a598-0d95-4644-8edc-8f3e70253d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[44]/preceding::label[1]</value>
+      <webElementGuid>0828550f-bff1-46c1-a38f-730f3eaeb6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa'])[3]/preceding::label[1]</value>
+      <webElementGuid>c9ec7ac7-9606-4f65-81fe-fc93e62865e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[5]/div/div/label</value>
+      <webElementGuid>ef03e084-163e-40ba-910d-abb9e5496738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'PSČ' or . = 'PSČ')]</value>
+      <webElementGuid>6c6e7e03-0641-43db-83dd-526981c0abf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

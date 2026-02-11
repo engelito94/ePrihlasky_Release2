@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Matersk koly_nav-item-najst-skolu-ZS</name>
+   <tag></tag>
+   <elementGuidId>450be645-bc43-4d3c-9e4e-bbd4d6d33545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-item-najst-skolu-ZS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-item-najst-skolu-ZS']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>16fe30bb-95cb-4382-b924-bd8d9be25531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-item-najst-skolu-ZS</value>
+      <webElementGuid>a87f08c6-ad99-4f45-a2f3-5a707a6a78aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navigation-item</value>
+      <webElementGuid>47fe74e3-a016-437d-b563-ca5bd216d3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>876e270c-72f4-4bc5-8d97-4581b9872b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Základné školy
+                </value>
+      <webElementGuid>fea6b0e0-79b2-4fe2-8758-042fa96ca423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-item-najst-skolu-ZS&quot;)</value>
+      <webElementGuid>39fe13da-8833-41c4-a903-3af94e7e06cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='nav-item-najst-skolu-ZS']</value>
+      <webElementGuid>129166e2-7442-4d40-9fc7-5323349b3c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='najst-skolu-partial']/div/nav/ul/li[2]</value>
+      <webElementGuid>784065e8-b3e6-4187-8de1-d8cd4a06fa3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materské školy'])[1]/following::li[1]</value>
+      <webElementGuid>c3d27fbc-daf7-47b7-aa43-fa5de31399d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nájsť školu'])[2]/following::li[2]</value>
+      <webElementGuid>c083cb10-c298-44ff-b803-c408a9dde432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stredné školy'])[1]/preceding::li[1]</value>
+      <webElementGuid>f9ea4ea5-b84e-457e-81ac-12d5fb662040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obľúbené školy'])[1]/preceding::li[2]</value>
+      <webElementGuid>9693f951-a0aa-4bc8-aedb-4e040de6cd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Základné školy']/parent::*</value>
+      <webElementGuid>77fb452f-d2b1-46b3-8e41-f2c18cfa5426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[2]</value>
+      <webElementGuid>2c09ca4e-7a70-4bbe-9009-03f9e9e6c567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'nav-item-najst-skolu-ZS' and (text() = '
+                    Základné školy
+                ' or . = '
+                    Základné školy
+                ')]</value>
+      <webElementGuid>d6f3d2c6-8bfc-4d62-af81-0259bd046806</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

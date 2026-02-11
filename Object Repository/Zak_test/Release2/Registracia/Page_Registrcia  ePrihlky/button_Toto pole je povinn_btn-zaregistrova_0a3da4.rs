@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Toto pole je povinn_btn-zaregistrova_0a3da4</name>
+   <tag></tag>
+   <elementGuidId>98bb9804-5c86-48ff-800b-8446c155aa07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-1']/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-zaregistrovat.govuk-button.govuk-button__large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8627698e-451c-4b6a-bb32-ee01c6e8bfa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-zaregistrovat govuk-button govuk-button__large</value>
+      <webElementGuid>33de3144-3114-4642-87ba-56cac4e9d5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>db003a99-87fc-42a6-b7fe-65fffa07c4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zaregistrovať</value>
+      <webElementGuid>a26e1064-20d0-4f1b-9945-a8a324ff5a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-1&quot;)/div[@class=&quot;container-with-border&quot;]/button[@class=&quot;btn-zaregistrovat govuk-button govuk-button__large&quot;]</value>
+      <webElementGuid>32fb4c0b-8660-4dca-87c5-d53015047a40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-1']/div[2]/button</value>
+      <webElementGuid>334399b1-1151-4b90-b145-4467c90f39d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toto pole je povinné.'])[1]/following::button[1]</value>
+      <webElementGuid>238bfed0-d5ac-4d29-bbea-899e4c1c247e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Viac informácií nájdete tu.'])[1]/following::button[1]</value>
+      <webElementGuid>1fba4e25-121e-42bb-9751-a215c4a34251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gratulujeme! Úspešne sme Vás zaregistrovali do systému.'])[1]/preceding::button[1]</value>
+      <webElementGuid>27a0f301-4df9-4cb5-8659-2477a70cae9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na hlavnú stránku'])[1]/preceding::button[1]</value>
+      <webElementGuid>b61daa20-4769-4e0c-bea0-f4a5ab74dbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zaregistrovať']/parent::*</value>
+      <webElementGuid>62f8db28-aa20-4b22-914b-ad7810b7b558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>36a5955e-7b37-4ca9-9305-e975008994fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Zaregistrovať' or . = 'Zaregistrovať')]</value>
+      <webElementGuid>23821f0e-020f-4de3-9bc8-b96b4b5c8a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

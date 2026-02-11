@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Akcia_govuk-button govuk-button--sec_dea96d</name>
+   <tag></tag>
+   <elementGuidId>ef12f761-eefb-4f24-ac08-7671529e5446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.govuk-button.govuk-button--sec.btn-zobrazit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[5]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8932b784-a9be-46d5-917c-7657f2c1f47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec btn-zobrazit</value>
+      <webElementGuid>3a880200-ecbc-4d5f-81ce-73ed19210c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zobraziť</value>
+      <webElementGuid>d0ff4126-4b04-4217-8c6c-b30619459d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-prihlasky-na-strednu-skolu&quot;)/div[@class=&quot;riaditel-prihlasky-nasich-ziakov-container&quot;]/div[@class=&quot;fixed-right-column&quot;]/div[@class=&quot;riaditel-prihlasky-cell akcia-cell&quot;]/div[@class=&quot;akcia-buttons&quot;]/button[@class=&quot;govuk-button govuk-button--sec btn-zobrazit&quot;]</value>
+      <webElementGuid>12f00c57-31d0-4a1b-87ff-330bfac66a85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[5]/div[2]/div/button</value>
+      <webElementGuid>641d04c3-10d6-48d7-9d8d-d854fb0b2ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akcia'])[1]/following::button[1]</value>
+      <webElementGuid>b9e8af81-3db8-45eb-93b0-35f58222549d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talent / Netalent'])[5]/following::button[1]</value>
+      <webElementGuid>eca636ce-0a25-4e26-b5e6-7405f7d740aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zobraziť'])[2]/preceding::button[2]</value>
+      <webElementGuid>4a820860-ea36-4db4-b434-d770359cfe35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zobraziť'])[3]/preceding::button[4]</value>
+      <webElementGuid>53e83fa0-cfd6-4a55-bc47-94a8ab5e0e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zobraziť']/parent::*</value>
+      <webElementGuid>6dab5447-d39e-463c-8f8a-878886c0e342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/button</value>
+      <webElementGuid>7cf7dc34-7f96-43cb-8795-ebc6ee202ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Zobraziť' or . = 'Zobraziť')]</value>
+      <webElementGuid>1d36b7a6-15d5-45e3-bb65-aa6ebbc4a856</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

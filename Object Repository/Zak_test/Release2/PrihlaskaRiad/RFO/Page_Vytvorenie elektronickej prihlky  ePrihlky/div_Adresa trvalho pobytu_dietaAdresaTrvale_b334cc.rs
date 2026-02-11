@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa trvalho pobytu_dietaAdresaTrvale_b334cc</name>
+   <tag></tag>
+   <elementGuidId>f05be806-6dca-40f4-951b-01f2db82e950</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaTrvalehoPobytuSuhrn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaTrvalehoPobytuSuhrn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f01ec0e9-232b-446a-83c3-c2e5218c9920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaTrvalehoPobytuSuhrn</value>
+      <webElementGuid>4f002a3b-4153-4993-b111-9cc78f6a6d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Štúrova 1435, Nitra, Slovenská republika</value>
+      <webElementGuid>9b56e1ce-4110-4acf-a2b4-3e4d9414cb57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaTrvalehoPobytuSuhrn&quot;)</value>
+      <webElementGuid>07324553-9ca9-48d1-b9b4-91ab6e6eee9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaTrvalehoPobytuSuhrn']</value>
+      <webElementGuid>7b42ec84-d19f-41de-9130-48f30212f3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>c09be778-d8c0-4e6d-b06e-3d3494751e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa trvalého pobytu'])[2]/following::div[1]</value>
+      <webElementGuid>9b6afaed-9cf9-4e2f-8b9b-fc2dd859a930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/following::div[3]</value>
+      <webElementGuid>6728a5cb-183e-412d-a54d-1d69d37c2a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[2]/preceding::div[1]</value>
+      <webElementGuid>6f5c2739-272c-4bc6-a996-aa417215f002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[8]/preceding::div[2]</value>
+      <webElementGuid>1c8f1bdf-0ca3-487c-b465-f9b531d7863c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[3]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>0f6fdf45-d4d1-4c67-845f-e4e977fb40e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaTrvalehoPobytuSuhrn' and (text() = 'Štúrova 1435, Nitra, Slovenská republika' or . = 'Štúrova 1435, Nitra, Slovenská republika')]</value>
+      <webElementGuid>19740fb5-9a01-45b0-bb11-9b5eff796ee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

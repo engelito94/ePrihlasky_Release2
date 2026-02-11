@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tibor Zelen</name>
+   <tag></tag>
+   <elementGuidId>0f48441d-9dcf-4f05-b763-149e10798902</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vseobecne-meno-dietata</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='vseobecne-meno-dietata']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c72136e-6b8f-402a-bc32-532a6ce1530c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vseobecne-meno-dietata</value>
+      <webElementGuid>1ab860a5-141c-426c-a8dd-98f1825918ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tibor Zelený</value>
+      <webElementGuid>b8970190-1885-49dd-ba70-94f08200ff42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vseobecne-meno-dietata&quot;)</value>
+      <webElementGuid>1241e33f-ae50-4a7a-8138-03f5218197c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='vseobecne-meno-dietata']</value>
+      <webElementGuid>e01a78a7-74c3-4323-ac82-40f6bcec7d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='podrobnosti-prihlasky-content']/div[3]/div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>1f577b2b-195b-426e-992a-5f42ed868b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-2025-89916'])[1]/following::span[2]</value>
+      <webElementGuid>629956d9-3943-46fb-8e0a-82f2a3c51f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Všeobecné informácie'])[1]/following::span[4]</value>
+      <webElementGuid>438ffd2b-3c49-4bfb-81c3-59dad6a885e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[1]/preceding::span[3]</value>
+      <webElementGuid>061ef339-6b60-4385-8983-5e0358be54fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania'])[1]/preceding::span[3]</value>
+      <webElementGuid>99ec087e-656b-4b11-9d12-ffba5e00f2b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tibor Zelený']/parent::*</value>
+      <webElementGuid>5f61da60-97bf-4d71-a570-4f55749f2bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>8d0b046f-23fd-4bd4-bc53-3042b36b26dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'vseobecne-meno-dietata' and (text() = 'Tibor Zelený' or . = 'Tibor Zelený')]</value>
+      <webElementGuid>667ce6be-eda0-4931-9983-227ee508d88a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Upravi_1_2</name>
+   <tag></tag>
+   <elementGuidId>30ebe7c7-af10-4292-aad9-cddeabcccbca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='podrobnosti-prihlasky-content']/div[4]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-header > a.upravit-href.font-bold.govuk-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e4c497a1-80ab-476b-93c7-39c637e93ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Riaditel/Pridanie-dietata-upravit?guid=9b9e418b-d4fc-45e1-8fb7-836db7fa717f</value>
+      <webElementGuid>7d5e1ee2-f6d3-49b9-89d9-d2bf72cb984d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upravit-href font-bold govuk-link</value>
+      <webElementGuid>f833b17a-a0ba-467f-8bb8-4d57f5890996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upraviť</value>
+      <webElementGuid>0e75e964-6691-48a7-9a4b-604c505fa722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;podrobnosti-prihlasky-content&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-header&quot;]/a[@class=&quot;upravit-href font-bold govuk-link&quot;]</value>
+      <webElementGuid>f7740cf2-2002-4d9c-9467-805bafc3f28e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='podrobnosti-prihlasky-content']/div[4]/div/a</value>
+      <webElementGuid>cb46ce4d-5026-45b0-b25d-4fce88651b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Upraviť')])[3]</value>
+      <webElementGuid>26b85d3a-f6af-481b-b967-ea905874d56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podrobnosti o dieťati'])[1]/following::a[1]</value>
+      <webElementGuid>22253222-7aab-4d07-915a-e3921c183ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uložiť'])[2]/following::a[1]</value>
+      <webElementGuid>a8976dd8-6a13-4b13-bdf7-cb3bcd9089ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno a priezvisko dieťaťa'])[1]/preceding::a[1]</value>
+      <webElementGuid>a632baec-c0bf-479a-9ffc-7a8a1082cef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tibor Zelený'])[2]/preceding::a[1]</value>
+      <webElementGuid>62f32d64-62de-4f04-ac23-bcf8c4961cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Riaditel/Pridanie-dietata-upravit?guid=9b9e418b-d4fc-45e1-8fb7-836db7fa717f')]</value>
+      <webElementGuid>414d93d3-29ff-4df8-9d84-b365b232945e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a</value>
+      <webElementGuid>e8af4bea-8d33-4b1c-8af6-8fd05e963156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Riaditel/Pridanie-dietata-upravit?guid=9b9e418b-d4fc-45e1-8fb7-836db7fa717f' and (text() = 'Upraviť' or . = 'Upraviť')]</value>
+      <webElementGuid>e6ace77b-3122-40b4-99a4-b7c20f7f529f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

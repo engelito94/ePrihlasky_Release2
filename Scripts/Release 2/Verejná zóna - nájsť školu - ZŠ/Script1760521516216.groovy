@@ -1,0 +1,51 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint
+import com.kms.katalon.core.configuration.RunConfiguration
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+def filePath = RunConfiguration.getProjectDir()
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page_Vitajte v pilotnej verzii portlu Elekt_a4e96e/a_Domov_govuk-header__link'))
+
+'vizuálna kontrola ZŠ filtrov'
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page_Njs kolu  ePrihlky/li_Matersk koly_nav-item-najst-skolu-ZS'))
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/VymazatFiltreZS'))
+WebUI.delay(3)
+WebUI.waitForJQueryLoad(20)
+
+ String img = WebUI.takeFullPageScreenshot(filePath + '/Data Files/Screenshots/img.png')
+ String imgOriginal = filePath + '/Data Files/Screenshots/ZSfilter.png'
+ String imgOriginal1 = filePath + '/Data Files/Screenshots/ZSfilter_1.png'
+ 
+CustomKeywords.'test.compareImagesWithOptionalSecond'(img, imgOriginal, null, "ZSfilter")
+
+ 'vizuálna kontrola ZŠ filtrov - vlastná adresa'
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page_Njs kolu  ePrihlky/input_Hada poda mojej adresy_hladat-podla-r_df1d5a'))
+ 
+ 'karta školy - info o škole'
+ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_b4d569'),
+	 'základná škola Nitra')
+ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
+ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/ViacInfoZS'))
+ WebUI.delay(8)
+ WebUI.waitForJQueryLoad(20)
+
+ img = WebUI.takeFullPageScreenshot(filePath + '/Data Files/Screenshots/img.png')
+ imgOriginal = filePath +  '/Data Files/Screenshots/ZS.png'
+ 
+CustomKeywords.'test.compareImagesWithOptionalSecond'(img, imgOriginal, null, "ZS")

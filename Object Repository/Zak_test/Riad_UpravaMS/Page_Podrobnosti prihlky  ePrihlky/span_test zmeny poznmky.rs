@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_test zmeny poznmky</name>
+   <tag></tag>
+   <elementGuidId>dc10bc9b-f64b-4e72-a3a7-a93051c6512f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='vseobecne-poznamka']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vseobecne-poznamka</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f6faef1b-8fd0-480b-bbec-a6bad4acc827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vseobecne-poznamka</value>
+      <webElementGuid>03365dd9-5bd4-4eb4-aef0-593f2c9795be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test zmeny poznámky</value>
+      <webElementGuid>aaa90a77-8824-454a-90c9-f70435e1c761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vseobecne-poznamka&quot;)</value>
+      <webElementGuid>25eaed1b-de03-4d8e-bf43-e3d5f53a70d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='vseobecne-poznamka']</value>
+      <webElementGuid>ff6f31c8-d883-4b75-a94a-21148b4d29df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vseobecne-poznamka-read']/span</value>
+      <webElementGuid>aee99825-0910-4a68-9756-18f12f462f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poznámka školy'])[1]/following::span[1]</value>
+      <webElementGuid>399964e2-a624-4964-84f3-138345efc69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nástup dieťaťa zaevidoval'])[1]/following::span[1]</value>
+      <webElementGuid>3537890a-4488-4f4e-91e4-f8bddf988ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[2]/preceding::span[1]</value>
+      <webElementGuid>baf4ab3a-c72a-42af-a148-02d0968a1bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[2]/preceding::span[1]</value>
+      <webElementGuid>fca835ed-c56c-4568-8127-17e7a647d06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test zmeny poznámky']/parent::*</value>
+      <webElementGuid>d0c06d2a-82a5-48d2-8bbb-6fb2786771be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/span</value>
+      <webElementGuid>d6e1074f-e36e-4666-9d46-f4f8e31373f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'vseobecne-poznamka' and (text() = 'test zmeny poznámky' or . = 'test zmeny poznámky')]</value>
+      <webElementGuid>22330c6b-4cb6-47b8-912a-1cb41d81af6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

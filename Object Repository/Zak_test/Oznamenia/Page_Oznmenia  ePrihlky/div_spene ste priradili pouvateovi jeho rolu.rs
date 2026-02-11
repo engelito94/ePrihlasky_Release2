@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_spene ste priradili pouvateovi jeho rolu</name>
+   <tag></tag>
+   <elementGuidId>d39f9d7a-1045-44a8-a640-7d9fd2236209</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oznamenie-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f10d87a-45e6-4b3e-9051-5d9410e04bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oznamenie-title</value>
+      <webElementGuid>c9deb129-cb04-4e84-b690-18bb6baf950f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Úspešne ste priradili používateľovi jeho rolu</value>
+      <webElementGuid>89a15713-fd16-462c-8406-6f4fedba66b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-oznamenia&quot;)/div[@class=&quot;sub-container&quot;]/div[@class=&quot;riaditel-oznamenia-list&quot;]/div[@class=&quot;oznamenie-item&quot;]/div[@class=&quot;oznamenie-col1&quot;]/div[@class=&quot;oznamenie-title&quot;]</value>
+      <webElementGuid>38c0de01-8247-4ce7-a03d-244cbbcab3ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/div</value>
+      <webElementGuid>cf6936cd-ce39-4cd5-aca4-f811233fbd0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right_rounded'])[1]/following::div[3]</value>
+      <webElementGuid>6db919b8-f6af-4308-9047-c7d981606ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ďalšia'])[1]/following::div[3]</value>
+      <webElementGuid>e44b56a9-e656-4873-b5f4-6efcd04f15e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prejsť na prihlášku'])[1]/preceding::div[2]</value>
+      <webElementGuid>4f719bec-395e-416e-8d74-49e6b3c7ebc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Úspešne ste priradili používateľovi jeho rolu']/parent::*</value>
+      <webElementGuid>db99ff1f-a3d8-483f-a132-61290d2d7f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>190bd5fd-5750-4cd0-874c-d40eb1aff0bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Úspešne ste priradili používateľovi jeho rolu' or . = 'Úspešne ste priradili používateľovi jeho rolu')]</value>
+      <webElementGuid>1df06423-a913-4cc5-b259-0dc3f5cd2610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

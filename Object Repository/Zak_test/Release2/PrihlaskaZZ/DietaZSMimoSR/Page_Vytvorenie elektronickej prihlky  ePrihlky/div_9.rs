@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9</name>
+   <tag></tag>
+   <elementGuidId>8207f75e-329c-44f4-a065-566fbbbebb63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vysledky-vzdelavania-suhrn > div.panel-content > div.panel-item > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vysledky-vzdelavania-suhrn']/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f9ce153-e95c-46c2-aa62-a7f1a5451148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>veľmi dobré</value>
+      <webElementGuid>1ebfc30a-0ae3-4260-bcb8-c9fc091a7990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vysledky-vzdelavania-suhrn&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[2]</value>
+      <webElementGuid>8fc50317-855e-4d48-aec2-5725c800c285</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vysledky-vzdelavania-suhrn']/div[2]/div[2]/div[2]</value>
+      <webElementGuid>491548da-48ad-4511-9e54-320e46b78875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správanie'])[5]/following::div[1]</value>
+      <webElementGuid>855d01ab-324e-4f86-b648-251325516229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výsledky vzdelávania na základnej škole'])[3]/following::div[5]</value>
+      <webElementGuid>a3cb60b0-1229-47f6-a0e6-58ea9f7fa218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správanie'])[6]/preceding::div[3]</value>
+      <webElementGuid>c285b07c-007b-443f-9e70-b712837a9fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='veľmi dobré'])[6]/preceding::div[4]</value>
+      <webElementGuid>5681dd8f-9fa6-4069-b08e-8c706fa0a228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[9]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>74abfaeb-c699-4047-b40b-9da3f6cae506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'veľmi dobré' or . = 'veľmi dobré')]</value>
+      <webElementGuid>0ac37f4c-5c92-480a-b514-30e85169ef13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

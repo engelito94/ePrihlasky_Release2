@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vyuovac jazyk v zkladnej kole_vyucovaci_4f3991</name>
+   <tag></tag>
+   <elementGuidId>fff0f0ab-4eaf-4cfe-8cf9-3bb0adceaf74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vyucovaciJazykVZSSuhrn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='info-o-zs']/div[2]/div[7]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1af79415-513a-452f-812e-fc4304f947a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vyucovaciJazykVZSSuhrn</value>
+      <webElementGuid>4c4bd90a-ccee-4e77-a064-48ddd559d91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Francúzsky</value>
+      <webElementGuid>6d49186a-f967-4144-ab32-c5933ae5ad0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;info-o-zs&quot;)/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;vyucovaciJazykVZSSuhrn&quot;]</value>
+      <webElementGuid>d60aa681-5631-4605-ab09-69c05bf66d40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-o-zs']/div[2]/div[7]/div[2]</value>
+      <webElementGuid>fbb0c5a9-8b9b-452d-8c12-0535df416585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyučovací jazyk v základnej škole'])[4]/following::div[1]</value>
+      <webElementGuid>c98c0452-bb08-4234-aa9e-d97347f9d2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rok školskej dochádzky'])[4]/following::div[4]</value>
+      <webElementGuid>b4cd8c70-cf41-448e-b5a8-a9bca5b0c2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výsledky vzdelávania na základnej škole'])[3]/preceding::div[1]</value>
+      <webElementGuid>34637b73-fd73-4b4b-987e-459edaffb9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správanie'])[5]/preceding::div[4]</value>
+      <webElementGuid>98df670f-6c23-4148-a8b1-aff02d1b1ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Francúzsky']/parent::*</value>
+      <webElementGuid>bc3c507f-da24-4662-a1dc-a574fb9003c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div[7]/div[2]</value>
+      <webElementGuid>715a10f2-e075-4a22-bbb0-ee8d0ae92e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Francúzsky' or . = 'Francúzsky')]</value>
+      <webElementGuid>cb685b55-4d70-42cb-9dbb-90285a77627c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

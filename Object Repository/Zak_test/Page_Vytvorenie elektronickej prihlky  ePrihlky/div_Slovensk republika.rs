@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Slovensk republika</name>
+   <tag></tag>
+   <elementGuidId>0f35b37d-9841-48ed-99c3-ff3ed4c92b45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaStatnaPrislusnost</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaStatnaPrislusnost']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba5166bf-773a-4819-8c98-1a1526fd511f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaStatnaPrislusnost</value>
+      <webElementGuid>3b486cea-504c-4fd5-962f-d6a0d5b816ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slovenská republika</value>
+      <webElementGuid>6b50d45a-8608-4275-ba4d-0fa1d9246217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaStatnaPrislusnost&quot;)</value>
+      <webElementGuid>4aadc23a-15c8-48b6-ab18-32cfd732683e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaStatnaPrislusnost']</value>
+      <webElementGuid>ef4ea516-bb25-4174-bd8d-2fde5b34e1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[8]/div[2]</value>
+      <webElementGuid>1f60f6b6-2756-46af-a1b4-effe8fa97ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Štátna príslušnosť'])[2]/following::div[1]</value>
+      <webElementGuid>09fb907f-0fbd-40a0-8a94-b7cd8189e7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenská'])[3]/following::div[3]</value>
+      <webElementGuid>a11cf9fb-c570-4d15-9ff3-4162d8f74e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materinský jazyk'])[2]/preceding::div[1]</value>
+      <webElementGuid>dd040556-e6fb-4511-a846-99e05dd41914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[3]/preceding::div[2]</value>
+      <webElementGuid>47b9c25a-eaa7-423f-90d6-36bb99a8e57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[8]/div[2]</value>
+      <webElementGuid>9d602ef3-c4c6-4769-977a-9ad475e1f196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaStatnaPrislusnost' and (text() = 'Slovenská republika' or . = 'Slovenská republika')]</value>
+      <webElementGuid>d42b14d8-3ae0-4bb9-9faf-d515faf0147e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Korepondenn adresa_zakonnyZastupcaAdres_9d2f75</name>
+   <tag></tag>
+   <elementGuidId>9c4871ad-a8b6-4c4f-8363-ce7c61e0f53a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zakonnyZastupcaAdresaBydliska</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zakonnyZastupcaAdresaBydliska']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6b1ac4f-7029-4966-84fa-f575f212c0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zakonnyZastupcaAdresaBydliska</value>
+      <webElementGuid>c5009d51-6511-4330-8953-b4f54910047a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nitra (Nitra) 1435, Nitra (Nitra), Slovenská republika</value>
+      <webElementGuid>20c2fe8b-63a0-484c-a25b-91f172f97a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zakonnyZastupcaAdresaBydliska&quot;)</value>
+      <webElementGuid>fd9e2ab4-40e0-44ef-b64f-a1cf422970aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zakonnyZastupcaAdresaBydliska']</value>
+      <webElementGuid>939ea43b-fd16-4a18-935f-6ed6d5b2734c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz1']/div[7]/div[2]</value>
+      <webElementGuid>4c2fc485-8edb-4ec3-9669-7095070fe4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Korešpondenčná adresa'])[3]/following::div[1]</value>
+      <webElementGuid>14e0faf3-2d10-4ae4-a913-d725e4e42f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[6]/following::div[4]</value>
+      <webElementGuid>77e67730-5f97-4146-b742-93503fdf51e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[4]/preceding::div[1]</value>
+      <webElementGuid>ecf0305b-4bc5-4739-86a9-1696d5b9769e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[12]/preceding::div[2]</value>
+      <webElementGuid>e2bd558e-6c71-4a50-9ab7-9d2a071eadfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[7]/div[2]</value>
+      <webElementGuid>fb04b8c6-c562-4436-b0a4-2c760d15803d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zakonnyZastupcaAdresaBydliska' and (text() = 'Nitra (Nitra) 1435, Nitra (Nitra), Slovenská republika' or . = 'Nitra (Nitra) 1435, Nitra (Nitra), Slovenská republika')]</value>
+      <webElementGuid>3bf2b87f-a131-4b2c-946c-a0e4288f82ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

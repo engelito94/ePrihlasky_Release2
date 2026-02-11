@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AUTO060425</name>
+   <tag></tag>
+   <elementGuidId>06272ead-c718-4d3c-a9a9-07ce07d4a61d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.riaditel-rozhodnutia-list-row > div.cell.id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-rozhodnutia']/div[5]/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8315e275-dc95-4684-bb85-6a47eeef5b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell id</value>
+      <webElementGuid>eb697de5-25c0-42ec-8d83-d6b62f9ea31a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AUTO060425</value>
+      <webElementGuid>45cbbf08-1ade-4420-8bcd-3e34d82cdb8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-rozhodnutia&quot;)/div[@class=&quot;riaditel-rozhodnutia-list&quot;]/div[@class=&quot;riaditel-rozhodnutia-list-inner-wrapper&quot;]/div[@class=&quot;riaditel-rozhodnutia-list-row&quot;]/div[@class=&quot;cell id&quot;]</value>
+      <webElementGuid>50fc8644-ef0b-46f2-a54e-c6ca049d35df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-rozhodnutia']/div[5]/div[2]/div[2]/div[3]</value>
+      <webElementGuid>c5078096-d78f-458c-9eba-f8702965fd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marek Varga'])[2]/following::div[2]</value>
+      <webElementGuid>1b86f861-26d1-42a0-8f38-733319ecbe27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nevalidované voči RFO'])[28]/following::div[3]</value>
+      <webElementGuid>34a2fe1d-a4fa-49f4-b126-aca738af6300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tariel Okrúhliaková'])[1]/preceding::div[1]</value>
+      <webElementGuid>bb07a83e-7b33-479a-a75a-f6b6f57bab60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(neaktivovaný eDesk)'])[1]/preceding::div[2]</value>
+      <webElementGuid>790a3356-a048-4d32-adc1-c848ea8d5143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AUTO060425']/parent::*</value>
+      <webElementGuid>d53100fb-c50e-437a-82e9-c00f66cfdf5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[5]/div[2]/div[2]/div[3]</value>
+      <webElementGuid>9009d9a8-c040-4cd6-b77e-3e8329c27679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AUTO060425' or . = 'AUTO060425')]</value>
+      <webElementGuid>be243e94-dd73-44b8-a0fb-7bf03b20e06a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

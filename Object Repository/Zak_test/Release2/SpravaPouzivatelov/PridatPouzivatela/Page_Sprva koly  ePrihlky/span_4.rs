@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_4</name>
+   <tag></tag>
+   <elementGuidId>f2c705b1-d674-44f0-be69-70700985e6c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sprava-pouzivatelov']/div/div/div/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>886ae045-e8f5-4ce6-a9d1-a4d43bda129c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dušan Lemo</value>
+      <webElementGuid>2b4481e2-4c91-4cb8-95f1-27b8b862fcd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;sprava-pouzivatelov-main&quot;]/div[@class=&quot;pouzivatel-item-container&quot;]/div[@class=&quot;pouzivatel-item&quot;]/div[@class=&quot;pouzivatel-name-wrapper&quot;]/div[1]/span[1]</value>
+      <webElementGuid>e6e63f2c-7ad2-4ffa-9cc0-3f6d095bcb76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sprava-pouzivatelov']/div/div/div/div[3]/div/div/span</value>
+      <webElementGuid>332562ec-8ebe-41e7-8323-511eb44235d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[2]/following::span[1]</value>
+      <webElementGuid>81925d14-0cc4-4081-91ab-019cd270dbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potvrdiť'])[2]/following::span[2]</value>
+      <webElementGuid>3440bda4-2036-41df-943c-163c374272e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID: 930593019'])[1]/preceding::span[1]</value>
+      <webElementGuid>12f14ea9-5e7e-45e7-9be6-af226892fb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rola'])[2]/preceding::span[1]</value>
+      <webElementGuid>f5618196-6399-47e5-8478-598d1040b170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dušan Lemo']/parent::*</value>
+      <webElementGuid>caf5a6a2-1dde-4839-a696-51bbbda720c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[3]/div/div/span</value>
+      <webElementGuid>990064c1-b8c7-4e4c-982a-bb4212d0da3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dušan Lemo' or . = 'Dušan Lemo')]</value>
+      <webElementGuid>995857ad-f9f2-456d-8b00-f241400d4810</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

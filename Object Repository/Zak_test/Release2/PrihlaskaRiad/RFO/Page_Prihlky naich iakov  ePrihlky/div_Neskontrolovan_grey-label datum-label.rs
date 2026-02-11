@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Neskontrolovan_grey-label datum-label</name>
+   <tag></tag>
+   <elementGuidId>2b57f3b5-cda1-4fb4-a75f-8b0941ec1196</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grey-label.datum-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[4]/div/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b91310d-3dc3-4268-b966-3a752942fa2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-label datum-label</value>
+      <webElementGuid>ff890b05-2e9d-4ebc-b74e-eec038bb46ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>03.02.2026</value>
+      <webElementGuid>882e1ba7-e0fa-4072-b90c-f5f832d14f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-prihlasky-na-strednu-skolu&quot;)/div[@class=&quot;riaditel-prihlasky-nasich-ziakov-container&quot;]/div[@class=&quot;scrollable-middle-area&quot;]/div[@class=&quot;scroll-content-wrapper&quot;]/div[@class=&quot;row data-row&quot;]/div[@class=&quot;riaditel-prihlasky-cell&quot;]/div[@class=&quot;grey-label datum-label&quot;]</value>
+      <webElementGuid>0869904c-6575-4cd8-a6cc-61430f4db942</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[4]/div/div[2]/div[3]/div</value>
+      <webElementGuid>6aec00dd-af98-4368-af0a-63132ddf6ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neskontrolovaná'])[1]/following::div[2]</value>
+      <webElementGuid>b8b2a85d-527d-4349-90c7-648eac3626a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skontrolovaná'])[1]/following::div[3]</value>
+      <webElementGuid>798faa29-df93-45ec-bf3b-87a383d98db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Papierovo ZŠ'])[1]/preceding::div[1]</value>
+      <webElementGuid>c1be328c-28d7-461f-9d8b-0207b0d63966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talent'])[1]/preceding::div[4]</value>
+      <webElementGuid>241205ed-e663-4990-9f6c-1f986c790ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='03.02.2026']/parent::*</value>
+      <webElementGuid>1db78887-9643-4533-b7e6-d6b8b7a203df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>a8b7d992-c860-4abb-93cf-85c11c01eecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '03.02.2026' or . = '03.02.2026')]</value>
+      <webElementGuid>3f11ddd2-af72-4d32-aa7e-6fc5c374c3b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

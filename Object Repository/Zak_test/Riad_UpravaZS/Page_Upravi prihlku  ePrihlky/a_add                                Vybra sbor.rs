@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_add                                Vybra sbor</name>
+   <tag></tag>
+   <elementGuidId>040a3c25-6a48-40b7-aabc-447176054cfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='vybratPrilohuButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vybratPrilohuButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c1a0e5b6-30e1-46b4-978e-cb795a689e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vybratPrilohuButton</value>
+      <webElementGuid>4101aab9-0328-49f1-b47c-ce7b36b772af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__large dz-clickable</value>
+      <webElementGuid>249fbb95-1d0b-41cf-aae3-198fbf0bb2ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>a61a6a34-9c7f-408e-ade9-b0ad81ef9891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>63d9dd68-dbde-415a-a847-503794ed9a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                add
+                                Vybrať súbor
+                            </value>
+      <webElementGuid>4b0c501d-2e9c-4631-a261-50ee800ea1c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vybratPrilohuButton&quot;)</value>
+      <webElementGuid>c19c5179-1972-41bb-a08e-0eade0822efb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='vybratPrilohuButton']</value>
+      <webElementGuid>720338f3-0126-4538-8e0f-96c6c0101b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dropZoneContentMain']/div/a</value>
+      <webElementGuid>7a158d3b-6a68-475e-9535-47e9c284b5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='alebo ho sem potiahnite (max. 10 MB)'])[1]/following::a[1]</value>
+      <webElementGuid>c1631b18-b750-4896-8c24-46fa053898dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrajte súbor'])[1]/following::a[1]</value>
+      <webElementGuid>9a55382e-1cf1-4570-91ea-d8552a8ab1d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrané súbory'])[1]/preceding::a[3]</value>
+      <webElementGuid>81ed93b1-39f0-45cf-a45e-37cc1134d703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rozhodnutie súdu'])[2]/preceding::a[3]</value>
+      <webElementGuid>effa24c5-eff2-4f37-adab-0054e63e1657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vybrať súbor']/parent::*</value>
+      <webElementGuid>a825adf0-4d6d-4d28-a0be-1a4234bf62df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0);')]</value>
+      <webElementGuid>05614b0d-98c4-4dfb-891a-1717f14b1b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>323963b2-1bee-46a6-b115-d6e10cc17428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'vybratPrilohuButton' and @href = 'javascript:void(0);' and (text() = '
+                                add
+                                Vybrať súbor
+                            ' or . = '
+                                add
+                                Vybrať súbor
+                            ')]</value>
+      <webElementGuid>0efde2e0-d275-4466-9b06-006b5b82d46b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

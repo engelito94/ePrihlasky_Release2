@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa trvalho pobytu_dietaAdresaTrvale_b334cc</name>
+   <tag></tag>
+   <elementGuidId>e0330b9e-a721-4e92-98b2-460e7b91a927</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaTrvalehoPobytuSuhrn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaTrvalehoPobytuSuhrn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0363adc0-61c6-4e49-b773-a1e88754de20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaTrvalehoPobytuSuhrn</value>
+      <webElementGuid>eeda9ea6-7b3d-423f-913e-c95997a49961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kráľová 654/23, 01514, Smižany (Spišská Nová Ves), Slovenská republika</value>
+      <webElementGuid>dcdcc195-ff90-4e8e-9210-9f1a48f329cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaTrvalehoPobytuSuhrn&quot;)</value>
+      <webElementGuid>29a8f116-be31-4429-a1c6-cce291546bf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaTrvalehoPobytuSuhrn']</value>
+      <webElementGuid>693d06c1-0936-4d4a-9345-6aa1932206d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>79f5874d-cbfa-41f6-894c-da1c225d929c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa trvalého pobytu'])[2]/following::div[1]</value>
+      <webElementGuid>504e6c9e-d62f-49c6-b726-ee14e8e0166a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[8]/following::div[3]</value>
+      <webElementGuid>7e9ba2f7-51b7-43b8-ba4b-8b8d5b825249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[2]/preceding::div[1]</value>
+      <webElementGuid>d2f7d132-d9b4-4cf4-9604-03d345561d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[9]/preceding::div[2]</value>
+      <webElementGuid>d3e5f376-0e55-485c-ae17-e70051261492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[3]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>b47809ad-10ca-4f47-ab47-395ccc1f318b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaTrvalehoPobytuSuhrn' and (text() = 'Kráľová 654/23, 01514, Smižany (Spišská Nová Ves), Slovenská republika' or . = 'Kráľová 654/23, 01514, Smižany (Spišská Nová Ves), Slovenská republika')]</value>
+      <webElementGuid>70ab2b66-d938-4cf2-9b4d-99a8b8359b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

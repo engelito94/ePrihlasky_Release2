@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Upravi</name>
+   <tag></tag>
+   <elementGuidId>8b4fae0f-f8cd-446c-a30e-50cf8a02acb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pdpDietata > div.panel-header > a.upravit-href.font-bold.govuk-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpDietata']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5a87456-04fc-4edb-b41e-b33babbacbd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Riaditel/Doplnujuce-potreby-dietata-upravit?guid=4895143c-cace-4e85-a0b3-ab5a4d225e86</value>
+      <webElementGuid>99f2feeb-a0d2-4467-a2fa-5687f767747b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upravit-href font-bold govuk-link</value>
+      <webElementGuid>493ba242-110e-4022-9c4e-4fb7eee86907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upraviť</value>
+      <webElementGuid>6e10ff92-ec8d-4143-8b64-b6c783758c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpDietata&quot;)/div[@class=&quot;panel-header&quot;]/a[@class=&quot;upravit-href font-bold govuk-link&quot;]</value>
+      <webElementGuid>71bcb738-a425-4ad3-b776-fe46c5354e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div/a</value>
+      <webElementGuid>79e823a6-ae35-4ffa-b26e-ed7021ffa4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Upraviť')])[5]</value>
+      <webElementGuid>bd83be78-037d-42db-bebc-7bc3b888961f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy a doplňujúce informácie o dieťati'])[1]/following::a[1]</value>
+      <webElementGuid>c78afe17-b066-4a47-9e8a-ff1fbbfa13bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Druhý zákonný zástupca nie je známy.'])[1]/following::a[1]</value>
+      <webElementGuid>8e8ecf90-01e6-4839-b8a9-95b8580e4727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy'])[1]/preceding::a[1]</value>
+      <webElementGuid>c654a169-afb0-426f-b2b8-4b0f9eeca0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/preceding::a[1]</value>
+      <webElementGuid>8c5c0706-6726-4418-b647-4ea78265a8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Riaditel/Doplnujuce-potreby-dietata-upravit?guid=4895143c-cace-4e85-a0b3-ab5a4d225e86')]</value>
+      <webElementGuid>49685710-fe1c-4d57-9320-0f2b07b51baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/a</value>
+      <webElementGuid>4f8e4db4-23a9-4474-957e-288f84caf89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Riaditel/Doplnujuce-potreby-dietata-upravit?guid=4895143c-cace-4e85-a0b3-ab5a4d225e86' and (text() = 'Upraviť' or . = 'Upraviť')]</value>
+      <webElementGuid>e92f0a64-fbf8-42f3-b745-6b36997242bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

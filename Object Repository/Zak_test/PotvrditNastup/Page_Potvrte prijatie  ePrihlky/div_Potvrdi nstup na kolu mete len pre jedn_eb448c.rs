@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Potvrdi nstup na kolu mete len pre jedn_eb448c</name>
+   <tag></tag>
+   <elementGuidId>050cefdf-5bf4-4cb6-be10-c64a6b806cf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='potvrdit-nastup-step1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.subtitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69946989-b5ff-4443-875e-d61470cdb9ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle</value>
+      <webElementGuid>b81e7a83-28b6-4426-af79-17f8c8f55dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Potvrdiť nástup na školu môžete len pre jednu školu. Pre všetky ostatné školy, kde bolo vydané rozhodnutie o prijatí, bude automaticky označené, že dieťa odmietlo nástup do školy.</value>
+      <webElementGuid>c414a492-e9ad-4ce6-9c4b-a6ce381cd053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;potvrdit-nastup-step1&quot;)/div[@class=&quot;subtitle&quot;]</value>
+      <webElementGuid>1ed05e3a-5f80-4fc4-a45d-f6f842fc6577</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='potvrdit-nastup-step1']/div</value>
+      <webElementGuid>8f886290-ee58-49c2-aa33-fa3e8c96b2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potvrdiť nástup do školy'])[1]/following::div[1]</value>
+      <webElementGuid>84477c44-21bc-4619-99e4-a64b8f1003af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potvrďte prijatie'])[2]/following::div[4]</value>
+      <webElementGuid>a88276d2-98c6-494c-b2cc-cec72fd05fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obmedzený čas na prijatie rozhodnutia'])[1]/preceding::div[1]</value>
+      <webElementGuid>3a05f2f4-2df1-4788-b6f7-ec71e9f428bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potvrdiť nástup alebo zmeniť potvrdenie nástupu pre vybranú školu môžete len do 15. júla.'])[1]/preceding::div[2]</value>
+      <webElementGuid>46a448bb-cc0c-45de-aeff-b3194c2edbaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Potvrdiť nástup na školu môžete len pre jednu školu. Pre všetky ostatné školy, kde bolo vydané rozhodnutie o prijatí, bude automaticky označené, že dieťa odmietlo nástup do školy.']/parent::*</value>
+      <webElementGuid>764e6768-4aff-47e7-a8bd-3af669e29665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>0819da28-9523-434c-a110-fdcb3cea2166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Potvrdiť nástup na školu môžete len pre jednu školu. Pre všetky ostatné školy, kde bolo vydané rozhodnutie o prijatí, bude automaticky označené, že dieťa odmietlo nástup do školy.' or . = 'Potvrdiť nástup na školu môžete len pre jednu školu. Pre všetky ostatné školy, kde bolo vydané rozhodnutie o prijatí, bude automaticky označené, že dieťa odmietlo nástup do školy.')]</value>
+      <webElementGuid>aa0d533c-e4f4-4e2a-a57f-215128c2165c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

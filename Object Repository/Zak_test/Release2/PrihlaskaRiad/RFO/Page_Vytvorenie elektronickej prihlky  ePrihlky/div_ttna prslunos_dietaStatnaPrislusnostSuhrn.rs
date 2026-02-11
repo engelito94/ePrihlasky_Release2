@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ttna prslunos_dietaStatnaPrislusnostSuhrn</name>
+   <tag></tag>
+   <elementGuidId>9573ad58-469e-4573-aa9a-66b96f24a0de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaStatnaPrislusnostSuhrn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaStatnaPrislusnostSuhrn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0b7a3ae-6937-4d5f-b64e-17d2706e2f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaStatnaPrislusnostSuhrn</value>
+      <webElementGuid>7ee3b04c-f5d7-4334-8cd0-64212832124a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slovenská republika</value>
+      <webElementGuid>f7c8cb53-ff36-4284-9cc0-ba70538b0be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaStatnaPrislusnostSuhrn&quot;)</value>
+      <webElementGuid>7f00e5c8-3b66-412f-b648-9f8b6340e657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaStatnaPrislusnostSuhrn']</value>
+      <webElementGuid>9cb9df84-3f8d-4321-afea-cbccb308184e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[9]/div[2]</value>
+      <webElementGuid>447c4cf8-b062-4f2a-b187-f4da827427ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Štátna príslušnosť'])[3]/following::div[1]</value>
+      <webElementGuid>1f46cfbd-7c16-412a-8e53-e360cf297acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenská'])[3]/following::div[3]</value>
+      <webElementGuid>a35bb3e5-d2fb-49f8-9b06-4725213c3c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Materinský jazyk'])[3]/preceding::div[1]</value>
+      <webElementGuid>f17287ff-900a-4948-926a-6c14587e5e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[6]/preceding::div[2]</value>
+      <webElementGuid>1cf4a203-ec36-49b8-96c2-978d27609f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[3]/div[2]/div[9]/div[2]</value>
+      <webElementGuid>6711ec9d-ae40-4150-b215-d9eebffe1351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaStatnaPrislusnostSuhrn' and (text() = 'Slovenská republika' or . = 'Slovenská republika')]</value>
+      <webElementGuid>80b01253-98b1-4fbd-bd7c-ca2307cbaa90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

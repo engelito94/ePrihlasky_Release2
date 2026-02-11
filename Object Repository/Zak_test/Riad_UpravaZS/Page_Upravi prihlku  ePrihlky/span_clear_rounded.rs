@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_clear_rounded</name>
+   <tag></tag>
+   <elementGuidId>a4828ac8-789c-4571-9f8b-948fd9f03c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='doplnujuce-potreby-dietata-upravit']/div[6]/div[2]/div[2]/div[8]/div[2]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pridanePrilohyContainer.pridanePrilohyContainer_1 > div.dz-preview.dz-file-preview > a.prilohaVymazanieLink > span.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5ad62270-0f91-46c8-a54e-32a3a3670d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>d11fab15-2348-4a82-8236-aac4b3d02ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2f31f7db-7ade-4439-a4de-067078f192c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>clear_rounded</value>
+      <webElementGuid>0f384362-cabd-4429-bb1e-841cca8c7b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;doplnujuce-potreby-dietata-upravit&quot;)/div[@class=&quot;prihlaska-form&quot;]/div[@class=&quot;prilohy-step&quot;]/div[@class=&quot;ziadost-form&quot;]/div[@class=&quot;pridanePrilohy&quot;]/div[@class=&quot;pridanePrilohyContainer pridanePrilohyContainer_1&quot;]/div[@class=&quot;dz-preview dz-file-preview&quot;]/a[@class=&quot;prilohaVymazanieLink&quot;]/span[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>c0faea77-a23a-49b0-9b0c-64b084aa5086</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='doplnujuce-potreby-dietata-upravit']/div[6]/div[2]/div[2]/div[8]/div[2]/div[2]/a/span</value>
+      <webElementGuid>00b08e68-aaa9-45f2-83bd-ad21cbe8ce84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokument.pdf'])[1]/following::span[3]</value>
+      <webElementGuid>193156f7-99a9-4847-b3bf-4734d787787f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rozhodnutie súdu'])[2]/following::span[6]</value>
+      <webElementGuid>b24e1c97-e253-4369-bc8e-f55f522674d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestné vyhlásenie zákonného zástupcu'])[2]/preceding::span[1]</value>
+      <webElementGuid>0cd79ffa-f326-4c20-a8fe-c6547040ea18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='obr2.png'])[1]/preceding::span[3]</value>
+      <webElementGuid>3c7c59c3-1120-4b05-ae9e-f4b5b57ca37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>71b9ceb3-4d64-4082-8bf4-03f322030118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'clear_rounded' or . = 'clear_rounded')]</value>
+      <webElementGuid>dd0e121b-73c7-44fe-ac84-1543f275a67f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

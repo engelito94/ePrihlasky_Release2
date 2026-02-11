@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prida pouvatea_idsk-card__description</name>
+   <tag></tag>
+   <elementGuidId>957aedc1-0b18-4578-b058-2b6b1f60d199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.idsk-card__description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sprava-pouzivatelov']/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8726ad67-c280-46c1-8928-229692f9d2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>idsk-card__description</value>
+      <webElementGuid>cf7a390c-94fb-4510-ade5-bc08a9b40c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vyhľadajte a zapojte odborníkov z vašej školy do procesu kontroly prihlášok.</value>
+      <webElementGuid>3a31e47d-902a-44d7-ac93-9a31e6b367f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;sprava-pouzivatelov-add&quot;]/div[@class=&quot;govuk-form-group idsk-card card-sprava-pouzivatelov&quot;]/div[@class=&quot;idsk-card__content&quot;]/div[@class=&quot;idsk-card__description&quot;]</value>
+      <webElementGuid>b8e80fc7-4bf6-4079-aa84-bd0790555611</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sprava-pouzivatelov']/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>58124a96-63cc-48b1-9120-ccc3653b7c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať používateľa'])[2]/following::div[1]</value>
+      <webElementGuid>f4b97ec9-108f-40d5-86ae-576fccaafd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať používateľa'])[1]/following::div[6]</value>
+      <webElementGuid>9645f717-974a-4c48-92d6-23d5d1ebc310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné polia sú označené'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a156d2f-a68c-4cdc-a192-7ba9aa37f1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte vášho kolegu'])[1]/preceding::div[2]</value>
+      <webElementGuid>2793a0cd-fb40-4621-80e1-13ef24bc179b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vyhľadajte a zapojte odborníkov z vašej školy do procesu kontroly prihlášok.']/parent::*</value>
+      <webElementGuid>5785be85-742b-4f82-8b4a-9628f96bf1b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>852a26a4-e36f-4229-97bd-d4bfbdcf692d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Vyhľadajte a zapojte odborníkov z vašej školy do procesu kontroly prihlášok.' or . = 'Vyhľadajte a zapojte odborníkov z vašej školy do procesu kontroly prihlášok.')]</value>
+      <webElementGuid>c8691452-a462-44c0-91e5-afe5c89924c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

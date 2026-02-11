@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Menej informci o kole_odbor-header</name>
+   <tag></tag>
+   <elementGuidId>82f34242-da80-479a-b43b-39582a9075db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.odbor-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='acc-heading-']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d7c4a05b-4c3f-4710-93a5-a3869c0ab267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>odbor-header</value>
+      <webElementGuid>8d8d489c-9fc6-48b5-86e9-7c9f106b0760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>elektrotechnika</value>
+      <webElementGuid>5c67649b-0b77-43b9-88c8-caba563600d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbor-ffadecfd-71c8-4cf3-acad-061e60fbff3c&quot;)/div[@class=&quot;govuk-accordion__section&quot;]/div[@class=&quot;govuk-accordion__section-header&quot;]/div[@class=&quot;govuk-accordion__section-heading govuk-heading-m&quot;]/div[@class=&quot;govuk-accordion__section-button flex-center-ver&quot;]/div[@id=&quot;acc-heading-&quot;]/div[@class=&quot;govuk-accordion__section-heading-text-focus odbor-header-container&quot;]/span[@class=&quot;odbor-header&quot;]</value>
+      <webElementGuid>72202722-6115-4a29-aab8-83ab9ebc24d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='acc-heading-']/div/span</value>
+      <webElementGuid>fd73457d-cdbe-40da-9fe4-0723f5fba26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menej informácií o škole'])[1]/following::span[2]</value>
+      <webElementGuid>6736c94c-8495-48b5-852e-42f71e142beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zobraziť profil školy'])[1]/following::span[3]</value>
+      <webElementGuid>61f89455-f8fc-4ae3-b002-30ae7e159d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netalentový odbor'])[1]/preceding::span[1]</value>
+      <webElementGuid>1844e5f1-5c5e-4657-b017-cbfd5fae6f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský a ruský s medzinár. programom'])[1]/preceding::span[2]</value>
+      <webElementGuid>d7e62077-0eb5-4121-a8b7-9d11b7b0b13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>64708ba4-f796-4161-83f4-069662404947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'elektrotechnika' or . = 'elektrotechnika')]</value>
+      <webElementGuid>fa076cf6-f780-4424-b7be-770f8acee4dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

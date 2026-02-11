@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Min. 8 znakov. Mus obsahova vek psmeno_3c50b9</name>
+   <tag></tag>
+   <elementGuidId>3f29b199-ffb1-4180-b72e-6372fdef2d47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='heslo']/div/div[2]/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#heslo > div.govuk-form-group.input-control.required > div.input-wrapper > span.material-icons.password-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03189c93-3984-4ed3-88f3-c95d6488b737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons password-icon</value>
+      <webElementGuid>a1c1d2d9-1400-40f5-95cd-37f0abcebe3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f9c04a75-0510-49fd-b569-fc4d89e4ea33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            visibility
+        </value>
+      <webElementGuid>8363a4c2-437c-4fa6-bf63-f7494d1c431c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heslo&quot;)/div[@class=&quot;govuk-form-group input-control required&quot;]/div[@class=&quot;input-wrapper&quot;]/span[@class=&quot;material-icons password-icon&quot;]</value>
+      <webElementGuid>d193a4d8-5695-461d-88a6-47ce3a52814b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='heslo']/div/div[2]/span[4]</value>
+      <webElementGuid>97123de7-8593-4170-81fc-b6dab6f3475e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min. 8 znakov. Musí obsahovať veľké písmeno, číslicu a aspoň jeden špeciálny znak (#@^;..)'])[1]/following::span[4]</value>
+      <webElementGuid>752f3d6f-0420-40a2-99ad-caad821c2a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[3]/following::span[5]</value>
+      <webElementGuid>537a2d36-ad7e-4c0e-baa7-408c5b26bbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zopakujte heslo'])[1]/preceding::span[3]</value>
+      <webElementGuid>835ae541-01e5-4c62-98b4-d83f69302b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[4]/preceding::span[3]</value>
+      <webElementGuid>93011e29-1b09-416d-abbd-1c1b6ef20072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/span[4]</value>
+      <webElementGuid>b29c5b8d-c858-4825-bae0-e5399dd69894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+            visibility
+        ' or . = '
+            visibility
+        ')]</value>
+      <webElementGuid>2ddad62d-ef81-44bc-8fcc-4994e5baa7aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

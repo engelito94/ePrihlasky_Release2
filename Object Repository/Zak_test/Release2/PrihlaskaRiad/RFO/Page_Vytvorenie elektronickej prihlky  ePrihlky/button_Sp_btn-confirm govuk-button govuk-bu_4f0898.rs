@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sp_btn-confirm govuk-button govuk-bu_4f0898</name>
+   <tag></tag>
+   <elementGuidId>e1aeca09-f48d-40ac-ad14-5908676ba1b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-confirm.govuk-button.govuk-button__large.last-focusable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[2]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>167f1d5a-020a-4e6c-8137-7435f6f2ac45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-confirm govuk-button govuk-button__large last-focusable</value>
+      <webElementGuid>8b348677-c390-454d-81dc-b9a03bf78a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pokračovať</value>
+      <webElementGuid>717888bc-a22e-45ab-90ef-25d1cb9681f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;modal-wrapper confirm-modal-wrapper&quot;]/div[@class=&quot;modal confirm-modal modal-119-MO&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-confirm govuk-button govuk-button__large last-focusable&quot;]</value>
+      <webElementGuid>48012b09-d060-495e-82af-c76bedfb63ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[2]/following::button[1]</value>
+      <webElementGuid>d942bc53-7653-431f-a42c-d0b9ab6b4957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skontrolujte zadané osobné údaje alebo pokračujte v podaní prihlášky.'])[1]/following::button[2]</value>
+      <webElementGuid>09308b54-e2dd-4173-9b30-0ad2ad6971b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pokračovať']/parent::*</value>
+      <webElementGuid>13465035-be39-42a5-b2f9-3345a830d851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>f73eda6b-0742-44a4-ad99-6834fdee5fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pokračovať' or . = 'Pokračovať')]</value>
+      <webElementGuid>8ee3f761-8883-4678-bdeb-1ee9a2c7852d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

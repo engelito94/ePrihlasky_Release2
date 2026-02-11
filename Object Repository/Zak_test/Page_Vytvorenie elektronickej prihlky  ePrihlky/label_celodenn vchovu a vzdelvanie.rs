@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_celodenn vchovu a vzdelvanie</name>
+   <tag></tag>
+   <elementGuidId>916b75b3-f662-42cf-94c7-5e27a7ae050e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='msCelodennaVychovaRadio']/div/fieldset/div[3]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c5c410a1-60b5-48c8-b327-770b21f826e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label govuk-radios__label</value>
+      <webElementGuid>c5855334-f18f-4784-8c98-cbf32998dd98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>msCelodennaVychovaRadio_option_1</value>
+      <webElementGuid>f7768dcb-09a0-4763-b2f0-5b37153d0970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>celodennú výchovu a vzdelávanie</value>
+      <webElementGuid>06a29b99-e647-4273-a950-0033abed7a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;msCelodennaVychovaRadio&quot;)/div[@class=&quot;govuk-form-group radiogroup-control required&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
+      <webElementGuid>9e9d4448-8461-42ef-b53d-ba03d2155302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='msCelodennaVychovaRadio']/div/fieldset/div[3]/div[2]/label</value>
+      <webElementGuid>9438115b-2756-4a65-a6ea-cebf307d5397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='poldennú výchovu a vzdelávanie'])[1]/following::label[1]</value>
+      <webElementGuid>2d5c7e67-6511-4923-99aa-7a815dcbb5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[40]/following::label[2]</value>
+      <webElementGuid>d03f12fb-c8dc-4130-a73d-88161e66c07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Požadovaná výchova'])[1]/preceding::label[1]</value>
+      <webElementGuid>e5879e7c-3474-4048-94a6-412ba822ee60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[41]/preceding::label[1]</value>
+      <webElementGuid>2056cbd3-1cd5-44cd-b74e-4fe442a6d991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='celodennú výchovu a vzdelávanie']/parent::*</value>
+      <webElementGuid>7ca8314a-4324-4031-b629-65224caca112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div/fieldset/div[3]/div[2]/label</value>
+      <webElementGuid>b20039c4-e48a-453f-8218-d374b990971f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'celodennú výchovu a vzdelávanie' or . = 'celodennú výchovu a vzdelávanie')]</value>
+      <webElementGuid>aac9c19c-d6ef-41c6-828a-6288bee20722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

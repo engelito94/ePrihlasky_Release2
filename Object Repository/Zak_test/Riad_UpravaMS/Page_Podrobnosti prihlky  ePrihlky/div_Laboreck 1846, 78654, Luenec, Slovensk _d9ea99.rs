@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Laboreck 1846, 78654, Luenec, Slovensk _d9ea99</name>
+   <tag></tag>
+   <elementGuidId>e9f6c3e5-bcbf-49e3-b736-096c317b5405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaTrvalehoPobytu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaTrvalehoPobytu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f92627b0-d709-44b5-8abf-066bf762929d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaTrvalehoPobytu</value>
+      <webElementGuid>64a30fd6-d772-44e2-9c02-9bd634d9cf95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laborecká 18/46, 78654, Lučenec, Slovenská republika</value>
+      <webElementGuid>3e64f32c-6c4e-4f57-9a44-0cb20af2d871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaTrvalehoPobytu&quot;)</value>
+      <webElementGuid>2735ee64-a37f-439f-a268-f8e4c7334fff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaTrvalehoPobytu']</value>
+      <webElementGuid>205dc4cc-3d67-40f9-87ce-87685fd2fde1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='podrobnosti-prihlasky-content']/div[4]/div[2]/div[11]/div[2]</value>
+      <webElementGuid>64cbaeff-36af-4e90-b01b-3aff309997a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa trvalého pobytu'])[1]/following::div[1]</value>
+      <webElementGuid>1766869e-bb82-452f-94a4-1d3a6ebf6e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kórejský'])[1]/following::div[3]</value>
+      <webElementGuid>67db194f-d29c-4863-b0cc-a3636aa78664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[1]/preceding::div[1]</value>
+      <webElementGuid>16cf9230-29e0-4eec-9b29-79e2a132e5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laborecká 18/46, 78654, Lučenec, Slovenská republika'])[2]/preceding::div[2]</value>
+      <webElementGuid>3e0eb6ca-283b-4712-9807-520a4698ae96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laborecká 18/46, 78654, Lučenec, Slovenská republika']/parent::*</value>
+      <webElementGuid>603dd125-55e0-4df0-9dff-aa7772a492dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]</value>
+      <webElementGuid>bf1fbcda-d4b5-47a5-8079-ce7c70fd9728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaTrvalehoPobytu' and (text() = 'Laborecká 18/46, 78654, Lučenec, Slovenská republika' or . = 'Laborecká 18/46, 78654, Lučenec, Slovenská republika')]</value>
+      <webElementGuid>20a49c85-aab5-4f87-87cc-411321ecc263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

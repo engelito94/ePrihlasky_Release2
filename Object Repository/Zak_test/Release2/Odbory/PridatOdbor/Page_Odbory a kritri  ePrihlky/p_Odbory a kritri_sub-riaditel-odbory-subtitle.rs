@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Odbory a kritri_sub-riaditel-odbory-subtitle</name>
+   <tag></tag>
+   <elementGuidId>a75cbee1-73d0-4421-bc09-a0399db0d9b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='#sub-riaditel-odbory-subtitle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bf7b3939-4cea-4429-b4c7-c1cf670f5cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>#sub-riaditel-odbory-subtitle</value>
+      <webElementGuid>5ce66078-03b8-45a0-b352-1daadf173a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle main-subtitle</value>
+      <webElementGuid>85248720-68b3-4a4b-97df-7c758edabf2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spravujte svoje odbory a kritériá.</value>
+      <webElementGuid>6c2ba9ce-08bf-47af-a693-1d3fdd20d3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#sub-riaditel-odbory-subtitle&quot;)</value>
+      <webElementGuid>f23749c7-18cf-49b3-8843-b4b61652e423</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='#sub-riaditel-odbory-subtitle']</value>
+      <webElementGuid>6414807a-7cad-4c5e-bd71-d348dc825555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-a-kriteria-content']/div/p</value>
+      <webElementGuid>0bfbe1b9-c603-4fa2-9767-72d3d4cfd243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odbory a kritériá'])[2]/following::p[1]</value>
+      <webElementGuid>5bfa9080-3ae3-433c-a045-916576196f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::p[1]</value>
+      <webElementGuid>eb601917-b3a0-4616-a04e-85771eaecbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odbory'])[1]/preceding::p[2]</value>
+      <webElementGuid>3db386e1-6eb1-4c4d-b7eb-db819a475a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kritériá'])[1]/preceding::p[2]</value>
+      <webElementGuid>b8cca39c-d24d-4de3-97f7-c51531be6d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spravujte svoje odbory a kritériá.']/parent::*</value>
+      <webElementGuid>25114350-3eeb-4869-93af-6d9f0c259659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>ed5dc356-1f29-4691-a088-2e4c9c263d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = '#sub-riaditel-odbory-subtitle' and (text() = 'Spravujte svoje odbory a kritériá.' or . = 'Spravujte svoje odbory a kritériá.')]</value>
+      <webElementGuid>127d2482-df81-48dc-abb8-fc6cd3fd3d4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

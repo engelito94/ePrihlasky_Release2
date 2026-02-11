@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Doplujce informcie o dieati</name>
+   <tag></tag>
+   <elementGuidId>d5ba79ee-7b58-4141-9cfa-ea973b2c4dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpDietata']/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e6eb6aa-7ef7-4697-8d68-d7777735fa6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sectionHeader</value>
+      <webElementGuid>7ca4d238-492c-4611-9fdf-2991130c33fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doplňujúce informácie o dieťati</value>
+      <webElementGuid>6f80e98b-6874-4b95-a93f-4b78f284a62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpDietata&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;sectionHeader&quot;]</value>
+      <webElementGuid>bfd86a86-82c6-487e-9c90-29eb6705db31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div[2]/div[4]</value>
+      <webElementGuid>337fd5eb-ca90-4369-b77a-ee95898bd587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokument (1).pdf / Rozhodnutie súdu'])[1]/following::div[2]</value>
+      <webElementGuid>d92c20b6-b38d-415f-9d11-2bd60c13ab26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::div[2]</value>
+      <webElementGuid>e788b2db-5dbc-4d17-ad82-774a84493726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiadam o prijatie dieťaťa na'])[2]/preceding::div[1]</value>
+      <webElementGuid>f75b7492-9a55-4c2a-8df1-aabc1fa9e898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[10]/preceding::div[2]</value>
+      <webElementGuid>9e305975-92cb-4fba-af8b-0fa1fa397ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[4]</value>
+      <webElementGuid>a51e19a2-cab5-4fcd-898a-2bea48f6da03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Doplňujúce informácie o dieťati' or . = 'Doplňujúce informácie o dieťati')]</value>
+      <webElementGuid>7f9bb98d-03d4-4435-9c31-8e2efb4a2f14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

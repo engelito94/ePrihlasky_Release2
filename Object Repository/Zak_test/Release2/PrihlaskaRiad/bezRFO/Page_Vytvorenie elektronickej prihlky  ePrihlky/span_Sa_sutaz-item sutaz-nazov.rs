@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sa_sutaz-item sutaz-nazov</name>
+   <tag></tag>
+   <elementGuidId>59683e4b-01fe-47d1-8b68-ae1e4173a180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sutaz-item.sutaz-nazov</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sutaze-suhrn']/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>79a7d498-c0c0-40a0-83de-e0fc882d7f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sutaz-item sutaz-nazov</value>
+      <webElementGuid>a97bb114-9102-45a6-9d72-0215ce82301c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smižankovice</value>
+      <webElementGuid>0fa9a0c2-d00e-4afa-ae2c-6d5fa752845c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sutaze-suhrn&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sutaz-element&quot;]/span[@class=&quot;sutaz-item sutaz-nazov&quot;]</value>
+      <webElementGuid>1e954fc9-1f95-46bf-9d65-a013e81accad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sutaze-suhrn']/div[2]/div/div/span</value>
+      <webElementGuid>4ef73068-3a19-4535-8e69-6cb84c90ced0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súťaž'])[3]/following::span[1]</value>
+      <webElementGuid>15fac1bb-7257-4366-84b7-c256bcb5e5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súťaže'])[3]/following::span[1]</value>
+      <webElementGuid>95f2d0d1-4649-4b63-b18d-aee72da651ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bez umiestnenia - Školská úroveň'])[1]/preceding::span[1]</value>
+      <webElementGuid>d8755bae-bea8-4663-a1ea-32c0d81ce965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Športové - Cyklistika'])[3]/preceding::span[2]</value>
+      <webElementGuid>547b1137-78aa-4c5f-8c71-f1700761cdde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div/span</value>
+      <webElementGuid>c9014eb4-ba85-420a-acc5-4658e29726bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Smižankovice' or . = 'Smižankovice')]</value>
+      <webElementGuid>9da8699f-b720-4077-904e-89d86d4efb2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

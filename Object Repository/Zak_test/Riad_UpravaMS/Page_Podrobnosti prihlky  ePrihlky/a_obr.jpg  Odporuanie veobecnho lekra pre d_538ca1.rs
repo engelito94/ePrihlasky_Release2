@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_obr.jpg  Odporuanie veobecnho lekra pre d_538ca1</name>
+   <tag></tag>
+   <elementGuidId>db358a6a-11bc-4b73-b624-278a13f0a72d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prilohyContainer']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prilohaItem > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d34f9b6e-3bf9-4f65-9899-66e191f2b812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-guid</name>
+      <type>Main</type>
+      <value>8b682d2b-b95f-443a-bf22-ed68740c89b3</value>
+      <webElementGuid>fb9acd31-b6be-4459-9c48-200af6eeface</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>d1026cf6-cbf4-4e11-855e-ccb512bf2f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>obr.jpg / Odporučanie všeobecného lekára pre deti a dorast</value>
+      <webElementGuid>ec102edf-b308-4f53-82c6-2f22416c7b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prilohyContainer&quot;)/div[@class=&quot;prilohaItem&quot;]/a[1]</value>
+      <webElementGuid>d536cf42-359d-4041-b9ef-67ff1e624052</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prilohyContainer']/div/a</value>
+      <webElementGuid>5884e10e-fd37-4375-9c2b-6fcf40c785c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'obr.jpg / Odporučanie všeobecného lekára pre deti a dorast')]</value>
+      <webElementGuid>1d126e2f-d240-4c46-afa7-36e25afcba49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::a[1]</value>
+      <webElementGuid>a36fa0e7-d408-4cef-bfa9-4ca947d9d12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy'])[1]/following::a[1]</value>
+      <webElementGuid>6876ecd3-40dd-4c80-bc9b-35cf180f75e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doplňujúce informácie o dieťati'])[1]/preceding::a[1]</value>
+      <webElementGuid>d7f88e9b-6b72-4c80-82ab-57685e456732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celodenná výchova'])[1]/preceding::a[1]</value>
+      <webElementGuid>8b29aed9-5f2b-4dec-a57e-8b32ff5a0131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='obr.jpg / Odporučanie všeobecného lekára pre deti a dorast']/parent::*</value>
+      <webElementGuid>678b5f80-9817-484d-a529-854d64f34bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0);')]</value>
+      <webElementGuid>1768f354-bdfa-4898-8b62-53938d526ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/div/a</value>
+      <webElementGuid>eb5d837c-a4e0-4bcc-b4bc-e5102ef42e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'obr.jpg / Odporučanie všeobecného lekára pre deti a dorast' or . = 'obr.jpg / Odporučanie všeobecného lekára pre deti a dorast')]</value>
+      <webElementGuid>b172190f-7b24-4c69-a75a-f9884237125c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

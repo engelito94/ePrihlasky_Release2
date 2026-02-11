@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Dnes</name>
+   <tag></tag>
+   <elementGuidId>d632de1d-5035-4c12-9cb9-75fe06beb6db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ranges > ul > li:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Dnes' or . = 'Dnes')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d2b27650-1415-4fc6-9274-7a0db58704fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-range-key</name>
+      <type>Main</type>
+      <value>Dnes</value>
+      <webElementGuid>4a3f961c-b60b-414f-a87c-68531cae5a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dnes</value>
+      <webElementGuid>e33cbf96-e22e-4b8c-b2dd-e94c00a6065c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;daterangepicker ltr auto-apply show-ranges show-calendar opensright&quot;]/div[@class=&quot;ranges&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>3dc50b69-d78a-4c45-ae8e-a19e5349db67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celé obdobie'])[1]/following::li[1]</value>
+      <webElementGuid>4054ced0-9e91-4f14-9394-eb6999e9b1c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013 - 2025, eprihlasky.iedu.sk'])[1]/following::li[2]</value>
+      <webElementGuid>f41aaae9-e39b-4975-b44a-53900ac3222c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posledných 7 dní'])[1]/preceding::li[1]</value>
+      <webElementGuid>65a2fd96-08e7-444d-b769-1ca07937324f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posledných 14 dní'])[1]/preceding::li[2]</value>
+      <webElementGuid>b55fa8af-726e-4f76-a27b-5952ba6a1894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dnes']/parent::*</value>
+      <webElementGuid>38d70d82-aa0f-4785-8cb0-497c7ccad326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]</value>
+      <webElementGuid>d1278753-0c13-4dd7-98a2-c460136d0942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Dnes' or . = 'Dnes')]</value>
+      <webElementGuid>ea0c3adb-7286-4771-9782-1a563b2beea7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

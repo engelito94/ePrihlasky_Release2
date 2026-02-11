@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Poadovan prlohy boli doplnen</name>
+   <tag></tag>
+   <elementGuidId>1c54c9d3-faf0-4719-93ff-b1cce6ea659b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oznamenie-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18f5418b-e497-46ea-bacc-542da45fc296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oznamenie-title</value>
+      <webElementGuid>7422e1fb-4679-4725-9986-6eebb812f3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Požadované prílohy boli doplnené</value>
+      <webElementGuid>005e95c0-7dea-4e07-be2d-db06f771ad1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-oznamenia&quot;)/div[@class=&quot;sub-container&quot;]/div[@class=&quot;riaditel-oznamenia-list&quot;]/div[@class=&quot;oznamenie-item&quot;]/div[@class=&quot;oznamenie-col1&quot;]/div[@class=&quot;oznamenie-title&quot;]</value>
+      <webElementGuid>58882cdc-eea6-45ed-8d56-2b66679c1888</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/div</value>
+      <webElementGuid>2dc3cdef-791f-41d4-b0e2-02bbdf145191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right_rounded'])[1]/following::div[3]</value>
+      <webElementGuid>477bb7f9-a373-4ed1-b2d0-a7cf190b4c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ďalšia'])[1]/following::div[3]</value>
+      <webElementGuid>dbab42e2-9b54-4fe8-a70c-b7f1ba3a5af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prejsť na prihlášku'])[1]/preceding::div[2]</value>
+      <webElementGuid>7d4cb826-bff2-47a1-8ab7-1de042ffa3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prečítaná'])[1]/preceding::div[3]</value>
+      <webElementGuid>0b7a6a8a-bf0e-4c0a-8b09-1e308a4b6791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Požadované prílohy boli doplnené']/parent::*</value>
+      <webElementGuid>625bb4ba-6c93-4f79-bfee-1accc0a31d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>3fdfdf40-7e56-4e50-ba7a-fcbe625c8835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Požadované prílohy boli doplnené' or . = 'Požadované prílohy boli doplnené')]</value>
+      <webElementGuid>fb25798b-fce1-4b0d-8edd-078d1a041985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

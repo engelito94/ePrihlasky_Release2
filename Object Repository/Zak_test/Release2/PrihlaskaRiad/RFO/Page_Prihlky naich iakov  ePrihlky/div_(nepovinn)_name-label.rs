@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(nepovinn)_name-label</name>
+   <tag></tag>
+   <elementGuidId>71759b18-ab35-4f6b-9120-7d62060e6e03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.name-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[3]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc55a0d5-30c2-4cd3-93f4-be0e63667d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-label</value>
+      <webElementGuid>3529b85f-22fc-4d21-bbc5-2e3a1a35622b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Samuel Horváth</value>
+      <webElementGuid>ad1ac662-bcd6-47ca-84c4-d46ac1126e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-prihlasky-na-strednu-skolu&quot;)/div[@class=&quot;riaditel-prihlasky-nasich-ziakov-container&quot;]/div[@class=&quot;fixed-left-column&quot;]/div[@class=&quot;riaditel-prihlasky-cell meno-cell&quot;]/div[@class=&quot;meno-wrapper&quot;]/div[@class=&quot;name-label&quot;]</value>
+      <webElementGuid>1b87da4a-6094-48b0-b055-135561cceebe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[3]/div[2]/div[2]/div</value>
+      <webElementGuid>1ba5a4ef-da6c-4442-bd41-f8f256e26041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[6]/following::div[4]</value>
+      <webElementGuid>3b0c101a-38d5-4d01-b78d-74fc133c38a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiak'])[1]/following::div[10]</value>
+      <webElementGuid>62f35e43-050a-4b3b-9e4c-62d90ac466fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[7]/preceding::div[3]</value>
+      <webElementGuid>bb38c384-3460-45af-be96-600c7b3bfbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[8]/preceding::div[15]</value>
+      <webElementGuid>51fdef41-cb96-47ed-b5ec-1ae123fbbe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Samuel Horváth']/parent::*</value>
+      <webElementGuid>99ee0dd5-1d8f-4083-82a8-5bce2cb34a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[2]/div[2]/div</value>
+      <webElementGuid>f8730a3e-142e-405d-b960-be777a11da19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Samuel Horváth' or . = 'Samuel Horváth')]</value>
+      <webElementGuid>96417725-5a2b-4b2b-82a6-a831a2f445c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

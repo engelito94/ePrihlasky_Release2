@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gbor Kladivko_font-bold govuk-link</name>
+   <tag></tag>
+   <elementGuidId>f76f9517-61b0-413e-aad7-480fd70e985e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profil']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.font-bold.govuk-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0101ad21-8534-4ca9-a9f1-7a6875fbb65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Nastavenie2</value>
+      <webElementGuid>7013c311-57a7-45d3-8164-89ea32f1427a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold govuk-link</value>
+      <webElementGuid>f3ad1f94-6568-433f-8220-a07371757fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upraviť údaje</value>
+      <webElementGuid>0995999b-3fbd-4b3b-8518-d247ea343e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profil&quot;)/div[@class=&quot;panel-header&quot;]/a[@class=&quot;font-bold govuk-link&quot;]</value>
+      <webElementGuid>7b915603-dff1-4580-8f51-8c6fe2e5b7c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profil']/div/a</value>
+      <webElementGuid>25cee902-58df-4183-bea5-c12736d121f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Upraviť údaje')]</value>
+      <webElementGuid>e8c6493d-00e0-441c-a844-2cb2014dca98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gábor Kladivko'])[1]/following::a[1]</value>
+      <webElementGuid>5b4ea68d-0dfa-4fd4-a9f9-29e98f6cd736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GK'])[2]/following::a[1]</value>
+      <webElementGuid>a1b47e02-104e-4971-aa24-075d4f7d9ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa bydliska'])[1]/preceding::a[1]</value>
+      <webElementGuid>e66b647d-2bda-4fcc-9506-cc24a88e2b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
+      <webElementGuid>9baf4ff5-4869-49e7-b51a-8d0ad20825f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upraviť údaje']/parent::*</value>
+      <webElementGuid>8372d920-ab31-4b3d-8b07-086d59750691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Nastavenie2')]</value>
+      <webElementGuid>7520b31d-bc9d-469e-954e-9363816d6f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a</value>
+      <webElementGuid>4cd061e9-abe3-4fb3-930d-3a87b604e11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Nastavenie2' and (text() = 'Upraviť údaje' or . = 'Upraviť údaje')]</value>
+      <webElementGuid>6770f299-c1ba-4fb8-aaf4-4682f89a7606</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

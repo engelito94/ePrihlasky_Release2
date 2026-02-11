@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Heslo_button button--wider</name>
+   <tag></tag>
+   <elementGuidId>2d6bc414-7ff6-482a-88be-41b468c40125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f46c6724-4eed-402e-bb4b-a47b499cb3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>6d840317-a748-4648-8f2f-6c71c103bb95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--wider</value>
+      <webElementGuid>5cf126e9-4f28-4376-a593-cbd2722f447e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.setAttribute('disabled', 'disabled');document.getElementById('loginData').submit();return false;</value>
+      <webElementGuid>2b56c63a-0104-49b6-bddf-d34e7e57c8e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prihlásiť sa</value>
+      <webElementGuid>5834df3a-2cec-433a-9963-e5c0b0687ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content2&quot;)/div[@class=&quot;grid-row flex-row-wrapper flex-wrap&quot;]/div[@class=&quot;column-one-half&quot;]/div[@class=&quot;box box--dark flexContainer&quot;]/div[@class=&quot;flexSpan&quot;]/button[@class=&quot;button button--wider&quot;]</value>
+      <webElementGuid>c5a4c45f-d943-41b5-b4bb-1a47da83fa74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[5]</value>
+      <webElementGuid>73b59070-50e0-4d7c-9bf2-ae9c4ec8b81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content2']/div[2]/div[5]/div/div[2]/button</value>
+      <webElementGuid>b0a4f1d4-804a-48b5-91c5-62457cdcfc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Heslo'])[1]/following::button[1]</value>
+      <webElementGuid>041b633c-0541-4c22-9363-794776b97961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihlasovacie meno'])[1]/following::button[1]</value>
+      <webElementGuid>a9ff8071-6294-4764-b8c4-712999104b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Viac o prihlásení pomocou mena a hesla'])[1]/preceding::button[1]</value>
+      <webElementGuid>6b361f6c-7816-46f3-b682-5bc7865fa2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potrebujete pomoc?'])[1]/preceding::button[1]</value>
+      <webElementGuid>26127b44-d6f6-4a4f-800f-36893dd49860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/button</value>
+      <webElementGuid>22448022-b056-42d8-acde-8c4576912fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Prihlásiť sa' or . = 'Prihlásiť sa')]</value>
+      <webElementGuid>f58bfee5-15a5-40ca-aeb4-f87291951f97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

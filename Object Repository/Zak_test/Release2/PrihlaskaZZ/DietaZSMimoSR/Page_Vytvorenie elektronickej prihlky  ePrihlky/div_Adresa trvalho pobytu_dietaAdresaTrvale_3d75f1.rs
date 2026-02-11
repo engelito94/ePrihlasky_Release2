@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa trvalho pobytu_dietaAdresaTrvale_3d75f1</name>
+   <tag></tag>
+   <elementGuidId>9cb72d5f-6032-47fc-af69-29cc850cfbb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dietaAdresaTrvalehoPobytu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[12]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e09beda-2cee-4f83-8a97-217ba3b7110e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dietaAdresaTrvalehoPobytu</value>
+      <webElementGuid>e9a23410-7c03-4b36-9412-3add659a3486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Na Rybníkoch 58/232, 01508, Jesenské (Levice), Slovenská republika</value>
+      <webElementGuid>673e4f9c-0b76-4f59-853a-e617ed27bfbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhrnny-prehlad&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;dietaAdresaTrvalehoPobytu&quot;]</value>
+      <webElementGuid>65b9652c-9c29-4cb2-9bdc-6b638e10c05c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>d9fdf88f-8d0c-4823-a5fd-0e1a156de699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa trvalého pobytu'])[2]/following::div[1]</value>
+      <webElementGuid>90a26cd1-13fc-414f-b36d-4bb7a014ec76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[9]/following::div[3]</value>
+      <webElementGuid>f6f1fbd4-08cb-4249-a6c7-61593c8a7da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[1]/preceding::div[1]</value>
+      <webElementGuid>6a50b7a4-f5ee-4a5f-b3f8-b582a2c26fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doplňujúce informácie o žiakovi'])[2]/preceding::div[4]</value>
+      <webElementGuid>72109dcb-6777-4937-9cb2-7f63138c8279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>5c0988d1-6625-463c-a12d-4afed96ff04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Na Rybníkoch 58/232, 01508, Jesenské (Levice), Slovenská republika' or . = 'Na Rybníkoch 58/232, 01508, Jesenské (Levice), Slovenská republika')]</value>
+      <webElementGuid>433e42c4-966a-45bf-a6d9-ecb95fabb744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

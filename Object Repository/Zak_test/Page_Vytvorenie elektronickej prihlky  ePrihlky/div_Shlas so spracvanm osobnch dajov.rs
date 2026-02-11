@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shlas so spracvanm osobnch dajov</name>
+   <tag></tag>
+   <elementGuidId>c31f852c-ff79-4473-b79a-d13bf57e3a2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suhlasOsobneUdaje']/label/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#suhlasOsobneUdaje > label.label-wrapper > div > div.govuk-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>336357d2-947d-48ac-9e97-d1b83bd5f952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label</value>
+      <webElementGuid>8ee22a34-943d-4cb3-bfe7-52b5f3d7d38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Súhlas so spracúvaním osobných údajov</value>
+      <webElementGuid>73168bf8-cebf-4ba9-ba4a-314a24ec60ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhlasOsobneUdaje&quot;)/label[@class=&quot;label-wrapper&quot;]/div[1]/div[@class=&quot;govuk-label&quot;]</value>
+      <webElementGuid>b1e12ea0-c77f-4b32-98a9-6d0869ccfa97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhlasOsobneUdaje']/label/div/div</value>
+      <webElementGuid>a8bb95b1-e987-4d18-bf60-44346ba1f295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[48]/following::div[4]</value>
+      <webElementGuid>6a04e85a-1480-4134-9ee9-35e624368e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestné prehlásenie'])[1]/following::div[4]</value>
+      <webElementGuid>96609562-2f2a-4c6b-a278-b8922862cd11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[49]/preceding::div[1]</value>
+      <webElementGuid>457b879b-a4fd-4ce0-ae76-461480143cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Súhlas so spracúvaním osobných údajov']/parent::*</value>
+      <webElementGuid>10a0dd90-95c9-46df-bfd9-7bf4d9fcdfac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/label/div/div</value>
+      <webElementGuid>5f3dbc5c-40f5-433a-b257-35fd20d4f3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Súhlas so spracúvaním osobných údajov' or . = 'Súhlas so spracúvaním osobných údajov')]</value>
+      <webElementGuid>3a9afc2f-33ac-4eaf-ad1a-4638c58ffb95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>b8858d83-460b-41cd-8480-dd64aef9876e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.govuk-link.link-button.viac-informacii-o-skole.expand-link > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skola-910016010']/div/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46cbdbec-a64d-4637-ba61-a53309866b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Viac informácií o škole</value>
+      <webElementGuid>37af0b82-b17d-4732-a111-1ae56ef5e2ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skola-910016010&quot;)/div[@class=&quot;idsk-card__content&quot;]/div[2]/a[@class=&quot;govuk-link link-button viac-informacii-o-skole expand-link&quot;]/span[1]</value>
+      <webElementGuid>432f9ed8-bdbd-4ec0-ba36-2aae6f4693f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910016010']/div/div[2]/a/span</value>
+      <webElementGuid>577c13dd-956d-4c39-be7a-f13f5c163fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[1]/following::span[1]</value>
+      <webElementGuid>8205487e-c6ee-45f4-8d1a-7140cea6b438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Viac informácií o škole']/parent::*</value>
+      <webElementGuid>d7723a14-044c-433a-835e-132225af9ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/a/span</value>
+      <webElementGuid>44786493-d3f6-4491-a680-8541ff883ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Viac informácií o škole' or . = 'Viac informácií o škole')]</value>
+      <webElementGuid>cc154e76-15c6-46d9-8c3e-012e8d28e0d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

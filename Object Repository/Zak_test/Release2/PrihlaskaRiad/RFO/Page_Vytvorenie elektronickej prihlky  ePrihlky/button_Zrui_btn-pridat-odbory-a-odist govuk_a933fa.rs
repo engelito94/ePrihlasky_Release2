@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zrui_btn-pridat-odbory-a-odist govuk_a933fa</name>
+   <tag></tag>
+   <elementGuidId>eb4263f2-3371-4577-aff3-3188eb2991ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-pridat-odbory-a-odist.govuk-button.govuk-button__basic.last-focusable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ziadost-vyber-skoly']/div[4]/div/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>237d5004-56e7-4321-9ff2-d4dd85202dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-pridat-odbory-a-odist govuk-button govuk-button__basic last-focusable</value>
+      <webElementGuid>d685379b-fc08-49fd-82a2-09a0f62d6210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>893df395-7e36-4820-a760-4f6d2c1654e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať odbory a odísť</value>
+      <webElementGuid>8abde98d-eeae-4362-9746-9b30bce182f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ziadost-vyber-skoly&quot;)/div[@class=&quot;modal-wrapper pridat-odbor-inej-skoly-modal-wrapper&quot;]/div[@class=&quot;modal pridat-odbor-inej-skoly-modal&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-pridat-odbory-a-odist govuk-button govuk-button__basic last-focusable&quot;]</value>
+      <webElementGuid>bd71b7c5-5886-43c1-9ee1-87ba7060efe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ziadost-vyber-skoly']/div[4]/div/div[3]/div/button</value>
+      <webElementGuid>d304fe82-3caa-4cc4-9257-e8e47e35700d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[1]/following::button[1]</value>
+      <webElementGuid>be7baeb3-0d8a-4c7e-a220-08240f55c4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metodova 2, 82108, Bratislava'])[2]/following::button[2]</value>
+      <webElementGuid>5d3d2a28-9372-40ed-99e8-958ac2930109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zákonný zástupca {osoba}'])[1]/preceding::button[1]</value>
+      <webElementGuid>b29990a9-6b29-40e1-ab33-99242ac7886e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polia označené hviezdičkou sú povinné'])[6]/preceding::button[1]</value>
+      <webElementGuid>ddf09c8c-f957-4f74-aec3-0abf44a6d55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pridať odbory a odísť']/parent::*</value>
+      <webElementGuid>698aed0c-0f5c-4505-b0d6-be6cd7160cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>eb0413ca-ee48-4937-bc0b-ea1989095da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pridať odbory a odísť' or . = 'Pridať odbory a odísť')]</value>
+      <webElementGuid>5eb2210a-e364-4065-9fd2-9671e242f631</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

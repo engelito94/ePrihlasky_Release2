@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Zadajte kritria vyhadvania_nazov-skoly</name>
+   <tag></tag>
+   <elementGuidId>fb6670e1-065c-455b-98db-e6242ded1008</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.nazov-skoly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='odbor-ffadecfd-71c8-4cf3-acad-061e60fbff3c']//span[@class='odbor-dlzka-studia'][contains(text(),'4 ročné')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39132b18-9d09-46cc-b942-13c4ad77ae18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nazov-skoly</value>
+      <webElementGuid>f0948cb2-6a0c-4c8f-a7a8-7ef84badb727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stredná škola Žabokreky</value>
+      <webElementGuid>da8a157d-aac3-4ea0-bb80-3530832c3861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skola-910020902&quot;)/div[@class=&quot;idsk-card__content&quot;]/div[@class=&quot;ss-skola-main-info-section&quot;]/p[1]/span[@class=&quot;nazov-skoly&quot;]</value>
+      <webElementGuid>d202304b-44f7-4af2-8399-f97de214f34c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910020902']/div/div/p/span</value>
+      <webElementGuid>4b60c4f2-27bd-4558-9b3b-783240d347ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zadajte kritéria vyhľadávania'])[1]/following::span[1]</value>
+      <webElementGuid>0c864ba4-566d-498b-9106-d8523041267e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zmeňte kritéria vyhľadávania'])[1]/following::span[3]</value>
+      <webElementGuid>6a82176f-ffc7-4e9e-aeaf-92b2a6243a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID'])[1]/preceding::span[1]</value>
+      <webElementGuid>f4ad09c2-b86c-4cdb-89c0-554932648e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žabokreky 9/145, 03840'])[1]/preceding::span[3]</value>
+      <webElementGuid>c2b24bdd-7b09-4ffe-a02e-5bf4efcf6e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stredná škola Žabokreky']/parent::*</value>
+      <webElementGuid>ed4b0f5d-b017-457f-b810-a43e3496a706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>c78f1081-8587-4586-a3b3-f0cf59eff734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Stredná škola Žabokreky' or . = 'Stredná škola Žabokreky')]</value>
+      <webElementGuid>452a2257-ccbc-4152-971f-af1ee0213a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

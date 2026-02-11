@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Doplnenie prloh</name>
+   <tag></tag>
+   <elementGuidId>eb8db852-842e-45b2-bd3a-692e4d82ed34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='typ']/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-checkboxes__item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1c42a2f-6217-48e6-86b4-c882ed7322a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-checkboxes__item</value>
+      <webElementGuid>0472ff17-1eea-417d-9f27-6a3af632081a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doplnenie príloh</value>
+      <webElementGuid>29df18b1-458f-4243-bde7-26c75959520d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typ&quot;)/div[@class=&quot;govuk-form-group input-control&quot;]/div[@class=&quot;dtc-multiselect&quot;]/div[@class=&quot;dtc-multiselect-menu focused&quot;]/div[@class=&quot;govuk-checkboxes govuk-checkboxes--small&quot;]/div[@class=&quot;govuk-checkboxes__item-wrapper&quot;]/div[@class=&quot;govuk-checkboxes__item&quot;]</value>
+      <webElementGuid>7331f5b7-3390-47a0-aaff-63f85a668fb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='typ']/div/div/div[2]/div/div/div</value>
+      <webElementGuid>0239f760-016e-47a3-8343-4943e1e2fbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_up'])[1]/following::div[4]</value>
+      <webElementGuid>635aa0e5-029b-4a96-8571-e4a5e3c45143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/following::div[4]</value>
+      <webElementGuid>ffb6cfde-f4e3-43bf-8b04-9ef87c1629bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vygenerovanie rozhodnutí'])[1]/preceding::div[1]</value>
+      <webElementGuid>c1ddc600-11bb-4510-b55f-1ce7c7bfb8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b37c0bf8-ee04-4d97-8e27-1e315bdea4f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Doplnenie príloh' or . = 'Doplnenie príloh')]</value>
+      <webElementGuid>7ee4bb47-1cb7-49ab-a9ef-6d817f231746</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

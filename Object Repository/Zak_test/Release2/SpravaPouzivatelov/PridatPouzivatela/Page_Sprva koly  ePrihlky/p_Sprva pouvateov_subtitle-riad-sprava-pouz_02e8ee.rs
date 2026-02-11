@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sprva pouvateov_subtitle-riad-sprava-pouz_02e8ee</name>
+   <tag></tag>
+   <elementGuidId>741eea20-597b-447c-ae1d-f6758fe90133</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.subtitle-riad-sprava-pouzivatelov</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sprava-pouzivatelov']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f5bce05c-5fcd-4d24-baae-44a39f6aa375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle-riad-sprava-pouzivatelov</value>
+      <webElementGuid>d0166b0b-1685-47c6-bd39-9a102405e96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spravujte používateľov a priraďte im rolu.</value>
+      <webElementGuid>36a1d3bf-ba47-46e9-96b5-5cb2ec2805f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;sprava-pouzivatelov-main&quot;]/p[@class=&quot;subtitle-riad-sprava-pouzivatelov&quot;]</value>
+      <webElementGuid>65645eab-e6ad-45eb-9f24-5b724f1eeeed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sprava-pouzivatelov']/div/div/p</value>
+      <webElementGuid>bfe993ee-e92b-4c5b-9024-561f4d4d35e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správa používateľov'])[2]/following::p[1]</value>
+      <webElementGuid>87c262c3-bc90-4f13-a52c-264f4de2da4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uložiť zmeny'])[1]/following::p[1]</value>
+      <webElementGuid>a4de2dd8-cd2c-403e-a905-eee86ba0b140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Používatelia'])[1]/preceding::p[1]</value>
+      <webElementGuid>7c9db4a0-6fab-498b-8aef-2e33c0a24c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[9]/preceding::p[1]</value>
+      <webElementGuid>dd0d6599-5b30-4f26-8182-d96bcd451ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spravujte používateľov a priraďte im rolu.']/parent::*</value>
+      <webElementGuid>99825d3d-8b4c-4e4d-a46f-a11eef03cf85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/p</value>
+      <webElementGuid>f424639d-d3ce-477c-bcac-d9a40b5a9e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Spravujte používateľov a priraďte im rolu.' or . = 'Spravujte používateľov a priraďte im rolu.')]</value>
+      <webElementGuid>3268644f-b8fe-446f-8246-b56686029f28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

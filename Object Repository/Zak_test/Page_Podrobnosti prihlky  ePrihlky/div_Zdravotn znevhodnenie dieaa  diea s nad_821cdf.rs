@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zdravotn znevhodnenie dieaa  diea s nad_821cdf</name>
+   <tag></tag>
+   <elementGuidId>045b74f7-df25-4545-a2bf-cc16480865fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpDietata']/div[2]/div[5]/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>102d18e3-dd11-4cef-9e58-0803c72daad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-item</value>
+      <webElementGuid>257b9676-58bd-45f5-823c-606735e3b308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Zdravotné znevýhodnenie dieťaťa / dieťa s nadaním
+                        áno
+                    </value>
+      <webElementGuid>86b8b5c4-a55c-4576-945f-9a38ee17305c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pdpDietata&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;info-layout&quot;]/div[@class=&quot;panel-item&quot;]</value>
+      <webElementGuid>1de0274c-7bf7-4b9e-909f-dcc985d5e196</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div[2]/div[5]/div[5]</value>
+      <webElementGuid>f27d9a6f-521c-408d-8ec1-d3e2535728da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[11]/following::div[1]</value>
+      <webElementGuid>0af11397-3878-4693-a7b5-cbb1d7af512c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Záujem o školský klub detí'])[1]/following::div[2]</value>
+      <webElementGuid>d8a29403-37cd-4195-b0a1-cb84a82ac272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[5]/div[5]</value>
+      <webElementGuid>512865ea-2d77-4121-9504-68dda8e3b401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        Zdravotné znevýhodnenie dieťaťa / dieťa s nadaním
+                        áno
+                    ' or . = '
+                        Zdravotné znevýhodnenie dieťaťa / dieťa s nadaním
+                        áno
+                    ')]</value>
+      <webElementGuid>5805f676-3e22-4791-b2ce-bdb9b385e3bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

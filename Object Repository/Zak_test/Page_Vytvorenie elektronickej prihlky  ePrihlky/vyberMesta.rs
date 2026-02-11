@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vyberMesta</name>
+   <tag></tag>
+   <elementGuidId>e6a2b89d-933a-4ccb-948d-0f724c2e3e2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-form-group.autocomplete-control.optional > div.label-wrapper > span.optional-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupca1InaAdresaObec']/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9fdefbc-c74e-4f95-be21-18d059b79ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>optional-text</value>
+      <webElementGuid>485d82d5-5398-46ad-9421-d2a6cc840496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(nepovinné)</value>
+      <webElementGuid>f066eaae-7c01-49e8-afc4-6039d9c9dd9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupca1InaAdresaUlica&quot;)/div[@class=&quot;govuk-form-group autocomplete-control optional&quot;]/div[@class=&quot;label-wrapper&quot;]/span[@class=&quot;optional-text&quot;]</value>
+      <webElementGuid>49472853-5043-4a51-9a31-8ff7af018e20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupca1InaAdresaUlica']/div/div/span</value>
+      <webElementGuid>367dcd74-d2f4-43f0-b425-370bb73a5c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ulica'])[1]/following::span[1]</value>
+      <webElementGuid>f8f593f5-319b-4428-9939-330ea4c04be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senohrad (Krupina)'])[1]/following::span[3]</value>
+      <webElementGuid>5ea3a9c0-d9fb-4746-afb4-d910471fe934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[5]/preceding::span[3]</value>
+      <webElementGuid>2d902d19-030e-4a77-8430-ead3504eda1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súpisné číslo'])[1]/preceding::span[6]</value>
+      <webElementGuid>4faf1627-9809-4983-843d-c639303e1891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div/div/span</value>
+      <webElementGuid>17142534-f877-4829-9a1e-3e360a5c1684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(nepovinné)' or . = '(nepovinné)')]</value>
+      <webElementGuid>83299c86-0618-4986-9228-0a57a9faec5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

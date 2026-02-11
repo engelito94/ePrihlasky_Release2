@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Riaditeľ - Vytvorenie prihlášky ZŠ - dieťa bez RČ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d76432e7-06d1-4800-8eae-631bf08c9ab6</testCaseGuid>
+</TestCaseEntity>

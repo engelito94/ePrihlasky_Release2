@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_keyboard_arrow_down_autocomplete-item f_627e92</name>
+   <tag></tag>
+   <elementGuidId>c4264c89-19d5-432c-863b-53cd2d1f5fea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.autocomplete-item.flex-center-ver</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPKrajina']/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>565d4d44-ada8-4b94-ad96-13f3c28e5f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>autocomplete-item flex-center-ver</value>
+      <webElementGuid>2eb1ec3b-5d9b-4aa0-9fd1-78f07f6013e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>211</value>
+      <webElementGuid>21df26c6-90d6-43c1-8f4b-6f63dd544418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b630feec-815c-4cf1-89d1-06070d2476ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slovenská republika</value>
+      <webElementGuid>bdcea2df-dda5-475d-b685-067f55b1c2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adresaTPKrajina&quot;)/div[@class=&quot;govuk-form-group autocomplete-control static-select required&quot;]/div[@class=&quot;autocomplete-dropdown&quot;]/div[@class=&quot;autocomplete-item flex-center-ver&quot;]</value>
+      <webElementGuid>49832023-7eb4-4143-a5d4-47622d173656</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adresaTPKrajina']/div/div[3]/div</value>
+      <webElementGuid>c055af4b-3928-427b-87f1-dbe0f3392b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/following::div[2]</value>
+      <webElementGuid>c61b2a5b-77b1-4ff9-8970-fa43b09a30d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slovenská republika'])[1]/following::div[2]</value>
+      <webElementGuid>cae5ddce-6ba5-4e3b-a287-26369f61a42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slovenská republika'])[3]/preceding::div[1]</value>
+      <webElementGuid>4bd3fab9-b0d1-48de-8ba8-366aba148f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obec'])[1]/preceding::div[3]</value>
+      <webElementGuid>b2c7cc76-e2aa-47d1-a3cc-914527f73776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div[3]/div</value>
+      <webElementGuid>b17869ec-4098-470b-afc9-b53e636cb01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Slovenská republika' or . = 'Slovenská republika')]</value>
+      <webElementGuid>5e3b8631-c784-4c28-b77a-6b0a5ca984c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

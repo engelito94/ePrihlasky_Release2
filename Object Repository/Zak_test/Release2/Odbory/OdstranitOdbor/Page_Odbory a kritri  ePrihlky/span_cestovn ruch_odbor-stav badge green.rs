@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_cestovn ruch_odbor-stav badge green</name>
+   <tag></tag>
+   <elementGuidId>6b74d081-6f27-4841-a553-62ca6c1f326d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.odbor-stav.badge.green</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='riaditel-odbory-list-body']/tr/td[3]/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>173fbeb8-4dab-4f76-ad12-9e8c0f647423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>odbor-stav badge green</value>
+      <webElementGuid>f563af60-b867-4b16-bc33-c24e16208b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skontrolovaný</value>
+      <webElementGuid>3776474a-a4ac-4356-9b6b-f29c3c9a2623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-odbory-list-body&quot;)/tr[1]/td[@class=&quot;odbor-info&quot;]/div[1]/div[@class=&quot;odbor-nazov-stav&quot;]/span[@class=&quot;odbor-stav badge green&quot;]</value>
+      <webElementGuid>47ede107-5b65-4666-b309-5a013549dfe6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='riaditel-odbory-list-body']/tr/td[3]/div/div/span[2]</value>
+      <webElementGuid>4512d0e9-6f04-4f34-b92b-4c3b82297d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cestovný ruch'])[1]/following::span[1]</value>
+      <webElementGuid>1ea42232-4f92-481f-b877-20a55bce6096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O8'])[1]/following::span[2]</value>
+      <webElementGuid>cb85e13b-a52a-4fa8-ad14-b40f4afe1623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netalentový odbor'])[1]/preceding::span[1]</value>
+      <webElementGuid>dc400a25-1ca7-4af6-8b23-9fb8b7761455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skontrolovaný']/parent::*</value>
+      <webElementGuid>3ed6d7f3-9f7a-4d22-8a46-23eed0837c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div/span[2]</value>
+      <webElementGuid>7acfeb54-2829-455e-9137-1bd64bee6b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Skontrolovaný' or . = 'Skontrolovaný')]</value>
+      <webElementGuid>ccc1ce8a-285e-49fa-acd2-98a980919999</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

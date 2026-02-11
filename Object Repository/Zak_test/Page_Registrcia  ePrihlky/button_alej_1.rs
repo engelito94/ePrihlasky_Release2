@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_alej_1</name>
+   <tag></tag>
+   <elementGuidId>2066aca6-d509-4e70-942c-2309dbf9cb30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#step-3 > div.container-with-border > button.btn-dalej.govuk-button.govuk-button__large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-3']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8700561-d631-42b7-a9ca-dbaec9fbd519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-dalej govuk-button govuk-button__large</value>
+      <webElementGuid>ce0d6162-a9ff-4fb9-a191-09c2fc3c6ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>c6c088d7-df62-4918-a62e-cf1af40f12ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ďalej</value>
+      <webElementGuid>589d67de-ffc9-4c17-ae06-376cad954c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-3&quot;)/div[@class=&quot;container-with-border&quot;]/button[@class=&quot;btn-dalej govuk-button govuk-button__large&quot;]</value>
+      <webElementGuid>d19a89f2-0f63-4360-800f-ce7b1f98a372</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-3']/div/button</value>
+      <webElementGuid>298b401b-9087-4be5-946d-9ba44cc6424d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žena'])[1]/following::button[1]</value>
+      <webElementGuid>d55a2969-f063-4871-bdc3-67cb8bfef079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muž'])[1]/following::button[1]</value>
+      <webElementGuid>fa513d11-3556-4646-9271-10e4ff254b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Úspešne sme vás zaregistrovali'])[1]/preceding::button[1]</value>
+      <webElementGuid>ebb599a1-0fc8-4b55-b184-8232137ae001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na hlavnú stránku'])[1]/preceding::button[1]</value>
+      <webElementGuid>3fbff9e3-9731-47e4-b7c5-5d8f7b361a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>5978d0ad-39a8-4245-9d4f-de6bf0ba3fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ďalej' or . = 'Ďalej')]</value>
+      <webElementGuid>9ad951b8-b8e4-4750-af2e-5ee4c04bbf90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

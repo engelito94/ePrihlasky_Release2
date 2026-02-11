@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Odvodnenie                            P_5aae32</name>
+   <tag></tag>
+   <elementGuidId>64b3332c-b8c2-44a9-adfd-82e8da4f68b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='podpis-table']/div[4]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19d72c0a-ddbc-46dc-884e-eb8f97f69f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>odovodnenie-wrapper</value>
+      <webElementGuid>bff3720b-d7ac-402e-b97a-c998e59683de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Odôvodnenie:
+                            Podľa § 47 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov sa od odôvodnenia upúšťa vzhľadom na to, že v predmetnej veci sa účastníkovi/-om konania v plnom rozsahu vyhovelo a boli splnené zákonné aj ostatné podmienky prijatia dieťaťa na základné vzdelávanie.
+                        </value>
+      <webElementGuid>7e156ceb-de9c-443f-9e7f-87f91a12bd35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;podpis-table&quot;)/div[@class=&quot;nahlad-rozhodnutia&quot;]/div[@class=&quot;odovodnenie-wrapper&quot;]</value>
+      <webElementGuid>74e86717-967e-43dd-8ae8-e8a12e3d1ea2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='podpis-table']/div[4]/div[4]</value>
+      <webElementGuid>efe476eb-f726-4287-9e6a-43743455efcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lechkého 2/87, 62874, Banská Bystrica'])[1]/following::div[1]</value>
+      <webElementGuid>64da13cb-fc90-4be6-b6c0-cbf6ae33a8af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='adresa bydliska:'])[2]/following::div[1]</value>
+      <webElementGuid>f074b37b-2bab-42ee-a022-5ccf7cbcfbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poučenie:'])[3]/preceding::div[1]</value>
+      <webElementGuid>c27e320b-10ad-4888-93bf-64207c758278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div[4]</value>
+      <webElementGuid>414d3663-06ca-4ada-9678-ab7b5c6582b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                            Odôvodnenie:
+                            Podľa § 47 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov sa od odôvodnenia upúšťa vzhľadom na to, že v predmetnej veci sa účastníkovi/-om konania v plnom rozsahu vyhovelo a boli splnené zákonné aj ostatné podmienky prijatia dieťaťa na základné vzdelávanie.
+                        ' or . = '
+                            Odôvodnenie:
+                            Podľa § 47 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov sa od odôvodnenia upúšťa vzhľadom na to, že v predmetnej veci sa účastníkovi/-om konania v plnom rozsahu vyhovelo a boli splnené zákonné aj ostatné podmienky prijatia dieťaťa na základné vzdelávanie.
+                        ')]</value>
+      <webElementGuid>2a6b30b9-a485-47de-921f-c184dd3dc35d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

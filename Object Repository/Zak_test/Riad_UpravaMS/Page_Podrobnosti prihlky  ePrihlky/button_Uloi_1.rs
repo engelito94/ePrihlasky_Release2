@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Uloi_1</name>
+   <tag></tag>
+   <elementGuidId>1cf6c9d1-2a26-4670-bdad-f8173a514fe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vseobecne-poznamka-edit']/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vseobecne-poznamka-edit > div.buttons > button.btn-ulozit.govuk-button.govuk-button__basic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d1e7f1c3-5942-4a35-8a36-38fd90df26d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-ulozit govuk-button govuk-button__basic</value>
+      <webElementGuid>9ecc15eb-5846-43bb-bd5a-823bbc1b76a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uložiť</value>
+      <webElementGuid>56d8910c-8b5e-4251-90e1-cb655868d203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vseobecne-poznamka-edit&quot;)/div[@class=&quot;buttons&quot;]/button[@class=&quot;btn-ulozit govuk-button govuk-button__basic&quot;]</value>
+      <webElementGuid>a98e9130-6048-4d47-a03a-7e00d8dd5e74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vseobecne-poznamka-edit']/div[2]/button[2]</value>
+      <webElementGuid>efd5fdcf-f111-40f7-86be-ccc6493f1554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[3]/following::button[1]</value>
+      <webElementGuid>8a6783e8-43e5-4662-8ce5-0846c382e28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podrobnosti o dieťati'])[1]/preceding::button[1]</value>
+      <webElementGuid>d2ff153e-ac17-4648-bcaf-0c3431e3a20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[3]/preceding::button[1]</value>
+      <webElementGuid>c112f137-976a-46ed-99f8-d22e246f03c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button[2]</value>
+      <webElementGuid>7988de8e-b5da-4274-aff9-54f61f1628ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Uložiť' or . = 'Uložiť')]</value>
+      <webElementGuid>5bd5afe2-502f-4ce7-835d-b26b4a2961c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

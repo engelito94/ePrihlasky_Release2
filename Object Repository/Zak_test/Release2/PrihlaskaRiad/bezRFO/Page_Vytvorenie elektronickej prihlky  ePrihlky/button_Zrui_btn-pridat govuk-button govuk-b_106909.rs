@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zrui_btn-pridat govuk-button govuk-b_106909</name>
+   <tag></tag>
+   <elementGuidId>8e440730-e76f-40e6-b408-163427c305cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-pridat.govuk-button.govuk-button--basic</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sutaze']/div[3]/div/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>031a8beb-13c4-49ff-bd8b-56377238772b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-pridat govuk-button govuk-button--basic</value>
+      <webElementGuid>ca28a444-79a9-4d65-a014-330f9a7c71fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať</value>
+      <webElementGuid>fde415e4-cb0a-4dfe-bdf3-b433c01e00d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sutaze&quot;)/div[@class=&quot;modal-wrapper pridat-sutaz-modal-wrapper&quot;]/div[@class=&quot;modal pridat-sutaz-modal&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons-modal&quot;]/button[@class=&quot;btn-pridat govuk-button govuk-button--basic&quot;]</value>
+      <webElementGuid>7f5b4a3a-9735-4ebf-a6c2-548624fe7ed4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sutaze']/div[3]/div/div[3]/div/button</value>
+      <webElementGuid>f4d9cef5-aec4-4a2c-aabf-d533a5b64481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[3]/following::button[1]</value>
+      <webElementGuid>cab8cb08-161b-4d48-9b8a-834a48ae6493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[80]/following::button[2]</value>
+      <webElementGuid>125bef10-650d-4608-bc3b-b71ca106feb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať prílohy'])[2]/preceding::button[1]</value>
+      <webElementGuid>5086a435-854f-4e20-9bde-7d76df85eac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priložte všetky potrebné prílohy.'])[1]/preceding::button[1]</value>
+      <webElementGuid>d53942e0-fda9-4508-bc9e-555a72203f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/button</value>
+      <webElementGuid>82f2404b-0bf7-4e21-99ce-a28601b6a35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pridať' or . = 'Pridať')]</value>
+      <webElementGuid>48182457-cba6-43ae-9683-f717cc59b7f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

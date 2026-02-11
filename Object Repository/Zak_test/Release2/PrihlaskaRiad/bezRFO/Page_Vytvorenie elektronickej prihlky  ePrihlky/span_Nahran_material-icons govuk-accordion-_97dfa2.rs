@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nahran_material-icons govuk-accordion-_97dfa2</name>
+   <tag></tag>
+   <elementGuidId>2bc523f1-3b9a-4af2-aa2d-987ca8ffc757</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.material-icons.govuk-accordion-nav__chevron--down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='priloha-1']/div/div/div/div/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c79a887-e69c-4eb4-af95-0bb620a549c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons govuk-accordion-nav__chevron--down</value>
+      <webElementGuid>a21c6de3-6500-434c-ad8d-47d535839715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        add
+                                    </value>
+      <webElementGuid>4fb0dac2-e102-40a4-a4e9-35dff1e52c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;priloha-1&quot;)/div[@class=&quot;govuk-accordion__section&quot;]/div[@class=&quot;govuk-accordion__section-header&quot;]/div[@class=&quot;govuk-accordion__section-heading govuk-heading-m&quot;]/div[@class=&quot;govuk-accordion__section-button flex-center-ver&quot;]/span[@class=&quot;govuk-accordion__section-toggle&quot;]/span[@class=&quot;govuk-accordion__section-toggle-focus&quot;]/span[@class=&quot;material-icons govuk-accordion-nav__chevron--down&quot;]</value>
+      <webElementGuid>c7800b77-6975-4a1a-9123-c39dd6c88b79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='priloha-1']/div/div/div/div/span/span/span</value>
+      <webElementGuid>88e73d57-6234-4b51-bbf3-0cab1f5e172e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrané'])[1]/following::span[3]</value>
+      <webElementGuid>07ecf4a3-000f-4b66-9967-20c5c70da323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nenahrané'])[2]/following::span[3]</value>
+      <webElementGuid>6e2257f0-fa39-40df-b053-8d69dab68e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrajte súbor'])[1]/preceding::span[2]</value>
+      <webElementGuid>a166cdd1-9121-4b1d-bf5b-2b8ca8553652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='alebo ho sem potiahnite (max. 10 MB, vo formáte .jpeg, .jpg, .pdf, .png)'])[1]/preceding::span[2]</value>
+      <webElementGuid>1e18772f-19e8-408c-8175-96b5e17149af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>caed3d7f-0d39-4d5b-bdbf-f9f2c234883b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                        add
+                                    ' or . = '
+                                        add
+                                    ')]</value>
+      <webElementGuid>b0027a7a-ba1f-406f-8b39-698217c8b707</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

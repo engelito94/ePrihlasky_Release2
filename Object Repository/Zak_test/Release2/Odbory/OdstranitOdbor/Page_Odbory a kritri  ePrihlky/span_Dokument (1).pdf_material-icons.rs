@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dokument (1).pdf_material-icons</name>
+   <tag></tag>
+   <elementGuidId>6f3427c3-8017-43b5-b982-f01ca1b9fcfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.prilohaVymazanieLink > span.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-odbory']/div[17]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0527f4ea-d19b-4644-8381-f24ac45cb09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>d577b615-594e-4ed3-a046-090804cd13e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>25f63e71-ddc0-4dbe-941c-e56af9de41ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>clear_rounded</value>
+      <webElementGuid>c976db54-f9ee-4e2e-ae16-3fa3b68e42df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-odbory&quot;)/div[@class=&quot;nahrane-subory-container&quot;]/div[@class=&quot;dz-preview dz-file-preview&quot;]/a[@class=&quot;prilohaVymazanieLink&quot;]/span[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>b87ee340-c9a8-4128-be84-a979a4bd3539</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-odbory']/div[17]/div/a/span</value>
+      <webElementGuid>40d19140-2014-4ed3-9fea-5f2a6f69ed79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokument (1).pdf'])[1]/following::span[3]</value>
+      <webElementGuid>70521087-a7d4-4152-89ba-fa8f86eefd82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kritérium'])[1]/following::span[5]</value>
+      <webElementGuid>c72ef05f-d9b5-44b0-8b5d-0ba6c247d65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vytvorte si vlastné kritériá na bodovanie uchádzačov'])[1]/preceding::span[2]</value>
+      <webElementGuid>609d0532-13c2-4f34-8e2f-e71f29de04fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moje kritériá'])[1]/preceding::span[2]</value>
+      <webElementGuid>68f9cf9c-f5ae-44d1-bcc6-815ffe49cbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='clear_rounded']/parent::*</value>
+      <webElementGuid>777d305d-41d9-4d04-8c6c-68c005cd0c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/a/span</value>
+      <webElementGuid>0d2e14da-72c7-4e6f-96e0-b669619fe197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'clear_rounded' or . = 'clear_rounded')]</value>
+      <webElementGuid>dc6a74ef-8a90-4cf1-b8c3-197a39efef30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

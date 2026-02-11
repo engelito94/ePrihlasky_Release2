@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Odstrni z obbench_material-icons govuk_93fb88</name>
+   <tag></tag>
+   <elementGuidId>9c7d5e67-f0c5-41ad-8209-f5d636bca00e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.material-icons.govuk-accordion-nav__chevron--down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='material-icons govuk-accordion-nav__chevron--down']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>170ac71d-9fdc-4590-a5c2-d0c4e7db8517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons govuk-accordion-nav__chevron--down</value>
+      <webElementGuid>874e5f62-4cab-407e-b6bd-a02167e6ae42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                            add
+                                                        </value>
+      <webElementGuid>9c881813-9c01-4173-b107-d8c61595d344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbor-ffadecfd-71c8-4cf3-acad-061e60fbff3c&quot;)/div[@class=&quot;govuk-accordion__section&quot;]/div[@class=&quot;govuk-accordion__section-header&quot;]/div[@class=&quot;govuk-accordion__section-heading govuk-heading-m&quot;]/div[@class=&quot;govuk-accordion__section-button flex-center-ver&quot;]/span[@class=&quot;govuk-accordion__section-toggle&quot;]/span[@class=&quot;govuk-accordion__section-toggle-focus&quot;]/span[@class=&quot;material-icons govuk-accordion-nav__chevron--down&quot;]</value>
+      <webElementGuid>7489f840-5d8f-4912-bd8f-d658bba785d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbor-ffadecfd-71c8-4cf3-acad-061e60fbff3c']/div/div/div/div/span/span/span</value>
+      <webElementGuid>5b705411-d95b-4959-9421-a387c731245b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť z obľúbených'])[1]/following::span[3]</value>
+      <webElementGuid>d852f8f3-6bdd-4b1a-b0ed-0b6d135a289a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať do obľúbených'])[1]/following::span[3]</value>
+      <webElementGuid>608be67f-1cd0-40f6-a605-a07be54a36a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netalentový odbor'])[2]/preceding::span[2]</value>
+      <webElementGuid>e12585b9-aac1-4e8f-b245-6b03f3b745fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duálne vzdelávanie:'])[1]/preceding::span[4]</value>
+      <webElementGuid>0f18f0bb-f688-4901-9d2e-f228dcb8a4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='add']/parent::*</value>
+      <webElementGuid>c1fa075c-7308-4813-bc29-e69f0c612624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>fe5802f1-851d-4862-a866-d7a4973e8c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                            add
+                                                        ' or . = '
+                                                            add
+                                                        ')]</value>
+      <webElementGuid>d1c08f24-1ec3-4fb6-85e2-5fdb7f06ee47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

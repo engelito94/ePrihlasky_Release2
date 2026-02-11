@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zrui_btn-odstranit-odbor govuk-butto_cf2116</name>
+   <tag></tag>
+   <elementGuidId>1054b267-58c9-4a21-9ff3-4f92597c48c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-odstranit-odbor.govuk-button.govuk-button--sec__warning.last-focusable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ec3c5ce-ea0b-4f6e-b4bd-3bb1937f2f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-odstranit-odbor govuk-button govuk-button--sec__warning last-focusable</value>
+      <webElementGuid>31aff803-55ef-45c5-ab4f-38a104fc203e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f0430c16-0208-4b9d-a77c-e991c0584895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odstrániť</value>
+      <webElementGuid>2cb18bf8-5390-4fd0-8357-69618dd62c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-a-kriteria-content&quot;)/div[@class=&quot;modal-wrapper odstranenie-odboru-modal-wrapper&quot;]/div[@class=&quot;modal odstranenie-odboru-modal&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-odstranit-odbor govuk-button govuk-button--sec__warning last-focusable&quot;]</value>
+      <webElementGuid>4caf08f2-b9ef-4c9d-86fe-7fd8fd63a3c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div[2]/div/button</value>
+      <webElementGuid>79ad3cf6-7113-480c-8d6a-1d14f885b3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[3]/following::button[1]</value>
+      <webElementGuid>b7e1c27f-61aa-4820-9279-726418291316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstránenie odboru'])[1]/following::button[3]</value>
+      <webElementGuid>cdbb8442-0c55-4315-9188-1546a4a598c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boli tieto informácie pre vás užitočné?'])[1]/preceding::button[1]</value>
+      <webElementGuid>408e6f1f-1f25-4d4d-8988-e01f4cfd62f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c52cd40-0bb1-4799-838a-f6d1c0dacf80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/button</value>
+      <webElementGuid>7d50efe3-0b50-41e1-88a0-c867ed000b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Odstrániť' or . = 'Odstrániť')]</value>
+      <webElementGuid>cbfc87c1-996b-4b26-9b7d-522b832d763b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

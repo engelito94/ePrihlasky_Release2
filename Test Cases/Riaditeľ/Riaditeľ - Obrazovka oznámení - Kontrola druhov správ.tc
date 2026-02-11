@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Riaditeľ - Obrazovka oznámení - Kontrola druhov správ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cafeab7e-94c8-4403-b7c6-6edb23c420d3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Správa používateľov - pridať používateľa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cbfb469e-b95f-40bf-9cc3-b3c333b52439</testCaseGuid>
+</TestCaseEntity>

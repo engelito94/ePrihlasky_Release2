@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_iaci 8. ronka_checkmark</name>
+   <tag></tag>
+   <elementGuidId>eead5675-fb61-4ec8-919f-1ef9e62ffaa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalUpravitOdborPreKohoJeOdborCheckboxList']/div/fieldset/div[3]/div[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b390da4-9d9c-435a-b784-ebe3012dee9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>5eb8daa8-1c2d-49ba-8180-67980f5cb9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalUpravitOdborPreKohoJeOdborCheckboxList&quot;)/div[@class=&quot;govuk-form-group checkbox-list-control required govuk-form-group--error&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-checkboxes&quot;]/div[@class=&quot;govuk-form-group checkbox-control&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>a483281f-cde6-40a1-9ef2-7f980be16bff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalUpravitOdborPreKohoJeOdborCheckboxList']/div/fieldset/div[3]/div[6]/span</value>
+      <webElementGuid>a66437c8-4ae5-430f-80dd-a723052a7ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/span</value>
+      <webElementGuid>933b2d84-5372-48da-ae01-0d304d0bff3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

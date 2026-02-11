@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Snen 75645, 24897, Kristy (Sobrance), S_3cef0f</name>
+   <tag></tag>
+   <elementGuidId>2c6caad4-95f7-4652-b6ea-c38d24aa31d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaTrvalehoPobytu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaTrvalehoPobytu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc7f98bd-e6ef-41c1-b465-18627f6208d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaTrvalehoPobytu</value>
+      <webElementGuid>5f34cb75-6702-49dc-a2f9-96ec05f55cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika</value>
+      <webElementGuid>0d10616c-2426-45fc-9bc7-a65cd9438c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaTrvalehoPobytu&quot;)</value>
+      <webElementGuid>16b925e2-7516-4a22-8498-d0e8c29ba862</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaTrvalehoPobytu']</value>
+      <webElementGuid>d0a7272f-4f55-4743-8c2f-cd831255dc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[11]/div[2]</value>
+      <webElementGuid>6b719d76-4631-4b61-9c35-4322b263aa23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa trvalého pobytu'])[1]/following::div[1]</value>
+      <webElementGuid>d6084168-f919-4b65-87bd-bd6e2501f586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::div[3]</value>
+      <webElementGuid>c1ede472-1a13-4a31-b333-76028ff85d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[1]/preceding::div[1]</value>
+      <webElementGuid>86b964c3-1a22-47ff-ad0b-b805ed6484bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika'])[2]/preceding::div[2]</value>
+      <webElementGuid>69ec528c-728d-4c0d-a198-77e75ad349fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]</value>
+      <webElementGuid>a818c69e-4702-4759-a3c7-e39b6274920e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaTrvalehoPobytu' and (text() = 'Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika' or . = 'Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika')]</value>
+      <webElementGuid>8188aded-9cb4-40d9-9b6f-887f48f97b7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

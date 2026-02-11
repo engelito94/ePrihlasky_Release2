@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Správa používateľov - odstrániť používateľa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c9142e5-5ec8-40c1-9da5-20bf6a314fa6</testCaseGuid>
+</TestCaseEntity>

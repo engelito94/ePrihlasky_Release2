@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Druh zkonn zstupca nie je znmy</name>
+   <tag></tag>
+   <elementGuidId>6c1a6913-7847-4ba9-a1f4-082cf27e4df3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zastupcaNeznamy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51f24695-a5e1-4821-8722-ab753ce88dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zastupcaNeznamy</value>
+      <webElementGuid>afe1ca39-e1b7-4868-be73-66bc16836d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Druhý zákonný zástupca nie je známy.</value>
+      <webElementGuid>b02e7835-738c-4e58-8b80-9bf8f2e2e524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zastupcaNeznamy&quot;]</value>
+      <webElementGuid>10e46e2a-1ca7-4869-9284-33750f4819c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div[6]</value>
+      <webElementGuid>d59141ee-c4d7-4c05-8f0c-eda9ea423b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/following::div[1]</value>
+      <webElementGuid>2069b763-77e2-4c5e-8527-91bcd833e5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dôvod nezabezpečenia súhlasu'])[2]/following::div[2]</value>
+      <webElementGuid>e200510f-68c0-425b-921d-5b81cb2644d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy a doplňujúce informácie o dieťati'])[1]/preceding::div[1]</value>
+      <webElementGuid>5b752057-03e6-48a5-a256-649a00fd26ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy'])[1]/preceding::div[2]</value>
+      <webElementGuid>4f51e92a-56d4-43b2-b7c2-129b420eb2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Druhý zákonný zástupca nie je známy.']/parent::*</value>
+      <webElementGuid>3770aa88-92d0-4e29-989e-212abda1404f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[6]</value>
+      <webElementGuid>9bdcf699-0a69-4ab9-84dc-be1eabd82c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Druhý zákonný zástupca nie je známy.' or . = 'Druhý zákonný zástupca nie je známy.')]</value>
+      <webElementGuid>55f7a10b-62ad-4d4c-a411-2c2e0c3d9443</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

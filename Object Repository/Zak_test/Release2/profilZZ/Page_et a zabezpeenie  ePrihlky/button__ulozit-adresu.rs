@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__ulozit-adresu</name>
+   <tag></tag>
+   <elementGuidId>fce05489-3953-4a97-901b-99bcd150e1e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ulozit-adresu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ulozit-adresu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e322717-3cea-4001-809c-9c7ccbb4ddc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ulozit-adresu</value>
+      <webElementGuid>2f1334dd-c5bd-4a9b-9b25-d13f8de1e6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-ulozit-adresu govuk-button govuk-button__large disabled</value>
+      <webElementGuid>db833612-3aef-4b3d-993a-08b6a424bc39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Uložiť zmeny
+                            </value>
+      <webElementGuid>db8eab1f-9565-400f-9e16-d2febf50cd7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ulozit-adresu&quot;)</value>
+      <webElementGuid>2768d00c-ac45-4761-b4e9-e5d75d009263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ulozit-adresu']</value>
+      <webElementGuid>976ed242-2513-434d-8807-f05f9dab5531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ucet-a-zabezpecenie-container']/div[4]/button[2]</value>
+      <webElementGuid>7cc7aee6-e06a-4cc4-abbf-1b79e4e7e6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[18]/following::button[1]</value>
+      <webElementGuid>d7711c60-8713-446c-817a-a8e46e91ddfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jazyk'])[1]/preceding::button[1]</value>
+      <webElementGuid>ee399d15-1325-4d40-afb7-098011606005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte preferovaný jazyk'])[1]/preceding::button[1]</value>
+      <webElementGuid>e3b72949-9d22-458c-a008-daa049084812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>d0aef894-24e8-40ea-9770-fef0bb5f9b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ulozit-adresu' and (text() = '
+                                Uložiť zmeny
+                            ' or . = '
+                                Uložiť zmeny
+                            ')]</value>
+      <webElementGuid>680ccb4c-7c7d-4df8-807e-763237d75430</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

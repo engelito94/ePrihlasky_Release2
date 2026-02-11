@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_keyboard_arrow_down_autocomplete-item f_627e92_1</name>
+   <tag></tag>
+   <elementGuidId>2436fa1a-66f9-4038-b0af-470dd5d19158</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#adresaTPObec > div.govuk-form-group.autocomplete-control.static-select.required > div.autocomplete-dropdown > div.autocomplete-item.flex-center-ver</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPObec']/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>062913e7-edb1-4be2-8b41-46067a005b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>autocomplete-item flex-center-ver</value>
+      <webElementGuid>c19c7563-2847-4546-aa95-675b439fbc3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>108265</value>
+      <webElementGuid>0be22633-7cfb-43b3-826b-c98d7ef107ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>af7e2416-c6b5-4059-bb53-17e76d617154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kotrčiná Lúčka (Žilina)</value>
+      <webElementGuid>4fe3e454-65ad-4316-9e9d-08319637de63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adresaTPObec&quot;)/div[@class=&quot;govuk-form-group autocomplete-control static-select required&quot;]/div[@class=&quot;autocomplete-dropdown&quot;]/div[@class=&quot;autocomplete-item flex-center-ver&quot;]</value>
+      <webElementGuid>25c05492-77aa-42c1-8c01-65ee586801dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adresaTPObec']/div/div[3]/div</value>
+      <webElementGuid>57e14fe3-dddc-40c4-80a1-1cb4f6253d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[2]/following::div[2]</value>
+      <webElementGuid>044b562d-4ea5-4f23-972a-56b55f323c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotrčiná Lúčka (Žilina)'])[1]/following::div[2]</value>
+      <webElementGuid>11f0edc5-6adb-4fe2-b412-c348ea8c0006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotrčiná Lúčka (Žilina)'])[3]/preceding::div[1]</value>
+      <webElementGuid>86b47aba-8e9d-4e2f-bb9c-e82379f12a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ulica'])[1]/preceding::div[3]</value>
+      <webElementGuid>905063b4-43dd-4c4f-a7b9-4ed321ccacad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div[2]/div/div[3]/div</value>
+      <webElementGuid>6711faf1-6243-4b84-9c9d-76c0869ee580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kotrčiná Lúčka (Žilina)' or . = 'Kotrčiná Lúčka (Žilina)')]</value>
+      <webElementGuid>95eb471b-7160-4899-8b4a-645d31040e26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

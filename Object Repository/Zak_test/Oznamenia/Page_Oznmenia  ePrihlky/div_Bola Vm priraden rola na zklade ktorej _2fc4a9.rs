@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bola Vm priraden rola na zklade ktorej _2fc4a9</name>
+   <tag></tag>
+   <elementGuidId>eac0c09d-9847-4c29-b565-f873d6f28357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oznamenie-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>daad0aee-5df0-425f-b1ee-85c0b7c8df30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oznamenie-title</value>
+      <webElementGuid>68ec1fb7-7a19-48c2-8b7d-7285eef5c3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bola Vám priradená rola na základe ktorej môžete spracúvať prihlášky</value>
+      <webElementGuid>c3da6d55-af64-4368-b670-a928f4469c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-oznamenia&quot;)/div[@class=&quot;sub-container&quot;]/div[@class=&quot;riaditel-oznamenia-list&quot;]/div[@class=&quot;oznamenie-item&quot;]/div[@class=&quot;oznamenie-col1&quot;]/div[@class=&quot;oznamenie-title&quot;]</value>
+      <webElementGuid>64365f5b-67a2-4bc8-8c5d-2c0a1e455ed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-oznamenia']/div[2]/div[3]/div[2]/div/div</value>
+      <webElementGuid>779752b5-0ca5-4d90-ba93-8fd5c71d89df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_right_rounded'])[1]/following::div[3]</value>
+      <webElementGuid>1714efaa-aa73-473e-be9a-687124b81037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ďalšia'])[1]/following::div[3]</value>
+      <webElementGuid>0d81826a-b298-4abe-9f21-bdea4de3bbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prejsť na prihlášku'])[1]/preceding::div[2]</value>
+      <webElementGuid>984c8d2c-f2ec-4ed8-85c9-5347e3208337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neprečítaná'])[1]/preceding::div[3]</value>
+      <webElementGuid>ffecb63f-e309-4033-a7ad-df667429d8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bola Vám priradená rola na základe ktorej môžete spracúvať prihlášky']/parent::*</value>
+      <webElementGuid>b318e8d2-7ad3-4735-bbc3-4126fb7cbf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>cd2b7931-a204-4cad-ad87-ece0d240a243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bola Vám priradená rola na základe ktorej môžete spracúvať prihlášky' or . = 'Bola Vám priradená rola na základe ktorej môžete spracúvať prihlášky')]</value>
+      <webElementGuid>a92e2f29-2d56-4fb7-8023-84494d199a26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

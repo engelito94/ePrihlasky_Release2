@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nmestie Svtho Egdia 45, Poprad, Slovens_1a3a10</name>
+   <tag></tag>
+   <elementGuidId>cb8366f1-fab6-4389-b0a0-ff56694de162</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zakonnyZastupca2AdresaBydliska</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zakonnyZastupca2AdresaBydliska']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a88a2b4-afa8-4c4e-8da5-24756e08da5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zakonnyZastupca2AdresaBydliska</value>
+      <webElementGuid>3bba8da5-78de-4fe2-a32c-ea08adba054a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Námestie Svätého Egídia 45, Poprad, Slovenská republika</value>
+      <webElementGuid>7a9efd4c-23ad-43b2-ad34-a953169b6b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zakonnyZastupca2AdresaBydliska&quot;)</value>
+      <webElementGuid>16b6e7eb-3b31-494e-ac9b-62d6b51601c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zakonnyZastupca2AdresaBydliska']</value>
+      <webElementGuid>eea0cf18-6d26-48e0-8ba8-b3111f3501cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz2']/div[4]/div[2]</value>
+      <webElementGuid>afb7097e-d165-4b36-b0b1-ee75949bd75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa bydliska'])[2]/following::div[1]</value>
+      <webElementGuid>0b309664-27f1-4d80-8052-d3576b466c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[6]/following::div[3]</value>
+      <webElementGuid>5d30b519-a1c7-440a-9e7a-e74179337a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/preceding::div[1]</value>
+      <webElementGuid>da46070c-d42d-4402-8e00-f7ffb3d2106e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/preceding::div[2]</value>
+      <webElementGuid>2420d8f3-feb1-46ca-bfd8-20639807903e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Námestie Svätého Egídia 45, Poprad, Slovenská republika']/parent::*</value>
+      <webElementGuid>e323ae08-5270-4225-92f7-095bac8cfc44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]/div[2]</value>
+      <webElementGuid>d42a9f8f-d4f0-4e06-971f-d82d99bf27e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zakonnyZastupca2AdresaBydliska' and (text() = 'Námestie Svätého Egídia 45, Poprad, Slovenská republika' or . = 'Námestie Svätého Egídia 45, Poprad, Slovenská republika')]</value>
+      <webElementGuid>29ab14ee-2c2b-41f6-be4e-7656213f2156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sp_btn-uloz-zmeny govuk-button govuk_23dc44</name>
+   <tag></tag>
+   <elementGuidId>14656dbb-c20e-4a38-b2cc-5db2ed6372b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-uloz-zmeny.govuk-button.govuk-button__basic.last-focusable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65fe856d-0d8d-44eb-a749-620b0af8b10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-uloz-zmeny govuk-button govuk-button__basic last-focusable</value>
+      <webElementGuid>d405ba42-3729-411b-8224-b0024a111c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ab1cba98-536a-4b44-9c04-67a84d57bbd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uložiť zmeny</value>
+      <webElementGuid>64a58039-ad12-45d8-99f1-f79893a08293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-a-kriteria-content&quot;)/div[@class=&quot;modal-wrapper upravit-odbor-modal-wrapper&quot;]/div[@class=&quot;modal upravit-odbor-modal&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-uloz-zmeny govuk-button govuk-button__basic last-focusable&quot;]</value>
+      <webElementGuid>c1349de9-c339-4b00-9798-0d24b026e061</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div[3]/div/button</value>
+      <webElementGuid>e62a1a9a-3818-4fcf-8e50-611aa3588552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[1]/following::button[1]</value>
+      <webElementGuid>3aedcbf0-db82-45cf-aa06-bc841e4b1d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruský jazyk'])[1]/following::button[2]</value>
+      <webElementGuid>999298d3-1836-42fc-aeed-4a461958b8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boli tieto informácie pre vás užitočné?'])[1]/preceding::button[1]</value>
+      <webElementGuid>1e54d774-4f28-4f08-9f3f-042368dfe7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::button[1]</value>
+      <webElementGuid>170e46a6-b592-4285-8584-467ebc36f505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Uložiť zmeny']/parent::*</value>
+      <webElementGuid>9cca59fe-d1f3-416f-9e2b-870999848c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div/button</value>
+      <webElementGuid>8f412803-aa2f-41c8-9d59-6f3d2463e0bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Uložiť zmeny' or . = 'Uložiť zmeny')]</value>
+      <webElementGuid>c6a51470-9376-46cc-9ca6-9d56f2366c00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

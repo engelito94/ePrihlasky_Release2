@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prchod iaka_prichodZiakaSuhrnZiadost</name>
+   <tag></tag>
+   <elementGuidId>58f2b45f-7499-4fc1-9a00-b2dd198f39f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prichodZiakaSuhrnZiadost</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prichodZiakaSuhrnZiadost']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93ecb6ff-4136-4bfc-9b32-b5b7f401e57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prichodZiakaSuhrnZiadost</value>
+      <webElementGuid>c411ffaf-70a9-447a-9913-c3791a5751df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zo ZŠ na Slovensku</value>
+      <webElementGuid>f9135ac6-53ef-4245-a69b-f2e96d73bf3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prichodZiakaSuhrnZiadost&quot;)</value>
+      <webElementGuid>a21d2f33-924b-44b8-ac42-7d77b85285fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='prichodZiakaSuhrnZiadost']</value>
+      <webElementGuid>9b8af47d-b19c-45a5-880f-d274942cd71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-o-zs']/div[2]/div/div[2]</value>
+      <webElementGuid>21874eb5-ef4e-4fd7-b1bb-48ff66dcdd93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Príchod žiaka'])[2]/following::div[1]</value>
+      <webElementGuid>a64ebb77-9994-432d-bb00-3a3f126c5280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o základnej škole'])[5]/following::div[4]</value>
+      <webElementGuid>d311b3e9-f28b-40e6-9afb-fae172de52d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID základnej školy'])[3]/preceding::div[1]</value>
+      <webElementGuid>137ef34e-6d86-4648-b45b-aa121c6e6e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov základnej školy'])[3]/preceding::div[4]</value>
+      <webElementGuid>5e99d3d4-5693-40d0-aaa0-306be077a552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[7]/div[2]/div/div[2]</value>
+      <webElementGuid>370df8c6-8fc9-4f3b-80d2-90edac0f426c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'prichodZiakaSuhrnZiadost' and (text() = 'Zo ZŠ na Slovensku' or . = 'Zo ZŠ na Slovensku')]</value>
+      <webElementGuid>8eb987f9-f689-495d-9ed7-21da4e9a1e11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

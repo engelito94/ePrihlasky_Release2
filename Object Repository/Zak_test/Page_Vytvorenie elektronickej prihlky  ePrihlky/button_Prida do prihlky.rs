@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prida do prihlky</name>
+   <tag></tag>
+   <elementGuidId>698ceb2c-041d-4cc8-bc9c-6da75aa35fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.pridat-do-prihlasky.govuk-button.govuk-button__basic.max-174</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37d23214-e5de-4416-b878-02bde2a09fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pridat-do-prihlasky govuk-button govuk-button__basic max-174</value>
+      <webElementGuid>219556f7-02e6-44c1-aeef-287c8424182b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Skola test1 Pridať do prihlášky</value>
+      <webElementGuid>b40ca99a-6319-49a1-9f60-76e4c44e8539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať do prihlášky</value>
+      <webElementGuid>45164f26-491f-4fd9-89fc-e5a56b3e25b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skola-910017346&quot;)/div[@class=&quot;idsk-card__content&quot;]/div[@class=&quot;prihlaska-vyber-skoly idsk-card__button prihl-buttons&quot;]/button[@class=&quot;pridat-do-prihlasky govuk-button govuk-button__basic max-174&quot;]</value>
+      <webElementGuid>fe670e0d-706b-43e9-978c-7bf43421fe24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910017346']/div/div[4]/button</value>
+      <webElementGuid>24553ca7-ec41-44c8-850b-d36c54767d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť z obľúbených'])[1]/following::button[1]</value>
+      <webElementGuid>94b62586-86df-4fc2-8f19-ea76057e6353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať do obľúbených'])[1]/following::button[2]</value>
+      <webElementGuid>272ebb85-9505-40eb-b5cc-da48d333d50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť zo zoznamu'])[1]/preceding::button[1]</value>
+      <webElementGuid>3ead523a-a247-44d9-82a2-1fa318ef1f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať do obľúbených'])[2]/preceding::button[2]</value>
+      <webElementGuid>f7ea4bdb-b6ce-4b6c-a8d5-53aab432c248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pridať do prihlášky']/parent::*</value>
+      <webElementGuid>ec899e6d-d064-40d6-bcd2-ff29fe0b921d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>49bf5fe5-d53e-45c2-b371-15f92f28a9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pridať do prihlášky' or . = 'Pridať do prihlášky')]</value>
+      <webElementGuid>8623c641-7df1-49b9-80ae-63007a7a8d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910019196']/div/div[4]/button</value>
+      <webElementGuid>fca63ccc-6616-4c37-a324-b4f977de21d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910007918']/div/div[4]/button</value>
+      <webElementGuid>c9985844-2773-4846-8023-cbc46fa12acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910013264']/div/div[4]/button</value>
+      <webElementGuid>13ead03a-7845-4117-9004-da043c564385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

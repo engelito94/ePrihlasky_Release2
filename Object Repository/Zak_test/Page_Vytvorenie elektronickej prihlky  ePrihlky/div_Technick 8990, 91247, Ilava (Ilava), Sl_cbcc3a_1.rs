@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Technick 8990, 91247, Ilava (Ilava), Sl_cbcc3a_1</name>
+   <tag></tag>
+   <elementGuidId>9e5d5e94-3473-4759-a715-26907453d554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaObvyklehoPobytu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaObvyklehoPobytu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca5daa7a-eee1-4c10-90e8-9d29e58ee2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaObvyklehoPobytu</value>
+      <webElementGuid>70ee2791-9ec7-4d16-8af2-cb5bfb879d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Technická 89/90, 91247, Ilava (Ilava), Slovenská republika</value>
+      <webElementGuid>898a2071-dfea-4559-ac0b-1ef349f2725f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaObvyklehoPobytu&quot;)</value>
+      <webElementGuid>c0bb2915-c104-489b-a0bb-5fb491231329</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaObvyklehoPobytu']</value>
+      <webElementGuid>bd6cae52-df41-4d34-88a2-187945f3efa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>d06d7302-c4b8-4225-97d0-4d9a794fedb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[1]/following::div[1]</value>
+      <webElementGuid>fb5a8dfc-0e4d-455a-a64e-4ac09aa30b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technická 89/90, 91247, Ilava (Ilava), Slovenská republika'])[1]/following::div[3]</value>
+      <webElementGuid>511fead4-8fb2-43a9-ae91-d1635fa018ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné predprimárne vzdelávanie aktuálne v'])[2]/preceding::div[1]</value>
+      <webElementGuid>8c6a98c2-deb5-41f8-b88b-b57f5568c4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::div[2]</value>
+      <webElementGuid>5a286468-d292-474f-b682-6c4c10df6549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div[2]</value>
+      <webElementGuid>ddd8af07-c3d1-41dc-b07f-6eaef20bccb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaObvyklehoPobytu' and (text() = 'Technická 89/90, 91247, Ilava (Ilava), Slovenská republika' or . = 'Technická 89/90, 91247, Ilava (Ilava), Slovenská republika')]</value>
+      <webElementGuid>b777351e-aa1e-435c-b5fe-4f90ae61f16e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

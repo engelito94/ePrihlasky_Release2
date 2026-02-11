@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nepretan</name>
+   <tag></tag>
+   <elementGuidId>572085fd-f5b3-4b54-806f-36bb298ea19a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#stav > div.govuk-form-group.input-control > div.dtc-multiselect > div.dtc-multiselect-box.govuk-select > div.selected-items > span.selected-items-string</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stav']/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5df61f74-6aa6-4ea4-9c1b-c91307ec99d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-items-string</value>
+      <webElementGuid>0502003b-ef63-4021-be2d-9d054b96c330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Neprečítané</value>
+      <webElementGuid>7a529cda-c8ed-46aa-9771-bd993e6737e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stav&quot;)/div[@class=&quot;govuk-form-group input-control&quot;]/div[@class=&quot;dtc-multiselect&quot;]/div[@class=&quot;dtc-multiselect-box govuk-select&quot;]/div[@class=&quot;selected-items&quot;]/span[@class=&quot;selected-items-string&quot;]</value>
+      <webElementGuid>bbf15b38-496f-4e03-b520-e0aeabdf1130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stav']/div/div/div/div/span[2]</value>
+      <webElementGuid>5e855718-7f12-40ce-9450-773fb3d018a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Všetky'])[2]/following::span[1]</value>
+      <webElementGuid>eab601c5-bae6-43b0-b766-a514855ad564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav notifikácie'])[1]/following::span[2]</value>
+      <webElementGuid>e06df5c6-d719-4cb2-a3da-39ced138739c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[2]/preceding::span[1]</value>
+      <webElementGuid>2eb1640b-aaca-4f04-b0d5-9641d8ea0b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_up'])[2]/preceding::span[2]</value>
+      <webElementGuid>917f25c9-75d0-4d84-b29d-18b4a2c274b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neprečítané']/parent::*</value>
+      <webElementGuid>a6078205-3b1f-4807-be11-faffb6438b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span[2]</value>
+      <webElementGuid>ca1f5975-663c-4216-b723-084470a21d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Neprečítané' or . = 'Neprečítané')]</value>
+      <webElementGuid>ff30ff56-1329-450d-9dfb-144434a9e6cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

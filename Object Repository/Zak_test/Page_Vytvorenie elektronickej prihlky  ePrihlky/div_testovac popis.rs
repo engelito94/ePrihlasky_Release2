@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_testovac popis</name>
+   <tag></tag>
+   <elementGuidId>69f991be-bc12-463d-b2fd-482c4bb06661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dpDietataPopisSP</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dpDietataPopisSP']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>069eaa4b-99c3-4193-b3a4-deed4c4e9a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dpDietataPopisSP</value>
+      <webElementGuid>013c5465-94de-4b00-9a76-5079b3e9ed45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testovací popis</value>
+      <webElementGuid>a1333a7f-afdc-4916-b1d9-b12551ab5423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dpDietataPopisSP&quot;)</value>
+      <webElementGuid>633e7314-1439-4457-999b-883b9f5e59e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dpDietataPopisSP']</value>
+      <webElementGuid>87d33022-5406-46eb-b7d0-9adcfb4bfedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div[2]/div[5]/div[6]/div[2]</value>
+      <webElementGuid>9c220c4b-25d7-41f8-a067-5354c86e37d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popis znevýhodnenia / nadania'])[2]/following::div[1]</value>
+      <webElementGuid>4373ae69-909d-40a7-b831-705a60a82187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[5]/following::div[3]</value>
+      <webElementGuid>dee93a89-26d8-4305-87f3-f5bcbcc4eecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poznámka'])[1]/preceding::div[1]</value>
+      <webElementGuid>4b7cde8f-7c82-44e3-a7cc-cdf11dda02bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/preceding::div[2]</value>
+      <webElementGuid>07509818-0ea9-4e2f-923b-b0f06a658bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='testovací popis']/parent::*</value>
+      <webElementGuid>b02d32b7-3e89-405f-867c-9320e76cdb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[5]/div[6]/div[2]</value>
+      <webElementGuid>ce040923-4d29-4bb1-b318-6fc336acf4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dpDietataPopisSP' and (text() = 'testovací popis' or . = 'testovací popis')]</value>
+      <webElementGuid>cf0d47b2-8063-48e1-a33a-3376d36c8c0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

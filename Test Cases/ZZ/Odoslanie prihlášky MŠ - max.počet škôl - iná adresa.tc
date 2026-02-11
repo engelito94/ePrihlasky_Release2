@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Odoslanie prihlášky MŠ - max.počet škôl - iná adresa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9da2919-491b-41bc-becd-0ed2495cd1a4</testCaseGuid>
+</TestCaseEntity>

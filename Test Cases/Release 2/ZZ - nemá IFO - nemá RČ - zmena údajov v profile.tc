@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZZ - nemá IFO - nemá RČ - zmena údajov v profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3956cfb7-2ced-414f-8f27-9a4466780a5c</testCaseGuid>
+</TestCaseEntity>

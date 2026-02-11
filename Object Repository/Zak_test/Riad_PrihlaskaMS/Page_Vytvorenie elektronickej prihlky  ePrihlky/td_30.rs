@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_30</name>
+   <tag></tag>
+   <elementGuidId>4af3d700-a0fa-44ce-ba0d-3467607e9468</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='OUDatumPodaniaPrihlasky']/div/div[3]/div/table[2]/tr[6]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.dp_current.dp_hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7fa83af2-5b47-41fc-bcf6-a1daa0e9a8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dp_current dp_hover</value>
+      <webElementGuid>b0d68f24-1896-45eb-a18b-d0938cb034ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>62def18a-6c9c-4bcd-bf67-9b87be479bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OUDatumPodaniaPrihlasky&quot;)/div[@class=&quot;govuk-form-group input-control required&quot;]/div[@class=&quot;inline-calendar&quot;]/div[@class=&quot;Zebra_DatePicker&quot;]/table[@class=&quot;dp_daypicker dp_body&quot;]/tr[6]/td[@class=&quot;dp_current dp_hover&quot;]</value>
+      <webElementGuid>3e51920b-e49c-45a9-95db-36a3036c94ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='OUDatumPodaniaPrihlasky']/div/div[3]/div/table[2]/tr[6]/td[5]</value>
+      <webElementGuid>3212432e-3f97-4d1b-8a9a-8a145c5d056f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ne'])[4]/following::td[33]</value>
+      <webElementGuid>ac0a80ad-8ea3-404a-9a85-0db144881d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='So'])[4]/following::td[33]</value>
+      <webElementGuid>cbd9b003-daf7-4150-a18f-3ee0aa9dd125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='false'])[2]/preceding::td[10]</value>
+      <webElementGuid>6327083f-1d8b-4289-875e-d450ab55e9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear date'])[4]/preceding::td[11]</value>
+      <webElementGuid>43a6ef42-dcdc-479d-9f01-a6249daeac04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/table[2]/tr[6]/td[5]</value>
+      <webElementGuid>ca26882d-2950-4c99-b607-580c724dcace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '30' or . = '30')]</value>
+      <webElementGuid>ec0d1978-23b7-454a-9dea-aadda68a96c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

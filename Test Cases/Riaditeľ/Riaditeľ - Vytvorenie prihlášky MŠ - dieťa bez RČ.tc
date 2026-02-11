@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Riaditeľ - Vytvorenie prihlášky MŠ - dieťa bez RČ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d08d5909-3f9f-4d1f-b2ba-087748e40df3</testCaseGuid>
+</TestCaseEntity>

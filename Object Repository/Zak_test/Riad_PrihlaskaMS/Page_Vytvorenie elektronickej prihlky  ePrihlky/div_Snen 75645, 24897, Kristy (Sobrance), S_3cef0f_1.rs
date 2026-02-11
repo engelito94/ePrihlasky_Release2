@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Snen 75645, 24897, Kristy (Sobrance), S_3cef0f_1</name>
+   <tag></tag>
+   <elementGuidId>20a331e6-be12-436c-8c40-21b2c06c4525</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaObvyklehoPobytu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaObvyklehoPobytu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b15dc877-5f07-48b8-8070-96730152b645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaObvyklehoPobytu</value>
+      <webElementGuid>edbcd1fb-712e-420b-bd27-a13bf700e2b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika</value>
+      <webElementGuid>be8d6b4c-4cc4-471a-abe4-49d8e91ad011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaObvyklehoPobytu&quot;)</value>
+      <webElementGuid>53318916-2ef4-4518-be8a-1b6fa9b61447</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaObvyklehoPobytu']</value>
+      <webElementGuid>60f56ced-4dff-4ef6-bf42-9f6163fb2091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[12]/div[2]</value>
+      <webElementGuid>c2bee5a0-3e14-4af8-91ed-b31624f996ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak sa nezdržiava na adrese trvalého pobytu'])[1]/following::div[1]</value>
+      <webElementGuid>79062644-b5dd-467e-9388-76e53fb78935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika'])[1]/following::div[3]</value>
+      <webElementGuid>a6619569-23a2-4e91-a79b-791b9f427352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné predprimárne vzdelávanie aktuálne v'])[2]/preceding::div[1]</value>
+      <webElementGuid>c50afaf1-8379-4751-94d8-bae2865f27e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[6]/preceding::div[2]</value>
+      <webElementGuid>a3a4e2b5-03ad-4bba-80a3-66c6f4a4329b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div[2]</value>
+      <webElementGuid>4f9ef3dd-db23-4b8d-b268-aaa5647db78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaObvyklehoPobytu' and (text() = 'Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika' or . = 'Snežná 75/645, 24897, Kristy (Sobrance), Slovenská republika')]</value>
+      <webElementGuid>830718a2-10bd-4a29-871b-403164d7ea81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

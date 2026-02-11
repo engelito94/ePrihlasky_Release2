@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bez prijmacej skky_govuk-button govu_0917a3</name>
+   <tag></tag>
+   <elementGuidId>c13e1e92-aa0a-44f9-9931-8eb656b3c4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.govuk-button.govuk-button--sec.btn-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='riaditel-odbory-list-body']/tr/td[5]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbd0454a-d7a1-4117-aa6b-c6e5ed771c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec btn-edit</value>
+      <webElementGuid>f2044bf1-1d84-4b6b-ac41-b54c4330c3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Upraviť
+                </value>
+      <webElementGuid>61c74ff7-adad-45a9-8033-940839cc54d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-odbory-list-body&quot;)/tr[1]/td[@class=&quot;odbor-akcia&quot;]/div[@class=&quot;buttons&quot;]/button[@class=&quot;govuk-button govuk-button--sec btn-edit&quot;]</value>
+      <webElementGuid>8508fc8a-0259-49a9-9b86-8f61e5b7bd70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='riaditel-odbory-list-body']/tr/td[5]/div/button</value>
+      <webElementGuid>4ea3f869-7ce9-43f6-a3b2-cf75a25e31cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bez prijímacej skúšky'])[1]/following::button[1]</value>
+      <webElementGuid>7b49879c-cfb9-417d-b333-4901dacdb649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neduálne vzdelávanie'])[1]/following::button[1]</value>
+      <webElementGuid>9ef87901-6840-4f21-a09d-c92fb3a003d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[1]/preceding::button[1]</value>
+      <webElementGuid>f38698ac-fab2-4f87-b0c0-de715859afc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor'])[3]/preceding::button[2]</value>
+      <webElementGuid>1e90e218-66d2-4dfa-8fb3-a9d5cf2948de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upraviť']/parent::*</value>
+      <webElementGuid>73a1d06b-b528-437e-ac24-b9fbaa955a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/button</value>
+      <webElementGuid>0aed58c6-9eb3-4c28-94ab-93dae844ff58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                    Upraviť
+                ' or . = '
+                    Upraviť
+                ')]</value>
+      <webElementGuid>47e422e8-d255-4311-ba83-e15b2fadf015</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

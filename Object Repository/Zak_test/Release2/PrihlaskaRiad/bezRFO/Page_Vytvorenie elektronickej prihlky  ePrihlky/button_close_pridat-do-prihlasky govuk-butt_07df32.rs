@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_close_pridat-do-prihlasky govuk-butt_07df32</name>
+   <tag></tag>
+   <elementGuidId>745ba566-2109-4a3d-a11e-83cc3d140809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.pridat-do-prihlasky.govuk-button.govuk-button__basic.max-174</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ziadost-vyber-skoly']/div[4]/div/div[2]/div/div[3]/div/div[3]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4aabdba-fa0b-4389-a98c-a0c38ccac039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pridat-do-prihlasky govuk-button govuk-button__basic max-174</value>
+      <webElementGuid>96e654ec-38e3-477f-b8b3-60705cd0fd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-eduid</name>
+      <type>Main</type>
+      <value>910013679</value>
+      <webElementGuid>8229170c-00de-4774-9c6a-1ff8de5e9031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-odborguid</name>
+      <type>Main</type>
+      <value>407ce370-f974-44c5-bf45-d5ad2e377717</value>
+      <webElementGuid>6adae528-6df8-4356-a29e-b2a87e4552f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sauotalentovy</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>67f88a56-2a6e-47a4-82c5-368478557a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať do prihlášky</value>
+      <webElementGuid>5c3ee3b0-206a-4a43-a8c6-6a43e6b9deed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ziadost-vyber-skoly&quot;)/div[@class=&quot;modal-wrapper pridat-odbor-mojej-skoly-modal-wrapper&quot;]/div[@class=&quot;modal pridat-odbor-mojej-skoly-modal&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;results&quot;]/div[@class=&quot;results-container&quot;]/div[@class=&quot;skola-v-prihlaske SS&quot;]/div[@class=&quot;odbory-container&quot;]/div[@class=&quot;odbor&quot;]/div[@class=&quot;skola-v-prihlaske-form-section&quot;]/button[@class=&quot;pridat-do-prihlasky govuk-button govuk-button__basic max-174&quot;]</value>
+      <webElementGuid>ad30db13-7687-46f2-8257-12087508c35e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ziadost-vyber-skoly']/div[4]/div/div[2]/div/div[3]/div/div[3]/div/div[2]/button</value>
+      <webElementGuid>89999418-9358-4dcb-b896-c0197012c038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[23]/following::button[1]</value>
+      <webElementGuid>18877243-ad84-4b94-b956-bf4be186590d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre:'])[21]/following::button[1]</value>
+      <webElementGuid>b0d3e356-08f8-48b3-a537-e5d1aabcd37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť z prihlášky'])[1]/preceding::button[1]</value>
+      <webElementGuid>18dc3afc-f71e-482b-84bc-73ac01d84acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[1]/preceding::button[2]</value>
+      <webElementGuid>d16763f7-d4b4-4aaa-a636-dca70bbcf677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pridať do prihlášky']/parent::*</value>
+      <webElementGuid>b14d2766-83c7-4a60-84b2-32b2ce02a6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button</value>
+      <webElementGuid>42720919-c8c2-4f70-b9f4-4ee29419cdfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pridať do prihlášky' or . = 'Pridať do prihlášky')]</value>
+      <webElementGuid>43e0731f-8476-4c95-a1c6-a7fc91aa91d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

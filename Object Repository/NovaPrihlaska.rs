@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NovaPrihlaska</name>
+   <tag></tag>
+   <elementGuidId>96a35826-cc42-4c9e-9f1a-5dba756567f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='prihlaska-nenajdena']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaska-nenajdena']/a</value>
+      <webElementGuid>a37daffa-dd08-4dba-aa65-f47c0504dbcb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

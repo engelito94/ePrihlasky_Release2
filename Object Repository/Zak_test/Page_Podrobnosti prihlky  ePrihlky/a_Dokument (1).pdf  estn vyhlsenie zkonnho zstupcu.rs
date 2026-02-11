@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dokument (1).pdf  estn vyhlsenie zkonnho zstupcu</name>
+   <tag></tag>
+   <elementGuidId>89e5c45e-62a4-45e6-b278-75786f367dde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.prilohaItem > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prilohyContainer']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e1938f9-fb1c-45a9-98ec-ffe388a56b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-guid</name>
+      <type>Main</type>
+      <value>e5fc2dd1-b2ab-4a52-be8a-4ebb335d063d</value>
+      <webElementGuid>11aa20d1-47f1-4a2a-ad5f-371d11a66550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>3c6551ac-8c97-480d-8451-7ef4e8489388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokument (1).pdf / Čestné vyhlásenie zákonného zástupcu</value>
+      <webElementGuid>3bfd41cd-a4f3-4428-a591-c78629477724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prilohyContainer&quot;)/div[@class=&quot;prilohaItem&quot;]/a[1]</value>
+      <webElementGuid>866bd1fb-15e0-4899-aa26-8ae1db7cc851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prilohyContainer']/div/a</value>
+      <webElementGuid>ca57b2a8-d8b4-4256-a101-e04da470bfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dokument (1).pdf / Čestné vyhlásenie zákonného zástupcu')]</value>
+      <webElementGuid>88eb3ed7-ca68-46f7-b483-194bd1a6b8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::a[1]</value>
+      <webElementGuid>9259e42a-5b06-4c61-a266-490ffa45fee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy'])[1]/following::a[1]</value>
+      <webElementGuid>d8310aa9-c113-41b2-952e-31534be59673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doplňujúce informácie o dieťati'])[1]/preceding::a[1]</value>
+      <webElementGuid>46b732ce-fe3e-437e-8e22-9902a0064405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celodenná výchova'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b014959-e128-431d-953a-a264199f73aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dokument (1).pdf / Čestné vyhlásenie zákonného zástupcu']/parent::*</value>
+      <webElementGuid>8e48b678-ddad-483b-ace0-453747a2b3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0);')]</value>
+      <webElementGuid>5b80b535-5d1b-4912-bcaa-015b58cec90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/div/a</value>
+      <webElementGuid>8b4f350c-6872-46a2-8898-4a4a76078130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Dokument (1).pdf / Čestné vyhlásenie zákonného zástupcu' or . = 'Dokument (1).pdf / Čestné vyhlásenie zákonného zástupcu')]</value>
+      <webElementGuid>859a2858-5282-451e-bf63-878bd088791b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

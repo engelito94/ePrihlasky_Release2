@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detail prihlky_data-prihlaska-odstranit g_5d72ab</name>
+   <tag></tag>
+   <elementGuidId>2bf072b2-2990-498c-90b1-139a2077bb77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prihlaskapodana-060a20b5-88ec-4145-92c4-42f5ca06ad8f > div.prihlaska-podana > div.card_prihlasky_content > div.buttons > a.data-prihlaska-odstranit.govuk-button.govuk-button__large.govuk-button--sec__warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div[3]/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f336b3b8-055d-4ccd-88e5-a4d84ce3137a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data-prihlaska-odstranit govuk-button govuk-button__large govuk-button--sec__warning</value>
+      <webElementGuid>015ed126-94e6-4b2c-a874-b8b06875b69c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>f4e361a4-d152-4810-bbe5-9fda3692b85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>fee2e017-9d96-4b92-a224-511bf2f8b9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-guid</name>
+      <type>Main</type>
+      <value>060a20b5-88ec-4145-92c4-42f5ca06ad8f</value>
+      <webElementGuid>34156121-a805-4c47-877f-a540c5b33199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>delete_outlineOdstrániť</value>
+      <webElementGuid>19b97840-de4e-4b49-836d-16d855cecbe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-060a20b5-88ec-4145-92c4-42f5ca06ad8f&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;card_prihlasky_content&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;data-prihlaska-odstranit govuk-button govuk-button__large govuk-button--sec__warning&quot;]</value>
+      <webElementGuid>aa24cb75-d952-4d42-9320-e26bfda178cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-060a20b5-88ec-4145-92c4-42f5ca06ad8f']/div/div[3]/div[2]/a[2]</value>
+      <webElementGuid>e318e100-0b9c-4016-be4a-88907c592ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail prihlášky'])[2]/following::a[1]</value>
+      <webElementGuid>d745acd9-f129-4bc8-a29a-3e22870b9aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riaditeľ školy požaduje ďalšie prílohy.'])[6]/following::a[2]</value>
+      <webElementGuid>030483a4-ccbc-49ff-b7e4-19e2ded9aef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať prihlášku'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff37cbb9-58e8-485b-aa55-1f98459b0995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript: void(0);')])[8]</value>
+      <webElementGuid>e1c07729-f97a-45cd-a274-4215ebc0b69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[3]/div[2]/a[2]</value>
+      <webElementGuid>fe9c8959-35bd-4202-808d-077036d32668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript: void(0);' and (text() = 'delete_outlineOdstrániť' or . = 'delete_outlineOdstrániť')]</value>
+      <webElementGuid>54fee26a-cc0f-4e3f-a298-46f48e9eed61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

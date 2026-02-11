@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nzov zkladnej koly_nazovZSSuhrnZiadost</name>
+   <tag></tag>
+   <elementGuidId>bed63c54-aedc-4349-af5f-2566184e0319</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nazovZSSuhrnZiadost</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nazovZSSuhrnZiadost']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4a075d6-ce0d-4719-8c62-dfdec99d66a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nazovZSSuhrnZiadost</value>
+      <webElementGuid>ca5d3073-0174-48d5-aa91-393f1cb6a314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Základná škola s materskou školou, Soblahov 404</value>
+      <webElementGuid>f4cf23b1-3f54-4166-a6d8-f99e9f8c73f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nazovZSSuhrnZiadost&quot;)</value>
+      <webElementGuid>5a47309b-c9f9-40b5-ac01-a565e68ba2e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='nazovZSSuhrnZiadost']</value>
+      <webElementGuid>07198ab5-1462-4cb1-a0d4-2808f555e555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-o-zs']/div[2]/div[3]/div[2]</value>
+      <webElementGuid>9285826d-b864-4f70-8158-9602ac0f5e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov základnej školy'])[3]/following::div[1]</value>
+      <webElementGuid>2d7eab6b-ff29-4a3a-8973-55ccaaefcad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID základnej školy'])[3]/following::div[4]</value>
+      <webElementGuid>c40bb5f9-e7b9-4af9-81a1-96b141dea84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ročník'])[6]/preceding::div[1]</value>
+      <webElementGuid>f0bfbfb7-063c-4dbb-bb14-292970a2f147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trieda'])[3]/preceding::div[4]</value>
+      <webElementGuid>5948310e-cddf-4538-9a2b-a851b1d58492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Základná škola s materskou školou, Soblahov 404']/parent::*</value>
+      <webElementGuid>2e6e5a9b-ccd4-4501-9873-d36b7500d075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[3]/div[2]</value>
+      <webElementGuid>c3983273-50ed-44e3-b4f0-ae5f9a1a686c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nazovZSSuhrnZiadost' and (text() = 'Základná škola s materskou školou, Soblahov 404' or . = 'Základná škola s materskou školou, Soblahov 404')]</value>
+      <webElementGuid>72308c6b-ad31-4260-9455-5bb395310d72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

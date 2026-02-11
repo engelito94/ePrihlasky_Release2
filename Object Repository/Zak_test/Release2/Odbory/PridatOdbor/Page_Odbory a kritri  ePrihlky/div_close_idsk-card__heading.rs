@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_close_idsk-card__heading</name>
+   <tag></tag>
+   <elementGuidId>efcd4b42-e457-4c2f-8621-a994695f2fe7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.idsk-card__heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-ziadne-odbory']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>775ac51a-13d8-48b3-a589-b3f54f2af42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>idsk-card__heading</value>
+      <webElementGuid>7ed6fb3e-73f4-42a8-9a52-a0db83ff70f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Žiadne odbory v ročníku
+            </value>
+      <webElementGuid>44a4d05c-aa27-4a7e-b975-08832512489b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-ziadne-odbory&quot;)/div[@class=&quot;idsk-card__content&quot;]/div[@class=&quot;idsk-card__heading&quot;]</value>
+      <webElementGuid>8db3d5ff-02a7-46c4-ba81-9929c5720be7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-ziadne-odbory']/div/div</value>
+      <webElementGuid>d62065f1-9c64-4afb-b1a3-880fe4e20b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/following::div[3]</value>
+      <webElementGuid>9185f7b8-a1aa-4503-90ee-a067b5573935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre:'])[1]/following::div[4]</value>
+      <webElementGuid>79de0611-3465-4341-b286-b74756f54330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor'])[1]/preceding::div[1]</value>
+      <webElementGuid>061e4755-d265-466b-b409-5a9f4e785bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor'])[2]/preceding::div[2]</value>
+      <webElementGuid>2c98c70f-be61-46e5-86f8-1e6df8735e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Žiadne odbory v ročníku']/parent::*</value>
+      <webElementGuid>acd57101-8436-4415-8f49-a5529b1958ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>84f80afb-0662-46be-a07e-28635de4a220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                Žiadne odbory v ročníku
+            ' or . = '
+                Žiadne odbory v ročníku
+            ')]</value>
+      <webElementGuid>44db0c9b-24a9-49e4-b2f6-fb9503230fc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vytvorenie elektronickej prihlky_govuk-_ea8d5a</name>
+   <tag></tag>
+   <elementGuidId>7e4c3fc8-1d16-4139-94fc-1880d10d7435</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-panel.govuk-panel--warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ziadost']/div/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6e9ba40-b562-4d84-8112-39d7e19c61bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-panel govuk-panel--warning </value>
+      <webElementGuid>64094b88-7682-4aa5-a853-a8a9c81a3d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>errorRodné číslo dieťaťa sa nepodarilo overiť. Prosím, zadajte údaje manuálneclose</value>
+      <webElementGuid>e32700b3-8b21-4f27-8e78-b895727660e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ziadost&quot;)/div[@class=&quot;menu-layout&quot;]/div[@class=&quot;privatna-zona-content&quot;]/div[@class=&quot;govuk-form-group&quot;]/div[@class=&quot;govuk-wizard-steps&quot;]/div[@class=&quot;panel-wrapper&quot;]/div[@class=&quot;govuk-panel govuk-panel--warning&quot;]</value>
+      <webElementGuid>ce25e257-7ea0-4f28-b575-e8cc7aa42ae5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ziadost']/div/div/div/div/div[3]/div</value>
+      <webElementGuid>522c3252-d7a2-43f0-a36e-3779d46af43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vytvorenie elektronickej prihlášky'])[2]/following::div[2]</value>
+      <webElementGuid>b6ea6e12-20f5-46df-af61-a835472a1022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Správa prihlášok'])[3]/following::div[2]</value>
+      <webElementGuid>80f6f378-3e64-4c20-992e-776cbc439f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>c3015b69-84d0-471c-80ee-b6fcf243b235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'errorRodné číslo dieťaťa sa nepodarilo overiť. Prosím, zadajte údaje manuálneclose' or . = 'errorRodné číslo dieťaťa sa nepodarilo overiť. Prosím, zadajte údaje manuálneclose')]</value>
+      <webElementGuid>84aab8a0-1c89-49f9-b62d-1469685e09b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

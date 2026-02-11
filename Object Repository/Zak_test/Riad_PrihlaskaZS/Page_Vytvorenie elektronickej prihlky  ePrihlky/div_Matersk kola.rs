@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Matersk kola</name>
+   <tag></tag>
+   <elementGuidId>ba4f1aa4-e082-4d6b-b627-afe816194525</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='povinnePredprimarneVzdelavanie']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#povinnePredprimarneVzdelavanie</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85bcba3a-a21a-4ef6-86e7-c59a97fbfaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>povinnePredprimarneVzdelavanie</value>
+      <webElementGuid>ae202a47-13bb-4dbc-97c3-df18ecf37a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Materská škola</value>
+      <webElementGuid>0ab18554-4356-4805-ac52-8523f9cb648d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;povinnePredprimarneVzdelavanie&quot;)</value>
+      <webElementGuid>c97c2878-109d-488d-9596-4317e307e8b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='povinnePredprimarneVzdelavanie']</value>
+      <webElementGuid>40e5e942-772b-4daa-835e-966c94578471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[13]/div[2]</value>
+      <webElementGuid>f1624ed2-1e7b-44de-8357-02e38a335a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné predprimárne vzdelávanie aktuálne v'])[2]/following::div[1]</value>
+      <webElementGuid>ab595af7-2c0e-4191-afad-0c317c8e4742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lechkého 2/87, 62874, Banská Bystrica (Banská Bystrica), Slovenská republika'])[2]/following::div[3]</value>
+      <webElementGuid>b7c9019b-72d6-4bdb-9305-709bb0f6f53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informácie o škole'])[1]/preceding::div[1]</value>
+      <webElementGuid>10dd84e0-d0d4-4f25-8fad-8ced0a9ffb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov školy'])[1]/preceding::div[2]</value>
+      <webElementGuid>8bdd6d95-67a2-4828-ae46-16cd3630d4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Materská škola']/parent::*</value>
+      <webElementGuid>cc02178e-402b-4bbe-97ba-3984c779134d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]</value>
+      <webElementGuid>e7c45d76-f61f-47a7-8685-cb5f07ffa0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'povinnePredprimarneVzdelavanie' and (text() = 'Materská škola' or . = 'Materská škola')]</value>
+      <webElementGuid>1db26b64-fb4a-48bd-a3ec-4f3441f8d62d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

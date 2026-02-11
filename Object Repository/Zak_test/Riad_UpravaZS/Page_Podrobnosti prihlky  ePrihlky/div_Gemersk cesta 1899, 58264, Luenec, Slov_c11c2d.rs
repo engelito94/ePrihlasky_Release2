@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gemersk cesta 1899, 58264, Luenec, Slov_c11c2d</name>
+   <tag></tag>
+   <elementGuidId>fa9c51ed-6f83-4cc7-9e84-322cae2971aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zakonnyZastupca2AdresaBydliska']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zakonnyZastupca2AdresaBydliska</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d5b0379-1020-4ed5-b1c6-e7bec7248d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zakonnyZastupca2AdresaBydliska</value>
+      <webElementGuid>d119749d-db38-471d-9a6d-b863cb420611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gemerská cesta 18/99, 58264, Lučenec, Slovenská republika</value>
+      <webElementGuid>fb700016-2009-4e96-8b60-6a1a717ae036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zakonnyZastupca2AdresaBydliska&quot;)</value>
+      <webElementGuid>308fe0f9-ff93-4dcd-a523-986993ed5454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zakonnyZastupca2AdresaBydliska']</value>
+      <webElementGuid>2752d498-8089-4495-a159-8709a6712870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zz2']/div[4]/div[2]</value>
+      <webElementGuid>b84b77a7-8e2b-4dea-a80e-339d0d836d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa bydliska'])[2]/following::div[1]</value>
+      <webElementGuid>2d870e51-a92a-4ae0-9485-3ef44eeb32b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[3]</value>
+      <webElementGuid>791a471d-37d0-4c8b-bab0-6156e6963c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/preceding::div[1]</value>
+      <webElementGuid>9e33ba91-cfcc-4c8f-8a05-2223fe3dc2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mail@test.sk'])[1]/preceding::div[2]</value>
+      <webElementGuid>c1bc41a8-3632-40d6-962e-8af315052b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gemerská cesta 18/99, 58264, Lučenec, Slovenská republika']/parent::*</value>
+      <webElementGuid>76c737f0-c8bc-4a23-b613-efe00b4ed113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]/div[2]</value>
+      <webElementGuid>e02b8aa0-a183-4e5b-8bab-20205ec0eace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zakonnyZastupca2AdresaBydliska' and (text() = 'Gemerská cesta 18/99, 58264, Lučenec, Slovenská republika' or . = 'Gemerská cesta 18/99, 58264, Lučenec, Slovenská republika')]</value>
+      <webElementGuid>179cd6f6-d514-4e03-b5c7-40b6d9981a62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

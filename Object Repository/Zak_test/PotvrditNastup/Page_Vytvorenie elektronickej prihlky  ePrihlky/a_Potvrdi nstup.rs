@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Potvrdi nstup</name>
+   <tag></tag>
+   <elementGuidId>18011007-ca12-4a18-b41f-383534ec1ec8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skoly']/div[2]/div[6]/div[2]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.data-prihlaska-potvrdit-nastup.govuk-button.govuk-button__large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d453c5a-60e3-4f84-b997-aa7e36897dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data-prihlaska-potvrdit-nastup govuk-button govuk-button__large </value>
+      <webElementGuid>26e6d682-1b80-407e-a446-47b993932285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>1432bd88-0e43-41aa-83fa-642956ccf147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ziadost-guid</name>
+      <type>Main</type>
+      <value>ffaa7d5c-83c8-46c5-be31-f590cc7eb54f</value>
+      <webElementGuid>6d95d6eb-5118-42c1-9dcc-43ae19585831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>77c74579-0f20-4dc8-ab8a-496523ff1e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Potvrdiť nástup</value>
+      <webElementGuid>465bb915-cbfc-45a6-a0f8-29af29dbf651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sprava-item&quot;]/div[@class=&quot;sprava-body&quot;]/div[@class=&quot;sprava-panel&quot;]/a[@class=&quot;data-prihlaska-potvrdit-nastup govuk-button govuk-button__large&quot;]</value>
+      <webElementGuid>635acd39-5d63-4a7b-b0fb-2db8ccc0a8e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skoly']/div[2]/div[6]/div[2]/div[2]/div/a</value>
+      <webElementGuid>b50cc71a-a9fa-4679-99c1-404a20c2b77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Potvrdiť nástup')]</value>
+      <webElementGuid>27b3c51c-b49e-43a2-9203-7ef673bb6b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='null'])[1]/following::a[1]</value>
+      <webElementGuid>1bafec91-f06d-479b-a343-da59ecf76eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dôvod:'])[1]/following::a[1]</value>
+      <webElementGuid>12f004c3-c217-4d00-b4c3-33e6fde5d7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať prílohu'])[1]/preceding::a[1]</value>
+      <webElementGuid>809fdd16-0b85-423a-9b19-e85c4d9a4eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priložené dokumenty:'])[1]/preceding::a[2]</value>
+      <webElementGuid>44b22eb0-a33b-455c-b2ea-d0496f57229b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Potvrdiť nástup']/parent::*</value>
+      <webElementGuid>257a1b1d-9f0c-421c-8337-10b100465a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
+      <webElementGuid>ef610444-8619-45f4-a618-10b0ca9f83e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[2]/div/a</value>
+      <webElementGuid>3f25fefb-c12f-4c26-92f2-5ae5647f66a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Potvrdiť nástup' or . = 'Potvrdiť nástup')]</value>
+      <webElementGuid>edf6df1f-4640-4cb6-b41e-3c323a5db5eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

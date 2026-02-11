@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Riaditeľ - Vydanie rozhodnutia - papierová prihláška ZŠ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e64c5cf-3915-4bc6-ac52-8b79dee3f530</testCaseGuid>
+</TestCaseEntity>

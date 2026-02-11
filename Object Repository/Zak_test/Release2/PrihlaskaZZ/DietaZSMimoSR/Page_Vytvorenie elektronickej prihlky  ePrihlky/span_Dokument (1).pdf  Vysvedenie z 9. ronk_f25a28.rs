@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dokument (1).pdf  Vysvedenie z 9. ronk_f25a28</name>
+   <tag></tag>
+   <elementGuidId>5a97c1b2-af40-48db-9044-a92f19b3e7f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cestnePrehlasenie > span.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cestnePrehlasenie']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6106e521-294c-41fa-824b-39964bafbbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>4e09849c-bb35-4723-928a-d965e74be865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cestnePrehlasenie&quot;)/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>5f5a23c0-6c72-4990-b471-66fc57f505c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cestnePrehlasenie']/span</value>
+      <webElementGuid>de5bc022-a5fd-42a0-a310-880777c3bfab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[12]/div/span</value>
+      <webElementGuid>ee5248c3-d37a-4be1-872c-79dff6778496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

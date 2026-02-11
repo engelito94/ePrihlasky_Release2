@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sprva rozhodnutkeyboard_arrow_down_rounded</name>
+   <tag></tag>
+   <elementGuidId>0aaa5c63-2a38-4503-99fa-31efa96a224a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-rozhodnutia']/div[3]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>75ab51b3-a468-4910-9163-d1a72acdbdb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button riaditel-sprava-prihlasok-heading-button</value>
+      <webElementGuid>aaac7a21-b58e-4dcd-97cf-bf23cacbb817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>b5779ee3-a236-4430-8855-0bcb9ebe2707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>07af3ca2-360a-4163-8aca-9ae0cf5425fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Správa rozhodnutíkeyboard_arrow_down_rounded</value>
+      <webElementGuid>a47701ac-0971-493d-b9cb-d457835f28e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-rozhodnutia&quot;)/div[@class=&quot;riaditel-sprava-prihlasok-heading&quot;]/div[@class=&quot;riaditel-sprava-prihlasok-heading-buttons&quot;]/button[@class=&quot;govuk-button riaditel-sprava-prihlasok-heading-button&quot;]</value>
+      <webElementGuid>eda0edfd-635e-4e09-a2f6-be2190a8f674</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-rozhodnutia']/div[3]/div/button[2]</value>
+      <webElementGuid>f1706911-0c1d-4b07-aeaf-f396f0966054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pripravené rozhodnutia'])[1]/following::button[2]</value>
+      <webElementGuid>f4cc2509-f5f2-4f7a-9dd5-b801159f12fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné prihlášky na prijatie'])[2]/preceding::button[1]</value>
+      <webElementGuid>bc4c1cd8-7052-43f0-9e82-e745cb30bb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné prihlášky na prijatie, ale kvôli nedostatku miest ich nemôžete prijať'])[2]/preceding::button[1]</value>
+      <webElementGuid>27f82cad-612f-4f9e-8a2e-07f539c42cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Správa rozhodnutí']/parent::*</value>
+      <webElementGuid>503a256d-89f1-4285-a026-e385b1961fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/button[2]</value>
+      <webElementGuid>0d9298c6-1aed-4355-8106-dee311f3c764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'javascript: void(0);' and (text() = 'Správa rozhodnutíkeyboard_arrow_down_rounded' or . = 'Správa rozhodnutíkeyboard_arrow_down_rounded')]</value>
+      <webElementGuid>5bebc5e7-2564-4d11-b24f-1d3c9a1a087b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

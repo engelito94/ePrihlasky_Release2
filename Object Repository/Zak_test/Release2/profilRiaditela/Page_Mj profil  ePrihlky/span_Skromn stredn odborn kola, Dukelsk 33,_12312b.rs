@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Skromn stredn odborn kola, Dukelsk 33,_12312b</name>
+   <tag></tag>
+   <elementGuidId>19a3ef02-7624-493f-bb52-0a131725e45c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='header-eduid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header-eduid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>702831a4-f562-4a6f-bd75-f3f4cb01b1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>header-eduid</value>
+      <webElementGuid>65e85e76-3e2e-4070-9e4f-a18a1cff69d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>riaditel-eduid__header</value>
+      <webElementGuid>03ff8201-7fb6-4d98-975f-a79ece90b7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EDUID 910013679</value>
+      <webElementGuid>320fe0df-9efa-4233-b2f3-2c664d01f86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-eduid&quot;)</value>
+      <webElementGuid>ddfbb4bc-413f-4070-8ed3-d4c0c1f3ee05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='header-eduid']</value>
+      <webElementGuid>0fc044c4-fecb-4e69-8e2a-4f906b7e4b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súkromná stredná odborná škola, Dukelská 33, Giraltovce —'])[1]/following::span[1]</value>
+      <webElementGuid>6d3664c9-c0b1-4f2e-891a-2179ce0386ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenčina'])[2]/following::span[2]</value>
+      <webElementGuid>7b222a09-43c6-4ceb-9387-9959af802431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronické prihlášky do škôl'])[1]/preceding::span[1]</value>
+      <webElementGuid>52b96914-0c5c-4d65-8cb7-3d0467fb8c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::span[2]</value>
+      <webElementGuid>7ee1a7a7-96f2-4ddc-b155-5eefeaca819e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EDUID 910013679']/parent::*</value>
+      <webElementGuid>30045494-9b94-4de8-bb95-c3b93f17d87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/span</value>
+      <webElementGuid>8fafa88d-1f3b-4934-8a43-458f5faed843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'header-eduid' and (text() = 'EDUID 910013679' or . = 'EDUID 910013679')]</value>
+      <webElementGuid>e304eb90-a118-47bc-ba37-c8f6fb87d107</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Vybran koly                1</name>
+   <tag></tag>
+   <elementGuidId>ce7f3c79-aee6-44e6-b57e-e28a1286bd8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-item-vybrane-skoly']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-item-vybrane-skoly</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8fcbda55-eb73-4084-a26e-78bd5f25c930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-item-vybrane-skoly</value>
+      <webElementGuid>cd3086f2-6c9b-4c30-8287-3a2bd3943389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navigation-item prihlaska-vyber-skoly</value>
+      <webElementGuid>dcb12fd7-779b-4d88-9c63-988cdd15149a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>22053236-dc42-4e81-90b6-c232eeec00fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Vybrané školy
+                1
+            </value>
+      <webElementGuid>115e4b41-6cf3-4fe6-af0b-ca45000c44c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-item-vybrane-skoly&quot;)</value>
+      <webElementGuid>8411b6dd-a469-472d-a1b7-62a6ed1ae1b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='nav-item-vybrane-skoly']</value>
+      <webElementGuid>c62f743a-abd5-4367-bc5b-2b96b704a4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='najst-skolu-partial']/div/nav/li[3]</value>
+      <webElementGuid>b55aa7ff-ca6e-4627-9e3c-e4dc52dedc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Všetky školy'])[1]/following::li[2]</value>
+      <webElementGuid>e2b3f3d2-053a-455b-b65c-9c1d6bd9402b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hľadať podľa adresy'])[1]/preceding::li[1]</value>
+      <webElementGuid>278f116e-5a79-47c1-91aa-d728dbaea63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vybrané školy']/parent::*</value>
+      <webElementGuid>06a306d0-8b29-49e6-9b01-d973a0c3fd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/nav/li[3]</value>
+      <webElementGuid>1a6ae380-b460-4511-92cb-69357364fbf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'nav-item-vybrane-skoly' and (text() = '
+                Vybrané školy
+                1
+            ' or . = '
+                Vybrané školy
+                1
+            ')]</value>
+      <webElementGuid>6dd75cbd-845a-41d3-8c42-42421cee82bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

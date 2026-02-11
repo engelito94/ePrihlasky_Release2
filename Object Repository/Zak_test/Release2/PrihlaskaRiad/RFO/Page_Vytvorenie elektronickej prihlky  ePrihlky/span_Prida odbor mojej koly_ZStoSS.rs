@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prida odbor mojej koly_ZStoSS</name>
+   <tag></tag>
+   <elementGuidId>d641ccc4-d9c8-4c2c-993c-564659a8b585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ZStoSS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ziadost-vyber-skoly']/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/a[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23accbd9-b7ad-4789-bb00-a85f7be75e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ZStoSS</value>
+      <webElementGuid>a09e22a5-2f09-4fa7-8af8-107ec79b0e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať odbor</value>
+      <webElementGuid>c8b12425-cc44-4d06-b0d0-0a9c8d48fbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ziadost-vyber-skoly&quot;)/div[@class=&quot;skoly-step&quot;]/div[@class=&quot;pridane-skoly-container&quot;]/div[@class=&quot;je-tu-prazdno-SS&quot;]/div[@class=&quot;je-tu-prazdno&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;description&quot;]/div[@class=&quot;linky&quot;]/div[@class=&quot;pridat-odbor-linky&quot;]/a[@class=&quot;govuk-link link-button icon_and_link pridat-odbor-inej-skoly&quot;]/span[@class=&quot;ZStoSS&quot;]</value>
+      <webElementGuid>f22ffaab-9a87-4573-99be-04b0c4495a13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ziadost-vyber-skoly']/div[2]/div[3]/div/div[2]/div/div[2]/div[2]/div/a[2]/span[2]</value>
+      <webElementGuid>8e1a7fb8-a6b2-4924-a2f8-ff484f0234e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor mojej školy'])[1]/following::span[2]</value>
+      <webElementGuid>e8625c5d-5693-43e3-95ae-f11212ad7806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je tu prázdno'])[1]/following::span[4]</value>
+      <webElementGuid>8d87a7fd-e736-42bc-baac-8f28b4b5b748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor mojej školy'])[2]/preceding::span[2]</value>
+      <webElementGuid>5eb7fafd-0a92-45c5-8f3a-fdcef0d618bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať odbor'])[2]/preceding::span[4]</value>
+      <webElementGuid>cf589fa3-596d-4da3-9f98-9d504ba6f4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pridať odbor']/parent::*</value>
+      <webElementGuid>cad4c70a-1e82-49fe-912b-121ba31c3a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span[2]</value>
+      <webElementGuid>18fb6dbb-2672-4aa3-ad0c-5540f8b7bf7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pridať odbor' or . = 'Pridať odbor')]</value>
+      <webElementGuid>b02a4afb-89ad-4ee8-b88c-33315264f03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

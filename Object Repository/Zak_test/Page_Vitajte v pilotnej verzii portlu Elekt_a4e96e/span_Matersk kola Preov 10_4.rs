@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Matersk kola Preov 10_4</name>
+   <tag></tag>
+   <elementGuidId>9d42ac48-1a3d-4214-9d23-89797993a92e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prihlaskapodana-71f5b199-55de-41d4-b0f0-495731b57725 > div.prihlaska-podana > div.card_prihlasky_content > table.zoznam-prihlasok > tbody > tr.prihlasky-row-item > td:nth-of-type(2) > span.prihlaska-header-skola</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[8]/div/div[2]/div/table/tbody/tr/td[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>61f7fb28-dd62-4e60-8104-8920d751a121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prihlaska-header-skola</value>
+      <webElementGuid>ae6473b7-62b2-48cb-b80f-75060b94c024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Materská škola Prešov 10</value>
+      <webElementGuid>959adfe5-f459-4e95-8615-c8fed2e16a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-71f5b199-55de-41d4-b0f0-495731b57725&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;card_prihlasky_content&quot;]/table[@class=&quot;zoznam-prihlasok&quot;]/tbody[1]/tr[@class=&quot;prihlasky-row-item&quot;]/td[2]/span[@class=&quot;prihlaska-header-skola&quot;]</value>
+      <webElementGuid>65fba485-f463-49cd-86e7-ee713eeb658b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-71f5b199-55de-41d4-b0f0-495731b57725']/div/div[3]/table/tbody/tr/td[2]/span</value>
+      <webElementGuid>9dcef620-d7dc-4b1f-bcd3-060ad4e85b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akcia'])[5]/following::span[2]</value>
+      <webElementGuid>4fd32908-1867-4f78-bfd4-e0f5e45ca37b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav'])[5]/following::span[2]</value>
+      <webElementGuid>675e34c3-ddfa-41c7-b3c3-04f8ec8f2925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-2025-924.01'])[1]/preceding::span[1]</value>
+      <webElementGuid>8345659f-d6ba-403a-9507-372d7ab7eec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podaná'])[3]/preceding::span[2]</value>
+      <webElementGuid>e6be4ef3-b604-4abd-84de-b6ec55711ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Materská škola Prešov 10']/parent::*</value>
+      <webElementGuid>0063be43-9bd2-492a-a67d-3f81fdb6fff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[3]/table/tbody/tr/td[2]/span</value>
+      <webElementGuid>2d36d2e3-4608-4b3b-825d-a1eeae40468b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Materská škola Prešov 10' or . = 'Materská škola Prešov 10')]</value>
+      <webElementGuid>91759cc4-887d-4ada-b573-393385ea0d34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

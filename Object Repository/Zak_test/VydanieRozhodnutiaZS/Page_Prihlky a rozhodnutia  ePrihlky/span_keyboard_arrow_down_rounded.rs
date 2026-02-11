@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_keyboard_arrow_down_rounded</name>
+   <tag></tag>
+   <elementGuidId>3b9e0ac7-ca3c-4c1f-b734-00c2b7dd173f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown.red > span.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prihlasky']/div[5]/div[2]/div[2]/div[3]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b9534233-1f9d-4239-b032-f1ea3bb15e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>1313bef6-732e-4a86-bf04-b866832c7eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>keyboard_arrow_down_rounded</value>
+      <webElementGuid>296e76dd-d053-4003-b25c-220e79fdbe43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prihlasky&quot;)/div[@class=&quot;riaditel-prihlasky-list&quot;]/div[@class=&quot;riaditel-prihlasky-list-inner-wrapper&quot;]/div[@class=&quot;riaditel-prihlasky-list-row&quot;]/div[@class=&quot;cell stav&quot;]/div[@class=&quot;dropdown red&quot;]/span[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>8ce26892-a127-41cb-ae74-3b18c78e66b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prihlasky']/div[5]/div[2]/div[2]/div[3]/div/span[2]</value>
+      <webElementGuid>d01332c2-3512-4195-adec-9c758ca641b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Návrh na neprijatie'])[4]/following::span[1]</value>
+      <webElementGuid>1b395625-aee1-42f3-8ecb-85cd7092c299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='poznámka k prihláške'])[1]/following::span[2]</value>
+      <webElementGuid>d920e5a1-40ed-47f0-b81f-fdf9609d3f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V spracovaní'])[2]/preceding::span[1]</value>
+      <webElementGuid>7348d66a-b85f-4bf5-86cb-ae6e0c35bb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Návrh na prijatie'])[3]/preceding::span[1]</value>
+      <webElementGuid>96c7c864-7d3c-4e3b-b40a-d5c6faaf30fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div/span[2]</value>
+      <webElementGuid>1ef8fc4b-77f2-458c-8035-52f3f907fd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'keyboard_arrow_down_rounded' or . = 'keyboard_arrow_down_rounded')]</value>
+      <webElementGuid>65e6aa95-76af-44ab-a511-ed002f026fd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
