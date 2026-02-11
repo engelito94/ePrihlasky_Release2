@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_check_circle_govuk-panel__body</name>
+   <tag></tag>
+   <elementGuidId>31b1c8ae-204a-410b-8e13-3162995d733b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='message-box']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-panel__body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e68a637-cfd2-402d-a35a-ca1054bed7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-panel__body</value>
+      <webElementGuid>03a1f5e8-db29-4aee-a642-b3c649013918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Systém úspešne uložil zadané kritériá</value>
+      <webElementGuid>5d2cb707-7290-4edd-a803-ea76c76025df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;message-box&quot;)/div[@class=&quot;govuk-panel govuk-panel--confirmation&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]</value>
+      <webElementGuid>6da16293-a037-4960-bff8-08e55aa672da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='message-box']/div/div/div</value>
+      <webElementGuid>17ccf1a5-35bc-40af-8a4c-c20462adcde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::div[2]</value>
+      <webElementGuid>95372774-d54c-4db0-89a3-32c56c8dbc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::div[6]</value>
+      <webElementGuid>0a8b21aa-d4c8-4d1a-a16a-446290cd5179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::div[1]</value>
+      <webElementGuid>3dc249c3-0110-43f6-99a5-ac1b2f6a8129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>a3aa6ddd-6f14-4ad4-8695-d2553d2986ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Systém úspešne uložil zadané kritériá' or . = 'Systém úspešne uložil zadané kritériá')]</value>
+      <webElementGuid>bb3741cf-d471-4a34-b521-2b1bfd231a2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

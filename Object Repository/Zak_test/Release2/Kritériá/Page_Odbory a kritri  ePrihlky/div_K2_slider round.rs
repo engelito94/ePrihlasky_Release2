@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_K2_slider round</name>
+   <tag></tag>
+   <elementGuidId>2e6eddf1-dd9b-441a-b58b-a1cbee09a6f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='riaditel-kriteria-list-body']/tr[2]/td[2]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.kriterium-aktivne > label.switch > div.slider.round</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e01bd688-6a41-40a1-8a39-10afecbecd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider round</value>
+      <webElementGuid>2094a62d-db53-450e-8673-74f0c54c1dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-kriteria-list-body&quot;)/tr[2]/td[@class=&quot;kriterium-aktivne&quot;]/label[@class=&quot;switch&quot;]/div[@class=&quot;slider round&quot;]</value>
+      <webElementGuid>0de092cd-6fe6-42f3-af53-70ad0a68e249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='riaditel-kriteria-list-body']/tr[2]/td[2]/label/div</value>
+      <webElementGuid>86c1f4b4-7d37-4835-9d08-6c3071d2a18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/label/div</value>
+      <webElementGuid>23ab8a9e-c977-42df-bdd5-7eb9c45429d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

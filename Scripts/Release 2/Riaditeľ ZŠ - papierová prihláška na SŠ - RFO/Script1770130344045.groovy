@@ -150,15 +150,15 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '2025 / 2026')
 
 if (mesiac < 10) {
-	mesiac = ('0' + mesiac.toString())
+    mesiac = ('0' + mesiac.toString())
 }
 
 if (den < 10) {
-	den = ('0'+ den.toString())
+    den = ('0' + den.toString())
 }
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Dtum podania_ziadostDatumPodania'), 
-    den + '.' + mesiac + '.' + rok)
+    (((den + '.') + mesiac) + '.') + rok)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Poznmka koly_poznamkaSkoly'), 
     'poznámka školy')
@@ -251,7 +251,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '10.03.1980')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Korepondenn adresa_zakonnyZastupcaAdres_9d2f75'), 
-    'Nitra (Nitra) 1435, Nitra (Nitra), Slovenská republika')
+    'Štúrova 1435, Nitra, Slovenská republika')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Telefnne slo_zakonnyZastupcaTelefon'), 
     '+421909655247')

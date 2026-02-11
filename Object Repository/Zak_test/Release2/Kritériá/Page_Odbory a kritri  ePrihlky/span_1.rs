@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>89547f33-f71f-4859-802c-0576a0e7215b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalVypocetTextarea']/div/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fake_text_input.govuk-input.like-textarea > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1161377-3e87-48fb-bb5b-6842dc7c5c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Priemer()</value>
+      <webElementGuid>9ccb2551-e1f3-4a17-b75a-5e54b099c386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalVypocetTextarea&quot;)/div[@class=&quot;govuk-form-group textarea-control required govuk-form-group--error&quot;]/div[@class=&quot;textarea-wrapper&quot;]/div[@class=&quot;fake_text_input govuk-input like-textarea&quot;]/span[1]</value>
+      <webElementGuid>7d67e6ae-8831-40dc-a4d9-f29516722ab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalVypocetTextarea']/div/div[2]/div[2]/span</value>
+      <webElementGuid>8120224f-0ec4-4e8c-aeb2-9f06eec9357c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max()'])[2]/following::span[4]</value>
+      <webElementGuid>f463185f-bbec-4926-adec-6ba15f39f5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ako vyplniť Výpočet?'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef41e06c-f0ec-4e7e-b88c-cccc3f4c7cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[8]/preceding::span[4]</value>
+      <webElementGuid>0675b5be-5854-4d8c-bcaf-fd67616c40c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>352404ad-63c2-4a6e-a80f-04a331596ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Priemer()' or . = 'Priemer()')]</value>
+      <webElementGuid>6bde8c22-ebc8-4de1-bfd6-ff03c4050b8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

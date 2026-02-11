@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zrui_btn-ulozit-vypocet govuk-button_3cd842</name>
+   <tag></tag>
+   <elementGuidId>19fa0f84-bc65-4250-957c-c2ceb7e8079d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-kriteria']/div[3]/div/div/div[3]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-ulozit-vypocet.govuk-button.govuk-button__basic.last-focusable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76634a57-e73c-42d1-8d0d-d08e37879476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-ulozit-vypocet govuk-button govuk-button__basic last-focusable</value>
+      <webElementGuid>c8fefa51-1681-4509-a807-0cf1d82da6a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uložiť</value>
+      <webElementGuid>422ce3ce-751f-41dc-945c-5b0d278d923d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-kriteria&quot;)/div[@class=&quot;modal-wrapper kriteria-vypocet-modal-wrapper&quot;]/div[@class=&quot;modal kriteria-vypocet-modal&quot;]/div[@class=&quot;modal-inner&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-ulozit-vypocet govuk-button govuk-button__basic last-focusable&quot;]</value>
+      <webElementGuid>006d8294-e191-4503-988f-36b3ddb6a710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-kriteria']/div[3]/div/div/div[3]/div/button</value>
+      <webElementGuid>0e8a2492-ee2d-40fe-92d4-08463c87c00b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[2]/following::button[1]</value>
+      <webElementGuid>1e61eb5c-cabb-432c-820c-f5c536d20544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zobraziť návod'])[8]/following::button[2]</value>
+      <webElementGuid>ac7d423f-7f6a-4d22-af3e-c356cf28d9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boli tieto informácie pre vás užitočné?'])[1]/preceding::button[1]</value>
+      <webElementGuid>8dd45653-fe98-4186-a57a-a0afa56d1f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::button[1]</value>
+      <webElementGuid>acaa9392-1ee8-489f-9466-2c5ef4001871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div/button</value>
+      <webElementGuid>4f8fa160-aaf4-4379-844b-503307108bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Uložiť' or . = 'Uložiť')]</value>
+      <webElementGuid>2078783f-313d-4387-ada3-34d8dda40bf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

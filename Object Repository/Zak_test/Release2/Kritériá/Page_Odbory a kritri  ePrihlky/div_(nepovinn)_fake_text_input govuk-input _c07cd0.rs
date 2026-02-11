@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(nepovinn)_fake_text_input govuk-input _c07cd0</name>
+   <tag></tag>
+   <elementGuidId>ba54f228-6ce0-4bf4-abb5-fee96fcd7203</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='splnenieKriteriiInput']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-wrapper > div.fake_text_input.govuk-input.like-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af53e7fa-7006-4092-b50d-d43eb2eaf634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c1302b2b-e36a-4c08-a748-4cd341bb867b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fake_text_input govuk-input like-input</value>
+      <webElementGuid>eab002b0-00ae-4e17-a6b1-97d25bcf5002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Zadajte napr. K1>K2</value>
+      <webElementGuid>43da0fa1-8858-48bb-b1fb-5b45d0fcd974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splnenieKriteriiInput&quot;)/div[@class=&quot;govuk-form-group input-control dtc-input&quot;]/div[@class=&quot;input-wrapper&quot;]/div[@class=&quot;fake_text_input govuk-input like-input&quot;]</value>
+      <webElementGuid>70e65747-e243-4b7b-8871-08552af8498f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='splnenieKriteriiInput']/div/div[2]/div</value>
+      <webElementGuid>b6ab5549-a560-4bf0-8002-e7f3aafa5809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[3]/following::div[2]</value>
+      <webElementGuid>eb6af877-e436-4be2-b795-c58229484df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyhodnocovací výraz'])[1]/following::div[2]</value>
+      <webElementGuid>47dbd7d4-adc7-4ad0-bd98-105d8812b05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre:'])[3]/preceding::div[2]</value>
+      <webElementGuid>df1b3af0-7d06-4469-aca4-a479c57578c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[4]/preceding::div[2]</value>
+      <webElementGuid>e2407eae-ead6-433e-bfd3-a7f496e585f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='K1>K2']/parent::*</value>
+      <webElementGuid>3e6ab50c-c061-42fe-8e4d-21a00a0d7dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div</value>
+      <webElementGuid>5d3da120-3d8d-40f7-9e48-c00a8c0e12fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
