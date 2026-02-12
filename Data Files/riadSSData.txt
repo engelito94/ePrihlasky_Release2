@@ -37,7 +37,6 @@ Mária;Vlková;095409/8981
 Dominika;Tkáčová;095923/8181
 Romana;Bieliková;096102/2546
 Daniela;Krajčírová;095601/6622
-Viktória;Lihanová;095518/1150
 Marcela;Šimúrková;095109/7136
 Pavlína;Benková;095409/7947
 Olívia;Makarová;096125/6208
