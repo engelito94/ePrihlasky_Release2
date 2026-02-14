@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_(nepovinn)_govuk-label govuk-radios__label</name>
+   <name>button_Zrui_btn-dalej govuk-button govuk-bu_a288b6</name>
    <tag></tag>
-   <elementGuidId>e5f718ef-df2e-4e2d-bf64-72a65741fb67</elementGuidId>
+   <elementGuidId>c0431a12-1a8f-48d9-a3d9-3a3d9b2a6895</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>label.govuk-label.govuk-radios__label</value>
+         <key>XPATH</key>
+         <value>//div[@id='step-1']/div/div[2]/div/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//fieldset[1]/div[3]/div[1]/label[1]</value>
+         <key>CSS</key>
+         <value>button.btn-dalej.govuk-button.govuk-button__basic.last-focusable</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,106 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>391b46cd-119f-451a-8719-49bba28d9b62</webElementGuid>
+      <value>button</value>
+      <webElementGuid>50624728-c0ff-4af8-a731-b133815eb2d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>govuk-label govuk-radios__label</value>
-      <webElementGuid>05f2bfb0-e778-4f08-bd15-e1e94aec6d51</webElementGuid>
+      <value>btn-dalej govuk-button govuk-button__basic last-focusable</value>
+      <webElementGuid>29298de6-1602-499d-ac43-f1762f1b4a2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>data-step</name>
       <type>Main</type>
-      <value>radioGroup-deti_option_0</value>
-      <webElementGuid>e0d12105-7826-441b-ae7e-5aa7816203be</webElementGuid>
+      <value>1</value>
+      <webElementGuid>464a4e5e-3ce4-464c-8b44-01bbd9aa58dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Lívia Bystrá (27.11.2009) 
-                         </value>
-      <webElementGuid>e49a32b9-63d9-4314-bad5-3b4349a9a714</webElementGuid>
+      <value>Ďalej</value>
+      <webElementGuid>3d216ab0-6f9d-4791-af3f-2898df4f3c98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radioGroup-deti&quot;)/div[@class=&quot;govuk-form-group radiogroup-control required&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
-      <webElementGuid>b8d7a7e7-c688-4926-9124-51f62b3696c5</webElementGuid>
+      <value>id(&quot;step-1&quot;)/div[@class=&quot;vseobecne-informacie&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-dalej govuk-button govuk-button__basic last-focusable&quot;]</value>
+      <webElementGuid>58291a7f-b983-484d-9d3b-c6024dd88a32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radioGroup-deti']/div[2]/fieldset/div[3]/div/label</value>
-      <webElementGuid>7f361ea0-fb72-4ea9-96ad-216acbfbe069</webElementGuid>
+      <value>//div[@id='step-1']/div/div[2]/div/button</value>
+      <webElementGuid>66f520ab-6d98-46b6-af20-330b61563a7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/following::label[1]</value>
-      <webElementGuid>09bc57f5-e634-4f91-9819-a0be5787ad74</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[1]/following::button[1]</value>
+      <webElementGuid>d73b4d27-05af-48f5-92f1-4b85563be012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zvoľte osobu'])[1]/following::label[1]</value>
-      <webElementGuid>3374bf51-9668-4a3b-b929-7952c07fdd99</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='žena'])[1]/following::button[2]</value>
+      <webElementGuid>7c258840-6df3-4c02-a458-7314e5e872b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rudolf Tlačienka (12.11.2009)'])[1]/preceding::label[1]</value>
-      <webElementGuid>b2311b6d-be0a-431a-8f5e-54f94acb9951</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polia označené hviezdičkou sú povinné'])[3]/preceding::button[1]</value>
+      <webElementGuid>480e26c2-9148-440a-89eb-9c7b4cfeff7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Júlia Oravská (26.9.2009)'])[1]/preceding::label[2]</value>
-      <webElementGuid>bf26d4f0-405b-430f-b31f-ca2648efb79c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Všeobecné informácie'])[2]/preceding::button[1]</value>
+      <webElementGuid>80e54ebb-cc92-4f2c-b5b3-4c0ccb21f991</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Lívia Bystrá (27.11.2009)']/parent::*</value>
-      <webElementGuid>4295b9a3-e1f3-48d7-a710-10a7c0ee6157</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ďalej']/parent::*</value>
+      <webElementGuid>b50d1fc3-d55f-4e3d-a97a-6c0b1acbf39c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label</value>
-      <webElementGuid>9f4efddf-836e-449c-9e35-283e23585085</webElementGuid>
+      <value>//div/div/div[2]/div/button</value>
+      <webElementGuid>6b7910b6-4cb3-4b80-ba6f-9f8a045c44ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Lívia Bystrá (27.11.2009) 
-                         ' or . = 'Lívia Bystrá (27.11.2009) 
-                         ')]</value>
-      <webElementGuid>03751574-120c-4d8b-a098-c0a8782f7084</webElementGuid>
+      <value>//button[(text() = 'Ďalej' or . = 'Ďalej')]</value>
+      <webElementGuid>a51f5d54-bfe2-4806-b364-f0acb463f6f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

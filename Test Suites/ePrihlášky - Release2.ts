@@ -61,6 +61,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>843bf554-927a-4075-82ae-bf8ed3206c71</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ ZŠ - Odoslanie elektronickej prihlášky na SŠ - non RFO dieťa</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>1ecd3deb-d9aa-49cd-be43-3bc45312e1e8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
