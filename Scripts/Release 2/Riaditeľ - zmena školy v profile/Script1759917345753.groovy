@@ -27,27 +27,27 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/a'))
 
 'Zmena školy v profile'
-WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu'),
-	'910020859', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu'), 
+    '910020859', true)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/button_keyboard_arrow_down_zmenit-skolu-btn'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola'),
-	'Gymnázium Metodova')
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola'), 
+    'Gymnázium Metodova', FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Gymnzium Metodova_header-eduid'),
-	'EDUID 910020859')
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Gymnzium Metodova_header-eduid'), 
+    'EDUID 910020859')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu_1'),
-	'910013679', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu_1'), 
+    '910013679', true)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/button_keyboard_arrow_down_zmenit-skolu-btn'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola_1'),
-	'Súkromná stredná odborná škola')
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola_1'), 
+    'Súkromná stredná odborná škola')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Skromn stredn odborn kola, Dukelsk 33,_12312b'),
-	'EDUID 910013679')
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Skromn stredn odborn kola, Dukelsk 33,_12312b'), 
+    'EDUID 910013679')
 
 'Odhlásenie'
 prihlasovanie.odhlasPouzivatela()

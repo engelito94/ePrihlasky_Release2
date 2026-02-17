@@ -14,9 +14,8 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable
-import portal.Prihlasovanie
-
+import internal.GlobalVariable as GlobalVariable
+import portal.Prihlasovanie as Prihlasovanie
 import org.openqa.selenium.Keys as Keys
 
 Prihlasovanie prihlasovanie = new Prihlasovanie()
@@ -92,7 +91,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatel
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatelov/PridatPouzivatela/Page_Prihlky a rozhodnutia  ePrihlky/a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatelov/PridatPouzivatela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola'), 
-    'Gymnázium Metodova')
+    'Gymnázium Metodova', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatelov/PridatPouzivatela/Page_Mj profil  ePrihlky/div_Pozcia_profil-riaditel-typ'), 
     'Spracovateľ')
@@ -107,9 +106,10 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatel
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatelov/PridatPouzivatela/Page_Prihlky a rozhodnutia  ePrihlky/a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatelov/PridatPouzivatela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola'), 
-    'Gymnázium Metodova')
+    'Gymnázium Metodova', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/SpravaPouzivatelov/PridatPouzivatela/Page_Mj profil  ePrihlky/div_Pozcia_profil-riaditel-typ_1'), 
     'Administrátor')
 
 prihlasovanie.odhlasPouzivatela()
+

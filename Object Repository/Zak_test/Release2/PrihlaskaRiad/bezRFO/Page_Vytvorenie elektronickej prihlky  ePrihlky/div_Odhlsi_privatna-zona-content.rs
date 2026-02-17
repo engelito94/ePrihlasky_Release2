@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//fieldset[1]/div[3]/div[2]/div[6]/div[1]/div[3]/div[12]</value>
+         <value>//fieldset[1]/div[3]/div[2]/div[6]/div[1]/div[2]/div[2]/div[12]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3ae0f905-d5e7-47fe-80b8-d3eabb7070c1</webElementGuid>
+      <webElementGuid>5ac59421-f205-4a28-9ef5-ad90a6c208ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>privatna-zona-content</value>
-      <webElementGuid>f288ce16-737f-49a3-bbbd-d896af5666bf</webElementGuid>
+      <webElementGuid>1a0c4d28-dba3-45f5-9866-ce235e0e75eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -7203,7 +7203,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
                 
             
         </value>
-      <webElementGuid>1066a7db-abac-444b-a7ed-310e664d6ece</webElementGuid>
+      <webElementGuid>4a383841-09d3-4f8e-99d4-c9a53d8ce3b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -7211,7 +7211,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ziadost&quot;)/div[@class=&quot;menu-layout&quot;]/div[@class=&quot;privatna-zona-content&quot;]</value>
-      <webElementGuid>96ed6f9a-d164-43b9-9909-9d9786db099c</webElementGuid>
+      <webElementGuid>d6f43b17-3764-45f6-9075-a59d3dd8818c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -7219,7 +7219,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ziadost']/div/div</value>
-      <webElementGuid>5c7bfcbf-f807-4d9a-824b-9b644e72f4b6</webElementGuid>
+      <webElementGuid>7bf1ba07-d454-48c0-8e68-8a2e9a120b29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -7227,7 +7227,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::div[3]</value>
-      <webElementGuid>378cabaa-d1f9-48fe-86a8-61600c412185</webElementGuid>
+      <webElementGuid>32c1b04f-35e9-4acb-b1b2-24d463361fb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -7235,7 +7235,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oznámenia'])[2]/following::div[3]</value>
-      <webElementGuid>235728b4-3856-47f1-b869-a55f7d91c407</webElementGuid>
+      <webElementGuid>9d121ed2-eef3-4b81-874e-6d676aab0689</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -7243,7 +7243,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div[2]/div/div</value>
-      <webElementGuid>01201540-825e-419f-abf8-08fbbe4fc880</webElementGuid>
+      <webElementGuid>ab3bc02b-e406-4c28-9176-c21970131d59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -21579,6 +21579,6 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
                 
             
         &quot;))]</value>
-      <webElementGuid>3590d790-24f3-4682-bbc2-4c8b4ec60ec0</webElementGuid>
+      <webElementGuid>76a7e723-b277-4bf8-b5af-9151837807fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

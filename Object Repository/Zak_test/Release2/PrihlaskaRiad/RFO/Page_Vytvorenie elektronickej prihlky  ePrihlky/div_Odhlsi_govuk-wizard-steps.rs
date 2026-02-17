@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//fieldset[1]/div[3]/div[2]/div[6]/div[1]/div[3]/div[12]</value>
+         <value>//fieldset[1]/div[3]/div[2]/div[6]/div[1]/div[2]/div[2]/div[12]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>125973c8-0791-4567-bc11-8c762198adfd</webElementGuid>
+      <webElementGuid>0af790e9-44a7-44cd-a835-b5faefb28ec1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-wizard-steps</value>
-      <webElementGuid>db136b8c-a904-4d90-a70d-55626bc3d8a7</webElementGuid>
+      <webElementGuid>5810204b-175c-4f52-b571-9772ad5b4d92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -7256,7 +7256,7 @@ EXPORT PDF
                         
                     
                 </value>
-      <webElementGuid>7408058a-41ae-4825-b775-abb57b0f3760</webElementGuid>
+      <webElementGuid>336c9059-d0b1-4cbf-a376-b9d90b0a389f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -7264,7 +7264,7 @@ EXPORT PDF
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ziadost&quot;)/div[@class=&quot;menu-layout&quot;]/div[@class=&quot;privatna-zona-content&quot;]/div[@class=&quot;govuk-form-group&quot;]/div[@class=&quot;govuk-wizard-steps&quot;]</value>
-      <webElementGuid>adc93d69-979c-4dbb-8ae7-8949088a0174</webElementGuid>
+      <webElementGuid>6f43ca1d-a404-4b93-bf1e-159778a6b036</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -7272,7 +7272,7 @@ EXPORT PDF
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ziadost']/div/div/div/div</value>
-      <webElementGuid>97b0550a-fc81-4bc7-b537-b3058470058a</webElementGuid>
+      <webElementGuid>4e23a6bc-1ec3-4eff-8a4f-4d8a0ae9691d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -7280,7 +7280,7 @@ EXPORT PDF
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::div[5]</value>
-      <webElementGuid>7adf9f59-7be1-4fe0-a8fe-c8925db4f27f</webElementGuid>
+      <webElementGuid>471316a8-b3aa-481c-9c42-b3f2013dd31e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -7288,7 +7288,7 @@ EXPORT PDF
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oznámenia'])[2]/following::div[5]</value>
-      <webElementGuid>a65d8858-e660-449a-8b66-0e5eb1dbf595</webElementGuid>
+      <webElementGuid>60af0bc2-a855-4e1c-92b7-53e16b6f7459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -7296,7 +7296,7 @@ EXPORT PDF
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div[2]/div/div/div/div</value>
-      <webElementGuid>8060b832-2fd2-4dd2-af0e-67dc4a2de2b2</webElementGuid>
+      <webElementGuid>bfb8b3c6-48c7-427d-8cd0-a96720bf802f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -21738,6 +21738,6 @@ EXPORT PDF
                         
                     
                 &quot;))]</value>
-      <webElementGuid>00a1c919-fde9-4f6c-8131-94122141d270</webElementGuid>
+      <webElementGuid>dc5792a1-d3f4-49c6-b88a-e2589ca3e69c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

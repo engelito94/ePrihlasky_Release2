@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//fieldset[1]/div[3]/div[2]/div[6]/div[1]/div[3]/div[12]</value>
+         <value>//fieldset[1]/div[3]/div[2]/div[6]/div[1]/div[2]/div[2]/div[12]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ca11c4bd-64cd-4e51-b340-f6c7c206b7e5</webElementGuid>
+      <webElementGuid>69a3b137-e4a5-418d-a494-52148a7a22e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>privatna-zona-content</value>
-      <webElementGuid>ed8afaec-ebc6-4cdc-918f-85f14596edf3</webElementGuid>
+      <webElementGuid>de50c00b-ab69-4672-ae56-9d596d228c7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -6734,7 +6734,7 @@ EXPORT PDF
                 
             
         </value>
-      <webElementGuid>a97ff2d7-cdbd-449a-abb2-007f925800b6</webElementGuid>
+      <webElementGuid>ad0093fa-144a-4bd0-bdeb-074c07fdb989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -6742,7 +6742,7 @@ EXPORT PDF
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;prihlaska&quot;)/div[@class=&quot;menu-layout&quot;]/div[@class=&quot;privatna-zona-content&quot;]</value>
-      <webElementGuid>f3be4058-e58a-4b27-8cd1-2164e85fe874</webElementGuid>
+      <webElementGuid>029f3ace-21a5-4499-b14a-69a83bfeb9ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -6750,7 +6750,7 @@ EXPORT PDF
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='prihlaska']/div/div</value>
-      <webElementGuid>15842a2e-23a2-43bc-9181-6b3383f945ba</webElementGuid>
+      <webElementGuid>9ce87db4-20b0-4911-be2b-371ca8dc71ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -6758,7 +6758,7 @@ EXPORT PDF
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/following::div[3]</value>
-      <webElementGuid>05ee5727-7c1f-4a24-8d82-4b155b8ff833</webElementGuid>
+      <webElementGuid>53d43bae-af58-4479-8308-56c61208deaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -6766,7 +6766,7 @@ EXPORT PDF
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Môj profil'])[2]/following::div[3]</value>
-      <webElementGuid>45757dd0-873f-4aff-adb5-5c0fea973974</webElementGuid>
+      <webElementGuid>f3baac03-75bb-432c-a892-795860950e9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -6774,7 +6774,7 @@ EXPORT PDF
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div[2]/div/div</value>
-      <webElementGuid>d1fb78fd-ded8-4768-a693-e360a7d51312</webElementGuid>
+      <webElementGuid>3c73bf86-1922-49e3-bf40-887ce717b1a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -20172,6 +20172,6 @@ EXPORT PDF
                 
             
         &quot;))]</value>
-      <webElementGuid>a1bec80c-ca02-4d46-9fbf-5dab6064238d</webElementGuid>
+      <webElementGuid>def55130-12f4-4b9d-a125-3c5577e540e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

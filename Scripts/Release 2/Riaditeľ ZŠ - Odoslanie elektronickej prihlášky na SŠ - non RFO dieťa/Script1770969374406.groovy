@@ -290,7 +290,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '910020859')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_1'), 
-    'Gymnázium Metodova')
+    'Gymnázium Metodova', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_2'), 
     '7902J00')

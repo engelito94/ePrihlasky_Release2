@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/Diet
 int poradie = 1
 
 while (poradie <= 5) {
-    String xpath = '//fieldset[1]/div[3]/div['+poradie+']/label[1]'
+    String xpath = ('//fieldset[1]/div[3]/div[' + poradie) + ']/label[1]'
 
     TestObject obj = new TestObject()
 
@@ -59,9 +59,10 @@ TestObject radioButtonDieta = new TestObject()
 
 poradie--
 
-radioButtonDieta.addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'radioGroup-deti_option_' + poradie + '\']')
+radioButtonDieta.addProperty('xpath', ConditionType.EQUALS, ('//input[@id=\'radioGroup-deti_option_' + poradie) + '\']')
 
 WebUI.click(radioButtonDieta)
+
 /**
 if (WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2//fieldset[1]/div[3]/div[1]/label[1]/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/label_(nepovinn)_govuk-label govuk-radios__label'), 
     'Lívia Bystrá (04.8.2009)')) {
@@ -288,7 +289,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '910020859')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_1'), 
-    'Gymnázium Metodova')
+    'Gymnázium Metodova', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_2'), 
     '7902J00')

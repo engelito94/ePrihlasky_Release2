@@ -17,7 +17,6 @@ Karol;Hojsík;091111/1564
 Dalibor;Pupis;091114/4663
 Samuel;Filo;090211/3762
 Tibor;Galajda;090617/6095
-Andrej;Pažitný;090617/9923
 Eduard;Škrovina;090521/5729
 Pavol;Tomčík;091018/3197
 Michal;Lacko;090714/3930
@@ -56,7 +55,6 @@ Filipa;Šoltysová;095403/3476
 Tomáša;Blahová;095818/0916
 Erika;Modríková;096008/5929
 Ľubica;Kravcová;095921/3266
-Petra;Ščepánová;095202/0564
 Jakub;Novák;100110/9802
 Ahmed;Khalil;100108/0399
 Carlos;Rivera;100107/2303
@@ -67,7 +65,6 @@ Kwame Nkrumah;Nkrumah;100127/1018
 Luca;Rossi;100108/3402
 Hiroshi;Tanaka;100103/0415
 Miguel;Santos;100120/6690
-Ethan;Blackwood;100102/6125
 Tariq;Al-Mansour;100118/0576
 Javier;Morales;100123/8403
 Sven;Larsson;100111/0561
@@ -99,7 +96,6 @@ Camila;Pereira;105107/6873
 Zahra;Khan;105111/7276
 Aoife;Kelly;105111/5098
 Sofia;Moretti;105118/3584
-Li;Zhang;105118/6455
 Valentina;Martínez;105119/5508
 Natasha;Ivanovová;105120/2438
 Fatou;Sow;105125/3258

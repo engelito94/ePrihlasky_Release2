@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[10]/div/div[3]/div[2]/div[3]/div/div[3]/div[4]</value>
+         <value>//div[10]/div/div[3]/div[2]/div[3]/div/div[2]/div[2]/div[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2ec2cdc7-bd76-4b99-8e9a-26dea43280d8</webElementGuid>
+      <webElementGuid>fc76493d-7461-4ea9-86b8-583cffabdaa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>informacieOSkoleForm</value>
-      <webElementGuid>ae96e076-414d-4428-9f4d-ca3242b53cf1</webElementGuid>
+      <webElementGuid>b2f55bdc-cf68-4966-be91-1b5b4e360a25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -295,7 +295,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
 
         
     </value>
-      <webElementGuid>bd2e19c4-8b86-4d08-b726-27f371c6a252</webElementGuid>
+      <webElementGuid>7b2443f9-5014-4b1e-8288-9eb4e26ca8c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -303,7 +303,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;informacieOSkoleForm&quot;)</value>
-      <webElementGuid>d88ab5e3-68c4-4116-8abd-a6d9389b8100</webElementGuid>
+      <webElementGuid>2658907b-d324-474d-a0f2-3b0527c20d68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -311,7 +311,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='informacieOSkoleForm']</value>
-      <webElementGuid>f501add7-3752-4138-884a-197ddd0a2056</webElementGuid>
+      <webElementGuid>e45485de-57a9-43d7-82fb-183f462bb2df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -319,7 +319,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='informacie-o-zakladnej-skole']/div[3]</value>
-      <webElementGuid>712af4e7-460b-40f0-8f66-c687e7bc223f</webElementGuid>
+      <webElementGuid>ef8faf87-8617-460c-9d4f-65f4f7dab6b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -327,7 +327,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyučovací jazyk v základnej škole'])[1]/following::div[2]</value>
-      <webElementGuid>833f5647-99e4-4f0e-8f9b-cdbf88357721</webElementGuid>
+      <webElementGuid>8cc1d916-d7d8-4820-a58d-f3f12b793dfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -335,7 +335,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rok školskej dochádzky'])[1]/following::div[5]</value>
-      <webElementGuid>43330bf3-d90c-41ba-8c1e-fc7388e8806f</webElementGuid>
+      <webElementGuid>d8c6c121-42b8-4cd0-bead-b1830618ca3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -343,7 +343,7 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div[3]</value>
-      <webElementGuid>00655bbe-487d-49cd-9530-4856c686d371</webElementGuid>
+      <webElementGuid>3827ed76-ce97-4dfb-801d-5912510beced</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -863,6 +863,6 @@ anglickýbulharskýčeskýfrancúzskymaďarskýnemeckýnesleduje sapoľskýróms
 
         
     ')]</value>
-      <webElementGuid>61eb3c30-bcc6-43ef-8823-c2e54936bc98</webElementGuid>
+      <webElementGuid>f63a6e29-91eb-4a35-aef8-ae12ecdcfe39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
