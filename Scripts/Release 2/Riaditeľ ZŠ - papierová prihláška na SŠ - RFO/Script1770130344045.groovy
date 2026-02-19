@@ -147,7 +147,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Sp_btn-dalej govuk-button govuk-butt_c9f647'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_kolsk rok_ziadostSkolskyRok'), 
-    '2025 / 2026')
+    '2026 / 2027')
 
 if (mesiac < 10) {
     mesiac = ('0' + mesiac.toString())
@@ -218,7 +218,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '7902J00')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_3'), 
-    'gymnázium')
+    'gymnázium-4 ročné')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_4'), 
     'Netalentový')

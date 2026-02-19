@@ -3,7 +3,6 @@ Adam;Horváth;100122/9911
 Lukáš;Kováč;100106/2546
 Martin;Varga;100109/1828
 Samuel;Novotný;100115/6585
-David;Klimo;100116/8113
 Pavol;Hruška;100114/3264
 Peter;Zajac;100121/7932
 Matej;Baláž;100113/3177
@@ -86,7 +85,6 @@ Hermann;Zelenay;100115/4528
 Ingmar;Ágoston;100116/8663
 Jindřich;Bílek;100122/9856
 Ladisalv;Dupec;100103/5475
-Miroslav;Eleman;100110/3213
 Nestor;Foltýn;100122/8987
 Jana;Nováková;105115/6887
 Zuzana;Horváthová;105112/3183
@@ -115,7 +113,6 @@ Gabriela;Szabóné;105127/3916
 Monika;Molnárová;105103/6437
 Dagmar;Balogová;105127/4620
 Silvia;Lukáčová;105102/8671
-Ľudmila;Kováčová;105127/7315
 Olga;Maďarová;105102/4656
 Nina;Janičová;105118/3287
 Klaudia;Kmeťová;105116/1309
@@ -133,7 +130,6 @@ Karina;Hrnková;105112/6142
 Lenka;Kovářová;105127/5819
 Nora;Ravaszová;105111/1402
 Paulína;Hrušovská;105110/2569
-Quintila;Kaliňáková;105102/8880
 Sabina;Malíková;105112/1687
 Táňa;Nemčíková;105107/0944
 Úrsula;Olejníková;105119/6157

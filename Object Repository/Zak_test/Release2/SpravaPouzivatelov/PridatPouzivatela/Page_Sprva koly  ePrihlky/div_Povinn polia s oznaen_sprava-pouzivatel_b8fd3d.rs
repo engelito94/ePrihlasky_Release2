@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='sprava-pouzivatelov']/div/div[2]/div/div/div[4]/div/div/div[3]/div</value>
+         <value>//div[@id='sprava-pouzivatelov']/div/div[2]/div/div/div[4]/div/div/div[2]/div[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>07a3e364-a81b-4951-88a7-95de346562dd</webElementGuid>
+      <webElementGuid>27ede8f5-d057-4aba-8ba6-0410c1324514</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sprava-pouzivatelov-controls initialized</value>
-      <webElementGuid>24c30f7e-d975-4a9c-b612-f7ce43bccdf6</webElementGuid>
+      <webElementGuid>66a8a484-927f-4b71-937f-ee2dfb70cbdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
 
                         
                     </value>
-      <webElementGuid>494e8e11-8a0d-4ad9-a113-8eea91076ffa</webElementGuid>
+      <webElementGuid>9e3524ef-798f-4763-b09a-518538d93925</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sprava-pouzivatelov&quot;)/div[@class=&quot;govuk-main-wrapper&quot;]/div[@class=&quot;sprava-pouzivatelov-add&quot;]/div[@class=&quot;govuk-form-group idsk-card card-sprava-pouzivatelov&quot;]/div[@class=&quot;idsk-card__content&quot;]/div[@class=&quot;sprava-pouzivatelov-controls initialized&quot;]</value>
-      <webElementGuid>b3680772-1087-4313-8ad6-2b22639803b1</webElementGuid>
+      <webElementGuid>94760684-f9ef-430d-b330-336a51497b4c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sprava-pouzivatelov']/div/div[2]/div/div/div[4]</value>
-      <webElementGuid>db66dd3e-ef29-44f1-a4b2-44365526a25c</webElementGuid>
+      <webElementGuid>f7e068c0-0074-4f09-9245-a3e61c41496f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné polia sú označené'])[1]/following::div[1]</value>
-      <webElementGuid>4df8dc69-811f-497e-9bcd-5dc9febc361b</webElementGuid>
+      <webElementGuid>8a6ce802-e427-4d1c-8c64-ebc398d83bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyhľadajte a zapojte odborníkov z vašej školy do procesu kontroly prihlášok.'])[1]/following::div[2]</value>
-      <webElementGuid>1a92dfd6-8ad6-499c-b83c-9deeec1e5564</webElementGuid>
+      <webElementGuid>8c605468-5a51-4252-83fb-0a71904014e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[4]</value>
-      <webElementGuid>873d8a42-cdcc-4860-8df4-5c2d10ed66c5</webElementGuid>
+      <webElementGuid>fb8d2954-27d2-4d52-aa64-591ac9fea10d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -228,6 +228,6 @@ Kelmová Klaudia (EDUID: 930593021)Lemo Dušan (EDUID: 930593019)
 
                         
                     ')]</value>
-      <webElementGuid>96df97d1-d5c2-4e11-9e69-ede31f9915ad</webElementGuid>
+      <webElementGuid>84797e0e-1934-4d3a-a502-97d402ac215c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
