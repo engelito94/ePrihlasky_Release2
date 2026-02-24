@@ -121,7 +121,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/Pr
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
-WebUI.click(findTestObject('Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Button_Skontrolovane'))
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Button_Skontrolovane'))
 
 'Krok 4'
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZoSlovenska/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Zadajte telefnne slo vo formte s pred_b3430e'), 
@@ -147,7 +147,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/Di
 WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZoSlovenska/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Uvete koko rokov pln iak kolsk dochd_5aad1f'), 
     '9', true)
 
-WebUI.click(findTestObject('Zak_test/Release2/PrihlaskaZZ/KontrolaZS/input_vyucovaciJazyk'))
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/input_vyucovaciJazyk'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZoSlovenska/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Odhlsi_privatna-zona-content'))
 
@@ -164,7 +164,7 @@ for (int i = 0; i < 18; i++) {
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
-WebUI.selectOptionByValue(findTestObject('Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Sprvanie_select-hodnotenie-2-1'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Sprvanie_select-hodnotenie-2-1'), 
     '29', true)
 
 //vymazanie zvyšných známok okrem správania pre ročník 7
@@ -174,7 +174,7 @@ for (int i = 0; i < 18; i++) {
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
-WebUI.selectOptionByValue(findTestObject('Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Sprvanie_select-hodnotenie-3-1'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Sprvanie_select-hodnotenie-3-1'), 
     '29', true)
 
 //vymazanie zvyšných známok okrem správania pre ročník 8
@@ -184,7 +184,7 @@ for (int i = 0; i < 18; i++) {
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
-WebUI.selectOptionByValue(findTestObject('Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Sprvanie_select-hodnotenie-4-1'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_Sprvanie_select-hodnotenie-4-1'), 
     '29', true)
 
 //vymazanie zvyšných známok okrem správania pre ročník 9
@@ -290,7 +290,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '910020859')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_1'), 
-    'Gymnázium Metodova', FailureHandling.OPTIONAL)
+    'Gymnázium', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_2'), 
     '7902J00')
@@ -389,7 +389,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/Diet
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_alej_btn-odoslat-prihlasku govuk-but_14d4cf'))
 
 'Odoslanie prihlášky'
-WebUI.click(findTestObject('Zak_test/Release2/PrihlaskaZZ/KontrolaZS/button_odoslatPrihlasku'))
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/button_odoslatPrihlasku'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Vytvorenie elektronickej prihlky  ePrihlky/h1_Vytvorenie elektronickej prihlky_govuk-h_7c6a0b'), 
     'Prihláška bola úspešne odoslaná!')
@@ -408,17 +408,158 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/Kont
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Prihlky naich iakov  ePrihlky/button_Akcia_govuk-button govuk-button--sec_dea96d'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Podrobnosti prihlky  ePrihlky/button_Exportova PDF_btn-oznacit-ako-skontrolovana'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/button_Exportova PDF_btn-oznacit-ako-skontrolovana'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Podrobnosti prihlky  ePrihlky/div_Identifiktor prihlky_prihlaskaIdentifikator'), 
+WebUI.waitForJQueryLoad(60)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Identifiktor prihlky_prihlaskaIdentifikator'), 
     identifikator.toString())
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_stavPrihlasky badge'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_stavPrihlasky badge'), 
     'Pripravená')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Podrobnosti prihlky  ePrihlky/div_Stav kontroly_stavKontroly badge red'), 
-    'Neskontrolovaná')
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav kontroly_stavKontroly badge red'), 
+    'Skontrolovaná')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/button_OdoslatNaSS'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/button_OdoslatNaSS'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_infobannerOdoslanie'), 
+    'Prihláška bola podaná priamo na strednú školu. Prihlášku pridal do systému riaditeľ školy 91338, Soblahov 404')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_stavPrihlasky badge - Copy'), 
+    'Podaná')
+
+WebUI.verifyElementNotVisible(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/button_OdoslatNaSS'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 prihlasovanie.odhlasPouzivatela()
 
+prihlasovanie.prihlasRiaditela('930570706', 'uEdivOPFtSGvP7ePRyzmOg==', GlobalVariable.F2A, '910020859')
+
+WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Prihlky a rozhodnutia  ePrihlky/input_Vyhadvanie v prihlkach_fulltext-input'), 
+    (meno.toString() + ' ') + priezvisko.toString())
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Prihlky a rozhodnutia  ePrihlky/button_Vyhadvanie v prihlkach_fulltext-inpu_1e6782'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Prihlky a rozhodnutia  ePrihlky/div_(nepovinn)_name-label'), 
+    (meno.toString() + ' ') + priezvisko.toString())
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Prihlky a rozhodnutia  ePrihlky/div_Neskontrolovan_badge'), 
+    'Elektronicky')
+
+'detail prihlášky SŠ'
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Prihlky a rozhodnutia  ePrihlky/button_Detail_govuk-button govuk-button--se_40abef'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Identifiktor prihlky_prihlaskaIdentifikator_1'), 
+    identifikator.toString()+'.01')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_kolsk rok_prihlaskaSkolskyRok'), 
+    '2026/2027')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Spsob podania_prihlaskaSposobPodania'), 
+    'Elektronicky')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Kolo prijmacieho konania_koloPrijimacie_73f495'), 
+    '1. kolo')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_stavPrihlasky badge_1'), 
+    'Podaná')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav kontroly_stavKontroly badge red'), 
+    'Neskontrolovaná')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Meno_dietaMeno'), 
+    meno.toString())
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Priezvisko_dietaPriezvisko'), 
+    priezvisko.toString())
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Adresa trvalho pobytu_dietaAdresaTrvale_3d75f1'), 
+    'Juríčková 896/2, 03657, Košariská, Slovenská republika')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Zmenen pracovn schopnos_dpZmenenaPracov_8af9b9'), 
+    'Nie')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_pecilne vchovno-vzdelvacie potreby_dpSVVP'), 
+    'Nie')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Mentlne postihnutie_dpMentalnePostihnutie'), 
+    'Nie')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div'), 
+    '910020859')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_1'), 
+    'Gymnázium Metodova')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_2'), 
+    '7902J00')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_3'), 
+    'gymnázium - 4 ročné')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_4'), 
+    'Netalentový')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_5'), 
+    'slovenský')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Meno_zakonnyZastupcaMeno'), 
+    'Tomáš')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Priezvisko_zakonnyZastupcaPriezvisko'), 
+    'Lukáč')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Rodn slo_zakonnyZastupca1RodneCislo'), 
+    '561019/0003')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Dtum narodenia_zakonnyZastupcaDatumNarodenia'), 
+    '19.10.1956')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Prchod iaka_prichodZiakaSuhrn'), 
+    'Zo ZŠ na Slovensku')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_EDUID zkladnej koly_eduidZSSuhrn'), 
+    '910020024')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Nzov zkladnej koly_nazovZSSuhrn'), 
+    'Základná škola s materskou školou, Soblahov 404')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Ronk_rocnikSuhrn'), 
+    '9.')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Trieda_triedaSuhrn'), 
+    '9.A')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Rok kolskej dochdzky_rokSkolskejDochadzkySuhrn'), 
+    '9')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Vyuovac jazyk v zkladnej kole_vyucovaci_4f3991'), 
+    'Slovenský')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Sprvanie_red-span'), 
+    'veľmi dobré')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Sprvanie_red-span_1'), 
+    'veľmi dobré')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Sprvanie_red-span_2'), 
+    'veľmi dobré')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Sprvanie_red-span_3'), 
+    'veľmi dobré')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/span_Sa_sutaz-item sutaz-nazov'), 
+    'Klokaniáda')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/a'), 
+    0)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/button_vedomostn vrtane predmetovch_btn-vyz_863f82'))
+
+prihlasovanie.odhlasPouzivatela()

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class = 'autocomplete-dropdown']</value>
+         <value>//*[@class = 'autocomplete-dropdown']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>19cd95fe-50a4-4d5c-a723-18e156fa7ccc</webElementGuid>
+      <webElementGuid>f3c51c24-1e91-4a05-ae27-948578e3912c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>podrobnosti-o-dietati</value>
-      <webElementGuid>1b47814b-1880-4032-9f28-edee4347fe26</webElementGuid>
+      <webElementGuid>745dc412-9fc4-41af-b247-ffbdf5b7cd55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-section-container</value>
-      <webElementGuid>0140653c-8113-4d67-964a-3021fc451868</webElementGuid>
+      <webElementGuid>2a934fb3-05b5-4351-b0bc-9365e6570481</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -907,7 +907,7 @@ kórejský
             
 
         </value>
-      <webElementGuid>4d049216-cc38-4d43-87e0-773256cdd155</webElementGuid>
+      <webElementGuid>640d7dfc-8bce-48d6-9f54-eb1d3b84f5dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -915,7 +915,7 @@ kórejský
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;podrobnosti-o-dietati&quot;)</value>
-      <webElementGuid>2a787bc9-3645-4fbe-b9d1-25564e89e955</webElementGuid>
+      <webElementGuid>4bc2be6a-9497-4730-b5b2-e4257b8c8bc0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -923,7 +923,7 @@ kórejský
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='podrobnosti-o-dietati']</value>
-      <webElementGuid>2a0a03c1-15ae-421d-908e-e552b065f7ea</webElementGuid>
+      <webElementGuid>98ef1a2d-7bfe-4992-aa33-6a9c8dc091ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -931,7 +931,7 @@ kórejský
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pridanie-dietata-upravit']/div[6]</value>
-      <webElementGuid>d1437139-0a19-4fdb-ba91-c783b299df19</webElementGuid>
+      <webElementGuid>beb0be8c-8db4-4678-a75a-74799ee62b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -939,7 +939,7 @@ kórejský
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skontrolujte, či sa údaje uvedené v RFO zhodujú s údajmi v papierovej prihláške.'])[1]/following::div[1]</value>
-      <webElementGuid>09000014-683d-4b2b-b9a4-a3afe2cb2a60</webElementGuid>
+      <webElementGuid>d568542b-c533-46c8-87d1-d23068f9ef85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -947,7 +947,7 @@ kórejský
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Podrobnosti o dieťati'])[1]/following::div[2]</value>
-      <webElementGuid>0c04f480-afe8-4bd6-b8ee-7cc0033ab246</webElementGuid>
+      <webElementGuid>f286e56c-5263-4cec-977d-b2e48552a686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -955,7 +955,7 @@ kórejský
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]</value>
-      <webElementGuid>b45cae46-84a4-4d40-9352-75dbc6ceb8d4</webElementGuid>
+      <webElementGuid>82beb500-6dcc-492e-9279-e37e7fdfdbaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2683,6 +2683,6 @@ kórejský
             
 
         &quot;))]</value>
-      <webElementGuid>a32415b4-c7c4-401f-b279-5577ccb1e8f3</webElementGuid>
+      <webElementGuid>ec96ba34-bd0e-46a1-8812-224f89fb37da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

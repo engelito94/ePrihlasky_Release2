@@ -13,7 +13,6 @@ Gregor;Pospíšil;100103/9490
 Richard;Hrabovský;100115/3538
 Matúš;Rybár;100108/1279
 Milan;Švec;100105/1612
-Roland;Paška;100109/3368
 Boris;Križan;100101/7028
 Erik;Benko;100111/0627
 Oliver;Hrnčiar;100101/1198
@@ -26,7 +25,6 @@ Dominik;Balog;100113/9700
 Viktor;Kovács;100112/2881
 Alan;Maďar;100127/1117
 Braňo;Janič;100103/1614
-Dušan;Kmeť;100123/5378
 Roman;Pavelka;100109/4017
 Ivan;Baráth;100103/7466
 Tadeáš;Kováč;100117/9124
@@ -49,18 +47,14 @@ Valér;Nemčík;100116/8025
 Walter;Olejník;100101/0626
 Xavier;Palko;100123/3497
 Yakub;Quittner;100120/4765
-Zoltán;Rakovský;100107/1346
 Beni;Takáč;100101/3915
 Cyril;Ujlaky;100108/0597
 Dionýz;Vojtek;100122/0462
 Eugen;Wágner;100120/6811
 Ferdinand;Xavier;100113/8204
 Gejza;Yacko;100109/0200
-Henrich;Zvara;100117/8068
-Ignác;Ábel;100108/1367
 Jozef;Baka;100112/2298
 Kamil;Cibulka;100105/9741
-Leon;Duša;100123/2760
 Maxim;Elekes;100107/1489
 Natan;Fiľo;100101/4927
 Oskar;Gajdoš;100111/0990
@@ -83,7 +77,6 @@ František;Xeno;100101/2837
 Gustáv;Yurko;100119/1180
 Hermann;Zelenay;100115/4528
 Ingmar;Ágoston;100116/8663
-Jindřich;Bílek;100122/9856
 Ladisalv;Dupec;100103/5475
 Nestor;Foltýn;100122/8987
 Jana;Nováková;105115/6887
@@ -99,7 +92,6 @@ Veronika;Kukučková;105110/0567
 Soňa;Doležalová;105109/2361
 Tatiana;Pospíšilová;105114/0332
 Kristína;Hrabovská;105109/5518
-Nikola;Chalupková;105120/0898
 Barbora;Rybárová;105117/2419
 Denisa;Kováčiková;105101/9046
 Alena;Pašková;105106/4311
@@ -135,7 +127,6 @@ Táňa;Nemčíková;105107/0944
 Úrsula;Olejníková;105119/6157
 Verka;Palková;105111/3294
 Yveta;Šeligová;105105/4785
-Zdenka;Takáčová;105109/9951
 Adela;Ujlakyová;105123/1995
 Božena;Vojteková;105101/6824
 Cecilka;Wágnerová;105119/2912
@@ -163,7 +154,6 @@ Yolanda;Šandorová;105114/9253
 Zaira;Tóbiásová;105111/1545
 Blanka;Vargová;105113/9837
 Cintia;Walická;105121/3944
-Drahomíra;Xenolová;105117/5686
 Ester;Yurkovoá;105113/9848
 Gabriella;Ágostonová;105106/8370
 Irena;Cvečková;105106/4025
