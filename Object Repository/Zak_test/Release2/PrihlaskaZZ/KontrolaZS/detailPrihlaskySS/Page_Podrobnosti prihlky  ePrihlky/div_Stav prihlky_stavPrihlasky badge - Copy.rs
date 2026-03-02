@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Stav prihlky_stavPrihlasky badge - Copy</name>
+   <tag></tag>
+   <elementGuidId>0ff145a9-9895-40ac-b2ac-05d1c7c66e2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div[10]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.stavPrihlasky.badge</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e04ec2dd-c9e1-46cf-8882-1b62cc034f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stavPrihlasky badge</value>
+      <webElementGuid>bf2b4def-498b-4314-b0ce-267ae917d768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pripravená</value>
+      <webElementGuid>a1677dbd-571a-440d-bcec-9c563a50762b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail-prihlasky-riad-SS-content&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout vseobecne-body&quot;]/div[@class=&quot;panel-item column&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;stavPrihlasky badge&quot;]</value>
+      <webElementGuid>001f9e0d-c316-4069-a44e-094c0f60feca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div[10]/div/div[2]</value>
+      <webElementGuid>c17962e1-e7db-4994-9f28-0a4f31031101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav prihlášky'])[1]/following::div[1]</value>
+      <webElementGuid>1298d35c-6f11-4381-8b5c-49a9720893c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kolo prijímacieho konania'])[1]/following::div[7]</value>
+      <webElementGuid>882f06a1-6c54-447c-bf9a-ed7e233ea033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Označenie'])[1]/preceding::div[1]</value>
+      <webElementGuid>99187cb1-c1a2-4877-bab7-24a656f23088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte'])[1]/preceding::div[4]</value>
+      <webElementGuid>405b2853-b3e1-4417-ac7a-44a423de8c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pripravená']/parent::*</value>
+      <webElementGuid>037c9feb-bf1a-4143-b987-21cd09d6bf61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]</value>
+      <webElementGuid>fb901b9e-59f9-4dd9-bc81-fdb179fac426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pripravená' or . = 'Pripravená')]</value>
+      <webElementGuid>0379ef69-4e52-4f97-9a03-b4e1d00b3264</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

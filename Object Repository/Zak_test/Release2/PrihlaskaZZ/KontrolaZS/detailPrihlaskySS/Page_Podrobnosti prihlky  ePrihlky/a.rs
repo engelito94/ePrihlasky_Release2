@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>f5f6ace5-692f-43b2-92d8-279076d3a98d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prilohyContainer']/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.priloha-header > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0869f119-51b1-4ef7-a508-b366807b9ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-guid</name>
+      <type>Main</type>
+      <value>1dfc5ea9-4bde-4a8a-b0ce-6f94427e178c</value>
+      <webElementGuid>7ad829e6-a544-4a0a-bd4f-0da0342f7539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>c3d4b0aa-bc70-43bb-98b1-d6815df33815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokument (1).pdf / Doklad o úspešnej účasti v predmetovej olympiáde alebo v súťaži</value>
+      <webElementGuid>db3e7f02-b86c-493a-85c0-c76a5cb035f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prilohyContainer&quot;)/div[@class=&quot;prilohaItem&quot;]/div[@class=&quot;priloha-header-wrapper&quot;]/div[@class=&quot;priloha-header&quot;]/a[1]</value>
+      <webElementGuid>b0449a25-8005-409d-89b0-85982a95983a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prilohyContainer']/div/div/div/a</value>
+      <webElementGuid>7c5928bc-d0e4-40da-9eb0-27a9fee44121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dokument (1).pdf / Doklad o úspešnej účasti v predmetovej olympiáde alebo v súťaži')]</value>
+      <webElementGuid>9895961c-53a7-4dac-ad02-357086f56526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='article'])[1]/following::a[1]</value>
+      <webElementGuid>0d52aa22-5019-4475-bd4c-9e8ee3f0a6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='remove'])[10]/following::a[1]</value>
+      <webElementGuid>5b605d2e-217a-43e9-a804-c9f60250cbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vedomostné vrátane predmetových'])[1]/preceding::a[1]</value>
+      <webElementGuid>5bd6b210-cc59-4923-8527-dc71bedd1f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyžiadať prílohu'])[1]/preceding::a[1]</value>
+      <webElementGuid>08d2afbf-f9d6-4453-8b2a-f87c6b1385f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dokument (1).pdf / Doklad o úspešnej účasti v predmetovej olympiáde alebo v súťaži']/parent::*</value>
+      <webElementGuid>5f0aad24-584c-453f-91b6-2437beadf312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>66d6f599-25b6-4545-888e-a8aff4e36f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div/div/div/div/a</value>
+      <webElementGuid>b29d1dd9-6cb8-4d96-8216-72ce77f8b4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Dokument (1).pdf / Doklad o úspešnej účasti v predmetovej olympiáde alebo v súťaži' or . = 'Dokument (1).pdf / Doklad o úspešnej účasti v predmetovej olympiáde alebo v súťaži')]</value>
+      <webElementGuid>fff97b75-5a4a-47ff-8060-c7a560c1bef5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
