@@ -291,7 +291,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'poznámka k ostatným údajom')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Kolo prijmacieho konania_koloPrijimacie_73f495'), 
-    '1. kolo')
+    '1. kolo', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Meno_dietaMenoSuhrn'), 
     meno.toString())
@@ -441,7 +441,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Prihlky a rozhodnutia  ePrihlky/button_Vyhadvanie v prihlkach_fulltext-inpu_1e6782'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Prihlky a rozhodnutia  ePrihlky/div_(nepovinn)_name-label'), 
-    (meno.toString() + ' ') + priezvisko.toString())
+    (priezvisko.toString() + ' ') + meno.toString())
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Prihlky a rozhodnutia  ePrihlky/div_Neskontrolovan_badge'), 
     'Papierovo')

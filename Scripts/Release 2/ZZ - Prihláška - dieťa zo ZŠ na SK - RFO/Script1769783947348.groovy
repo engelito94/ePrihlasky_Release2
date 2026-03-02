@@ -388,7 +388,7 @@ while (cislo <= 20) {
 //vymazanie prihlášky
 TestObject vymazButton = new TestObject()
 
-vymazButton.addProperty('xpath', ConditionType.EQUALS, ('//div[' + cislo.toString()) + ']/div/div[3]/div[2]/a[2]')
+vymazButton.addProperty('xpath', ConditionType.EQUALS, ('//div[' + cislo.toString()) + ']/div/div[3]/div[2]/a[3]')
 
 WebUI.click(vymazButton)
 

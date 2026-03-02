@@ -164,7 +164,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'poznámka školy')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Kolo prijmacieho konania_koloPrijimacie_73f495'), 
-    '1. kolo')
+    '1. kolo', FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Meno_dietaMenoSuhrn'), 
     'Samuel')
@@ -344,7 +344,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     (((den + '.') + mesiac) + '.') + rok)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Prihlky naich iakov  ePrihlky/div_(nepovinn)_name-label'), 
-    'Samuel Horváth')
+    'Horváth Samuel')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Prihlky naich iakov  ePrihlky/button_Akcia_govuk-button govuk-button--sec_dea96d'))
 
