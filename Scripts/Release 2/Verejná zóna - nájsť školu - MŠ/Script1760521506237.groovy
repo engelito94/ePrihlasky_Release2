@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page
 
 'karta školy - viac info o škole'
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_cbc5a9'), 
-    'Materská škola Prešov 10')
+    'Materská škola pre AT')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_57678e'))
 

@@ -30,7 +30,7 @@ def filePath = RunConfiguration.getProjectDir()
 
 def priloha = filePath + '/Data Files/Dokument (1).pdf'
 
-def udaje = subor.dajDietaRiadSS(filePath + '/Data Files/riadSSData.txt')
+def udaje = subor.dajDietaRiadSS(filePath + '/Data Files/detiSSNonRFO.txt')
 
 def meno = udaje.meno
 
@@ -38,7 +38,7 @@ def priezvisko = udaje.priezvisko
 
 def rc = udaje.rc
 
-prihlasovanie.prihlasRiaditela('930570706', 'uEdivOPFtSGvP7ePRyzmOg==', GlobalVariable.F2A, '910013679')
+prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021624')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Prihlky a rozhodnutia  ePrihlky/a_Export do xlsx_btn-vytvorit-prihlasku'))
 
@@ -105,7 +105,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/be
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/span'))
 
-WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_close_pridat-do-prihlasky govuk-butt_07df32'))
+WebUI.click(findTestObject('Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_close_pridat-do-prihlasky govuk-butt_07df32_1'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Zrui_btn-pridat-odbory-a-odist govuk_a933fa'))
 
@@ -331,7 +331,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'slovenský')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Adresa trvalho pobytu_dietaAdresaTrvale_b334cc'), 
-    'Kráľa Mateja 654/23, 01514, Smižany (Spišská Nová Ves), Slovenská republika')
+    'Kráľa Mateja 654/23, 01514, Smižany, Slovenská republika')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Zmenen pracovn schopnos_dpZmenenaPracov_8af9b9'), 
     'Nie')
@@ -346,22 +346,22 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'Nie')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div'), 
-    '910013679')
+    '910021624')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_1'), 
-    'Súkromná stredná odborná škola')
+    'Stredná škola pre AT')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_2'), 
-    '6444H00')
+    '2940M04')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_3'), 
-    'čašník, servírka')
+    'potravinárstvo-kvasná technológia - 4 ročné')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_4'), 
     'Netalentový')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_5'), 
-    '1. termín')
+    '2. termín')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_6'), 
     'slovenský')
@@ -385,7 +385,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '24.02.1985')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Korepondenn adresa_zakonnyZastupcaAdres_9d2f75'), 
-    'Kráľa Mateja 654/23, 01514, Smižany (Spišská Nová Ves), Slovenská republika')
+    'Kráľa Mateja 654/23, 01514, Smižany, Slovenská republika')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_E-mail_zakonnyZastupcaEmail'), 
     'barcik@ditec.sk')

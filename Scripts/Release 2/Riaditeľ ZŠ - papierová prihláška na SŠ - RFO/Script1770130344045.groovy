@@ -290,7 +290,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     '2 - chválitebný')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_11'), 
-    '1 - výborný')
+    '3 - dobrý')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Prv cudz jazyk - Anglick jazyk_sectionHeader'), 
     '7.ročník (2. polrok)')
@@ -299,7 +299,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'uspokojivé')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_13'), 
-    '3 - dobrý')
+    '2 - chválitebný')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Druh cudz jazyk - Nemeck jazyk_sectionHeader'), 
     '8.ročník (2. polrok)')
@@ -317,7 +317,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'veľmi dobré')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_17'), 
-    '1 - výborný')
+    '2 - chválitebný')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/RFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Sae_panel-content'), 
     0)

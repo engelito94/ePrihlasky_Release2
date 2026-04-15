@@ -6,12 +6,12 @@
    <elementGuidId>ebc1b0cd-e033-4e80-bdca-588768e0c344</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[11]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#adresaTPKrajina > div.govuk-form-group.autocomplete-control.required > div.input-wrapper > input.govuk-input.autocomplete-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPKrajina']/div/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>887af12e-5ab2-4d2c-bf6f-7f728c451ffc</webElementGuid>
+      <webElementGuid>31029c29-b648-4846-a05b-5b0a2c25bf15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-input autocomplete-input</value>
-      <webElementGuid>a966fd5d-41ed-4be8-aefd-07fdafc4e973</webElementGuid>
+      <webElementGuid>9d2ae031-e9af-4cc4-81af-2c0bf2f8edc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8024642a-3dd9-45e2-8180-f8876649d014</webElementGuid>
+      <webElementGuid>ccc61591-f47d-4568-bcbb-0ff47c3d8d1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7b08ee37-8448-4560-9a2d-b96096bb05e2</webElementGuid>
+      <webElementGuid>66c17cd9-8175-4d74-b724-7cd84c809f2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>nope</value>
-      <webElementGuid>d3a00c96-c939-4ef2-b26c-940551b29e6b</webElementGuid>
+      <webElementGuid>b419ce86-6646-4b0f-8047-84034ab0267b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>autocomplete-label-adresaTPKrajina</value>
-      <webElementGuid>dbda8ac8-8468-426c-8911-cfad5ff50063</webElementGuid>
+      <webElementGuid>5561b239-0cd8-42ce-bd41-9c3a9949c6e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>e7050d63-217b-45eb-bb4c-09a0e179e36a</webElementGuid>
+      <webElementGuid>df223c31-bb6a-4a20-95e0-88020ae1e6e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adresaTPKrajina&quot;)/div[@class=&quot;govuk-form-group autocomplete-control required&quot;]/div[@class=&quot;input-wrapper&quot;]/input[@class=&quot;govuk-input autocomplete-input&quot;]</value>
-      <webElementGuid>92388f04-e51f-4e49-a44d-1d1721d9be4e</webElementGuid>
+      <webElementGuid>f4bbb051-0827-4046-b7b4-74bb34af1307</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[11]</value>
-      <webElementGuid>53da3507-1199-4f6c-a92a-d81a9fd4fdbb</webElementGuid>
+      <webElementGuid>40bbec5c-23b1-411a-b2f4-9e448b2d0b8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='adresaTPKrajina']/div/div[2]/input</value>
-      <webElementGuid>b19d4e7b-5995-41b7-b54c-5055a13633e8</webElementGuid>
+      <webElementGuid>50bf0f9e-8a34-437f-9a27-cad713c5187c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div/div[2]/input</value>
-      <webElementGuid>91f7fdd4-86f1-43aa-939b-bc66f64279d1</webElementGuid>
+      <webElementGuid>7da10588-13ed-4c47-a3e9-2b13f7f581e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>760b7c4c-0c91-4499-a161-a3436db0a697</webElementGuid>
+      <webElementGuid>5fb44a62-33bb-40ca-8488-541d9688ef1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

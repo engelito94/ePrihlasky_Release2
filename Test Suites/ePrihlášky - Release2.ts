@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>c5a41e70-2bcc-4ef2-b7b6-d7598c8c0708</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ - správa školy - Profil školy MŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -28,7 +28,7 @@
    <testCaseLink>
       <guid>a0a7ea0e-aa4c-421e-a11a-20c951763182</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ - správa školy - Profil školy ZŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -63,8 +63,8 @@
    <testCaseLink>
       <guid>843bf554-927a-4075-82ae-bf8ed3206c71</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/Riaditeľ ZŠ - Odoslanie elektronickej prihlášky na SŠ - non RFO dieťa</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Release 2/ZZ - Prihláška na SŠ - non RFO dieťa zo ZŠ na Slovensku</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -77,14 +77,14 @@
    <testCaseLink>
       <guid>adc0b200-c1a0-45db-934f-0d2c00ab51de</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - nemá IFO - má RČ - zmena údajov v profile</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3211946c-ad07-462f-82d4-c659c90d4b1c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - nemá IFO - nemá RČ - zmena údajov v profile</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -106,7 +106,7 @@
       <guid>51f77370-d105-4202-89f5-b28d53018350</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/ZZ - Prihláška - dieťa zo ZŠ na SK - RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/ZZ - Prihláška - dieťa zo ZŠ na SK - RFO - Vymazanie prihlášky</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -148,7 +148,7 @@
       <guid>ca7e4338-900e-4668-8a90-be4eb3aeadfb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/Odbory - Pridať odbor</testCaseId>
+      <testCaseId>Test Cases/Release 2/Odbory - Pridať odbor - stav Skontrolovaný</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -161,14 +161,14 @@
    <testCaseLink>
       <guid>c5a409cf-2975-4a38-951b-45befa0289d0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Kritériá - Pridať kritériá</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>a8c8f735-cd73-4764-ac88-74840b9072b3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Kritériá - Odstrániť kritériá</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

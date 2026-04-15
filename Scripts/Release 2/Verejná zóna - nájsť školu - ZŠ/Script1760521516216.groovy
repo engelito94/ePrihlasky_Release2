@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page
  
  'karta školy - info o škole'
  WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_b4d569'),
-	 'základná škola Nitra')
+	 'Základná škola pre AT')
  WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
  WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/ViacInfoZS'))
  WebUI.delay(8)

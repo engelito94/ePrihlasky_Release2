@@ -3,8 +3,8 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.kms.katalon.core.checkpoint.Checkpoint
-import com.kms.katalon.core.configuration.RunConfiguration
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page
 WebUI.scrollToElement(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/NajstSkolu'), 0, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/SS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
-    'metodova')
+    'Stredná škola pre AT')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/SS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
 
@@ -57,3 +57,4 @@ String img = WebUI.takeFullPageScreenshot(filePath + '/Data Files/Screenshots/im
 String imgOriginal = filePath + '/Data Files/Screenshots/SS.png'
 
 CustomKeywords.'test.compareImagesWithOptionalSecond'(img, imgOriginal, null, 'SS')
+

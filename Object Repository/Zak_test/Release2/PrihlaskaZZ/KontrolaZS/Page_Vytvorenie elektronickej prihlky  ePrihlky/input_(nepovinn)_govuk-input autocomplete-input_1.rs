@@ -6,12 +6,12 @@
    <elementGuidId>7032ddbd-bc5e-4ab8-a564-14bf724b019c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[12]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#adresaTPObec > div.govuk-form-group.autocomplete-control.required > div.input-wrapper > input.govuk-input.autocomplete-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPObec']/div/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9fb317d0-424c-4ac7-b6a7-1947b67adeeb</webElementGuid>
+      <webElementGuid>9e3c0bc2-e763-4fcf-bcad-f450edd85cba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-input autocomplete-input</value>
-      <webElementGuid>fd226fa4-e468-4593-8c01-592eae885260</webElementGuid>
+      <webElementGuid>94bbe070-dd41-4ddd-9bcd-5f354d40b7da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>13c593c5-11d3-40a7-a7bd-87c5ddaadb2e</webElementGuid>
+      <webElementGuid>ca496448-de5f-4e61-912d-7f3161985396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>35849887-e66d-424b-85c8-92254c186c22</webElementGuid>
+      <webElementGuid>7c891cbf-7adc-43f4-b1a0-9d47075ae6c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>nope</value>
-      <webElementGuid>3155a598-4ea6-4f45-9467-2d0de338bbb9</webElementGuid>
+      <webElementGuid>e6457138-7fc0-4239-ae5a-92c2d2ab6696</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>autocomplete-label-adresaTPObec</value>
-      <webElementGuid>7edc6365-5ebc-481c-a5ad-76c19857881a</webElementGuid>
+      <webElementGuid>cb01d9de-2de2-44e1-8780-61282802f6db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>327495f2-1c64-4555-a25d-c4931c870f93</webElementGuid>
+      <webElementGuid>f9fe0fbb-da20-4d7f-8c14-4716e4c4b31c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adresaTPObec&quot;)/div[@class=&quot;govuk-form-group autocomplete-control required&quot;]/div[@class=&quot;input-wrapper&quot;]/input[@class=&quot;govuk-input autocomplete-input&quot;]</value>
-      <webElementGuid>c5e1852b-b32b-455b-ad19-3354cb50475a</webElementGuid>
+      <webElementGuid>97f6b7a5-82d8-449a-853e-2f51f028332d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[12]</value>
-      <webElementGuid>80e90518-f7eb-4192-9e9d-e9f60495dc55</webElementGuid>
+      <webElementGuid>8c1d95e0-28bf-4f36-b03b-571cee9dfffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='adresaTPObec']/div/div[2]/input</value>
-      <webElementGuid>289f07e8-32b9-4a6a-a5db-13934990f3c3</webElementGuid>
+      <webElementGuid>2b6f8838-454b-4c98-8a33-a8a3fb095f7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/input</value>
-      <webElementGuid>e214bb07-d47b-489e-b367-45768d5f4e75</webElementGuid>
+      <webElementGuid>3092273f-c3f1-4935-9cc6-c2db0e6aefdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>c8798285-ab7b-4632-952b-3eda09382795</webElementGuid>
+      <webElementGuid>91634c8d-b204-4d40-b909-c6c402375c5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='skola-910016010']/div/div[2]/div[2]/div[3]/button</value>
+         <value>//button[(text() = 'Zobraziť profil školy' or . = 'Zobraziť profil školy')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>988a9121-e272-4801-be64-cf4a4aaf854c</webElementGuid>
+      <webElementGuid>1aca64c2-bfe2-47fa-9d42-c54f7e00becc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>zobrazit-profil-skoly govuk-button govuk-button--sec</value>
-      <webElementGuid>b5ece42a-7ae8-42e0-ac5f-0a0777643241</webElementGuid>
+      <webElementGuid>5b9ae8f6-3b16-4f11-9ac5-ec10ad366f48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Zobraziť profil školy</value>
-      <webElementGuid>6a7ff840-a490-404b-8ba7-e954a49a75ce</webElementGuid>
+      <webElementGuid>e62d0d8e-bd66-4362-840d-b4bd7d5ad14d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;skola-910016010&quot;)/div[@class=&quot;idsk-card__content&quot;]/div[2]/div[@class=&quot;skola-more-info&quot;]/div[@class=&quot;more&quot;]/button[@class=&quot;zobrazit-profil-skoly govuk-button govuk-button--sec&quot;]</value>
-      <webElementGuid>77f94836-030e-45fc-b12c-7d1368e2b8aa</webElementGuid>
+      <webElementGuid>764566b3-c07d-4f1a-8ab2-62c9545ec00a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='skola-910016010']/div/div[2]/div[2]/div[4]/button</value>
-      <webElementGuid>a68970ab-1db2-4f59-b591-894603a97735</webElementGuid>
+      <webElementGuid>820de52a-6bb6-4171-906e-312419d821b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nie sú dostupné dáta.'])[2]/following::button[1]</value>
-      <webElementGuid>ac14bb4d-3cc3-4b98-b99b-eae15aafd2bd</webElementGuid>
+      <webElementGuid>8a6a6cce-0e9b-481a-a9f9-88a96792cc93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::button[1]</value>
-      <webElementGuid>e7da3355-0c1e-423d-9202-4dec77efb1f7</webElementGuid>
+      <webElementGuid>d3248337-3622-418b-8356-68e29c367d93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menej informácií o škole'])[1]/preceding::button[1]</value>
-      <webElementGuid>9b553cdf-2bad-40ec-981b-ce8bf8278f8b</webElementGuid>
+      <webElementGuid>0dad00b3-84df-44ac-b2a5-aedebac1aade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Spádová škola'])[2]/preceding::button[1]</value>
-      <webElementGuid>f83100f4-1522-4d34-b2b1-128ceee1bdf4</webElementGuid>
+      <webElementGuid>abf3c517-b20a-4d0d-8c30-49fda0fe4882</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Zobraziť profil školy']/parent::*</value>
-      <webElementGuid>3bd2c192-8b4d-4cd0-a644-ef0b329b6ad9</webElementGuid>
+      <webElementGuid>c9c99dfc-f030-4ee9-8b69-6822a4b4beb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[4]/button</value>
-      <webElementGuid>d9004478-78f3-4ff1-b3a9-7cfdce77cfe9</webElementGuid>
+      <webElementGuid>b7245173-4e1b-47ab-9e01-5ac77ab32b65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Zobraziť profil školy' or . = 'Zobraziť profil školy')]</value>
-      <webElementGuid>c2274516-0538-42f3-8993-10cf67049fc2</webElementGuid>
+      <webElementGuid>f8f91032-d0dc-4dab-a27c-fe09e60f6275</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

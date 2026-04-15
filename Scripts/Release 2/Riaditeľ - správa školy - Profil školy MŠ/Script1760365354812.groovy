@@ -14,14 +14,13 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable
-import portal.Prihlasovanie
-
+import internal.GlobalVariable as GlobalVariable
+import portal.Prihlasovanie as Prihlasovanie
 import org.openqa.selenium.Keys as Keys
 
 Prihlasovanie prihlasovanie = new Prihlasovanie()
 
-prihlasovanie.prihlasRiaditela('930570706', 'uEdivOPFtSGvP7ePRyzmOg==', GlobalVariable.F2A, '910019568')
+prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021626')
 
 'Profil školy\r\n'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Prihlky a rozhodnutia  ePrihlky/span'))
@@ -49,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/input_Hada poda mojej adresy_hladat-podla-r_99fc84'))
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_cbc5a9'), 
-    'materská škola košice kvp')
+    'Materská škola pre AT')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_57678e'))
 
@@ -58,7 +57,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Materská škola Košice KVP, Wupertalská 10')
+    'Materská škola pre AT, Balková 8')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/div_Wupertalsk 10, 041 01 Koice-Sdlisko KVP_9fdc95'), 
     'testovací popis 1')
@@ -74,7 +73,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prof
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/button_Zkladn vonkajie ihrisko_btn-zavriet _3c66e8'))
 
-prihlasovanie.prihlasRiaditela('930570706', 'uEdivOPFtSGvP7ePRyzmOg==', GlobalVariable.F2A, '910019568')
+prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021626')
 
 'Profil školy'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Prihlky a rozhodnutia  ePrihlky/a_keyboard_arrow_down_govuk-header__link li_a691a3'))
@@ -102,7 +101,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/input_Hada poda mojej adresy_hladat-podla-r_99fc84'))
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_cbc5a9'), 
-    'materská škola košice kvp')
+    'Materská škola pre AT')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_57678e'))
 
@@ -123,3 +122,4 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prof
     'Viaceré multifunkčné vonkajšie ihriská')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/button_Zkladn vonkajie ihrisko_btn-zavriet _3c66e8'))
+

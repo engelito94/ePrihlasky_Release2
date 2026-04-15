@@ -6,11 +6,11 @@
    <elementGuidId>10bc5673-7109-489e-9284-677b9b44d285</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='skola-910018719']//div[@class='idsk-card__content']//div//span[contains(text(),'Viac informácií o škole')]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//div[@id='skola-910021625']//div[@class='idsk-card__content']//div//span[contains(text(),'Viac informácií o škole')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

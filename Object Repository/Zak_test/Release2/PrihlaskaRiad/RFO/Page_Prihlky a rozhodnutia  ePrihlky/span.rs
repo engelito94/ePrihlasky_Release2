@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//nav[@id='header-navigation']/div/ul/li[3]/a/span</value>
+         <value>//nav[@id='header-navigation']/div/ul/li[4]/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>503b0deb-f672-4ef4-b2b1-6dcdf15200d4</webElementGuid>
+      <webElementGuid>6e079804-3d0d-409c-89f6-bdf0d7d82bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Prihlášky našich žiakov</value>
-      <webElementGuid>cc3218a3-06a1-42bd-8c3a-e745d38287d9</webElementGuid>
+      <webElementGuid>6c9977b3-07f8-4013-977b-69a3f0288bc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-navigation&quot;)/div[@class=&quot;govuk-header__navigation-list&quot;]/ul[@class=&quot;govuk-width-container&quot;]/li[@class=&quot;govuk-header__navigation-item&quot;]/a[@class=&quot;govuk-header__link&quot;]/span[1]</value>
-      <webElementGuid>bfee6955-ee37-4726-af04-4a5d26714dd4</webElementGuid>
+      <webElementGuid>ada400a6-7fba-4fad-94ec-d47974e7ff27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='header-navigation']/div/ul/li[4]/a/span</value>
-      <webElementGuid>729f73e1-8c67-4df8-bb45-29f0d9f2f609</webElementGuid>
+      <webElementGuid>16fb8dae-99aa-4a65-9eaf-a1de789f589e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='launch'])[1]/following::span[1]</value>
-      <webElementGuid>a1843e01-82db-45a5-a13e-4905c9e16beb</webElementGuid>
+      <webElementGuid>669f69a4-92cd-4c29-b3f8-97bf701a8a26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pomoc a podpora'])[1]/following::span[2]</value>
-      <webElementGuid>77480725-6d7e-4a73-88d1-7e011fdd9a1b</webElementGuid>
+      <webElementGuid>02de7458-abe9-4de6-a51d-081acaf2568b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Môj profil'])[2]/preceding::span[1]</value>
-      <webElementGuid>27c50d56-4202-445b-b52d-1dcf28af56f0</webElementGuid>
+      <webElementGuid>c3f2c0a7-5872-4ff3-bb38-8d5e50edc74c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oznámenia'])[2]/preceding::span[1]</value>
-      <webElementGuid>f2517a34-6dfe-424e-8036-fcbbb0dcdf5a</webElementGuid>
+      <webElementGuid>a861cea9-73ae-4454-b7ca-27d9f07b374a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Prihlášky našich žiakov']/parent::*</value>
-      <webElementGuid>c3a1789e-484b-4aee-9680-9712175a2929</webElementGuid>
+      <webElementGuid>4a5d1a81-bbd0-4c0a-8fc5-defaf4ae7362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>b58debfc-4697-4d63-8b31-4769145b6f66</webElementGuid>
+      <webElementGuid>8305cb1f-a13e-4f29-82c0-693ea41c76b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Prihlášky našich žiakov' or . = 'Prihlášky našich žiakov')]</value>
-      <webElementGuid>057694e4-2b38-49f8-832e-f1b11d1b76e2</webElementGuid>
+      <webElementGuid>d14205c7-4b0d-41b1-8d61-00d34919681a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

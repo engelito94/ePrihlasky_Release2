@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//nav[@id='header-navigation']/div/ul/li[4]/a</value>
+         <value>//nav[@id='header-navigation']/div/ul/li[5]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fe475885-763b-445c-93c9-b8d24a36b903</webElementGuid>
+      <webElementGuid>70b3a91b-a6c1-4e48-aca9-b979c4df3ebb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-header__link</value>
-      <webElementGuid>82aeaf9d-5f6f-428f-a607-3a8172403c97</webElementGuid>
+      <webElementGuid>a60937ff-9446-418d-89d6-5348f5e792f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Prihlasky</value>
-      <webElementGuid>07b1c54d-0fdf-4fb2-8b36-e2e67bdc9321</webElementGuid>
+      <webElementGuid>6ef9ff97-3aa4-4d0a-82d8-41bb1ef28447</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <value>
                                         Prihlášky
                                     </value>
-      <webElementGuid>87506c2e-00d7-4b39-bb63-fb0be86c1b07</webElementGuid>
+      <webElementGuid>e3780a4e-8f60-4d02-a8ba-3625def8a44c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-navigation&quot;)/div[@class=&quot;govuk-header__navigation-list&quot;]/ul[@class=&quot;govuk-width-container&quot;]/li[@class=&quot;govuk-header__navigation-item govuk-header__navigation-item--active&quot;]/a[@class=&quot;govuk-header__link&quot;]</value>
-      <webElementGuid>5dbf588e-e634-4479-9f18-5be1b833b88c</webElementGuid>
+      <webElementGuid>f33213a2-7d1a-4d81-b47f-e5e32640c970</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='header-navigation']/div/ul/li[4]/a</value>
-      <webElementGuid>bf4ac71a-859f-47f5-b8eb-eb2eb3a12b3a</webElementGuid>
+      <webElementGuid>dfb4b2c3-e88f-4800-a2da-97904f17ceb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Prihlášky')]</value>
-      <webElementGuid>8a6b5966-01d0-4cf0-853b-0babc38fcd66</webElementGuid>
+      <webElementGuid>9d9a10d0-9666-4cba-8b31-94de648d4ad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='launch'])[1]/following::a[1]</value>
-      <webElementGuid>1a26781e-a412-4bc1-8c6d-38e44cf9765d</webElementGuid>
+      <webElementGuid>1e205a06-0d42-4d9d-9776-7faea075930f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pomoc a podpora'])[1]/following::a[1]</value>
-      <webElementGuid>2f50b5a2-534a-4e1f-b6fb-3921f2e6491e</webElementGuid>
+      <webElementGuid>034acbb2-a0f7-4450-a27b-757511a1c62b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Môj profil'])[2]/preceding::a[1]</value>
-      <webElementGuid>b02bfd5c-bf76-484b-9aa1-10236d1e7ce4</webElementGuid>
+      <webElementGuid>4177aa83-c796-4a3b-959d-b658ab1d58ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Odhlásiť'])[2]/preceding::a[2]</value>
-      <webElementGuid>119cd9f4-af4e-44ef-a060-1e0370920670</webElementGuid>
+      <webElementGuid>3f5a0610-98d1-4d04-be83-a94c24f1657b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Prihlášky']/parent::*</value>
-      <webElementGuid>7ca307fa-b3ae-4aa0-b1ea-2e95416fa06e</webElementGuid>
+      <webElementGuid>2dabb54a-2806-46c9-b350-114f627af1d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Prihlasky')]</value>
-      <webElementGuid>27ac3f8d-21a0-437c-bc34-23e60e3b8cf0</webElementGuid>
+      <webElementGuid>9fe9f0cd-c5a5-4696-9a68-c708c252f0a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>33c62630-f968-4a60-8517-4c6a7e1e4271</webElementGuid>
+      <webElementGuid>0313b817-59db-454a-917e-e36ed2ce32a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
                                     ' or . = '
                                         Prihlášky
                                     ')]</value>
-      <webElementGuid>26fc46a7-914f-450d-acad-f4d43689d253</webElementGuid>
+      <webElementGuid>1c85ee91-8799-453c-a7d5-6cf2b6705671</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

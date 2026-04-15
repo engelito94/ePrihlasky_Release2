@@ -14,14 +14,13 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable
-import portal.Prihlasovanie
-
+import internal.GlobalVariable as GlobalVariable
+import portal.Prihlasovanie as Prihlasovanie
 import org.openqa.selenium.Keys as Keys
 
 Prihlasovanie prihlasovanie = new Prihlasovanie()
 
-prihlasovanie.prihlasRiaditela('930570810', 'ctqw/dIPXQi2uJsIdYZ0EQ==', GlobalVariable.F2A, '910016010')
+prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021625')
 
 'Zmena profilu'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Prihlky a rozhodnutia  ePrihlky/span'))
@@ -52,7 +51,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Hada poda mojej adresy_hladat-podla-r_df1d5a'))
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_b4d569'), 
-    'Sobrance')
+    'Základná škola pre AT')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
 
@@ -61,10 +60,10 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Základná škola, Komenského 12')
+    'Základná škola pre AT, Jalmová 19')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zkladn kola, Komenskho 12_description'), 
-    'Komenského 12, 073 01 Sobrance')
+    'Jalmová 19, 065 34 Prešov')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Komenskho 12, 073 01 Sobrance_hodnoty'), 
     'testovací popis')
@@ -98,7 +97,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prof
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie_btn-zavriet govuk-button govuk-b_0d2f24'))
 
-prihlasovanie.prihlasRiaditela('930570810', 'ctqw/dIPXQi2uJsIdYZ0EQ==', GlobalVariable.F2A, '910016010')
+prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021625')
 
 'Profil školy'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Prihlky a rozhodnutia  ePrihlky/a_keyboard_arrow_down_govuk-header__link li_a691a3'))
@@ -132,7 +131,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Hada poda mojej adresy_hladat-podla-r_df1d5a'))
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_b4d569'), 
-    'Sobrance')
+    'Základná škola pre AT')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
 
@@ -141,10 +140,10 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Základná škola, Komenského 12')
+    'Základná škola pre AT, Jalmová 19')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zkladn kola, Komenskho 12_description'), 
-    'Komenského 12, 073 01 Sobrance')
+    'Jalmová 19, 065 34 Prešov')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Komenskho 12, 073 01 Sobrance_hodnoty_1'), 
     'testovací popis 1')
@@ -177,3 +176,4 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prof
     'Áno')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie_btn-zavriet govuk-button govuk-b_0d2f24'))
+

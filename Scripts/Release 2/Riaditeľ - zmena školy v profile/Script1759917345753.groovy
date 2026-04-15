@@ -44,7 +44,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/pr
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/button_keyboard_arrow_down_zmenit-skolu-btn'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/div_kola_profil-riaditel-skola_1'), 
-    'Súkromná stredná odborná škola')
+    'Gymnázium Jána Amosa Komenského - Comenius Gimnázium, ako organizačná zložka Gymnázium - Gimnázium, Gymnázium Jána Amosa Komenského - Comenius Gimnázium a Stredná odborná škola techniky, služieb a obchodu - Műszaki, Szolgáltatások és Kereskedelmi Szakközé')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Skromn stredn odborn kola, Dukelsk 33,_12312b'), 
     'EDUID 910013679')

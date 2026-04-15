@@ -49,6 +49,8 @@ prihlasovanie.odhlasPouzivatela()
 'Vyhľadanie školy'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Vitajte v pilotnej verzii portlu Elekt_a4e96e/a_Domov_govuk-header__link'))
 
+WebUI.waitForJQueryLoad(120)
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
@@ -128,9 +130,17 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
     'Gymnázium Metodova')
 
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/span'))
+
+WebUI.waitForJQueryLoad(120)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Karirov poradca 1_zobrazit-profil-sk_0b8773'))
 
