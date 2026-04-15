@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sp_btn-odoslat govuk-button govuk-bu_528af4</name>
+   <tag></tag>
+   <elementGuidId>9e0fc95a-f6d5-48f8-b9bd-5129ecc27cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-odoslat.govuk-button.govuk-button__basic</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vyziadat-prilohu']/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>518e91db-8a0f-4aef-950b-f5f6d39786d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-odoslat govuk-button govuk-button__basic</value>
+      <webElementGuid>c612f4b6-4511-4e21-a05d-9470ea98faab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odoslať</value>
+      <webElementGuid>761be58d-1efa-43d1-98b5-47bedd21f61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vyziadat-prilohu&quot;)/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-odoslat govuk-button govuk-button__basic&quot;]</value>
+      <webElementGuid>14c04e33-0eb4-4308-b2d6-2034a783efa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vyziadat-prilohu']/div[4]/div/button</value>
+      <webElementGuid>8cd2875a-b0dd-48df-920b-7a35b9a160ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[1]/following::button[1]</value>
+      <webElementGuid>2580bd24-1875-477d-baf1-6660d9c675fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boli tieto informácie pre vás užitočné?'])[1]/preceding::button[1]</value>
+      <webElementGuid>9f82b653-44e2-4c14-afda-3b5319fdfac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/preceding::button[1]</value>
+      <webElementGuid>6bb3b565-a7c7-45e8-a76c-3cdf2374c866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odoslať']/parent::*</value>
+      <webElementGuid>d9aae075-bcbb-4f0e-9685-5f3ec8b28b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>ebeed1db-eba3-4c15-8269-e9ed0b23c8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Odoslať' or . = 'Odoslať')]</value>
+      <webElementGuid>dc05eb39-d81c-480a-a82d-70631cc11242</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

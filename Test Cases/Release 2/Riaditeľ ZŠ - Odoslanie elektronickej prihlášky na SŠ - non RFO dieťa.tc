@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Riaditeľ ZŠ - Odoslanie elektronickej prihlášky na SŠ - non RFO dieťa</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>389b0f3d-ccc9-4313-8f09-459f412cefe0</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prilote vetky potrebn prlohy_priloha-header</name>
+   <tag></tag>
+   <elementGuidId>e624e6bc-0176-494c-bc02-1006f8547af0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.priloha-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='acc-heading-']/div/span)[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5582e305-bf66-4227-8490-7757cbfe3476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>priloha-header</value>
+      <webElementGuid>024ba9ef-9503-48f6-867f-12bc7eaec86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vysvedčenie zo 6. ročníka</value>
+      <webElementGuid>2b03fb22-5173-47f6-aa84-e48a6708b3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;priloha-1&quot;)/div[@class=&quot;govuk-accordion__section&quot;]/div[@class=&quot;govuk-accordion__section-header&quot;]/div[@class=&quot;govuk-accordion__section-heading govuk-heading-m&quot;]/div[@class=&quot;govuk-accordion__section-button flex-center-ver&quot;]/div[@id=&quot;acc-heading-&quot;]/div[@class=&quot;govuk-accordion__section-heading-text-focus priloha-header-container&quot;]/span[@class=&quot;priloha-header&quot;]</value>
+      <webElementGuid>29388a8c-568f-4d27-afb5-f43b5fd703f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='acc-heading-']/div/span)[6]</value>
+      <webElementGuid>d1745299-6353-49d7-992f-5c50782df1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priložte všetky potrebné prílohy.'])[1]/following::span[1]</value>
+      <webElementGuid>62e491f3-21b3-4e48-808a-8aaf4c30d1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať prílohy'])[1]/following::span[1]</value>
+      <webElementGuid>e71966f0-4b37-44c8-a756-ba4115899f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nenahrané'])[1]/preceding::span[1]</value>
+      <webElementGuid>b4ce7601-300f-4117-96d3-da827d54451e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nenahrané'])[2]/preceding::span[1]</value>
+      <webElementGuid>d4d8d44e-3a6a-46d4-bc75-50fde8b0076d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vysvedčenie zo 6. ročníka']/parent::*</value>
+      <webElementGuid>cb94b541-c8b0-4003-9af3-74c32afac4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div[2]/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>33fb3376-e0d9-434c-95de-2333277dc6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vysvedčenie zo 6. ročníka' or . = 'Vysvedčenie zo 6. ročníka')]</value>
+      <webElementGuid>2a935e49-d7ad-4f8c-9175-d0a3c8356043</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Karlovarsk_govuk-label</name>
+   <tag></tag>
+   <elementGuidId>cd598b2a-c1ac-4146-a661-d507900b2ff3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#adresaTPSupisneCislo > div.govuk-form-group.input-control.dtc-input.optional > div.label-wrapper > label.govuk-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'autocomplete-dropdown']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ce6a60b1-88ff-4efa-93c1-7ef5b32488ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label</value>
+      <webElementGuid>f95453c6-012d-4f13-8551-5232dcdadd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-adresaTPSupisneCislo</value>
+      <webElementGuid>05afcfe9-518a-4a44-8b5a-02f983e7be3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Súpisné číslo</value>
+      <webElementGuid>d9a944bc-7840-4d47-bf3a-e1779837b681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adresaTPSupisneCislo&quot;)/div[@class=&quot;govuk-form-group input-control dtc-input optional&quot;]/div[@class=&quot;label-wrapper&quot;]/label[@class=&quot;govuk-label&quot;]</value>
+      <webElementGuid>8044ff7c-1181-4e0b-925a-fb75811b01c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adresaTPSupisneCislo']/div/div/label</value>
+      <webElementGuid>274fc18c-d3f4-40d0-8426-81b9c41b8774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karlovarská'])[2]/following::label[1]</value>
+      <webElementGuid>39df82e3-8389-41f6-bfc9-a3bfdb9fa145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[7]/following::label[1]</value>
+      <webElementGuid>c274ce70-2523-4203-a7c2-695961208fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[20]/preceding::label[1]</value>
+      <webElementGuid>478fcecd-1563-4aa6-ba42-3b2ea19bdc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre:'])[9]/preceding::label[1]</value>
+      <webElementGuid>362b803d-cda6-44e6-8e23-230eb22e6b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Súpisné číslo']/parent::*</value>
+      <webElementGuid>b1bfd7e1-0027-4bbb-add1-a7e9288501e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/label</value>
+      <webElementGuid>97fc8895-7216-473d-b075-cab111f9a8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Súpisné číslo' or . = 'Súpisné číslo')]</value>
+      <webElementGuid>b75b583e-7520-4a01-bbb1-29c0c1216894</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

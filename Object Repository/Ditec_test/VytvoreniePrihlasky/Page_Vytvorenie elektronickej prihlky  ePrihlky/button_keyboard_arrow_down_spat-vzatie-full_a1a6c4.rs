@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_keyboard_arrow_down_spat-vzatie-full_a1a6c4</name>
+   <tag></tag>
+   <elementGuidId>14af2823-0ab7-45e8-843c-be8911ced4b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='spat-vzatie-fulltext-input-button hidden'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b4a7b636-cc99-42f7-b028-94eb15b4c379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>spat-vzatie-fulltext-input-button hidden</value>
+      <webElementGuid>deefeffe-9375-45e8-8c59-6545ad40e914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button__basic button-search</value>
+      <webElementGuid>c36cd539-6fe0-431e-a6f3-e30c37047d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            search
+        </value>
+      <webElementGuid>235573bd-b35b-485a-94d7-07ea042df7bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vyucovaciJazykVZakladnejSkoleAutocomplete&quot;)/div[@class=&quot;govuk-form-group autocomplete-control required&quot;]/div[@class=&quot;input-wrapper&quot;]/button[@id=&quot;spat-vzatie-fulltext-input-button hidden&quot;]</value>
+      <webElementGuid>1b3e6ae5-4c8f-4153-bd06-6ed25518d7dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='spat-vzatie-fulltext-input-button hidden'])[12]</value>
+      <webElementGuid>af6bc201-aaef-4c49-9d7f-07ade2e5ea5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vyucovaciJazykVZakladnejSkoleAutocomplete']/div/div[2]/button</value>
+      <webElementGuid>dd03d644-bbe4-40e4-86dc-e481afdac60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[114]/following::button[1]</value>
+      <webElementGuid>1abb23df-bb30-4ed0-9216-9950847e10d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[16]/following::button[1]</value>
+      <webElementGuid>9e508cc7-2bdc-4fe4-8083-71e5f0ed42d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[17]/preceding::button[1]</value>
+      <webElementGuid>4f3bbfd6-71d2-47fa-8b40-7a37b8984425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský - maďarský'])[1]/preceding::button[1]</value>
+      <webElementGuid>3551c567-f40d-4568-902c-18c69c502008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/button</value>
+      <webElementGuid>eaa0f215-8894-4d85-a238-c22cfd345808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'spat-vzatie-fulltext-input-button hidden' and (text() = '
+            search
+        ' or . = '
+            search
+        ')]</value>
+      <webElementGuid>1395a5e9-13ab-4392-9693-f300d299d765</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

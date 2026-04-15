@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pridajte diea alebo osobu vo vaej starost_3d4c5c</name>
+   <tag></tag>
+   <elementGuidId>fd63f4da-362b-455b-bacf-b037eb24afca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.govuk-button.govuk-button--sec.pridat-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radioGroup-deti']/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5045cf0e-3762-418f-85d7-e338ca9c8e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec pridat-btn</value>
+      <webElementGuid>09e9f412-1a7c-423c-83d0-68b1f2623052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>cef8aff0-b32a-4e4a-9b06-9be0e105a4d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3c67390f-ac14-42a2-a080-95339ffbf01a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-void</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1ecf0dd7-2a9a-43bc-9f0a-31d1a5a70930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>92bf0443-3e87-4298-830d-698fe8887f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Pridať žiaka
+                    </value>
+      <webElementGuid>6f70741d-2daf-42a5-be07-c4586081ba70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radioGroup-deti&quot;)/div[@class=&quot;pridat-btn-wrapper govuk-radios__conditional&quot;]/a[@class=&quot;govuk-button govuk-button--sec pridat-btn&quot;]</value>
+      <webElementGuid>227ac95e-4f17-4876-ae9f-ebbdb638b4bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radioGroup-deti']/div[3]/a</value>
+      <webElementGuid>71ecb026-8580-450e-8f07-a657f0ff964a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pridať žiaka')])[2]</value>
+      <webElementGuid>ff30a758-1b60-45db-b861-2b5da1635283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridajte dieťa alebo osobu vo vašej starostlivosti.'])[2]/following::a[1]</value>
+      <webElementGuid>e14059f9-97f5-4504-9ca1-75b73079e516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skontrolujte údaje o žiakovi'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9b83416-bbb2-4586-8ba0-d4d5dfd42168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Osobné údaje žiaka'])[1]/preceding::a[1]</value>
+      <webElementGuid>db4d2a60-7ef1-4306-9894-0e9bac005dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>927d842e-e446-4771-ab48-d896bdaeb3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>361996e0-03c3-427e-8c54-8f2d27e2a7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                        Pridať žiaka
+                    ' or . = '
+                        Pridať žiaka
+                    ')]</value>
+      <webElementGuid>e726809c-891c-4d5e-9229-eccbf67462f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

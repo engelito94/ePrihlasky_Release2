@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nzov odboru_placeholder</name>
+   <tag></tag>
+   <elementGuidId>559a9bf6-f33a-4a86-9698-3b4524117063</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='filtre-row zakladne-filtre-1']//span[@class='material-icons icon-down'][normalize-space()='keyboard_arrow_down']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36e5c796-135b-4aa1-a901-00d297379171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>732f84a8-9361-422d-81cd-90c96f150db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vyberte...</value>
+      <webElementGuid>2e106e42-26e0-4e01-bc47-2f82f28e9f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-select-wrapper-SS&quot;)/div[@class=&quot;govuk-form-group input-control dtc-multiselect-wrapper&quot;]/div[@class=&quot;dtc-multiselect&quot;]/div[@class=&quot;dtc-multiselect-box govuk-select&quot;]/div[@class=&quot;selected-items&quot;]/span[@class=&quot;placeholder&quot;]</value>
+      <webElementGuid>7df67d2a-edf2-4465-8172-28d3eb4265d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-select-wrapper-SS']/div/div/div/div/span</value>
+      <webElementGuid>3d285bdd-71a0-4eec-a9c2-a9f81ad385be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov odboru'])[1]/following::span[1]</value>
+      <webElementGuid>6180f11a-1075-47ac-9534-c5da9a916d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vybrané školy'])[1]/following::span[1]</value>
+      <webElementGuid>d0b38eec-3bda-4678-b127-49032e10d752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[12]/preceding::span[2]</value>
+      <webElementGuid>8e26fbf0-1f75-47f1-bd17-962f40a91ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_up'])[1]/preceding::span[3]</value>
+      <webElementGuid>466cef95-a591-4748-b55b-1f2474046fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vyberte...']/parent::*</value>
+      <webElementGuid>88ca43fa-2769-458b-ad07-53ed1fb6e29c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>25f0d419-2fa9-41df-a90c-bffd844a207f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vyberte...' or . = 'Vyberte...')]</value>
+      <webElementGuid>a3cb9f3b-62f3-4f50-8961-6cb6547e0b78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

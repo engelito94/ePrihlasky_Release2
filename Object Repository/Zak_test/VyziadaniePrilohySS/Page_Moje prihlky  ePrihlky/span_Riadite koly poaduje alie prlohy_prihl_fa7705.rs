@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Riadite koly poaduje alie prlohy_prihl_fa7705</name>
+   <tag></tag>
+   <elementGuidId>1edb05d4-4848-4551-94d1-9af87420dfda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec > div.prihlaska-podana > div.card_prihlasky_content > div.zoznam-prihlasok-wrapper > table.zoznam-prihlasok.netalentove.zoznam-prihlasok-ms-zs > tbody > tr.prihlasky-row-item > td.prihlaska-stav-td > span.prihlaska-header-stav > span.prihlaska-status-badge.with-icon.green</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec']/div/div[3]/div/table[2]/tbody/tr/td[4]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5ccd29e5-92c8-4c1e-a5cb-f4d6a59c3044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prihlaska-status-badge with-icon green</value>
+      <webElementGuid>2ea841fb-2746-444d-86e1-e76714efe5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doplnená</value>
+      <webElementGuid>43ffcc22-3897-4a40-be3d-293b701def56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;card_prihlasky_content&quot;]/div[@class=&quot;zoznam-prihlasok-wrapper&quot;]/table[@class=&quot;zoznam-prihlasok netalentove zoznam-prihlasok-ms-zs&quot;]/tbody[1]/tr[@class=&quot;prihlasky-row-item&quot;]/td[@class=&quot;prihlaska-stav-td&quot;]/span[@class=&quot;prihlaska-header-stav&quot;]/span[@class=&quot;prihlaska-status-badge with-icon green&quot;]</value>
+      <webElementGuid>f3b68226-deec-4854-b4be-56f4aee52a14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec']/div/div[3]/div/table[2]/tbody/tr/td[4]/span/span</value>
+      <webElementGuid>a799b0bd-3301-47ca-9b8f-37034b5e0732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riaditeľ školy požaduje ďalšie prílohy.'])[37]/following::span[2]</value>
+      <webElementGuid>94a73ee7-4c34-4362-928e-c89ab910455e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='potravinárstvo - kvasná technológia • Kód odboru: 2940M04'])[3]/following::span[3]</value>
+      <webElementGuid>15fcd627-58c0-4462-a8b6-7fbd8b596d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stredná škola pre AT'])[4]/preceding::span[2]</value>
+      <webElementGuid>889fa697-08be-419b-bad4-fa093b533e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='potravinárstvo - kvasná technológia • Kód odboru: 2940M04'])[4]/preceding::span[3]</value>
+      <webElementGuid>78e79655-0991-4f79-a5a0-bd5a876ab004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doplnená']/parent::*</value>
+      <webElementGuid>bf29199e-7164-4f53-aa79-f429d04166f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/div/div[3]/div/table[2]/tbody/tr/td[4]/span/span</value>
+      <webElementGuid>2b6650a6-0993-4f73-9ce0-e59d7ab223eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Doplnená' or . = 'Doplnená')]</value>
+      <webElementGuid>44d26d58-6d72-4aa0-9fd4-3a4094bc65bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

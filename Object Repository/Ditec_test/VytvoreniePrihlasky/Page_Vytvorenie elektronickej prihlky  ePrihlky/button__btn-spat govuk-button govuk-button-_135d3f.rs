@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__btn-spat govuk-button govuk-button-_135d3f</name>
+   <tag></tag>
+   <elementGuidId>d09ec08b-16e8-43de-aae3-3f27d18713d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-spat.govuk-button.govuk-button--sec.left-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-2']/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c6270924-f908-4815-bc31-a10c6566cbb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-spat govuk-button govuk-button--sec left-button</value>
+      <webElementGuid>5104610d-a663-407a-b81b-39bca488ea0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-step</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>eb59e1ca-be47-4cac-8050-82f2899c6c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Späť</value>
+      <webElementGuid>5121a267-cf6e-47f4-8291-31153c79905a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-2&quot;)/div[@class=&quot;dalsie-informacie&quot;]/div[@class=&quot;buttons-container&quot;]/button[@class=&quot;btn-spat govuk-button govuk-button--sec left-button&quot;]</value>
+      <webElementGuid>7baceb89-a281-4acf-815d-ed4a836236fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-2']/div/div[2]/button</value>
+      <webElementGuid>44953636-abbb-473d-a7a6-ec69661cebe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[30]/following::button[1]</value>
+      <webElementGuid>e4ebf3da-f1fa-4a0e-81dd-457e005f5620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať dieťa'])[2]/preceding::button[1]</value>
+      <webElementGuid>03d32ecf-3fe9-462d-a9c7-73ca61427876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uložiť'])[1]/preceding::button[2]</value>
+      <webElementGuid>55f0a355-5cf9-4daf-8663-6a209a45a39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Späť']/parent::*</value>
+      <webElementGuid>1b960c85-7cd8-46f0-a1c1-891d8f712c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[2]/button</value>
+      <webElementGuid>d9099f5d-820f-406b-85c2-adcb85aa8915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Späť' or . = 'Späť')]</value>
+      <webElementGuid>1cba5df7-95a9-4b49-ac3f-d8c1054034f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

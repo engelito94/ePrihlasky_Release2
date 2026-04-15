@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nepln_data-prihlaska-pridat-prilohu govuk_a64c43</name>
+   <tag></tag>
+   <elementGuidId>f546ac09-e0c7-4919-a249-b44a019a6881</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.data-prihlaska-pridat-prilohu.govuk-button.govuk-button__large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec']/div/div[3]/div/table[2]/tbody/tr/td[5]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5ce3a683-7bde-48d1-8f8f-9de96dfc92e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data-prihlaska-pridat-prilohu govuk-button govuk-button__large</value>
+      <webElementGuid>a81db311-f953-4844-a92c-72e350bf7ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>a87ef3d4-da91-4a5c-8d15-35675b86a60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Prihlasky/Pridat-prilohy?SaSZZPrihlaskyGuid=350db8fd-4a49-498b-8175-5927c45f82f2&amp;EDUIDSaSZ=910021624</value>
+      <webElementGuid>190394bd-c581-4e83-b874-8644a8aa46e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať prílohy</value>
+      <webElementGuid>6fc1cf10-880a-4ea1-9768-333f631a02e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;card_prihlasky_content&quot;]/div[@class=&quot;zoznam-prihlasok-wrapper&quot;]/table[@class=&quot;zoznam-prihlasok netalentove zoznam-prihlasok-ms-zs&quot;]/tbody[1]/tr[@class=&quot;prihlasky-row-item&quot;]/td[@class=&quot;prihlaska-akcia-td&quot;]/span[@class=&quot;prihlaska-header-akcia&quot;]/a[@class=&quot;data-prihlaska-pridat-prilohu govuk-button govuk-button__large&quot;]</value>
+      <webElementGuid>7716bc5d-ff6a-4986-a2f5-736a83f6b0e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-ec4c256b-eab1-4ebb-a9e6-7f2b3297a5ec']/div/div[3]/div/table[2]/tbody/tr/td[5]/span/a</value>
+      <webElementGuid>64c1c0ab-02b6-4c2c-99d7-7f909a2bdd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pridať prílohy')]</value>
+      <webElementGuid>ae86e1f0-c155-4b65-b71d-e47426643ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neúplná'])[1]/following::a[1]</value>
+      <webElementGuid>e11cadb7-3f5b-4b25-81d7-e08d87304637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riaditeľ školy požaduje ďalšie prílohy.'])[37]/following::a[1]</value>
+      <webElementGuid>c6e8069c-bffa-4647-a7cc-7a2e67181b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stredná škola pre AT'])[4]/preceding::a[1]</value>
+      <webElementGuid>f5c1509b-9a87-4cfb-8ab8-7acf9bd8f7cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='potravinárstvo - kvasná technológia • Kód odboru: 2940M04'])[4]/preceding::a[1]</value>
+      <webElementGuid>eaa8b4c9-f86c-4161-b61c-8f985655ca73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pridať prílohy']/parent::*</value>
+      <webElementGuid>641b3ae2-275d-4852-8470-e6499d07dd93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Prihlasky/Pridat-prilohy?SaSZZPrihlaskyGuid=350db8fd-4a49-498b-8175-5927c45f82f2&amp;EDUIDSaSZ=910021624')]</value>
+      <webElementGuid>207f1cc6-6818-494c-87d8-4578eed48c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>79abd551-ead9-4b7d-abec-ea877ba82ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Prihlasky/Pridat-prilohy?SaSZZPrihlaskyGuid=350db8fd-4a49-498b-8175-5927c45f82f2&amp;EDUIDSaSZ=910021624' and (text() = 'Pridať prílohy' or . = 'Pridať prílohy')]</value>
+      <webElementGuid>25d3fb94-a962-4fb6-aef6-7e1a562ca735</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
