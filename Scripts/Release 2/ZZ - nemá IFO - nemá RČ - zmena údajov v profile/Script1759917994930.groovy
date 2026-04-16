@@ -23,7 +23,7 @@ Prihlasovanie prihlasovanie = new Prihlasovanie()
 
 Mail mail = new Mail()
 
-prihlasovanie.prihlasPouzivatela('2ru2nqqn7x@tiffincrane.com', 'w1oXMoeykcdLiib/wAKM5A==', GlobalVariable.F2A)
+prihlasovanie.prihlasPouzivatela('sx0b7pwwhx@deltajohnsons.com', 'w1oXMoeykcdLiib/wAKM5A==', GlobalVariable.F2A)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilZZ/Page_Vitajte v pilotnej verzii portlu Elekt_a4e96e/span_Menu_inicialy-osoby-header'))
 

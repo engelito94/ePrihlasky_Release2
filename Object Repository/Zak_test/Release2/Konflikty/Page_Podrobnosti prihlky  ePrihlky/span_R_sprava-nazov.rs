@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_R_sprava-nazov</name>
+   <tag></tag>
+   <elementGuidId>30cbfad5-1613-460b-b2be-1d1cb073354f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sprava-nazov</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='duplicitne-prihlasky']/div[2]/div[5]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d90035a7-88d7-46d2-b51b-fd78aea40656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sprava-nazov</value>
+      <webElementGuid>aec0fdd8-cd88-4892-8953-7c14d954ad70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riaditeľ školy Stredná škola pre AT  zaslal výzvu na riešenie konfliktu prihlášok.</value>
+      <webElementGuid>612f1fc3-12d5-454f-ab11-b1672475ca20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;duplicitne-prihlasky&quot;)/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sprava-item&quot;]/div[@class=&quot;sprava-header&quot;]/div[@class=&quot;sprava-header-text&quot;]/span[@class=&quot;sprava-nazov&quot;]</value>
+      <webElementGuid>170e0d6d-7d42-4467-a72e-368b96ce5563</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='duplicitne-prihlasky']/div[2]/div[5]/div/div/div[2]/span</value>
+      <webElementGuid>3681787a-c187-494b-9c76-ac5e7de27ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[1]/following::span[1]</value>
+      <webElementGuid>5036ed1e-6ef4-4fd3-b2c2-0570b1b3a3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výzva:'])[1]/following::span[1]</value>
+      <webElementGuid>2ffbbcf7-0b85-4426-841c-e6002971c531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sprievodná správa'])[1]/preceding::span[2]</value>
+      <webElementGuid>76ff98fc-54c0-4ddd-a6b6-c3d320092db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/span</value>
+      <webElementGuid>b58c38ae-87ad-4131-af43-07f57adfafd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Riaditeľ školy Stredná škola pre AT  zaslal výzvu na riešenie konfliktu prihlášok.' or . = 'Riaditeľ školy Stredná škola pre AT  zaslal výzvu na riešenie konfliktu prihlášok.')]</value>
+      <webElementGuid>f4368722-1837-4157-ac40-dc8278032de1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

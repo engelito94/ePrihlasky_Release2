@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_1</name>
+   <tag></tag>
+   <elementGuidId>960f030e-c81a-4d6e-8f45-d0175ab62e80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.panel-text-green > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='info-panel-green-konflikt-vyrieseny']/div/div/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>d7cec712-d934-4181-9896-ebdb115a7e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Duplicita prihlášok úspešne vyriešená</value>
+      <webElementGuid>83c461b5-0bad-46b1-bd7b-a4194917defd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;info-panel-green-konflikt-vyrieseny&quot;)/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text-green&quot;]/strong[1]</value>
+      <webElementGuid>87b14fa3-0d6f-4364-b725-c4cded519c8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-panel-green-konflikt-vyrieseny']/div/div/span/strong</value>
+      <webElementGuid>2a745ccc-2379-479e-878f-d244735d9b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::strong[1]</value>
+      <webElementGuid>97f568f6-c8bc-495f-bd2e-98d6980f9fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info'])[1]/preceding::strong[1]</value>
+      <webElementGuid>7d02c755-7a1a-42e0-8874-f75a39b00b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihláška bola označená ako aktívna riaditeľom školy {skola}'])[1]/preceding::strong[1]</value>
+      <webElementGuid>5a33914d-c6d4-4e26-bea6-598e3b58f117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Duplicita prihlášok úspešne vyriešená']/parent::*</value>
+      <webElementGuid>91f4bde6-c19b-4419-8d69-4c73e2db936c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/span/strong</value>
+      <webElementGuid>c9a13e80-5d61-4075-99b6-269f1accdd4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Duplicita prihlášok úspešne vyriešená' or . = 'Duplicita prihlášok úspešne vyriešená')]</value>
+      <webElementGuid>3965b8c2-1cf1-417a-a904-89edd17e7dca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

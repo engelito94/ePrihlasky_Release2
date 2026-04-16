@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zrui prihlku_vyriesit-konflikt-title</name>
+   <tag></tag>
+   <elementGuidId>85bf530e-f4ee-4668-848b-8a7f9b4fa9d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vyriesit-konflikt-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vyriesit-konflikt-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40b8d05c-2308-4586-b7e7-9ea5dca2417f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vyriesit-konflikt-title</value>
+      <webElementGuid>0700c165-9b9f-4a43-a7e3-6b9d398da7ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>9823f1c0-3dc5-4052-9759-f5dd45652a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vyriešiť konflikt</value>
+      <webElementGuid>cfea6ca8-6749-41a4-b24e-a107db9a2997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vyriesit-konflikt-title&quot;)</value>
+      <webElementGuid>ae776d6f-390e-4ccd-a65e-c3157ee4e052</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='vyriesit-konflikt-title']</value>
+      <webElementGuid>5392604c-2ec1-4922-9be2-ed6daa8da8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť prihlášku'])[2]/following::div[7]</value>
+      <webElementGuid>0e6f99f1-ebb7-4cf4-ba31-73ace5ddd2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[1]/following::div[8]</value>
+      <webElementGuid>7ffbef4f-733d-41c6-8fbe-aaa2ce7853e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polia označené hviezdičkou sú povinné'])[1]/preceding::div[4]</value>
+      <webElementGuid>1d8af204-1e5f-4999-9e0d-4f1e2d1aee62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte prihlášku, ktorú chcete ponechať'])[1]/preceding::div[5]</value>
+      <webElementGuid>bd9ceee4-2899-491f-99ae-756972e2b6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div</value>
+      <webElementGuid>a6d6c156-5b16-43e0-84d6-1e30df9df4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'vyriesit-konflikt-title' and (text() = 'Vyriešiť konflikt' or . = 'Vyriešiť konflikt')]</value>
+      <webElementGuid>9d0bc584-2bda-4f61-8209-9b3932f26669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Oznai ako skontrolovan_btn-vyzva-na-_87c62a</name>
+   <tag></tag>
+   <elementGuidId>4ad52a6a-04fa-4dd8-a1e8-5c2afe8fc951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-vyzva-na-riesenie-konfliktu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-vyzva-na-riesenie-konfliktu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>424f7784-1340-4daf-a487-2eb386ceb9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-vyzva-na-riesenie-konfliktu</value>
+      <webElementGuid>4b6ee1f0-092a-4329-ada0-06520af94edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec</value>
+      <webElementGuid>27f7b5f2-af01-46b2-aa52-403752a333d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>08e37045-d4ab-4914-91d4-4f600250eecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>45a5a766-5853-480a-9bd4-a22c183826c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>116efe0f-f1cb-409b-ab30-9a362c10b1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Vyzvať na riešenie konfliktu
+            </value>
+      <webElementGuid>52eae7f6-e3cd-4e4a-9747-5ac3a81233a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-vyzva-na-riesenie-konfliktu&quot;)</value>
+      <webElementGuid>2548eea3-9419-43f7-b730-986a72a14233</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-vyzva-na-riesenie-konfliktu']</value>
+      <webElementGuid>85be9706-522e-454f-8003-7de2706cea4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-prihlasky-riad-SS-content']/div[2]/button[2]</value>
+      <webElementGuid>e7309595-c0b4-448f-8eb8-b435d292e0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Označiť ako skontrolovaná'])[1]/following::button[1]</value>
+      <webElementGuid>9a726ba4-19a5-4b02-bc60-c09e81b255dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exportovať PDF'])[1]/following::button[2]</value>
+      <webElementGuid>45082f1b-f33f-42bb-a845-fc0162ae8f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyriešiť konflikt'])[1]/preceding::button[1]</value>
+      <webElementGuid>49eff32e-42ad-474d-b69a-258808d51fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zmeniť aktívnu prihlášku'])[1]/preceding::button[2]</value>
+      <webElementGuid>f0d26e79-9e10-4901-978b-768b25f573b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vyzvať na riešenie konfliktu']/parent::*</value>
+      <webElementGuid>583a00bc-6956-4fba-9c89-6c8797d26a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/button[2]</value>
+      <webElementGuid>2f81a0e7-3124-44c3-b200-ff05c552486f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-vyzva-na-riesenie-konfliktu' and @type = 'submit' and @href = 'javascript: void(0);' and (text() = '
+                Vyzvať na riešenie konfliktu
+            ' or . = '
+                Vyzvať na riešenie konfliktu
+            ')]</value>
+      <webElementGuid>ce79c9e3-4da0-4c26-8902-45ae6cf1533d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

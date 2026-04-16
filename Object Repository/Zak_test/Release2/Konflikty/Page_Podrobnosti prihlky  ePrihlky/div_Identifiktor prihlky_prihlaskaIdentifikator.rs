@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Identifiktor prihlky_prihlaskaIdentifikator</name>
+   <tag></tag>
+   <elementGuidId>fa799f0a-611a-4e2f-adbf-0957656f34a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.prihlaskaIdentifikator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2520b1aa-5897-47d9-bb72-edfd0532cdcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prihlaskaIdentifikator</value>
+      <webElementGuid>a03fc291-2ffe-4f02-9fdc-11ed55a016ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>P-2026-13313</value>
+      <webElementGuid>db553e57-fbc5-4269-9745-0d46ec56e356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail-prihlasky-riad-SS-content&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout vseobecne-body&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;prihlaskaIdentifikator&quot;]</value>
+      <webElementGuid>2051ef0c-86ef-424c-a421-96bd19589e17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>8fa2339b-f000-473d-91a2-d76f6dba69af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identifikátor prihlášky'])[1]/following::div[1]</value>
+      <webElementGuid>372fd1e0-8ffd-4f54-baa1-ff6725f3bbdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='remove'])[1]/following::div[4]</value>
+      <webElementGuid>040d1092-7335-41c8-8368-6e81176adc02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Školský rok'])[1]/preceding::div[1]</value>
+      <webElementGuid>e5b20088-16ed-4af1-af34-dfb70862b863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania'])[1]/preceding::div[4]</value>
+      <webElementGuid>756f9161-508e-41b6-a987-19c5318bdd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='P-2026-13313']/parent::*</value>
+      <webElementGuid>3acec804-c5d1-4942-b1fc-dab621e3aca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>00b190da-c834-4bd7-ba05-8f6099016076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'P-2026-13313' or . = 'P-2026-13313')]</value>
+      <webElementGuid>9ba05d76-fc75-4188-aabe-e781f6c710b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

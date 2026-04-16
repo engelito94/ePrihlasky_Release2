@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vyriei konflikt_vyzva-riesenie-konfliktu-title</name>
+   <tag></tag>
+   <elementGuidId>a6f49be2-de28-4bf7-ad63-3a84a35d39c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vyzva-riesenie-konfliktu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vyzva-riesenie-konfliktu-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4d92eda-e319-4ec6-921c-ba8bb379e5d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vyzva-riesenie-konfliktu-title</value>
+      <webElementGuid>4ff86946-c77f-45b5-8e2e-0f7f1cdfa558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>05f3b132-d286-4188-8eb9-d06a3c939f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Výzva na riešenie konfliktu</value>
+      <webElementGuid>514ede4b-d819-4d3a-802d-18bf394dd7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vyzva-riesenie-konfliktu-title&quot;)</value>
+      <webElementGuid>1b68b9fa-c7c9-43bb-bf37-fb7802b941fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='vyzva-riesenie-konfliktu-title']</value>
+      <webElementGuid>f6b34217-4805-4ff4-96b5-97174d35b2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyriešiť konflikt'])[3]/following::div[7]</value>
+      <webElementGuid>3c024f1e-2269-49c0-a297-98b0dc8702b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[4]/following::div[8]</value>
+      <webElementGuid>19ac3a5b-997a-4fa4-abdd-3a7b049a74b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polia označené hviezdičkou sú povinné'])[2]/preceding::div[1]</value>
+      <webElementGuid>742369c0-ce41-4e96-b4ae-0c24215bcb55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výzva bude zaslaná nasledujúcim osobám'])[1]/preceding::div[5]</value>
+      <webElementGuid>a0a9498a-b64f-44df-ae9c-11e07cf27ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Výzva na riešenie konfliktu']/parent::*</value>
+      <webElementGuid>497d7c5e-af87-452d-af91-b89be2995649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[8]/div/div/div/div/div</value>
+      <webElementGuid>1367ffa5-c648-4737-8cb3-6d15afe5e08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'vyzva-riesenie-konfliktu-title' and (text() = 'Výzva na riešenie konfliktu' or . = 'Výzva na riešenie konfliktu')]</value>
+      <webElementGuid>215a0450-e400-4aa0-b66d-4ba1732ce468</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

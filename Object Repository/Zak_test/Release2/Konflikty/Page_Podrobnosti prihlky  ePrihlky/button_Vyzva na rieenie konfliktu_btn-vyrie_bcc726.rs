@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Vyzva na rieenie konfliktu_btn-vyrie_bcc726</name>
+   <tag></tag>
+   <elementGuidId>943acca6-7adb-4c49-8130-6068c22d1d3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-vyriesit-konflikt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-vyriesit-konflikt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3056bbbc-6161-4da1-b647-0e2af1811b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-vyriesit-konflikt</value>
+      <webElementGuid>def4f69f-a7cc-4837-94e3-4cf30be59c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec</value>
+      <webElementGuid>29ec90bd-e83c-45e1-b537-647b944ae407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>f99a19ea-09c3-4bce-ac84-a687d4c49a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>govuk-button</value>
+      <webElementGuid>c7808466-65f2-4795-aa41-cfdc338efbf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>6b3f7652-d5b1-4aa7-b4cc-af36e0a98aeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Vyriešiť konflikt
+            </value>
+      <webElementGuid>f847fc60-da3a-49f4-9732-9033b74dd6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-vyriesit-konflikt&quot;)</value>
+      <webElementGuid>23777254-d6b4-439e-9eb4-dc8a6f9b3e07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-vyriesit-konflikt']</value>
+      <webElementGuid>0c4ec02e-f944-4274-a536-26e9569cb91f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-prihlasky-riad-SS-content']/div[2]/button[3]</value>
+      <webElementGuid>d59e0ec3-881d-4659-b9e0-ed45619fddb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyzvať na riešenie konfliktu'])[1]/following::button[1]</value>
+      <webElementGuid>1ab18997-8b34-4983-8da3-d796525ae0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Označiť ako skontrolovaná'])[1]/following::button[2]</value>
+      <webElementGuid>1fe7b121-0779-4f24-bc30-f734de57ab9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zmeniť aktívnu prihlášku'])[1]/preceding::button[1]</value>
+      <webElementGuid>1d0e3933-4344-49c7-b9d1-a5a4ad955fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odoslať na stredné školy'])[1]/preceding::button[2]</value>
+      <webElementGuid>ce4df039-6d9c-410e-9b96-bbc0b7f99035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vyriešiť konflikt']/parent::*</value>
+      <webElementGuid>036222a3-b7cb-4202-8061-ba8f2f40dbef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>d6c2de2c-5116-4998-9f18-465571fbe849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-vyriesit-konflikt' and @type = 'submit' and @href = 'javascript: void(0);' and (text() = '
+                Vyriešiť konflikt
+            ' or . = '
+                Vyriešiť konflikt
+            ')]</value>
+      <webElementGuid>5d55a5b2-c1ee-4ffd-a170-ced3c61124b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

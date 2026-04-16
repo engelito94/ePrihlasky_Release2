@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong</name>
+   <tag></tag>
+   <elementGuidId>d69ee02e-d15e-43ac-b8a6-f6dbbc2130f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='info-panel-red-prihlaska-v-konflikte-riad-ss']/div/div/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>a84387a1-989a-4463-949b-8ef3c3efa5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Táto prihláška je v stave - V konflikte.</value>
+      <webElementGuid>5f8017ca-b28a-4d27-ba37-cc9d9960cee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;info-panel-red-prihlaska-v-konflikte-riad-ss&quot;)/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text-red konflikt-ss&quot;]/strong[1]</value>
+      <webElementGuid>7798fc7b-b9e0-403a-8e9d-5b83f65b9ad2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-panel-red-prihlaska-v-konflikte-riad-ss']/div/div/span/strong</value>
+      <webElementGuid>84ca8d0c-1985-4a48-b342-2f31294e3800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='warning'])[1]/following::strong[1]</value>
+      <webElementGuid>7e66d160-bdc1-4dab-8363-ffaacf304ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[1]/following::strong[1]</value>
+      <webElementGuid>fbe4d6aa-fffe-4297-9cb4-82c076311d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyzvite zákonného zástupcu'])[1]/preceding::strong[1]</value>
+      <webElementGuid>705cc18d-5004-4af2-85d5-6bfda5d8e20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Táto prihláška je v stave - V konflikte.']/parent::*</value>
+      <webElementGuid>6c7ad1a4-9525-481d-befa-b7ef6db7c29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>34842373-a506-4389-9593-60432879eb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Táto prihláška je v stave - V konflikte.' or . = 'Táto prihláška je v stave - V konflikte.')]</value>
+      <webElementGuid>d1fcea93-3acb-45a2-bc14-bbcdcdc1cd4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
