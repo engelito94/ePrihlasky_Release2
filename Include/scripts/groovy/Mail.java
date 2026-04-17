@@ -13,6 +13,7 @@ import javax.mail.internet.MimeMultipart;
 import javax.mail.Part;
 import org.jsoup.Jsoup;
 import java.util.Date;
+import javax.mail.*;
 
 public class Mail {
 
@@ -231,4 +232,134 @@ public class Mail {
             return null;
         }
     }
+    
+    public static String getLastEmailText(
+            String host, String storeType, String user, String password) {
+
+        Store store = null;
+        Folder emailFolder = null;
+        String emailText = null;
+
+        Date startTime = new Date(System.currentTimeMillis() - 8000);
+        long endTimeMillis = System.currentTimeMillis() + (MAX_WAIT_SECONDS * 1000);
+
+        while (System.currentTimeMillis() < endTimeMillis && emailText == null) {
+            try {
+                Properties properties = new Properties();
+                properties.put("mail.pop3.host", host);
+                properties.put("mail.pop3.port", "995");
+                properties.put("mail.pop3.starttls.enable", "true");
+                properties.put("mail.pop3.ssl.enable", "true");
+
+                Session emailSession = Session.getDefaultInstance(properties);
+                store = emailSession.getStore(storeType);
+                store.connect(host, user, password);
+
+                emailFolder = store.getFolder("INBOX");
+                emailFolder.open(Folder.READ_ONLY);
+
+                Message[] messages = emailFolder.getMessages();
+
+                if (messages.length > 0) {
+                    Message lastMessage = messages[messages.length - 1];
+
+                    Date messageDate = lastMessage.getReceivedDate();
+                    if (messageDate == null) {
+                        messageDate = lastMessage.getSentDate();
+                    }
+
+                    if (messageDate != null && messageDate.after(startTime)) {
+                        emailText = extractText(lastMessage);
+                        if (emailText != null && !emailText.trim().isEmpty()) {
+                            return emailText.trim();
+                        }
+                    }
+                }
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            } finally {
+                try {
+                    if (emailFolder != null && emailFolder.isOpen()) {
+                        emailFolder.close(false);
+                    }
+                } catch (MessagingException ignored) {}
+
+                try {
+                    if (store != null && store.isConnected()) {
+                        store.close();
+                    }
+                } catch (MessagingException ignored) {}
+            }
+
+            if (emailText == null && System.currentTimeMillis() < endTimeMillis) {
+                try {
+                    Thread.sleep(POLLING_INTERVAL_SECONDS * 1000);
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                    return null;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    private static String extractText(Part part) throws MessagingException, IOException {
+        if (part.isMimeType("text/plain")) {
+            return (String) part.getContent();
+        }
+
+        if (part.isMimeType("text/html")) {
+            String html = (String) part.getContent();
+            return Jsoup.parse(html).text();
+        }
+
+        if (part.isMimeType("multipart/alternative")) {
+            Multipart multipart = (Multipart) part.getContent();
+            String text = null;
+            String html = null;
+
+            for (int i = 0; i < multipart.getCount(); i++) {
+                BodyPart bodyPart = multipart.getBodyPart(i);
+
+                if (bodyPart.isMimeType("text/plain")) {
+                    text = extractText(bodyPart);
+                } else if (bodyPart.isMimeType("text/html")) {
+                    html = extractText(bodyPart);
+                } else {
+                    String nested = extractText(bodyPart);
+                    if (nested != null && !nested.isBlank()) {
+                        return nested;
+                    }
+                }
+            }
+
+            return text != null ? text : html;
+        }
+
+        if (part.isMimeType("multipart/*")) {
+            Multipart multipart = (Multipart) part.getContent();
+            StringBuilder result = new StringBuilder();
+
+            for (int i = 0; i < multipart.getCount(); i++) {
+                BodyPart bodyPart = multipart.getBodyPart(i);
+
+                String disposition = bodyPart.getDisposition();
+                if (Part.ATTACHMENT.equalsIgnoreCase(disposition)) {
+                    continue;
+                }
+
+                String text = extractText(bodyPart);
+                if (text != null && !text.isBlank()) {
+                    result.append(text).append("\n");
+                }
+            }
+
+            return result.toString().trim();
+        }
+
+        return null;
+    }
+
 }

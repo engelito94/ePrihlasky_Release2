@@ -15,11 +15,12 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable as GlobalVariable
+import internal.GlobalVariable
+import portal.Helper
 import portal.Prihlasovanie as Prihlasovanie
 import com.kms.katalon.core.testobject.ConditionType as ConditionType
 import org.openqa.selenium.Keys as Keys
-
+/**
 // Automat 1 - netalent 1
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
     'Automat 1')
@@ -319,3 +320,26 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_keyboard_arrow_up_govuk-button govuk_25831c'))
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
+**/
+
+Mail mail = new Mail()
+Helper help = new Helper()
+
+
+
+String identifikator = 'P-2026-13334'
+
+int lastDash = identifikator.lastIndexOf('-')
+String prefix = identifikator[0..lastDash]          // "P-2026-"
+String numberPart = identifikator[(lastDash+1)..-1] // "13334"
+
+int lastNumber = numberPart.toInteger()
+String identifikator1 = "${prefix}${lastNumber + 1}"
+
+String teloMailu = mail.getLastEmailText('pop.gmail.com', 'pop3', GlobalVariable.mailLogin, GlobalVariable.mailHeslo)
+teloMailu = help.cleanupCidUrls(teloMailu)
+println(teloMailu)
+teloMailu = teloMailu.replaceAll(/\r?\n+/, ' ').replaceAll(/\s+/, ' ').trim()
+assert teloMailu.equals('Vážený/á pán/pani Tomáš Lukáč, v systéme bolo zistené, že pre žiaka Jana Nováková nar. 18.01.2010 boli podané viaceré prihlášky. Riaditeľ školy Stredná škola pre AT vás týmto vyzýva, aby ste ho bezodkladne kontaktovali a informovali, ktorú prihlášku si želáte ponechať ako platnú. Sprievodná správa od riaditeľa: Prosím o vyriešenie konfliktu. Váš katalon :) Bez vyriešenia tohto konfliktu nebudú prihlášky ďalej spracované. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň.')
+
+//'Vážený/á pán/pani Tomáš Lukáč, v systéme bolo zistené, že pre žiaka Jana Nováková nar. 18.01.2010 boli podané viaceré prihlášky. Riaditeľ školy Stredná škola pre AT vás týmto vyzýva, aby ste ho bezodkladne kontaktovali a informovali, ktorú prihlášku si želáte ponechať ako platnú. Sprievodná správa od riaditeľa: Prosím o vyriešenie konfliktu. Váš katalon :) Bez vyriešenia tohto konfliktu nebudú prihlášky ďalej spracované. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň.'

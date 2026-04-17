@@ -20,40 +20,40 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords;
 
 public class Helper {
 	String rcToDatumNarodenia(String rc) {
-	    // Odstráň lomítko
-	    def cislo = rc.replaceAll(/\//, '')
-	    
-	    // Minimálna dĺžka
-	    if (!cislo || cislo.length() < 6) {
-	        throw new IllegalArgumentException("Nesprávny formát rodného čísla: ${rc}")
-	    }
-	    
-	    // Prvých 6 čísel = [rok%100][mesiac][den]
-	    def rokKod = cislo.substring(0, 2).toInteger()
-	    def mesiacKod = cislo.substring(2, 4).toInteger()
-	    def den = cislo.substring(4, 6).toInteger()
-	    
-	    // Oprava mesiaca pre ženy (-50)
-	    def mesiac = mesiacKod > 50 ? mesiacKod - 50 : mesiacKod
-	    
-	    // Určenie storočia podľa prvých 2 čísel RC
-	    def stvrtsto = cislo.substring(0, 2).toInteger()
-	    def plnyRok
-	    if (stvrtsto >= 0 && stvrtsto <= 71) {
-	        plnyRok = 2000 + rokKod  // 21. storočie
-	    } else {
-	        plnyRok = 1900 + rokKod  // 20. storočie
-	    }
-	    
-	    // Formátovanie výstupu
-	    def datumStr = String.format("%04d-%02d-%02d", plnyRok, mesiac, den)
-	    
-	    try {
-	        def datum = Date.parse("yyyy-MM-dd", datumStr)
-	        return datum.format("dd.MM.yyyy")
-	    } catch (e) {
-	        throw new IllegalArgumentException("Nedá sa skonvertovať rodné číslo na platný dátum: ${rc}")
-	    }
+		// Odstráň lomítko
+		def cislo = rc.replaceAll(/\//, '')
+
+		// Minimálna dĺžka
+		if (!cislo || cislo.length() < 6) {
+			throw new IllegalArgumentException("Nesprávny formát rodného čísla: ${rc}")
+		}
+
+		// Prvých 6 čísel = [rok%100][mesiac][den]
+		def rokKod = cislo.substring(0, 2).toInteger()
+		def mesiacKod = cislo.substring(2, 4).toInteger()
+		def den = cislo.substring(4, 6).toInteger()
+
+		// Oprava mesiaca pre ženy (-50)
+		def mesiac = mesiacKod > 50 ? mesiacKod - 50 : mesiacKod
+
+		// Určenie storočia podľa prvých 2 čísel RC
+		def stvrtsto = cislo.substring(0, 2).toInteger()
+		def plnyRok
+		if (stvrtsto >= 0 && stvrtsto <= 71) {
+			plnyRok = 2000 + rokKod  // 21. storočie
+		} else {
+			plnyRok = 1900 + rokKod  // 20. storočie
+		}
+
+		// Formátovanie výstupu
+		def datumStr = String.format("%04d-%02d-%02d", plnyRok, mesiac, den)
+
+		try {
+			def datum = Date.parse("yyyy-MM-dd", datumStr)
+			return datum.format("dd.MM.yyyy")
+		} catch (e) {
+			throw new IllegalArgumentException("Nedá sa skonvertovať rodné číslo na platný dátum: ${rc}")
+		}
 	}
 
 	boolean isMuz(String rc) {
@@ -69,5 +69,14 @@ public class Helper {
 
 		// Muž: mesiac 01-12, žena: mesiac 51-62 (po úprave -50 = 01-12)
 		return mesiac <= 12
+	}
+	
+	private static String cleanupCidUrls(String text) {
+		if (text == null) return null;
+		// vymaže všetky výskyty typu "cid:image001.png@01DCCE4D.74ED1390" / "[cid:...]"
+		return text
+			.replaceAll("\\[?cid:[^\\s\\]]+\\]?", "")
+			.replaceAll("\\s{2,}", " ")   // nahradí viacero medzier jednou
+			.trim();
 	}
 }

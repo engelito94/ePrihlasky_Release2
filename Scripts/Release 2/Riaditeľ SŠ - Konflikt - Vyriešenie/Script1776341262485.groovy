@@ -14,13 +14,17 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import java.text.Normalizer
 
 import dev.failsafe.internal.util.Assert
 import internal.GlobalVariable
+import portal.Helper
 import portal.Prihlasovanie
 
 import org.openqa.selenium.Keys as Keys
 
+Mail mail = new Mail()
+Helper help = new Helper()
 Prihlasovanie prihlasovanie = new Prihlasovanie()
 
 prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021624')
@@ -42,7 +46,9 @@ not_run: WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Rele
 
 String bannerKonflikt = WebUI.getText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/span_warning_panel-text-red konflikt-ss'))
 
-println(bannerKonflikt)
+bannerKonflikt = bannerKonflikt.replaceAll(/\r?\n+/, ' ').replaceAll(/\s+/, ' ').trim()
+
+assert bannerKonflikt.equals('Táto prihláška je v stave - V konflikte. Pre toto dieťa existuje v systéme viacero prihlášok. Vyzvite zákonného zástupcu na výber jednej verzie. Následne vyriešte konflikt označením jednej prihlášky ako aktívnej. Bez vyriešenia konfliktu nie je možné prihlášku ďalej spracovávať.')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/div_Zrui prihlku_panel-header red'), 
     'Duplicitné prihlášky')
@@ -55,6 +61,8 @@ String meno = WebUI.getText(findTestObject('Object Repository/Zak_test/Release2/
 String priezvisko = WebUI.getText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/div_Priezvisko_dietaPriezvisko'))
 
 String identifikator = WebUI.getText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/div_Identifiktor prihlky_prihlaskaIdentifikator'))
+
+String datumNarodenia = WebUI.getText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/DatumNrodeniaZiaka'))
 
 'Výzva na vyriešenie'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/button_Oznai ako skontrolovan_btn-vyzva-na-_87c62a'))
@@ -77,6 +85,13 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page
 'Odoslať výzvu na vyriešenie'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/button_Zrui_btn-odoslat-vyzvu govuk-button _13b04c'))
 
+//Kontrola výzvy
+String teloMailu = mail.getLastEmailText('pop.gmail.com', 'pop3', GlobalVariable.mailLogin, GlobalVariable.mailHeslo)
+teloMailu = help.cleanupCidUrls(teloMailu)
+teloMailu = teloMailu.replaceAll(/\r?\n+/, ' ').replaceAll(/\s+/, ' ').trim()
+assert teloMailu.equals('Vážený/á pán/pani Tomáš Lukáč, v systéme bolo zistené, že pre žiaka '+meno+' '+priezvisko+' nar. '+datumNarodenia+' boli podané viaceré prihlášky. Riaditeľ školy Stredná škola pre AT vás týmto vyzýva, aby ste ho bezodkladne kontaktovali a informovali, ktorú prihlášku si želáte ponechať ako platnú. Sprievodná správa od riaditeľa: Prosím o vyriešenie konfliktu. Váš katalon :) Bez vyriešenia tohto konfliktu nebudú prihlášky ďalej spracované. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň.')
+
+
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/span_R_sprava-nazov'), 
     'Riaditeľ školy Stredná škola pre AT zaslal výzvu na riešenie konfliktu prihlášok.')
 
@@ -93,6 +108,20 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page
     'Konflikt vyriešený.')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/button_Sp_btn-vyriesit-konflikt govuk-butto_2b9a96'))
+
+int lastDash = identifikator.lastIndexOf('-')
+String prefix = identifikator[0..lastDash]          // "P-2026-"
+String numberPart = identifikator[(lastDash+1)..-1] // "13334"
+
+int lastNumber = numberPart.toInteger()
+String identifikator1 = "${prefix}${lastNumber + 1}"
+
+//Kontrola vyriešenia
+teloMailu = mail.getLastEmailText('pop.gmail.com', 'pop3', GlobalVariable.mailLogin, GlobalVariable.mailHeslo)
+teloMailu = help.cleanupCidUrls(teloMailu)
+teloMailu = teloMailu.replaceAll(/\r?\n+/, ' ').replaceAll(/\s+/, ' ').trim()
+assert teloMailu.equals('Vážený/á pán/pani Tomáš Lukáč, Prihláška '+identifikator+' bola v konflikte s prihláškou/prihláškami '+identifikator+', '+identifikator1+'. Konflikt bol vyriešený . V systéme bude ďalej evidovaná len prihláška '+identifikator+'. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň.')
+
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/div_info_panel-text-blue-700 prihlaska-aktivna'), 
     'Prihláška bola označená ako aktívna riaditeľom školy 910021624 Stredná škola pre AT')
@@ -113,6 +142,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konf
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/div_Prihlka bola zneaktvnen riaditeom koly _831a43'), 
     'Zmeniť výber aktívnej prihlášky môže len riaditeľ, ktorý takto prihlášku označil.')
 **/
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Konflikty/SpravaPrihlasokMenu'))
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Prihlky a rozhodnutia  ePrihlky/input_Vyhadvanie v prihlkach_fulltext-input'), 
@@ -132,4 +162,3 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konf
 //WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Prihlky a rozhodnutia  ePrihlky/div_Papierovo_grey-label'), 'P-2026-13314')
 
 prihlasovanie.odhlasPouzivatela()
-
