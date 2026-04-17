@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rodn priezvisko_zakonnyZastupca2RodnePr_cac0a6</name>
+   <tag></tag>
+   <elementGuidId>44feab9f-1124-426b-bf10-173193762081</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div[5]/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zakonnyZastupca2RodnePriezvisko</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>621cbbdf-b6e3-4e43-b561-d54266504500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zakonnyZastupca2RodnePriezvisko</value>
+      <webElementGuid>60ae632c-049c-4a39-93a9-60f0ee816613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>bffdae1e-51b8-48c5-ad38-8740ac62f879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zz2 info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;zakonnyZastupca2RodnePriezvisko&quot;]</value>
+      <webElementGuid>f8dcfc21-7f2d-4bb2-a764-2fc1b318c2d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div[5]/div[3]/div[2]</value>
+      <webElementGuid>e99c4596-4489-4124-b733-0de9e23d140e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné priezvisko'])[10]/following::div[1]</value>
+      <webElementGuid>c87b2daa-e126-4432-b2af-04db1dcf1e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lovelace'])[1]/following::div[3]</value>
+      <webElementGuid>15e29087-da22-4045-a12d-4361352042c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné číslo'])[9]/preceding::div[1]</value>
+      <webElementGuid>ed8bb523-2c44-444a-8ba7-8c16a3e24aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[9]/preceding::div[4]</value>
+      <webElementGuid>17dc4833-c2bb-4261-a26a-93a2120ff6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div[2]</value>
+      <webElementGuid>78013e49-c1b2-4d24-9c2e-95e0b15523c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '-' or . = '-')]</value>
+      <webElementGuid>95c08bcc-2adf-4952-ac4a-fd9a93202afa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

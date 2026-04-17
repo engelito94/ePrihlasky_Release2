@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_estne vyhlasujem, e s podanm prihlky sh_4a84e8</name>
+   <tag></tag>
+   <elementGuidId>74d97df7-ab68-4fe6-b9a5-0577076b6a1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div[5]/div[9]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zakonnyZastupca2Suhlas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07e26bf8-7c87-4547-a2af-4223e0a92a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zakonnyZastupca2Suhlas</value>
+      <webElementGuid>26c3ec58-bcb2-4316-b014-77409a6f3c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Áno</value>
+      <webElementGuid>136d758f-565b-4280-b881-d71c716a7b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zz2 info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;zakonnyZastupca2Suhlas&quot;]</value>
+      <webElementGuid>35cee077-dec7-40be-b8e8-d4e9f84fd9d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div[5]/div[9]/div[2]</value>
+      <webElementGuid>e71f434e-b890-472f-aaff-6b22e6ac04d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestne vyhlasujem, že s podaním prihlášky súhlasí aj druhý zákonný zástupca dieťaťa'])[1]/following::div[1]</value>
+      <webElementGuid>b5bc006e-f821-41d3-a578-4f6e5dd0166e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefónne číslo'])[5]/following::div[4]</value>
+      <webElementGuid>cbd31ede-943d-4f06-b9be-baacc8b05a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[27]/preceding::div[2]</value>
+      <webElementGuid>79dda0d8-96ce-4bf0-893e-339f028335a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Druhý zákonný zástupca nie je známy.'])[1]/preceding::div[4]</value>
+      <webElementGuid>f48eff3b-1aed-482a-a873-a07370ebe9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[9]/div[2]</value>
+      <webElementGuid>9a23dd0c-71e9-43c5-aa29-60e4f9a9e253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Áno' or . = 'Áno')]</value>
+      <webElementGuid>28f5580e-5a8e-477d-9142-a5b23ea970d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

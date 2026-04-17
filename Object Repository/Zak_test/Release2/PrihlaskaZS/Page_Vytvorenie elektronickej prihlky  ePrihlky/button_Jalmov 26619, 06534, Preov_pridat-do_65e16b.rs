@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Jalmov 26619, 06534, Preov_pridat-do_65e16b</name>
+   <tag></tag>
+   <elementGuidId>b435a7da-da30-4569-b507-69f363633759</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skola-910021625']/div/div/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.pridat-do-prihlasky.govuk-button.govuk-button__basic.max-174</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ca6c8032-251f-45cf-bccb-5fb166e000ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pridat-do-prihlasky govuk-button govuk-button__basic max-174</value>
+      <webElementGuid>3b2d9a72-c144-4661-b172-31ea85988e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Základná škola pre AT Pridať do prihlášky</value>
+      <webElementGuid>026fdb0a-e720-4966-bc40-707f0060ad24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-eduid</name>
+      <type>Main</type>
+      <value>910021625</value>
+      <webElementGuid>e31e743d-f941-4236-acd2-a1de101afbab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-typsasznazovskrateny</name>
+      <type>Main</type>
+      <value>ZŠ</value>
+      <webElementGuid>be4c7f8b-bbf5-46c3-9889-f787c4b133c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pridať do prihlášky</value>
+      <webElementGuid>f432ce8e-ea56-4070-9348-96bef672b197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skola-910021625&quot;)/div[@class=&quot;idsk-card__content&quot;]/div[@class=&quot;skola-main-info-section&quot;]/div[@class=&quot;prihlaska-vyber-skoly idsk-card__button&quot;]/button[@class=&quot;pridat-do-prihlasky govuk-button govuk-button__basic max-174&quot;]</value>
+      <webElementGuid>fa4a4234-4ef4-46ce-afa2-7d3b457d37ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skola-910021625']/div/div/div[4]/button</value>
+      <webElementGuid>01d8881b-c8aa-47a3-a3ca-9f2fc1b2e047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalmová 266/19, 06534, Prešov'])[1]/following::button[1]</value>
+      <webElementGuid>74b9bb2d-84c0-4222-b45a-40a34b6c13ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID 910021625'])[1]/following::button[1]</value>
+      <webElementGuid>78a796ba-1a49-4926-8235-aa5b85057999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť z prihlášky'])[1]/preceding::button[1]</value>
+      <webElementGuid>978bd76c-db53-460f-bfde-f860c755a3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pridať do obľúbených'])[1]/preceding::button[2]</value>
+      <webElementGuid>ba10e086-2eda-4ab1-838c-4b588fcefc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pridať do prihlášky']/parent::*</value>
+      <webElementGuid>27087e6f-34a9-4985-afca-26494391465e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/button</value>
+      <webElementGuid>c23f2858-4b9e-4d8b-949f-dbd73fb87efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pridať do prihlášky' or . = 'Pridať do prihlášky')]</value>
+      <webElementGuid>f84f5659-5c73-400c-8839-fe56a0445477</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

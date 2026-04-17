@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Korepondenn adresa_zakonnyZastupcaAdres_9d2f75</name>
+   <tag></tag>
+   <elementGuidId>d4499ddf-90b5-48d7-9a70-f54e0d0d67cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div[2]/div[6]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zakonnyZastupcaAdresaBydliska</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c00850ed-6367-4d46-b165-f1f9202d78f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zakonnyZastupcaAdresaBydliska</value>
+      <webElementGuid>3b9965ad-f9a4-4633-9b84-93b0deac56dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ražná 58/232, 01508, Košariská, Slovenská republika</value>
+      <webElementGuid>93b54d52-24e4-4ba9-b85b-20b4286c80d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zz1 info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;zakonnyZastupcaAdresaBydliska&quot;]</value>
+      <webElementGuid>23a1802c-d1e4-4918-abde-1194c3fa53a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div[2]/div[6]/div[2]</value>
+      <webElementGuid>3fc20bdf-f18c-48b0-a964-35466a352094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Korešpondenčná adresa'])[4]/following::div[1]</value>
+      <webElementGuid>7078b93d-9181-454a-95de-0335b6051677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[8]/following::div[4]</value>
+      <webElementGuid>b5c6807f-0e91-41a1-be9c-c7323864c27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[3]/preceding::div[1]</value>
+      <webElementGuid>05b4d5b8-775c-472c-a279-be27efd30a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='katalontest987@gmail.com'])[2]/preceding::div[2]</value>
+      <webElementGuid>ed4d2e96-d522-4105-9d92-8aeaee6d2e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/div[6]/div[2]</value>
+      <webElementGuid>ddfd079c-ecc9-4ee9-b78a-a4570d825e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ražná 58/232, 01508, Košariská, Slovenská republika' or . = 'Ražná 58/232, 01508, Košariská, Slovenská republika')]</value>
+      <webElementGuid>aed948ac-f40c-42c2-8ac6-c5ed75ab6fc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

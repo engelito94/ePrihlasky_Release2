@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>71b3890d-6844-4b11-9c35-11802ce40f21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prilohyContainer']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ziadne-prilohy > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>73e629fa-8b6e-4a34-9681-f5af84a9dfe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Neboli nahrané žiadne prílohy.</value>
+      <webElementGuid>68c580d0-7b68-4fd1-bd55-48cc0b292563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prilohyContainer&quot;)/div[@class=&quot;ziadne-prilohy&quot;]/span[1]</value>
+      <webElementGuid>46d6e804-3392-42e4-ae97-d0400a45b277</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prilohyContainer']/div/span</value>
+      <webElementGuid>815d14bc-148c-4510-adde-690f52ea55b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prílohy'])[1]/following::span[1]</value>
+      <webElementGuid>561355e4-7a85-42af-8b71-a273953d1a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neboli nahrané žiadne súťaže.'])[1]/following::span[2]</value>
+      <webElementGuid>4ee7de8a-050b-4e8e-a9e3-6e3cee7f13ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestné vyhlásenie'])[1]/preceding::span[2]</value>
+      <webElementGuid>2a742941-19c4-4b71-8088-28eea1c514ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[110]/preceding::span[3]</value>
+      <webElementGuid>6bb7024f-016f-4401-84ac-af2514d7bab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neboli nahrané žiadne prílohy.']/parent::*</value>
+      <webElementGuid>5dce2940-04da-4354-ab8a-2ee2bd4755fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/div/span</value>
+      <webElementGuid>e35fd376-f9a2-4023-8de0-85567434c51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Neboli nahrané žiadne prílohy.' or . = 'Neboli nahrané žiadne prílohy.')]</value>
+      <webElementGuid>58298f01-ace2-49fd-a0be-b30e1ed48851</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

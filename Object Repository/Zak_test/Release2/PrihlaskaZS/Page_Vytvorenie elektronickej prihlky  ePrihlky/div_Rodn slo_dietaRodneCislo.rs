@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rodn slo_dietaRodneCislo</name>
+   <tag></tag>
+   <elementGuidId>cd81e62b-d5d3-4815-89db-4fd92632710a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[4]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dietaRodneCislo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21ba45fa-2097-4a23-aaa0-f1d14f64d84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dietaRodneCislo</value>
+      <webElementGuid>6cb7250a-477f-4430-bb48-b3146f81e5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>195212/2073</value>
+      <webElementGuid>82f65ad8-a6dc-47db-b4bb-9e61d0c7172e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhrnny-prehlad&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;dietaRodneCislo&quot;]</value>
+      <webElementGuid>3592fc13-51f7-4201-ba32-ca13e8fb52b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[4]/div[2]</value>
+      <webElementGuid>63d4bdf9-a094-4af7-85f2-d8503793718b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rodné číslo'])[7]/following::div[1]</value>
+      <webElementGuid>8723a0df-ff44-4516-aca7-e25860bec76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[14]/following::div[3]</value>
+      <webElementGuid>7109b7d7-85bd-48de-8de1-280505b740ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum narodenia'])[7]/preceding::div[1]</value>
+      <webElementGuid>24aebed2-e559-473f-970c-0f772858c56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pohlavie'])[4]/preceding::div[4]</value>
+      <webElementGuid>9879c087-79fd-4938-b48f-12388fb7717b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[4]/div[2]</value>
+      <webElementGuid>974f1710-5188-4b1b-b8a3-44a4a534f69f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '195212/2073' or . = '195212/2073')]</value>
+      <webElementGuid>a8982f9c-85fd-4179-9795-b92a2cc054bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

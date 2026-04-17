@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nzov koly_nazov-skoly</name>
+   <tag></tag>
+   <elementGuidId>250dec24-9fb4-4707-99e9-d6f025c2ccfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skoly']/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nazov-skoly</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>48bc46dc-7e66-4af8-87c0-55047dedbd0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nazov-skoly</value>
+      <webElementGuid>1ca4c89e-282f-475c-8262-a7f1fe268a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Základná škola pre AT</value>
+      <webElementGuid>7d6b3284-f70d-4d36-8026-97c207988cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;nazov-skoly&quot;]</value>
+      <webElementGuid>c85175e0-6884-459d-bba6-98bcf0b3b4e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skoly']/div[2]/div[2]/div[2]</value>
+      <webElementGuid>88e198d0-c64a-43ff-827a-682378247e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov školy'])[1]/following::div[1]</value>
+      <webElementGuid>ea512b0a-06cf-447a-b50f-cdc714b83938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sídlo základnej školy'])[1]/preceding::div[1]</value>
+      <webElementGuid>492664fd-eb1e-46a5-a590-250f6cf7f5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>163874d0-9e2e-47f4-8946-5d12ea291c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Základná škola pre AT' or . = 'Základná škola pre AT')]</value>
+      <webElementGuid>c37efd68-0c84-4bbe-83fc-34f2fd0c4d0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

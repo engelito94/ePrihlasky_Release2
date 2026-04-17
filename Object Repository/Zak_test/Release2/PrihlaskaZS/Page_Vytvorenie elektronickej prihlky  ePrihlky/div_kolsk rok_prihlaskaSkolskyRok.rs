@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kolsk rok_prihlaskaSkolskyRok</name>
+   <tag></tag>
+   <elementGuidId>40e1acc8-7a18-4287-bbb8-bb4c0c7bedbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prihlaskaSkolskyRok</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b143e908-ef81-4ee0-9d22-dc221a9102f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prihlaskaSkolskyRok</value>
+      <webElementGuid>938ad4d3-a80c-4d9c-b73c-eec578abff79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2026/2027</value>
+      <webElementGuid>c1d9e6b4-c6cd-4356-b583-e95811495f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhrnny-prehlad&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;prihlaskaSkolskyRok&quot;]</value>
+      <webElementGuid>287b025f-fa34-4baf-a69d-c26781c5e15d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>d2719552-b425-40d0-93af-470c79fce279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Školský rok'])[1]/following::div[1]</value>
+      <webElementGuid>a8ec986a-e6a4-4f6a-bb9b-dd938a396c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-2026-13365'])[1]/following::div[3]</value>
+      <webElementGuid>69d7023b-9bbb-4374-93e8-cc4828f3e978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania'])[1]/preceding::div[1]</value>
+      <webElementGuid>806cb2b8-02b9-4fca-a05a-73b21ca7d49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[12]/preceding::div[2]</value>
+      <webElementGuid>38db39c3-4659-4179-95ab-9d0ab0f521d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2026/2027']/parent::*</value>
+      <webElementGuid>33ff8d20-4411-4d55-8647-ced030da0f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[3]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>28df4bb1-06ee-44a5-9d45-1a25df4f0389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2026/2027' or . = '2026/2027')]</value>
+      <webElementGuid>e97ea786-ee0e-47a1-a15a-01f673a59c26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

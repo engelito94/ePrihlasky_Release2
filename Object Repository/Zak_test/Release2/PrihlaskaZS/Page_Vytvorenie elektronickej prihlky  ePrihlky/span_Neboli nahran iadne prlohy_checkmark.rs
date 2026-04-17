@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Neboli nahran iadne prlohy_checkmark</name>
+   <tag></tag>
+   <elementGuidId>99718b33-60dc-4401-9e54-e2b08e2d51fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cestnePrehlasenie']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cestnePrehlasenie > span.checkmark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0edfda04-7562-431a-b960-efef1ae8fe8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>bc73c15f-d79c-442b-8c66-df83cfdd9245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cestnePrehlasenie&quot;)/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>4189e6eb-40b2-43f7-afc3-47599b761ed1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cestnePrehlasenie']/span</value>
+      <webElementGuid>0ba5f697-b9ac-4f10-a51a-fc028f64b12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[12]/div/span</value>
+      <webElementGuid>167598a6-a720-479c-b59a-1e3d609135e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

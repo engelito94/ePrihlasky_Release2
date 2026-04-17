@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Miesto narodenia_dietaMiestonarodenia</name>
+   <tag></tag>
+   <elementGuidId>4f6bf813-dae5-4d37-81d2-f659dc92e0b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[7]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dietaMiestonarodenia</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ec6f72c-fa85-4c00-bd06-ec9a8f51ae72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dietaMiestonarodenia</value>
+      <webElementGuid>443cc8d4-8d2d-430f-a90f-4bc05bb5d8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slovensko</value>
+      <webElementGuid>3117ea6b-df10-4b95-a3b0-64dd6ad33218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhrnny-prehlad&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;dietaMiestonarodenia&quot;]</value>
+      <webElementGuid>593a7edd-23bc-4b84-9a14-a078eecd81d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[7]/div[2]</value>
+      <webElementGuid>852ee9f6-6b61-40b3-a26f-371b8080aad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miesto narodenia'])[4]/following::div[1]</value>
+      <webElementGuid>6ad4323b-5de7-4a25-a178-79b3d34f0342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='žena'])[3]/following::div[3]</value>
+      <webElementGuid>5d593c74-defe-4a49-8e0c-af7abeccea36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Národnosť'])[4]/preceding::div[1]</value>
+      <webElementGuid>ccd74237-8241-4505-9fec-3d3e84cb1d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenská'])[3]/preceding::div[2]</value>
+      <webElementGuid>77d1f875-1888-4e58-87e1-be02449f706f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[7]/div[2]</value>
+      <webElementGuid>22fa0ee4-1495-4c30-99cc-948317cdd6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Slovensko' or . = 'Slovensko')]</value>
+      <webElementGuid>873481d4-ab2a-4332-80ac-5e4cf2e11791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

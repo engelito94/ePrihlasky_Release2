@@ -30,7 +30,7 @@ public class Prihlasovanie {
 	 * @param dvojFaktorovka        2-faktorová autentifikácia. Berie sa z globálnej premennej.
 	 * @param upvs					Príznak či ide o UPVS. Default je false.
 	 **/
-	def prihlasPouzivatela(String meno, String heslo, boolean dvojFaktorovka, boolean upvs = false) {
+	def prihlasPouzivatela(String meno, String heslo, boolean upvs = false, boolean dvojFaktorovka) {
 		WebUI.click(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_Vitajte v pilotnej verzii portlu Elekt_a4e96e/a_Pre koly_govuk-button govuk-button__basic'))
 
 		WebUI.click(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_- Iam.Web/h3_account_circle_govuk-heading-m'))

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa miesta, kde sa diea obvykle zdri_a56ee1</name>
+   <tag></tag>
+   <elementGuidId>3a78a25c-3e99-4b15-b5f7-40533f443424</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[13]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dietaAdresaObvyklehoPobytu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d8f31cba-3147-4a78-8f75-3b543bd10c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dietaAdresaObvyklehoPobytu</value>
+      <webElementGuid>d0b39ed7-9b94-4ebb-bd4d-a12b2aec5636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abrahám 58, 25987, Abrahám, Slovenská republika</value>
+      <webElementGuid>7b173012-e7b1-415c-8b51-b71fefa87441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhrnny-prehlad&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;dietaAdresaObvyklehoPobytu&quot;]</value>
+      <webElementGuid>2b8ec229-36ce-4ee8-b7f5-412548eb5994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[4]/div[2]/div[13]/div[2]</value>
+      <webElementGuid>1c9d9e1c-2f4a-4683-bf5f-e7565fe414ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak je iná, než adresa trvalého pobytu'])[2]/following::div[1]</value>
+      <webElementGuid>b07f2d49-543b-41d4-9ce4-da37c056343f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abrahám 58, 25987, Abrahám, Slovenská republika'])[1]/following::div[3]</value>
+      <webElementGuid>62b297a2-26dc-44e9-91df-f28f6d5bf548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doplňujúce informácie o dieťati'])[3]/preceding::div[1]</value>
+      <webElementGuid>0b3f881d-f28a-4d98-8d74-b8ba77028c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiadam o prijatie dieťaťa na'])[2]/preceding::div[3]</value>
+      <webElementGuid>6a29a541-1b67-4f11-9aee-d0bfee506cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[13]/div[2]</value>
+      <webElementGuid>d19c837d-7dfc-442b-946a-c873e62d5f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Abrahám 58, 25987, Abrahám, Slovenská republika' or . = 'Abrahám 58, 25987, Abrahám, Slovenská republika')]</value>
+      <webElementGuid>06b2815b-b93a-417c-9209-cdf3fcac31d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

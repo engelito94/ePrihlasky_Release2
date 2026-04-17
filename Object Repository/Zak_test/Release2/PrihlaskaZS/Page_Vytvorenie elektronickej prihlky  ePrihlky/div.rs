@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>f208ae46-d7a1-4593-bf46-686d330bdc95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skoly']/div[2]/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b72f1ef-daff-4cb6-a31c-4b17a5656975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jalmová 266/19, 06534 Prešov</value>
+      <webElementGuid>820d582c-bedd-4200-95ec-3a6d5b60e274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[2]</value>
+      <webElementGuid>36e80aa0-46f6-4af5-adef-0ed597c37451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skoly']/div[2]/div[3]/div[2]</value>
+      <webElementGuid>3262dba9-051c-4674-854d-e28624e334c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sídlo základnej školy'])[1]/following::div[1]</value>
+      <webElementGuid>635e0806-ddb2-4f95-9191-030501fba39d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Základná škola pre AT'])[2]/following::div[3]</value>
+      <webElementGuid>d4ad5db2-dce7-482e-aee3-68946e329f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vzdelávanie dieťaťa žiadam poskytovať v jazyku'])[3]/preceding::div[1]</value>
+      <webElementGuid>417f17e4-8e44-4b0a-8cdc-ab8cbc5b4e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='slovenský'])[7]/preceding::div[2]</value>
+      <webElementGuid>bf1af385-2b9b-4c91-bc57-e3877ab12515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[3]/div[2]</value>
+      <webElementGuid>e09129ff-58fa-4da8-b900-f4a2dcc9e5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jalmová 266/19, 06534 Prešov' or . = 'Jalmová 266/19, 06534 Prešov')]</value>
+      <webElementGuid>bb4c99ff-9083-4aa9-8fba-cabd6ff89ac7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
