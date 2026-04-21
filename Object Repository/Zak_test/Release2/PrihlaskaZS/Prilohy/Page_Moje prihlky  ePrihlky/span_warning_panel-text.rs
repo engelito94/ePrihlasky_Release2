@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_warning_panel-text</name>
+   <tag></tag>
+   <elementGuidId>c6eaf268-f9b7-433c-94f2-6bb1a916c867</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prihlaskapodana-38c1876f-8d17-415d-a225-0ac39e5e1429']/div/div[2]/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-panel.govuk-panel--error.panel-8227 > div > div.govuk-panel__body > span.panel-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f69f367-7eaa-4d62-adac-5ecec31137dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-text</value>
+      <webElementGuid>30bcfdf5-0524-45dd-9f89-23cfaf13ff63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nahrajte prílohyRiaditeľ základnej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.</value>
+      <webElementGuid>38229b78-23f0-4a0f-8fc9-4215ab836649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-38c1876f-8d17-415d-a225-0ac39e5e1429&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;infobannery infobannery-38c1876f-8d17-415d-a225-0ac39e5e1429&quot;]/div[@class=&quot;govuk-panel govuk-panel--error panel-8227&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text&quot;]</value>
+      <webElementGuid>f552d141-1bb8-4a6d-a54e-8440527667ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-38c1876f-8d17-415d-a225-0ac39e5e1429']/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>997cb093-b5b4-4740-8343-9272f8e7e10f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='warning'])[54]/following::span[2]</value>
+      <webElementGuid>9ba27422-3d92-4ff5-bbe3-ad2234f1eccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť prihlášku'])[52]/following::span[3]</value>
+      <webElementGuid>43282a7b-0f26-44c7-9642-f016ae70da25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[2]/preceding::span[1]</value>
+      <webElementGuid>439a4bcd-77ea-42da-b92f-44198d15cb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riaditeľ základnej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.']/parent::*</value>
+      <webElementGuid>17119cb9-f411-4515-83e5-0d3d988a2bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[55]/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>a1508a46-37b6-4cb9-abbc-9c36944fbe8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nahrajte prílohyRiaditeľ základnej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.' or . = 'Nahrajte prílohyRiaditeľ základnej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.')]</value>
+      <webElementGuid>8b0da1fc-1ff0-4ce4-806a-1d4b44907a84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

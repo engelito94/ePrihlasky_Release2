@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bannerPrilohy</name>
+   <tag></tag>
+   <elementGuidId>af348eec-3228-4980-9873-5e01a5f74b3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prihlaskapodana-38c1876f-8d17-415d-a225-0ac39e5e1429']/div/div[2]/div/div/div[2]/span/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-panel.govuk-panel--error.panel-8227 > div > div.govuk-panel__body > span.panel-text > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>215d553c-f64a-4449-b72c-16e714d26f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nahrajte prílohy</value>
+      <webElementGuid>bdc17511-8b51-4dd6-abd3-d0cf6735066d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prihlaskapodana-38c1876f-8d17-415d-a225-0ac39e5e1429&quot;)/div[@class=&quot;prihlaska-podana&quot;]/div[@class=&quot;infobannery infobannery-38c1876f-8d17-415d-a225-0ac39e5e1429&quot;]/div[@class=&quot;govuk-panel govuk-panel--error panel-8227&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text&quot;]/b[1]</value>
+      <webElementGuid>cb83f641-f888-4889-8ce2-0169a5758212</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prihlaskapodana-38c1876f-8d17-415d-a225-0ac39e5e1429']/div/div[2]/div/div/div[2]/span/b</value>
+      <webElementGuid>589a697d-2ad3-4002-bb2e-8542c8563f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='warning'])[54]/following::b[1]</value>
+      <webElementGuid>d397aea6-e6ed-48fe-8f98-2200e0c913bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[2]/preceding::b[1]</value>
+      <webElementGuid>e9cebbed-3992-4d91-893a-c21c5e348c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='warning'])[55]/preceding::b[1]</value>
+      <webElementGuid>3c81fb13-ce77-4564-a6ef-671527e6a864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[55]/div/div[2]/div/div/div[2]/span/b</value>
+      <webElementGuid>f4a439b6-8cef-4756-9e9c-501ad5d4cb2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Nahrajte prílohy' or . = 'Nahrajte prílohy')]</value>
+      <webElementGuid>890bf15a-4200-49f2-b71a-cd6d783f3e87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

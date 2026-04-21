@@ -105,9 +105,15 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Pa
 'Krok 3'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
+WebUI.waitForJQueryLoad(100)
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Page_Vytvorenie elektronickej prihlky  ePrihlky/li_Matersk koly_nav-item-najst-skolu-ZS'))
 
+WebUI.waitForJQueryLoad(100)
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Hada poda mojej adresy_hladat-podla-r_df1d5a'))
+
+WebUI.waitForJQueryLoad(100)
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_b4d569'), 
     'Základná škola pre AT')

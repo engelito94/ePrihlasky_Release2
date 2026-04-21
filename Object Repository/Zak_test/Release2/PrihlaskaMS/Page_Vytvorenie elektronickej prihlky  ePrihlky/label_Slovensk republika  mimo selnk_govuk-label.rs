@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Slovensk republika  mimo selnk_govuk-label</name>
+   <tag></tag>
+   <elementGuidId>cd1ee5a8-da36-4573-85ef-7b01f29907cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPObec']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#adresaTPObec > div.govuk-form-group.autocomplete-control.required > div.label-wrapper > label.govuk-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4c01966f-2112-4a31-ba8e-910fe01f5a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label</value>
+      <webElementGuid>fff1e2c7-501b-4cb8-aa70-fa122a7a94e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Obec</value>
+      <webElementGuid>ba81b3a1-65fb-4938-b3fd-4c4d5efbc1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adresaTPObec&quot;)/div[@class=&quot;govuk-form-group autocomplete-control required&quot;]/div[@class=&quot;label-wrapper&quot;]/label[@class=&quot;govuk-label&quot;]</value>
+      <webElementGuid>a61f1e25-7625-4794-9974-a773684a39c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adresaTPObec']/div/div/label</value>
+      <webElementGuid>0929d9e8-ec9e-4989-a1fd-44a5c8ea6030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slovenská republika – mimo číselník'])[1]/following::label[1]</value>
+      <webElementGuid>ed3080b0-a04b-4521-98b4-bf3ad9cac167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slovenská republika'])[3]/following::label[1]</value>
+      <webElementGuid>fcdbdf1f-0937-413b-abd0-d87c41faa8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[19]/preceding::label[1]</value>
+      <webElementGuid>9a9c4dae-5dcf-41ed-8247-3259191c55e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[6]/preceding::label[1]</value>
+      <webElementGuid>52db63bc-d017-4d83-9760-ebb82b0498c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Obec']/parent::*</value>
+      <webElementGuid>8c64959b-4d3a-43c2-b426-b5b09818235b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div/div/label</value>
+      <webElementGuid>3fd30c31-1934-44d4-942f-1a57d6acc3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Obec' or . = 'Obec')]</value>
+      <webElementGuid>c039ac48-6611-4bbb-8b25-f1f348399fc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_iadam o prijatie dieaa na_dpDietataMsCe_f5d5dc</name>
+   <tag></tag>
+   <elementGuidId>90b6fd45-e794-4c76-830a-8eda87a0a5e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pdpDietata']/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dpDietataMsCelodennaVychova</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8b183b3-d79a-44fb-8595-ed1378799d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dpDietataMsCelodennaVychova</value>
+      <webElementGuid>65280984-cf4e-478e-b555-f82310b1cadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Celodennú výchovu a vzdelávanie</value>
+      <webElementGuid>c9689747-60fc-4e41-a81f-62a291e3ca2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suhrnny-prehlad&quot;)/div[@id=&quot;pdpDietata&quot;]/div[@class=&quot;panel-content&quot;]/div[@class=&quot;content-ms-zs&quot;]/div[@class=&quot;info-layout&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;dpDietataMsCelodennaVychova&quot;]</value>
+      <webElementGuid>53d69c4c-6a4c-4906-9392-c7db136f684f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>2aef7005-07fc-4bc7-b48d-2cd654d94c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiadam o prijatie dieťaťa na'])[2]/following::div[1]</value>
+      <webElementGuid>aca8f28d-7e2c-4db9-b558-1df0a883824b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doplňujúce informácie o dieťati'])[3]/following::div[6]</value>
+      <webElementGuid>5c1b2ea6-328e-4832-9492-75736a80b201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Požadovaná výchova'])[2]/preceding::div[1]</value>
+      <webElementGuid>e78e08b2-2226-4b7c-83c6-6b60c8857531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/preceding::div[2]</value>
+      <webElementGuid>e21bc5d6-ad8c-4d5b-98ae-ce405f5da6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[5]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>c6713b80-4fb2-49dc-be25-a351ce9e19a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Celodennú výchovu a vzdelávanie' or . = 'Celodennú výchovu a vzdelávanie')]</value>
+      <webElementGuid>c9ec3a6b-1a27-427b-ab9a-c655c0379bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

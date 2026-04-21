@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Potvrdenie shlasu s cookies_govuk-button _6e9791</name>
+   <tag></tag>
+   <elementGuidId>06b735d8-46c1-4bcb-991c-8b071e5bdc64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Súhlasím')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>989aa5b4-8592-4478-9c3f-65de6d30b039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button green govuk-!-margin-bottom-0 button</value>
+      <webElementGuid>a9a9f877-0aa5-4bd3-8870-f87d579d349f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>157766a4-2192-4600-bfab-462fec9d5dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Súhlasím</value>
+      <webElementGuid>f98b0fa4-4770-4318-abd0-1571751a60e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;page-overlay fade-in-500&quot;]/div[@class=&quot;cookie-wrapper&quot;]/div[@class=&quot;box&quot;]/a[@class=&quot;govuk-button green govuk-!-margin-bottom-0 button&quot;]</value>
+      <webElementGuid>85f8533a-8eab-47c2-9e44-c72d83fb454c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Súhlasím')]</value>
+      <webElementGuid>c4d77226-f4ff-4ac1-9f0d-7a65af931fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potvrdenie súhlasu s cookies'])[1]/following::a[1]</value>
+      <webElementGuid>0ce28216-5077-42a0-891b-8e9c1054e9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2026, eprihlasky.iedu.sk'])[1]/following::a[3]</value>
+      <webElementGuid>4b1e2514-34af-40ce-bc2d-8ed69b50db84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nesúhlasím'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9865dc3-4308-421e-8dbd-43f77008d453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDO'])[1]/preceding::a[2]</value>
+      <webElementGuid>154fde8b-5b4d-4ba8-98eb-e2b961aab3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Súhlasím']/parent::*</value>
+      <webElementGuid>20152d39-cf61-44e6-9e0d-ca6e2c959fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a[2]</value>
+      <webElementGuid>500518d7-ada5-4d94-a704-b686cf40f1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Súhlasím' or . = 'Súhlasím')]</value>
+      <webElementGuid>d6f22706-ab45-4459-9c7a-d18e18849e0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
