@@ -136,6 +136,8 @@ while (cislo <= 1000) {
 	cislo++
 }
 
+WebUI.verifyTextPresent('Riaditeľ základnej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.', false)
+
 //stav prihlášky
 TestObject stavPrihlaskyBadge = new TestObject()
 

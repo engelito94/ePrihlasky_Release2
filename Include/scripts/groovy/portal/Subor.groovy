@@ -98,4 +98,24 @@ public class Subor {
 			return null
 		}
 	}
+	
+	def zapisUdajeNaPrenos(String meno, String priezvisko) {
+		File f = new File("Data Files/prenosUdajov.txt")
+		f.write("${meno}|${priezvisko}")
+	}
+	
+	def precitajPreneseneUdaje() {
+		File f = new File("Data Files/prenosUdajov.txt")
+		if (f.exists()) {
+			String riadok = f.getText()
+			def parts = riadok.split("\\|")
+			String meno = parts[0]
+			String priezvisko = parts[1]
+			
+			return [meno: parts[0], priezvisko: parts[1]]
+			
+		} else {
+			throw new RuntimeException("Súbor prenosUdajov.txt neexistuje!")
+		}
+	}
 }

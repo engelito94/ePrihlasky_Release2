@@ -297,3 +297,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/menoPrihlasky'), meno)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/priezviskoPrihlasky'), priezvisko)
+
+subor.zapisUdajeNaPrenos(meno, priezvisko)
