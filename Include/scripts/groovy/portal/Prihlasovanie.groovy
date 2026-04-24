@@ -14,6 +14,7 @@ import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords;
 import com.kms.katalon.core.model.FailureHandling;
 import com.kms.katalon.core.testcase.TestCase;
 import com.kms.katalon.core.testdata.TestData;
+import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.TestObject;
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords;
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI;
@@ -92,8 +93,16 @@ public class Prihlasovanie {
 
 			//WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_ePrihlky/select_(nepovinn)_select-skola'),'910019568', true)
 
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_ePrihlky/select_(nepovinn)_select-skola'),
-					eduidSkoly, true)
+			//WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_ePrihlky/select_(nepovinn)_select-skola'), eduidSkoly, true)
+
+			WebUI.click(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_ePrihlky/select_(nepovinn)_select-skola'))
+
+			TestObject to = new TestObject('dynamicObject')
+			to.addProperty('xpath', ConditionType.EQUALS, "//*[@data-value='${eduidSkoly}']")
+			WebUI.click(to)
+			WebUI.click(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/SkolaPodlaEDUID'))
+			//*[@id="skola"]/div/div[2]/div[2]/div[1]
+			//*[@id="skola"]/div/div[2]/div[2]/div[2]
 
 			WebUI.click(findTestObject('Object Repository/Zak_test/Release2/NovePrihlasovanie/Page_ePrihlky/button_keyboard_arrow_down_govuk-button gov_131c98'))
 		}

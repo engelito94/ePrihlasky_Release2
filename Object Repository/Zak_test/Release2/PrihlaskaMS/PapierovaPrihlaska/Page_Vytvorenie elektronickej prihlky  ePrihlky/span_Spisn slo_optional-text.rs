@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Spisn slo_optional-text</name>
+   <tag></tag>
+   <elementGuidId>02de4283-752a-49ca-8706-c6adeda5b7eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPSupisneCislo']/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#adresaTPSupisneCislo > div.govuk-form-group.input-control.dtc-input.optional > div.label-wrapper > span.optional-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ef172ab9-aa09-40c5-ad32-116c74b63e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>optional-text</value>
+      <webElementGuid>ab733519-eab8-4683-a876-1c65457e79e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(nepovinné)</value>
+      <webElementGuid>5547492d-c144-4a1f-bf19-483612da3c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adresaTPSupisneCislo&quot;)/div[@class=&quot;govuk-form-group input-control dtc-input optional&quot;]/div[@class=&quot;label-wrapper&quot;]/span[@class=&quot;optional-text&quot;]</value>
+      <webElementGuid>e8638ad1-f40a-4212-96aa-f61959188c76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adresaTPSupisneCislo']/div/div/span</value>
+      <webElementGuid>735327aa-2270-4b3e-ab9a-465f08c4d42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súpisné číslo'])[1]/following::span[1]</value>
+      <webElementGuid>483817f0-30e4-43f5-8c57-73d13a0ee160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyhľadajte ulicu po zadaní prvých 3 znakov a vyberte ulicu zo zoznamu zobrazených ulíc!'])[1]/following::span[1]</value>
+      <webElementGuid>c12279b6-1af3-403f-9502-c587cceb492b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre:'])[10]/preceding::span[6]</value>
+      <webElementGuid>c4eb64d6-428e-488f-b7ac-f8153d29da30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[14]/preceding::span[8]</value>
+      <webElementGuid>a8eaeab5-cf03-432c-92e5-ac3903e2ace2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div/div/div/span</value>
+      <webElementGuid>90a9bb10-8008-423d-90a3-9f3571eaeaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(nepovinné)' or . = '(nepovinné)')]</value>
+      <webElementGuid>049fc48d-8667-4477-9011-9ac937b7e15a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

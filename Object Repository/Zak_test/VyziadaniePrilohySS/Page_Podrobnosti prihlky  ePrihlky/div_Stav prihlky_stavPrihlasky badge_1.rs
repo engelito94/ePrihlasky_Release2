@@ -6,12 +6,12 @@
    <elementGuidId>0062368d-033d-4836-a24e-630e7b58118c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.stavPrihlasky.badge</value>
+         <key>XPATH</key>
+         <value>//div[@class='stavPrihlasky badge']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div[10]/div/div[2]</value>
+         <key>CSS</key>
+         <value>div.stavPrihlasky.badge</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>76cdf8af-4275-4921-99a5-58922b8a6517</webElementGuid>
+      <webElementGuid>e028f959-713c-4c0c-b855-036ddc5eb2ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>stavPrihlasky badge</value>
-      <webElementGuid>d4d53b08-b155-4f13-9c6a-3bcee31b812d</webElementGuid>
+      <webElementGuid>5c7c0a33-57d6-43c1-b90a-91c2e216a58d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Doplnená</value>
-      <webElementGuid>99770fe8-e80d-4564-bc9d-e551422ca66c</webElementGuid>
+      <webElementGuid>24f613ad-1b95-4fd1-a3e9-eaa5c8cc9565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detail-prihlasky-riad-SS-content&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout vseobecne-body&quot;]/div[@class=&quot;panel-item column&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;stavPrihlasky badge&quot;]</value>
-      <webElementGuid>729c5aad-3ee1-4b70-b935-1db4133b2dd5</webElementGuid>
+      <webElementGuid>8f802059-b4cc-4b97-8da5-f5a0e3ecb360</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div[10]/div/div[2]</value>
-      <webElementGuid>5875e4f3-fd67-4a8f-80c5-23c14ca8c7a1</webElementGuid>
+      <webElementGuid>80e57d84-5896-404b-8c4c-7dd6f0218f67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav prihlášky'])[1]/following::div[1]</value>
-      <webElementGuid>95973583-dec6-46ae-a375-45596ec26f57</webElementGuid>
+      <webElementGuid>d6909d78-cc1e-4b31-b80d-205272da1852</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kolo prijímacieho konania'])[1]/following::div[7]</value>
-      <webElementGuid>5969e9b5-5b5a-43dc-bd8a-390aaee3c302</webElementGuid>
+      <webElementGuid>0addffeb-3176-4bbe-b58b-716d7b18d821</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Označenie'])[1]/preceding::div[1]</value>
-      <webElementGuid>1d107e71-e5f7-47db-a1e6-a0140810fc86</webElementGuid>
+      <webElementGuid>9139612b-cbec-45c0-b75b-3b91c771b0d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte'])[1]/preceding::div[3]</value>
-      <webElementGuid>e416f8ac-4f54-4340-bcad-36c33c505495</webElementGuid>
+      <webElementGuid>ad558d66-356c-41ee-878c-16887290f432</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Doplnená']/parent::*</value>
-      <webElementGuid>f9cd48f7-d0ad-4038-ac17-28ca6ab9cf79</webElementGuid>
+      <webElementGuid>4ba197ec-a8e2-462e-bceb-4049dbf2ea1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div[2]</value>
-      <webElementGuid>98dc0794-823d-4742-b994-480454c0638f</webElementGuid>
+      <webElementGuid>05b7ba5c-d336-4c37-b1c6-e888c195c30a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Doplnená' or . = 'Doplnená')]</value>
-      <webElementGuid>b8fa4cc8-52ca-4ded-95d7-0af31a82dcac</webElementGuid>
+      <webElementGuid>b408ad2a-15cf-4db9-bfd6-3ac4faee1f97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

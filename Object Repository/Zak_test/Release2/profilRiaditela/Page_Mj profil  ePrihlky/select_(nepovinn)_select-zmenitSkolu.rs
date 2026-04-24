@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='select-zmenitSkolu']</value>
+         <value>//input[@class='govuk-input autocomplete-input']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>13fea358-6c01-464b-a965-c3157ce83f19</webElementGuid>
+      <webElementGuid>0b94376e-efdd-4ddc-88ed-7fc9fe40ab58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-select</value>
-      <webElementGuid>5acacf2f-1077-4fad-9a5d-48de5933db97</webElementGuid>
+      <webElementGuid>efbf413f-03cd-4787-8ede-dfb3cda8f2f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e3a98110-ad12-498b-9b5d-db9b2fc45ad7</webElementGuid>
+      <webElementGuid>9d5f3293-69a3-4aaf-acd0-7869b8a9e3ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select-zmenitSkolu</value>
-      <webElementGuid>0002e707-3adb-4e3a-a381-3c972052d08b</webElementGuid>
+      <webElementGuid>92253e77-20c3-4bcd-baa5-943702c561be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Materská škola Košice SeverElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyGymnázium MetodovaGymnázium v BudimíreMaterská škola Košice KVPStredná odborná škola strojníckaSúkromná stredná odborná školaSúkromná stredná umelecká škola scénického výtvarníctva</value>
-      <webElementGuid>838f9117-6ebb-4d22-97f7-636891352865</webElementGuid>
+      <webElementGuid>fc2de82a-aec7-4cd2-a997-7b60e192a2cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select-zmenitSkolu&quot;)</value>
-      <webElementGuid>1d0bd977-155b-4f18-add7-921cc0987fda</webElementGuid>
+      <webElementGuid>0dde8626-5fe9-41d8-8f9d-a50d35e08cdf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='select-zmenitSkolu']</value>
-      <webElementGuid>de27bd42-4b7b-4fe9-a212-fc4da2ee9294</webElementGuid>
+      <webElementGuid>197add3e-e483-4353-88be-a96d3fe2351f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='zmenitSkolu']/div/div[2]/select</value>
-      <webElementGuid>367e6bdf-09ae-4453-b612-78cc9371075e</webElementGuid>
+      <webElementGuid>1bb6b576-6e26-4625-b4a6-50a4144fca0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/following::select[1]</value>
-      <webElementGuid>07d91446-a6bb-44d2-969c-a9d471c9d37c</webElementGuid>
+      <webElementGuid>192438c3-7161-4c4c-8dc0-d855873d87b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Škola'])[2]/following::select[1]</value>
-      <webElementGuid>0f246d10-cfb9-4089-96e4-40cd452fe8cc</webElementGuid>
+      <webElementGuid>f5dd3188-15d8-4c12-a395-306192bff504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[3]/preceding::select[1]</value>
-      <webElementGuid>b099bfca-6987-4b56-99b6-98475e71ea8f</webElementGuid>
+      <webElementGuid>9a3a6232-cbbf-4a96-92e7-b31150c749e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zmeniť školu'])[2]/preceding::select[1]</value>
-      <webElementGuid>bd5c0185-d55d-48a2-87ae-affd76642ba0</webElementGuid>
+      <webElementGuid>5843102d-302a-40cb-9376-24ad788dda76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>35f0591c-a8c3-4ff1-97ce-c4b6f5bae900</webElementGuid>
+      <webElementGuid>1b3243e1-f6e4-4b93-a282-a780f72e1a72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@type = 'text' and @id = 'select-zmenitSkolu' and (text() = 'Materská škola Košice SeverElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyGymnázium MetodovaGymnázium v BudimíreMaterská škola Košice KVPStredná odborná škola strojníckaSúkromná stredná odborná školaSúkromná stredná umelecká škola scénického výtvarníctva' or . = 'Materská škola Košice SeverElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyGymnázium MetodovaGymnázium v BudimíreMaterská škola Košice KVPStredná odborná škola strojníckaSúkromná stredná odborná školaSúkromná stredná umelecká škola scénického výtvarníctva')]</value>
-      <webElementGuid>2170edba-fa27-4ce3-8abe-d90c2c478a08</webElementGuid>
+      <webElementGuid>6731ed64-4e54-4012-ad11-b3e02752cc1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

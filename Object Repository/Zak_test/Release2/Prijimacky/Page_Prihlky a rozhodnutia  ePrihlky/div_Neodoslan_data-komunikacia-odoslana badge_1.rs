@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Neodoslan_data-komunikacia-odoslana badge_1</name>
+   <tag></tag>
+   <elementGuidId>ffd0a085-1a05-408f-ac60-dc25c6b8e801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.data-komunikacia-odoslana.badge</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[3]/div/div[2]/div[8]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec268ffb-2741-4893-abbf-5de9e494610c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data-komunikacia-odoslana badge</value>
+      <webElementGuid>d5824b63-162d-4e1e-a5fd-2030bfe0bde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odoslaná - Bodyinfo</value>
+      <webElementGuid>4d1fe769-967c-46fd-8b0b-ac8af42d720a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;riaditel-prijimacky-container&quot;]/div[@class=&quot;scrollable-middle-area&quot;]/div[@class=&quot;scroll-content-wrapper&quot;]/div[@class=&quot;row data-row selected&quot;]/div[@class=&quot;riaditel-prijimacky-cell komunikacia-cell selected&quot;]/div[@class=&quot;data-komunikacia-odoslana badge&quot;]</value>
+      <webElementGuid>819ddf35-b584-42f7-b5b6-dcc38c340cc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[3]/div/div[2]/div[8]/div[3]</value>
+      <webElementGuid>8bf87a27-271c-42a1-b1c6-0ce1c7a4fb6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neodoslaná'])[2]/following::div[1]</value>
+      <webElementGuid>08ce038f-45ab-490f-a395-7697dc03a8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Náhradný termín'])[2]/following::div[2]</value>
+      <webElementGuid>60327c24-7eaa-478b-8308-1cfcd39fa2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odoslaná - Body']/parent::*</value>
+      <webElementGuid>327a1806-4006-4c32-8de3-21841e4ff289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[8]/div[3]</value>
+      <webElementGuid>c8283f3b-eae5-470d-8dd6-6fcd954b9754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Odoslaná - Bodyinfo' or . = 'Odoslaná - Bodyinfo')]</value>
+      <webElementGuid>750fa2fc-062b-4b6a-ace8-f790c2077070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

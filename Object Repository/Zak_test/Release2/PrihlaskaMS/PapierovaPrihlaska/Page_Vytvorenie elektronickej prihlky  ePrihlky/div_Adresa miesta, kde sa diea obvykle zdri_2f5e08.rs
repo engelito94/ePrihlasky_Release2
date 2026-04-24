@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adresa miesta, kde sa diea obvykle zdri_2f5e08</name>
+   <tag></tag>
+   <elementGuidId>311d0f50-bfb9-4969-9dc2-90f25f583151</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dietaAdresaObvyklehoPobytuSuhrn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dietaAdresaObvyklehoPobytuSuhrn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba2e5119-ad73-4cb4-af55-c7a7ecf027f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dietaAdresaObvyklehoPobytuSuhrn</value>
+      <webElementGuid>ed6cb16e-fb62-4fa9-a453-91c6b564a02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tupolevova 6287/9, 60507, Bašovce, Slovenská republika</value>
+      <webElementGuid>9794fa8c-56ff-4d0c-8005-845aeb650602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dietaAdresaObvyklehoPobytuSuhrn&quot;)</value>
+      <webElementGuid>6db51d80-a8d7-4594-b014-70a801dd9905</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dietaAdresaObvyklehoPobytuSuhrn']</value>
+      <webElementGuid>c6b650f8-b9b7-4f24-8b66-a56f0062437c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='suhrnny-prehlad']/div[3]/div[2]/div[13]/div[2]</value>
+      <webElementGuid>77ceafb5-ae58-40ce-8c96-291cf77df57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresa miesta, kde sa dieťa obvykle zdržiava, ak je iná, než adresa trvalého pobytu.'])[2]/following::div[1]</value>
+      <webElementGuid>8cd3c609-3199-4c57-ba5f-ffbd187e3322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tupolevova 6287/9, 60507, Bašovce, Slovenská republika'])[1]/following::div[3]</value>
+      <webElementGuid>4448fae9-a698-4ea5-aaf1-2336ab92e223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Povinné predprimárne vzdelávanie aktuálne v'])[2]/preceding::div[1]</value>
+      <webElementGuid>5f9c9702-f0f6-4a98-a3df-e50bc96a143c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[10]/preceding::div[2]</value>
+      <webElementGuid>4097ded2-498c-4bde-9be7-3411447ee901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[3]/div[2]/div[13]/div[2]</value>
+      <webElementGuid>cc18f4c6-215c-4b5b-8d07-21032c64504f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dietaAdresaObvyklehoPobytuSuhrn' and (text() = 'Tupolevova 6287/9, 60507, Bašovce, Slovenská republika' or . = 'Tupolevova 6287/9, 60507, Bašovce, Slovenská republika')]</value>
+      <webElementGuid>66cce1ec-57a9-4829-8de2-9fe2e75a8b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

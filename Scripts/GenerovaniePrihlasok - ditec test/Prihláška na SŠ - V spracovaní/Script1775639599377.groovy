@@ -28,7 +28,7 @@ def filePath = RunConfiguration.getProjectDir()
 
 def priloha = filePath + '/Data Files/Dokument (1).pdf'
 
-def udaje = subor.nacitajNahodnyZaznam(filePath + '/Data Files/ZZdetiDitec.txt')
+def udaje = subor.dajDietaRiadSS(filePath + '/Data Files/ZZdetiDitec.txt')
 
 def meno = udaje.meno
 
@@ -36,7 +36,7 @@ def priezvisko = udaje.priezvisko
 
 def rc = udaje.rc
 
-def rodnePriezvisko = udaje.cislo
+//def rodnePriezvisko = udaje.cislo
 /*
  * Prihlasovanie riaditeľa
 prihlasovanie.prihlasRiaditela("930074646", "MNDMEHzxmeo0UUgzO9L2AQ==", false, "910001965")
@@ -76,8 +76,7 @@ WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/P
     priezvisko)
 
 //Rodné priezvisko
-WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_(nepovinn)_input-rodnePriezvisko'), rodnePriezvisko)
-
+//WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_(nepovinn)_input-rodnePriezvisko'), rodnePriezvisko)
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Zrui_btn-dalej govuk-button govuk-bu_a288b6'))
 
 //Adresa - štát
@@ -140,9 +139,9 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Pag
 */
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
 
-// Automat 1 - talent 2
+// Automat 1 - netalent 1
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
-    'Automat 4')
+    'Automat 1')
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/span_Nzov odboru_placeholder'))
 
@@ -154,9 +153,9 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/VymazFilter'))
 
-// Automat 2 - talent 2
-WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'),
-	'Automat 5')
+// Automat 2 - netalent 1
+WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
+    'Automat 2')
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/span_Nzov odboru_placeholder'))
 
@@ -167,10 +166,10 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/VymazFilter'))
-/*
-// Automat 3 - netalent 2
-WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'),
-	'Automat 3')
+
+// Automat 3 - talent 1
+WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
+    'Automat 3')
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/span_Nzov odboru_placeholder'))
 
@@ -182,6 +181,7 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/VymazFilter'))
 
+/**
 // Automat 5 - netalent 1
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'),
 	'Automat 5')
@@ -195,11 +195,10 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/VymazFilter'))
-
-
-// Automat 4 - netalent 2
-WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'),
-	'Automat 4')
+**/
+// Automat 4 - talent 1
+WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
+    'Automat 4')
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/span_Nzov odboru_placeholder'))
 
@@ -210,15 +209,11 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/VymazFilter'))
-*/
+
 //WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
-
 //WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_1'))
-
 //WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_2'))
-
 //WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_3'))
-
 'Nastavenie termínov pre odbory'
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
@@ -228,18 +223,20 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/Vytvoreni
 WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_108023'), 
     '21', true)
 
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_09a6c5'), '11', true)
-
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_c48eec'),  '21', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_09a6c5'), '11', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_c48eec'),  '21', true)
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
 '4.krok'
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Button_Skontrolovane'))
+
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Zadajte telefnne slo vo formte s pred_b3430e'), 
     '+421999888777')
 
+/**
 WebUI.setText(findTestObject('Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_(nepovinn)_govuk-input autocomplete-input - Copy'), 
     'Sloven')
 
@@ -263,7 +260,7 @@ WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/P
 
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_(nepovinn)_input-zastupca1InaAdresaPSC'), 
     '26587')
-
+**/
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input__zastupca2Radio_option_1'))
 
 '5.krok'
@@ -586,7 +583,7 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Pag
 WebUI.waitForJQueryLoad(200)
 
 'Prejst na preihlášky'
-WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Chcem posla sptn vzbu_btn-moje-prihl_0c72f2'))
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/DietaZSMimoSR/Page_Moje prihlky  ePrihlky/a_launch_govuk-header__link'))
 
 prihlasovanie.odhlasPouzivatela()
 

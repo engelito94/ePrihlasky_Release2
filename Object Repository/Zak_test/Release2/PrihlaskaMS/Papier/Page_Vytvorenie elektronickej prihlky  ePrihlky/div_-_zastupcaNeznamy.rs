@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_-_zastupcaNeznamy</name>
+   <tag></tag>
+   <elementGuidId>369bb24d-5585-47b7-90eb-4ce62fb95398</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zastupcovia']/div[2]/div/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zastupcaNeznamy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a353da6-9a5a-4318-a420-ccc21d8996d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zastupcaNeznamy</value>
+      <webElementGuid>b4633225-be68-486a-b965-5e4b162fd669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Druhý zákonný zástupca nie je známy.</value>
+      <webElementGuid>94986159-ec9a-44ae-902a-8cd0a9dc9238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zastupcovia&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;zastupcoviaSection&quot;]/div[@class=&quot;zastupcaNeznamy&quot;]</value>
+      <webElementGuid>ed8de813-8f26-41ff-9263-0981cdf7d71e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zastupcovia']/div[2]/div/div[6]</value>
+      <webElementGuid>cb825408-72a4-4996-b288-b480aed339a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[31]/following::div[1]</value>
+      <webElementGuid>b867d376-ff90-46cd-94c7-2afa7409bef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[30]/following::div[4]</value>
+      <webElementGuid>22915e14-5990-43f6-b614-e4d0eefae97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov zariadenia'])[2]/preceding::div[1]</value>
+      <webElementGuid>4aee7471-7072-433e-8d05-89dd9cfc8a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[32]/preceding::div[2]</value>
+      <webElementGuid>9ff341ed-1f9a-4608-9f6c-aa855a74e0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Druhý zákonný zástupca nie je známy.']/parent::*</value>
+      <webElementGuid>9b5d4299-a1aa-403f-9a76-360ee2e623f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[6]</value>
+      <webElementGuid>881fe130-e29f-4281-b9b9-ee56f583382d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Druhý zákonný zástupca nie je známy.' or . = 'Druhý zákonný zástupca nie je známy.')]</value>
+      <webElementGuid>f17e564b-0422-4358-ad8a-fbbecfc4f104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

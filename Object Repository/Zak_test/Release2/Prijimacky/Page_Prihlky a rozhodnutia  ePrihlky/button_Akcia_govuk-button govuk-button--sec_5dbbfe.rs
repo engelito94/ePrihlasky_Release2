@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Akcia_govuk-button govuk-button--sec_5dbbfe</name>
+   <tag></tag>
+   <elementGuidId>240d6ba4-b3ac-4297-9408-d7c26017d1ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.govuk-button.govuk-button--sec.btn-vybrat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[4]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f2cd84f7-93b6-4a91-94f3-cc98b4e0b845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-button govuk-button--sec btn-vybrat</value>
+      <webElementGuid>c2c6a5cf-3101-47bb-9ac8-946b3704b204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Vybrať
+                keyboard_arrow_down_rounded
+            </value>
+      <webElementGuid>32b4ae63-d6e3-4d0d-9085-cc2a6cc21b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;riaditel-prijimacky-container&quot;]/div[@class=&quot;fixed-right-column&quot;]/div[@class=&quot;riaditel-prijimacky-cell prijimacky-akcia-cell&quot;]/button[@class=&quot;govuk-button govuk-button--sec btn-vybrat&quot;]</value>
+      <webElementGuid>7dd979bf-a7cf-460c-a24d-d75aa4a1ada7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[4]/div[2]/button</value>
+      <webElementGuid>86145abd-ae7c-4e89-a8ca-51a8cc6db3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akcia'])[2]/following::button[1]</value>
+      <webElementGuid>3ef0b1ff-18e9-4ceb-99b1-a9b136a598a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odoslať znova'])[2]/following::button[1]</value>
+      <webElementGuid>d37b9002-43dd-49e6-8cf7-ec1d66203353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/button</value>
+      <webElementGuid>bcb4a5aa-d636-4fc6-89d8-1a6c7da2df75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                Vybrať
+                keyboard_arrow_down_rounded
+            ' or . = '
+                Vybrať
+                keyboard_arrow_down_rounded
+            ')]</value>
+      <webElementGuid>8551f0b4-aa4d-4ef0-90e6-d57b507bd3d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

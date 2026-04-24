@@ -477,7 +477,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_stavPrihlasky badge_1'), 
     'V spracovaní')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav kontroly_stavKontroly badge red'), 
+WebUI.verifyElementText(findTestObject('Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Stav kontroly_stavKontroly badge red - Copy'), 
     'Neskontrolovaná')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/detailPrihlaskySS/Page_Podrobnosti prihlky  ePrihlky/div_Meno_dietaMeno'), 

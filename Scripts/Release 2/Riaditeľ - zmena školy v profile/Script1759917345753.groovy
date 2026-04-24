@@ -10,6 +10,7 @@ import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -27,8 +28,16 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/a'))
 
 'Zmena školy v profile'
-WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu'), 
-    '910020859', true)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu'), '910020859', true)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu'))
+
+String eduidSkoly = '910020859'
+TestObject to = new TestObject('dynamicObject')
+to.addProperty('xpath', ConditionType.EQUALS, "//*[@data-value='${eduidSkoly}']")
+WebUI.click(to)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Menu_inicialy-osoby-header'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/button_keyboard_arrow_down_zmenit-skolu-btn'))
 
@@ -38,8 +47,16 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/prof
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Gymnzium Metodova_header-eduid'), 
     'EDUID 910020859')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu_1'), 
-    '910013679', true)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu_1'), '910013679', true)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/select_(nepovinn)_select-zmenitSkolu'))
+
+eduidSkoly = '910013679'
+TestObject to1 = new TestObject('dynamicObject')
+to1.addProperty('xpath', ConditionType.EQUALS, "//*[@data-value='${eduidSkoly}']")
+WebUI.click(to1)
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Menu_inicialy-osoby-header'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/button_keyboard_arrow_down_zmenit-skolu-btn'))
 

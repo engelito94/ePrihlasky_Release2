@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Poda priezviska (abecedne - vzostupne_7a4950</name>
+   <tag></tag>
+   <elementGuidId>45e17da6-b7e7-486d-abce-a60d5bf5692d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalZoraditPrijimackyRadio']/div/fieldset/div[3]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2040873a-ee6e-448b-b4c4-7c49f28161df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label govuk-radios__label</value>
+      <webElementGuid>1f0a255f-7c81-40c5-b95b-4873c6e326e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>modalZoraditPrijimackyRadio_option_1</value>
+      <webElementGuid>9a21b5be-7f5e-488d-9d38-9f8894112c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Podľa dátumu podania (od najnovšej) 
+                         </value>
+      <webElementGuid>6493425e-a954-4c29-82b0-0977c61d0bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalZoraditPrijimackyRadio&quot;)/div[@class=&quot;govuk-form-group radiogroup-control&quot;]/fieldset[@class=&quot;govuk-fieldset&quot;]/div[@class=&quot;govuk-radios&quot;]/div[@class=&quot;govuk-radios__item&quot;]/label[@class=&quot;govuk-label govuk-radios__label&quot;]</value>
+      <webElementGuid>b4f10fae-14b7-4f29-8e68-a36ecd855904</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalZoraditPrijimackyRadio']/div/fieldset/div[3]/div[2]/label</value>
+      <webElementGuid>08dc104d-d1b9-48f2-a22f-76fca86c2495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podľa priezviska (abecedne - vzostupne)'])[2]/following::label[1]</value>
+      <webElementGuid>3b266911-47f6-4efb-8056-97c4470934e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[57]/following::label[2]</value>
+      <webElementGuid>9812a769-44f4-4093-9533-c10ff60ea870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Späť'])[3]/preceding::label[1]</value>
+      <webElementGuid>1e9e3d9f-76e4-4951-b5f3-6b58b801c0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoradiť prihlášky'])[4]/preceding::label[1]</value>
+      <webElementGuid>73d07637-fe24-4c84-8f23-e891eecfb294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/fieldset/div[3]/div[2]/label</value>
+      <webElementGuid>9165d850-e8ad-4dfc-98b7-df4b1f141101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Podľa dátumu podania (od najnovšej) 
+                         ' or . = 'Podľa dátumu podania (od najnovšej) 
+                         ')]</value>
+      <webElementGuid>2738fec4-4660-487c-bb66-972f6a3a6ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

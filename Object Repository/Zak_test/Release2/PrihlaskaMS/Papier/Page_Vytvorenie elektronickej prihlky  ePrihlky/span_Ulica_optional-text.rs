@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ulica_optional-text</name>
+   <tag></tag>
+   <elementGuidId>b977e297-c189-4a1e-aae4-44371da5b27c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adresaTPUlica']/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#adresaTPUlica > div.govuk-form-group.autocomplete-control.optional > div.label-wrapper > span.optional-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c81d9adb-5255-4c4c-8f7b-db41667ec72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>optional-text</value>
+      <webElementGuid>fbc3f4ec-950f-4a48-a169-1ed31ee1d105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(ak existuje – potrebné pre doručovanie rozhodnutia)</value>
+      <webElementGuid>fb5e3c02-d436-43d2-8f9a-eead2cd859e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adresaTPUlica&quot;)/div[@class=&quot;govuk-form-group autocomplete-control optional&quot;]/div[@class=&quot;label-wrapper&quot;]/span[@class=&quot;optional-text&quot;]</value>
+      <webElementGuid>c6ea841d-3fcc-4566-864d-f89f32aff540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adresaTPUlica']/div/div/span</value>
+      <webElementGuid>4f4672da-fbc2-410c-9ccf-37eaa61686a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ulica'])[1]/following::span[1]</value>
+      <webElementGuid>ff297ab4-f87b-4f4d-b2b5-3a7131f2f783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toto pole je povinné.'])[1]/following::span[2]</value>
+      <webElementGuid>18841e32-2ab0-4fbb-8532-4d9118757737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[9]/preceding::span[3]</value>
+      <webElementGuid>fea98e27-fc0e-4f1e-8bc8-28113df4129d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súpisné číslo'])[1]/preceding::span[6]</value>
+      <webElementGuid>937a7ef3-6c36-4e6e-aa50-8d5ec532d99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(ak existuje – potrebné pre doručovanie rozhodnutia)']/parent::*</value>
+      <webElementGuid>11f9bc3e-4a32-4dd0-baa0-0410b277e1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[3]/div/div/span</value>
+      <webElementGuid>f85af05a-0629-437a-b029-94713ee5e1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(ak existuje – potrebné pre doručovanie rozhodnutia)' or . = '(ak existuje – potrebné pre doručovanie rozhodnutia)')]</value>
+      <webElementGuid>38738ed9-de98-4720-b3d3-d09eaa6b247f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

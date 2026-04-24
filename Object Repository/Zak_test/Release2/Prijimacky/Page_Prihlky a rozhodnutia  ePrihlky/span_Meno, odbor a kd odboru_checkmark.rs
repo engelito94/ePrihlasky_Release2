@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Meno, odbor a kd odboru_checkmark</name>
+   <tag></tag>
+   <elementGuidId>3e859170-326c-41fa-9ae4-ef8f4016828e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vybrate-4732c3be-258b-4bb2-b740-bf2dc63b8bc1 > #vybratCheckbox > span.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='vybratCheckbox']/span)[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ce186c4-30b2-46bd-a925-bf364dd7d85d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>e5115b97-6e20-499a-87ab-6eb389e8af69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vybrate-4732c3be-258b-4bb2-b740-bf2dc63b8bc1&quot;)/div[@id=&quot;vybratCheckbox&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>384a30e7-30d5-40a3-a47a-5b9ae2e77ce3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='vybratCheckbox']/span)[22]</value>
+      <webElementGuid>9470b5db-b243-4784-952b-c8fcee4a1c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/div/span</value>
+      <webElementGuid>5e91c1b5-4ce3-43c8-be1e-4843975766f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

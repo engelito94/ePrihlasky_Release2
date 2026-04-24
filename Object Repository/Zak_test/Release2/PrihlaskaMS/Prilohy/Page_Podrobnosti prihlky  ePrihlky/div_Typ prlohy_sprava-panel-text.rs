@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Typ prlohy_sprava-panel-text</name>
+   <tag></tag>
+   <elementGuidId>cf45f220-1e13-4cb5-b1b0-e067e293d867</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skoly']/div[2]/div[8]/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b815cfb8-8793-4c4d-901c-80e114eb59f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sprava-panel-text</value>
+      <webElementGuid>618388bb-8403-4767-8071-ef2dad47736c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Čestné vyhlásenie zákonného zástupcu</value>
+      <webElementGuid>f70231c9-d29a-42ed-a6aa-7cb3611a0d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sprava-item&quot;]/div[@class=&quot;sprava-body&quot;]/div[@class=&quot;sprava-panel&quot;]/div[@class=&quot;sprava-panel-text&quot;]</value>
+      <webElementGuid>20c794a8-2efa-4e37-a4f4-91aeb5ddae2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skoly']/div[2]/div[8]/div/div[2]/div/div[2]</value>
+      <webElementGuid>f6367798-cb00-48ef-a2d5-827eb5a886fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ prílohy:'])[2]/following::div[1]</value>
+      <webElementGuid>2ed8677c-7d01-457f-88a9-ef03ab564342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dôvod:'])[2]/preceding::div[1]</value>
+      <webElementGuid>dd591618-9e54-489d-aac1-c1da5b6e73f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odvolať žiadosť'])[2]/preceding::div[3]</value>
+      <webElementGuid>fbc03f55-037a-41e3-8c0a-139193321ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div[2]</value>
+      <webElementGuid>f692f767-a9d9-4555-8629-d39c419ea891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Čestné vyhlásenie zákonného zástupcu' or . = 'Čestné vyhlásenie zákonného zástupcu')]</value>
+      <webElementGuid>dd073612-b377-4f06-9adf-9c06c8973123</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

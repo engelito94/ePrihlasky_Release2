@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='select-skola']</value>
+         <value>//fieldset/div[1]/div[1]/div[2]/input[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b599abe1-9a8d-44f6-af44-6e291431c6ad</webElementGuid>
+      <webElementGuid>c81f9174-4b1e-442c-9fbb-8e939eb69cbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-select</value>
-      <webElementGuid>c17324bf-f56e-4be5-8c6e-626d3cf1c762</webElementGuid>
+      <webElementGuid>afb29983-a54d-4437-9cb4-760a51375ca3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>367dd1fc-3afa-4826-a24a-67b534183289</webElementGuid>
+      <webElementGuid>bbbe3397-18ef-4345-a7df-7ea22d3b2394</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select-skola</value>
-      <webElementGuid>e1ff787c-77ef-4703-a41b-4d2c71395aab</webElementGuid>
+      <webElementGuid>ccf9a94f-e9e1-4655-b95c-13018475f509</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>VybranaSaszEduId</value>
-      <webElementGuid>71ad4d55-b6e3-486d-ab2b-605b40c1678d</webElementGuid>
+      <webElementGuid>8db31101-78d9-4a1d-b6d0-de6f2ad5d810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Materská škola Košice SeverElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyGymnázium MetodovaGymnázium v BudimíreMaterská škola Košice KVPStredná odborná škola strojníckaSúkromná stredná odborná školaSúkromná stredná umelecká škola scénického výtvarníctva</value>
-      <webElementGuid>b014d489-1959-44c1-a77f-bd6e1e20b60f</webElementGuid>
+      <webElementGuid>03aad654-7b26-485f-93f2-a0443e74268a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select-skola&quot;)</value>
-      <webElementGuid>f42cb6a7-3f89-423a-858c-f8df7f3027c2</webElementGuid>
+      <webElementGuid>042ffb83-3036-49ac-b5c6-829263cedefc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='select-skola']</value>
-      <webElementGuid>b327b57f-9202-48cc-b217-8a09d1870eb1</webElementGuid>
+      <webElementGuid>28b94aec-6e87-4117-bd31-b96ab349fef7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='skola']/div/div[2]/select</value>
-      <webElementGuid>147c10f7-7a2d-4cdb-a930-6a402a126a51</webElementGuid>
+      <webElementGuid>6d35a075-4839-486f-8183-d89421c45053</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/following::select[1]</value>
-      <webElementGuid>0453233b-b98f-4dda-8fe9-6cf09dec9ea7</webElementGuid>
+      <webElementGuid>a138861b-c121-44aa-acb9-ea3842541ea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vybrať školu'])[1]/following::select[1]</value>
-      <webElementGuid>0c0b0d65-1ffe-431c-82bb-3f78f76071a4</webElementGuid>
+      <webElementGuid>36bc9f26-22f3-4b54-8abb-b6390d14ddb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/preceding::select[1]</value>
-      <webElementGuid>590aef53-ae55-48e9-b64c-d39d99edf2d2</webElementGuid>
+      <webElementGuid>9a258ac8-94ab-4dae-811f-3915efbcc635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pokračovať'])[1]/preceding::select[1]</value>
-      <webElementGuid>bd659810-ed10-4520-b261-1b39e758731e</webElementGuid>
+      <webElementGuid>e8beb47e-fd11-440e-a127-3042fa10bc3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>05bdc07f-9a0a-4c46-87dd-eec8007bd0ed</webElementGuid>
+      <webElementGuid>34c12083-3ac4-4cd1-a9b6-552f71ec4205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@type = 'text' and @id = 'select-skola' and @name = 'VybranaSaszEduId' and (text() = 'Materská škola Košice SeverElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyGymnázium MetodovaGymnázium v BudimíreMaterská škola Košice KVPStredná odborná škola strojníckaSúkromná stredná odborná školaSúkromná stredná umelecká škola scénického výtvarníctva' or . = 'Materská škola Košice SeverElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyElokované pracovisko ako súčasť Súkromnej strednej odbornej školyGymnázium MetodovaGymnázium v BudimíreMaterská škola Košice KVPStredná odborná škola strojníckaSúkromná stredná odborná školaSúkromná stredná umelecká škola scénického výtvarníctva')]</value>
-      <webElementGuid>fddf4bc4-1c4f-4aef-b467-09e9f6b92b8d</webElementGuid>
+      <webElementGuid>5076cb83-c276-4e1b-8f82-6a1d556acd8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

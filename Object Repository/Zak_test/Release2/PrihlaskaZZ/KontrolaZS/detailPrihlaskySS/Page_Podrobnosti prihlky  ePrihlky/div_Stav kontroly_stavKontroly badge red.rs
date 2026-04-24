@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div[10]/div[3]/div[2]</value>
+         <value>//div[@class='stavKontroly badge']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f1a908af-4e02-4ae7-8180-534581964edc</webElementGuid>
+      <webElementGuid>a2e69639-cefe-40bd-bdfb-fa96ce671e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>stavKontroly badge red</value>
-      <webElementGuid>56492659-6348-4061-9662-6c92f4819665</webElementGuid>
+      <webElementGuid>bc3b2011-41f5-4f5e-82a7-6403d00832ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Neskontrolovaná</value>
-      <webElementGuid>92c93b47-0ab7-43e9-b461-1ea1c8b9be15</webElementGuid>
+      <webElementGuid>a7a36aae-efe8-41fb-9f1c-cd0016592c26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detail-prihlasky-riad-SS-content&quot;)/div[@class=&quot;panel-with-header&quot;]/div[@class=&quot;panel-content info-layout vseobecne-body&quot;]/div[@class=&quot;panel-item column&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;stavKontroly badge red&quot;]</value>
-      <webElementGuid>a9dbd4b1-fe69-47a4-8762-efaaafdc670a</webElementGuid>
+      <webElementGuid>4de76db7-2666-4605-9b8e-c979b5ec4950</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detail-prihlasky-riad-SS-content']/div[4]/div[2]/div[10]/div[3]/div[2]</value>
-      <webElementGuid>05f3ddec-268f-48a4-8281-b1ab608a2db9</webElementGuid>
+      <webElementGuid>f1224b28-0bd0-4200-b4ff-183f3d6a65cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav kontroly'])[1]/following::div[1]</value>
-      <webElementGuid>34a1e8b5-685a-4ddf-9dae-3e3c1f76683d</webElementGuid>
+      <webElementGuid>b08381f2-1136-4037-ba34-6ad6e3ecf63e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vyberte'])[2]/following::div[3]</value>
-      <webElementGuid>79d59cd9-8ad2-40a5-8bef-7ac88cf5035e</webElementGuid>
+      <webElementGuid>69fc2255-0987-48f7-a2be-2cc647d8aef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Poznámka školy'])[1]/preceding::div[1]</value>
-      <webElementGuid>5e4b1725-1013-4789-9d09-f6f0261c8b7e</webElementGuid>
+      <webElementGuid>7ff90424-2252-4e08-926e-e30210f0d6cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[3]/preceding::div[2]</value>
-      <webElementGuid>c70fd8db-061e-4678-844e-48956aec9000</webElementGuid>
+      <webElementGuid>8bfb85c7-4515-4052-8dd9-df323ffd48c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Neskontrolovaná']/parent::*</value>
-      <webElementGuid>102e5ab9-4ab9-4276-9b76-b1846c9dae40</webElementGuid>
+      <webElementGuid>3c3b8e6e-e58d-4df3-868c-546cd92ba2e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div[3]/div[2]</value>
-      <webElementGuid>10d837f2-3236-4457-8c84-1e9f4cc5b9d5</webElementGuid>
+      <webElementGuid>0346287b-cae2-423b-b5b2-86f0e4328516</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Neskontrolovaná' or . = 'Neskontrolovaná')]</value>
-      <webElementGuid>304ced3b-21d3-45eb-933f-330581de314a</webElementGuid>
+      <webElementGuid>e9eb9497-fc26-4019-a744-ed91ca7383d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

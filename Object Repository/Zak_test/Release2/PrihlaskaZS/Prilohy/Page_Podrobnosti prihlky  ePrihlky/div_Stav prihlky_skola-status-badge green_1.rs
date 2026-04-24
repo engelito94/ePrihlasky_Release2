@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='skoly']/div[2]/div[2]/div[2]</value>
+         <value>//div[@class='skola-status-badge green']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7a879d15-73f0-488e-9531-6f7279a172e9</webElementGuid>
+      <webElementGuid>d1bad3e2-f68e-47d1-a34a-f3eeb5d54dc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>skola-status-badge green</value>
-      <webElementGuid>6de9f8cc-033e-4167-9405-cb95a83c90ac</webElementGuid>
+      <webElementGuid>b682ce12-5ac0-4c90-9fcd-ecabcca3331c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Doplnená</value>
-      <webElementGuid>ab0d618b-dc88-4a54-b4ee-99f1f9cbaf07</webElementGuid>
+      <webElementGuid>4494cde3-2f55-4af8-be00-e0dfd773648d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;skola-status-badge green&quot;]</value>
-      <webElementGuid>9100ddda-eaac-41c2-aa3b-2d900ae4832e</webElementGuid>
+      <webElementGuid>0abfb726-81e8-45a7-8291-24d9962ca47a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='skoly']/div[2]/div[2]/div[2]</value>
-      <webElementGuid>cd525511-3857-46f2-95ec-5c08c9f1e140</webElementGuid>
+      <webElementGuid>2f4a7d0e-8f9d-4763-a96c-526b563a66be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav prihlášky'])[2]/following::div[1]</value>
-      <webElementGuid>734645e3-d309-4e85-a46d-acfa65acc7d7</webElementGuid>
+      <webElementGuid>be10d668-1df1-4c3a-b8be-83d1a5fc9c01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUID školy'])[1]/preceding::div[1]</value>
-      <webElementGuid>dd427e6a-86c3-42fa-82aa-411989cd58e6</webElementGuid>
+      <webElementGuid>c4611016-01b2-4a5b-9331-a092cd3a11f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Názov školy'])[1]/preceding::div[4]</value>
-      <webElementGuid>350bfd02-4a0f-4e5e-aa9d-1a3cdd7084cc</webElementGuid>
+      <webElementGuid>445844a4-92e9-44f0-984a-960bbac47704</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/div[2]/div[2]</value>
-      <webElementGuid>452d0ffa-8b58-4475-b52c-2b1aeb15f9fa</webElementGuid>
+      <webElementGuid>7773ed2c-8f19-4f8f-a20f-272d7c7a8dd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Doplnená' or . = 'Doplnená')]</value>
-      <webElementGuid>08964834-3e12-4343-b3da-09f937c6d3e8</webElementGuid>
+      <webElementGuid>a5ae1e65-13c8-4ab4-8ba2-bdee3487fe18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

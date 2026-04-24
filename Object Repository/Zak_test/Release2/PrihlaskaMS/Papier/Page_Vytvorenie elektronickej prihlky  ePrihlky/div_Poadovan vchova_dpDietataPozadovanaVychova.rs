@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Poadovan vchova_dpDietataPozadovanaVychova</name>
+   <tag></tag>
+   <elementGuidId>5fe6c72b-68dc-4c6a-86d1-40b7d882257f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dpDietataPozadovanaVychova']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dpDietataPozadovanaVychova</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0133ddfa-78db-43a3-9611-566bdd5c4037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dpDietataPozadovanaVychova</value>
+      <webElementGuid>58bfa10b-c660-4ff3-91ff-b216eb174474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Náboženská - Evanjelická</value>
+      <webElementGuid>6a978fd3-5dfc-4cf5-bc67-60adefe28460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dpDietataPozadovanaVychova&quot;)</value>
+      <webElementGuid>e903e91d-7992-42b3-9201-c8e060486ca0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dpDietataPozadovanaVychova']</value>
+      <webElementGuid>a429c123-27c0-43e2-9c78-2d39b7a2053b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pdpDietata']/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>f4f82596-2a05-4ff0-afc0-2ed2587b59d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Požadovaná výchova'])[2]/following::div[1]</value>
+      <webElementGuid>1cef8ad1-d9e1-4c8a-8309-b81cf4309c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Žiadam o prijatie dieťaťa na'])[2]/following::div[4]</value>
+      <webElementGuid>dcbafc86-5b02-476e-8a00-fe5637f116d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Záujem o stravovanie v školskej jedálni'])[2]/preceding::div[1]</value>
+      <webElementGuid>1703bbed-2a8c-48bc-af6f-c3ca8c2523fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nie'])[9]/preceding::div[2]</value>
+      <webElementGuid>de82f336-3cd3-4149-8cd1-f5a1ca999419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Náboženská - Evanjelická']/parent::*</value>
+      <webElementGuid>c6a8baab-4793-4150-b960-a9400aa2bbac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[4]/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>dd3ed6ee-1fd5-4078-a2a8-24fe44ad2505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dpDietataPozadovanaVychova' and (text() = 'Náboženská - Evanjelická' or . = 'Náboženská - Evanjelická')]</value>
+      <webElementGuid>8ec225a7-de7d-4380-8553-3a48394c03a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
