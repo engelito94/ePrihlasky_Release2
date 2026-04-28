@@ -152,7 +152,7 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Pag
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
 
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
-    'Automat 5')
+    'cédrová')
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
 
@@ -164,19 +164,19 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Pag
 
 'Pridanie odboru do prihlášky'
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
-
+/**
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_1'))
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_2'))
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_3'))
-
+**/
 'Nastavenie termínov pre odbory'
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_9dda30'), 
     '11', true)
-
+/**
 WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_108023'), 
     '21', true)
 
@@ -185,7 +185,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/Vytvoreni
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_c48eec'), 
     '21', true)
-
+**/
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 
 '4.krok'
@@ -539,3 +539,5 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Pag
 WebUI.waitForJQueryLoad(200)
 
 WebUI.delay(20)
+
+prihlasovanie.odhlasPouzivatela()

@@ -10,11 +10,15 @@
          <value>#fulltext-input</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fulltext-input']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//input[@id='fulltext-input']</value>
+         <value>//div[5]/div[1]/div[1]/div[1]/input[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>726fac72-daad-4a68-b62d-f5a89e06bb0e</webElementGuid>
+      <webElementGuid>6c81e250-c1da-4ded-9b5b-9337403ba4ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +35,15 @@
       <name>id</name>
       <type>Main</type>
       <value>fulltext-input</value>
-      <webElementGuid>1e7e93cb-b750-4c21-8eac-9b3c5891e5f8</webElementGuid>
+      <webElementGuid>1e037584-f074-4e3d-a88b-9c355f6a733d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>67d11f4c-c127-4996-9471-93021939f6ea</webElementGuid>
+      <webElementGuid>853eea43-695e-4866-bde6-ff07d6fd37bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>class</name>
       <type>Main</type>
       <value>govuk-input vyhladavanie-input</value>
-      <webElementGuid>f43d355a-08a1-4b6c-8641-4e8bd714141d</webElementGuid>
+      <webElementGuid>d7dd3710-c224-4cae-95c6-d38f38aee3fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;fulltext-input&quot;)</value>
-      <webElementGuid>0144198e-eae6-4493-97b3-c6fcd5fd6595</webElementGuid>
+      <webElementGuid>df4f2751-5c59-4681-b591-16cbe4ce0217</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='fulltext-input']</value>
-      <webElementGuid>b7afb60b-2229-437f-b303-da71aecf64a2</webElementGuid>
+      <webElementGuid>72d6b894-0dec-4a3d-8185-9fa68acfaa7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='fulltext-input-wrapper']/div/input</value>
-      <webElementGuid>460f920a-5375-48e5-b8bc-3f09de175c25</webElementGuid>
+      <webElementGuid>d8e4b60c-a564-4571-8b8b-216c070a7a0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>e9144267-9a7d-4ca8-978b-46f3f2ca32d7</webElementGuid>
+      <webElementGuid>5f287f2d-1656-46be-8f69-9417074adc2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +91,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'fulltext-input' and @type = 'text']</value>
-      <webElementGuid>555e1d00-4cf7-487a-98ce-3318a413af00</webElementGuid>
+      <webElementGuid>b6adf5ff-6d0f-4476-a2db-74c1ad283dbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
