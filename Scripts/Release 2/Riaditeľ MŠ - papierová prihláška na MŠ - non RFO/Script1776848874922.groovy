@@ -133,7 +133,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papi
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Prilote vetky potrebn prlohy_govuk-acco_a7b82c'))
 
-WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/a_alebo ho sem potiahnite (max. 10 MB, vo f_05689b'))
+//WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/a_alebo ho sem potiahnite (max. 10 MB, vo f_05689b'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Sp_btn-dalej govuk-button govuk-butt_c9f647'))
 

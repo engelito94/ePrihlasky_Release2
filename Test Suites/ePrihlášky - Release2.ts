@@ -49,14 +49,14 @@
    <testCaseLink>
       <guid>82c3651e-2db7-46a9-a90e-23f1e11e2267</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - papierová prihláška na SŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>487da88b-cb85-41f6-ab6a-fe27e7324942</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ ZŠ - papierová prihláška na SŠ - RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -126,7 +126,7 @@
    <testCaseLink>
       <guid>0c968d57-e4ff-4dd9-9478-4c2fa7fc2ae4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - Konflikt - Vyriešenie</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

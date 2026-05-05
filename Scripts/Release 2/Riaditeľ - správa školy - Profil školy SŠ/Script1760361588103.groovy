@@ -132,9 +132,9 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Pa
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
-
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/span'))
 

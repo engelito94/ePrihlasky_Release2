@@ -361,7 +361,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'Netalentový')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_5'), 
-    '1. termín')
+    '2. termín')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaRiad/bezRFO/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_6'), 
     'slovenský')

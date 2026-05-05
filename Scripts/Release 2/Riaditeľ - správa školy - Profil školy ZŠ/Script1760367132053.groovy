@@ -135,6 +135,8 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
 
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/li_Matersk koly_nav-item-najst-skolu-ZS'))
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/span'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
