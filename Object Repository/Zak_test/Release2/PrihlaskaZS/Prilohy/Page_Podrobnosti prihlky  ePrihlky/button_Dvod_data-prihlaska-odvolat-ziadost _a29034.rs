@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='skoly']/div[2]/div[9]/div/div[2]/div/button</value>
+         <value>//button[contains(text(),'Odvolať žiadosť')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b1a38dc4-14e6-4bf2-852c-5d13a47a1b05</webElementGuid>
+      <webElementGuid>c2f237c0-f223-4fb0-acfa-dab321f35ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>data-prihlaska-odvolat-ziadost govuk-button govuk-button__large govuk-!-margin-bottom-0 </value>
-      <webElementGuid>7e353f85-c233-43a6-9468-92e050254487</webElementGuid>
+      <webElementGuid>2a9ee782-8212-45bf-8b79-818d7a510fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>data-module</name>
       <type>Main</type>
       <value>govuk-button</value>
-      <webElementGuid>799fae2e-87d1-4af3-a28d-815fd5b5cf61</webElementGuid>
+      <webElementGuid>cb714f52-8c05-4c39-978f-66c3ea831fd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>data-sprava-guid</name>
       <type>Main</type>
       <value>fded91de-91a2-4c40-adc8-13d9a4a8d41d</value>
-      <webElementGuid>ad9ab41d-ca24-439e-8c81-18b477174398</webElementGuid>
+      <webElementGuid>e52bae97-ac4b-4d41-9bf0-6bb66cbbf678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>data-guid</name>
       <type>Main</type>
       <value>0e84434f-5cd3-44fa-bc94-5e944df6e873</value>
-      <webElementGuid>79071e78-db99-4bea-9282-3b83a64a9611</webElementGuid>
+      <webElementGuid>1509fd5f-9626-4273-85fc-54bd83dc9058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>6357de6f-8903-43d8-a4a2-15ce62c76787</webElementGuid>
+      <webElementGuid>965644a9-eede-4fd7-83ec-b696b14f9b31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Odvolať žiadosť</value>
-      <webElementGuid>02875318-020b-4f10-99e8-119303d57d1a</webElementGuid>
+      <webElementGuid>f7c00590-13ac-41cd-a692-e2cfeebf7dbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sprava-item&quot;]/div[@class=&quot;sprava-body&quot;]/div[@class=&quot;sprava-panel&quot;]/button[@class=&quot;data-prihlaska-odvolat-ziadost govuk-button govuk-button__large govuk-!-margin-bottom-0&quot;]</value>
-      <webElementGuid>6e81cb59-74ae-4c40-a6a9-9d7019c63322</webElementGuid>
+      <webElementGuid>ce1a1715-cc1d-468a-b1ae-2aaec87791ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='skoly']/div[2]/div[9]/div/div[2]/div/button</value>
-      <webElementGuid>a04a7565-501a-463a-9271-a54a930bb0d3</webElementGuid>
+      <webElementGuid>761290a7-6855-48ca-963c-c127bc5a8a8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dôvod:'])[1]/following::button[1]</value>
-      <webElementGuid>69f32e88-8d64-4e5f-a442-9f2e9779403f</webElementGuid>
+      <webElementGuid>d0a2b725-f6a5-4e34-a546-64364dfd73cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestné vyhlásenie zákonného zástupcu'])[1]/following::button[1]</value>
-      <webElementGuid>dc68c63c-580d-4e2d-9839-6ed773265b71</webElementGuid>
+      <webElementGuid>96eeb809-c2b2-44d9-b029-7132d7ecac4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='info'])[7]/preceding::button[1]</value>
-      <webElementGuid>41d80a82-8f7b-4b42-a9bf-23970b4c7168</webElementGuid>
+      <webElementGuid>c3439854-90f7-4ec4-b56d-c7483afe3d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Odvolať žiadosť']/parent::*</value>
-      <webElementGuid>379f0e42-66a7-4c25-b9f7-58134058249e</webElementGuid>
+      <webElementGuid>b87f83b6-e75e-4a7f-8ed5-1880446aeb23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div[2]/div/button</value>
-      <webElementGuid>3e230839-33f7-4ad8-a86d-1d48431fa7ec</webElementGuid>
+      <webElementGuid>eebd500a-0bff-4edd-97d0-af7515a3ffd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@href = 'javascript:void(0);' and (text() = 'Odvolať žiadosť' or . = 'Odvolať žiadosť')]</value>
-      <webElementGuid>17f54393-c586-4159-a319-2ea03066a465</webElementGuid>
+      <webElementGuid>9479a1b5-1fcd-4de6-b4b3-941b804e42b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

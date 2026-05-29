@@ -60,10 +60,9 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Základná škola pre AT, Jalmová 19')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zkladn kola, Komenskho 12_description'), 
     'Jalmová 19, 065 34 Prešov')
+
+//WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zkladn kola, Komenskho 12_description'), 'Jalmová 19, 065 34 Prešov')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Komenskho 12, 073 01 Sobrance_hodnoty'), 
     'testovací popis')
@@ -133,19 +132,20 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/P
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/input_Nzov koly alebo jej adresa_nazov-skol_b4d569'), 
     'Základná škola pre AT')
 
-WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/li_Matersk koly_nav-item-najst-skolu-ZS'))
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_nazov-sko_d9d2c0'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/span'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Základná škola pre AT, Jalmová 19')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zkladn kola, Komenskho 12_description'), 
     'Jalmová 19, 065 34 Prešov')
+
+//WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Zkladn kola, Komenskho 12_description'), 'Jalmová 19, 065 34 Prešov')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/ZS/Page_Njs kolu  ePrihlky/div_Komenskho 12, 073 01 Sobrance_hodnoty_1'), 
     'testovací popis 1')

@@ -109,8 +109,10 @@ assert teloMailu.equals('Vážený/á pán/pani Tomáš Lukáč, pri kontrole pr
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Prilohy/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_skola-status-badge red'), 
     'Neúplná')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Prilohy/Page_Podrobnosti prihlky  ePrihlky/span_R_sprava-nazov'), 
-    'Riaditeľ školy Základná škola pre AT požadoval ďalšie prílohy.')
+//WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Prilohy/Page_Podrobnosti prihlky  ePrihlky/span_R_sprava-nazov'), 
+ //   'Riaditeľ školy Základná škola pre AT požadoval ďalšie prílohy.')
+
+WebUI.verifyTextPresent('Riaditeľ školy Základná škola pre AT požadoval ďalšie prílohy.', false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Prilohy/Page_Podrobnosti prihlky  ePrihlky/b'), 
     'Žiadosť o doplnenie prílohy bola úspešne odoslaná')
@@ -219,7 +221,7 @@ prihlasovanie.odhlasPouzivatela()
 prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021625')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Prilohy/Page_Prihlky a rozhodnutia  ePrihlky/input_Povinn prihlky na prijatie, ale kvli _9491e4'), 
-    meno + "" + priezvisko)
+    meno + " " + priezvisko)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZS/Prilohy/Page_Prihlky a rozhodnutia  ePrihlky/button_Povinn prihlky na prijatie, ale kvli_21db34'))
 

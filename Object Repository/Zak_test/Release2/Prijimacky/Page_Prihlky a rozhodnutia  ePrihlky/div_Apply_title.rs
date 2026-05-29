@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::div[5]</value>
+         <value>//div[contains(text(),'Vygenerovať pozvánky')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>97e825b0-470e-429f-af4f-d38e7a9db038</webElementGuid>
+      <webElementGuid>0dfe4508-1b50-4e80-8d68-22bfe379c36c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>697c1ad3-9d71-44f1-ae58-7399a0521f32</webElementGuid>
+      <webElementGuid>21c481e5-217d-4776-b2f1-6436a74d9d32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vygenerovať pozvánky</value>
-      <webElementGuid>e7dad697-e617-4bfc-8981-f10e20536dd0</webElementGuid>
+      <webElementGuid>d4d4a7c6-93e4-49a9-8ed3-1ceb6cae0a99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;modal-wrapper confirm-modal-wrapper&quot;]/div[@class=&quot;modal confirm-modal modal-136-MO&quot;]/div[@class=&quot;modal-header title-with-border&quot;]/div[@class=&quot;title-wrapper&quot;]/div[@class=&quot;title&quot;]</value>
-      <webElementGuid>2e0ec1e9-987c-47ea-b0a7-5722166e4ed8</webElementGuid>
+      <webElementGuid>1e67ab31-2db2-4124-a132-28742d229a73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::div[5]</value>
-      <webElementGuid>001d0c58-cc94-46a1-9879-675317a6e006</webElementGuid>
+      <webElementGuid>334f8105-e4f8-4067-aa88-379dd6a8c37b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::div[5]</value>
-      <webElementGuid>d94b2019-0a96-41ac-94a8-ed9f95471477</webElementGuid>
+      <webElementGuid>edbc32c5-4b35-4008-b2e9-1621bb3c30f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Želáte si pokračovať?'])[1]/preceding::div[1]</value>
-      <webElementGuid>5fba416f-879a-453a-b00c-6e15c1bea3f3</webElementGuid>
+      <webElementGuid>5ac5e1a9-ceda-4030-bf9a-b557ca99ba04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vygenerovať pozvánky']/parent::*</value>
-      <webElementGuid>0ef8da2f-0f67-4a79-b28b-1d46aa8e5751</webElementGuid>
+      <webElementGuid>862d17c6-2641-4295-b4b8-77055e5d8f00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div[8]/div/div/div/div</value>
-      <webElementGuid>70ade350-97df-40f1-8852-9f350234877d</webElementGuid>
+      <webElementGuid>c206458b-3f59-4cd5-8c4e-b935570f0e4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Vygenerovať pozvánky' or . = 'Vygenerovať pozvánky')]</value>
-      <webElementGuid>d386b507-a832-4dc6-8675-84ca2580d98b</webElementGuid>
+      <webElementGuid>99742daa-ed48-4803-989d-6c357d65fb76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

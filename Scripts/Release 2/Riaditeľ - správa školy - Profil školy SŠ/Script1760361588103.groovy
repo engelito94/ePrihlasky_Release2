@@ -63,7 +63,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Karirov poradca 1_zobrazit-profil-sk_0b8773'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Gymnázium Metodova')
+    'Metodova 2, 82108, Bratislava')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/div_Nov 219, 04443 Budimr_hodnoty'), 
     'testovací popis 1')
@@ -132,9 +132,9 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Pa
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
-
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/li_Zkladn koly_nav-item-najst-skolu-SS'))
+
+WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/span'))
 
@@ -145,7 +145,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/button_Karirov poradca 1_zobrazit-profil-sk_0b8773'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Gymnázium Metodova')
+    'Metodova 2, 82108, Bratislava')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/Page_Njs kolu  ePrihlky/div_Nov 219, 04443 Budimr_hodnoty_1'), 
     'testovací popis 2')

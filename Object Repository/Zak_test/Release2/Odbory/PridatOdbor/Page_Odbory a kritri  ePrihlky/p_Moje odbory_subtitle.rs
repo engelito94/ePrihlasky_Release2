@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='riaditel-odbory']/div[6]/p</value>
+         <value>//div[@id='riaditel-odbory']/div[7]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>42a29b44-3db1-4623-9a51-3b18da4245cd</webElementGuid>
+      <webElementGuid>05973210-ea33-49ee-9122-4dd71ea61faa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>subtitle</value>
-      <webElementGuid>861ee70b-bcb7-4650-b2e8-2bca1393d37b</webElementGuid>
+      <webElementGuid>a0d32335-b9c4-4fa4-a70c-d0e2e7948eb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vytvorte nové odbory alebo spravujte existujúce. Odbory budú uchádzačom dostupné vo vyhľadávaní škôl a použijú ich pri podávaní prihlášok na vašu školu.</value>
-      <webElementGuid>3ba880a6-1525-42a7-b3b8-ae59cb2f1b46</webElementGuid>
+      <webElementGuid>e99e059b-5289-4c02-b083-5449d2eca6d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;riaditel-odbory&quot;)/div[6]/p[@class=&quot;subtitle&quot;]</value>
-      <webElementGuid>abb66f7b-f779-4d4d-ad1c-4737d74b7638</webElementGuid>
+      <webElementGuid>a81e5a83-b214-4f65-93e1-9727f968e8ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='riaditel-odbory']/div[6]/p</value>
-      <webElementGuid>b73e7202-74ce-4299-b6a3-8d1484e2b436</webElementGuid>
+      <webElementGuid>1754ceef-9b28-4ae6-bf28-0fa4180f132b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Moje odbory'])[1]/following::p[1]</value>
-      <webElementGuid>6182e329-7796-4178-9a19-8f657782854c</webElementGuid>
+      <webElementGuid>53807ac7-b4f2-47e0-b1bc-1091547715a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrať rozhodnutie'])[1]/following::p[1]</value>
-      <webElementGuid>a15fbc83-eeaf-4e02-824f-f8a152ff96ef</webElementGuid>
+      <webElementGuid>884f0d35-ebef-4445-83f0-bb2334492332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Školský rok'])[1]/preceding::p[1]</value>
-      <webElementGuid>522f005f-5f80-4c7f-8ddb-c731af453a4c</webElementGuid>
+      <webElementGuid>37c1faac-7af6-4164-9661-2d1e0b4a18af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/preceding::p[1]</value>
-      <webElementGuid>efa8da59-ab2f-45fa-938f-a0585396246d</webElementGuid>
+      <webElementGuid>2ea64858-40f9-45f7-ac32-2d790c1bf1bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vytvorte nové odbory alebo spravujte existujúce. Odbory budú uchádzačom dostupné vo vyhľadávaní škôl a použijú ich pri podávaní prihlášok na vašu školu.']/parent::*</value>
-      <webElementGuid>34459025-6024-44a3-815b-bf8d0d8d66c5</webElementGuid>
+      <webElementGuid>ea4cb294-42b4-4aab-95b3-dc08354e9125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/p</value>
-      <webElementGuid>03f72bdd-5ece-4fb0-8742-695ae78c3300</webElementGuid>
+      <webElementGuid>96c75ef2-1fc1-499c-a707-fa56002ce515</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Vytvorte nové odbory alebo spravujte existujúce. Odbory budú uchádzačom dostupné vo vyhľadávaní škôl a použijú ich pri podávaní prihlášok na vašu školu.' or . = 'Vytvorte nové odbory alebo spravujte existujúce. Odbory budú uchádzačom dostupné vo vyhľadávaní škôl a použijú ich pri podávaní prihlášok na vašu školu.')]</value>
-      <webElementGuid>c35ebe16-42e4-4b19-ab39-7a9f0e515721</webElementGuid>
+      <webElementGuid>69c4d917-bc55-4ab3-b4bf-69c6049e5e32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

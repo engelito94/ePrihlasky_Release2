@@ -23,6 +23,8 @@ def filePath = RunConfiguration.getProjectDir()
 'vizuálna kontrola MŠ filtrov'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/Page_Vitajte v pilotnej verzii portlu Elekt_a4e96e/a_Domov_govuk-header__link'))
 
+WebUI.waitForJQueryLoad(120)
+
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/VerejnaZona/VymazatFiltreMS'))
 
 WebUI.refresh()

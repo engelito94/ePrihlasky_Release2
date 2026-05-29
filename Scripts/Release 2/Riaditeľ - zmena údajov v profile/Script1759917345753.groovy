@@ -22,7 +22,7 @@ Prihlasovanie prihlasovanie = new Prihlasovanie()
 
 Mail mail = new Mail()
 
-prihlasovanie.prihlasRiaditela('930571647', 'kBvKxcei4AY8p2seZp2QWw==', GlobalVariable.F2A, '910019568')
+prihlasovanie.prihlasRiaditela('930571647', 'Vv4ka+/sioPlIeRvMnB+eA==', GlobalVariable.F2A, '910019568')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/profilRiaditela/Page_Mj profil  ePrihlky/span_Menu_inicialy-osoby-header'))
 

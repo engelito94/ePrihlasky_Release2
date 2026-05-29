@@ -6,12 +6,11 @@
    <elementGuidId>836bd39e-46a1-4fbe-983d-d729a4cf3dec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='skoly']/div[2]/div[8]/div/div/div[2]/span</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[@class='sprava-nazov']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3be27895-0189-4f8c-8b76-74ac090f7149</webElementGuid>
+      <webElementGuid>f9db1562-b80b-4d1e-8643-235d0b8ed7c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sprava-nazov</value>
-      <webElementGuid>d9dbb5d0-3d58-408a-b65a-b81e35b80645</webElementGuid>
+      <webElementGuid>fde5321a-086a-4fa6-8753-c8440236ec19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Riaditeľ  školy Materská škola pre AT požadoval ďalšie prílohy.</value>
-      <webElementGuid>3e498be5-86a0-45dd-a3b4-b6cd65d70950</webElementGuid>
+      <webElementGuid>e07a5566-db73-462f-9ef6-e77017dc2d97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;skoly&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;panel-item&quot;]/div[@class=&quot;sprava-item&quot;]/div[@class=&quot;sprava-header&quot;]/div[@class=&quot;sprava-header-text&quot;]/span[@class=&quot;sprava-nazov&quot;]</value>
-      <webElementGuid>785e75d7-7e0c-4879-a22a-71f3b3ee90ae</webElementGuid>
+      <webElementGuid>6851477f-94e0-4ee6-be27-c7adeba1671d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='skoly']/div[2]/div[8]/div/div/div[2]/span</value>
-      <webElementGuid>a0ffb712-5a74-4d9a-9345-0bf7749d021d</webElementGuid>
+      <webElementGuid>04311a5f-d789-42cc-ac4f-7fb2a4d9d3e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[2]/following::span[1]</value>
-      <webElementGuid>26dd50f5-6d58-4f4f-b8d1-63d7f07d7746</webElementGuid>
+      <webElementGuid>3d6b46ff-f436-4865-8a7b-f27c953cc4ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='info'])[7]/following::span[1]</value>
-      <webElementGuid>fe5c5434-3233-416b-9d0b-1c539f4fa1f8</webElementGuid>
+      <webElementGuid>d78fd416-fada-42e5-b427-4ca7528e1c96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ prílohy:'])[2]/preceding::span[2]</value>
-      <webElementGuid>434f9245-6d11-4790-85f3-e7a48438d697</webElementGuid>
+      <webElementGuid>d69697c4-c63b-40f1-a0c4-af9902f592e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Čestné vyhlásenie zákonného zástupcu'])[2]/preceding::span[2]</value>
-      <webElementGuid>fc4ff1d9-f4a0-4c33-8582-94dd55933316</webElementGuid>
+      <webElementGuid>2c282e2e-3787-46b6-a6d2-0b435876454a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div[2]/span</value>
-      <webElementGuid>4b2e7cef-a801-410d-bf3f-13fe15183c7a</webElementGuid>
+      <webElementGuid>889723b6-6ebd-450b-98f3-80f20b78b509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Riaditeľ  školy Materská škola pre AT požadoval ďalšie prílohy.' or . = 'Riaditeľ  školy Materská škola pre AT požadoval ďalšie prílohy.')]</value>
-      <webElementGuid>045e0fef-6249-4efb-a67a-d37c71087625</webElementGuid>
+      <webElementGuid>6b2860f5-5385-47ae-80ad-21bcb10545a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -48,6 +48,8 @@ String bannerKonflikt = WebUI.getText(findTestObject('Object Repository/Zak_test
 
 bannerKonflikt = bannerKonflikt.replaceAll(/\r?\n+/, ' ').replaceAll(/\s+/, ' ').trim()
 
+//println(bannerKonflikt)
+
 assert bannerKonflikt.equals('Táto prihláška je v stave - V konflikte. Pre toto dieťa existuje v systéme viacero prihlášok. Vyzvite zákonného zástupcu na výber jednej verzie. Následne vyriešte konflikt označením jednej prihlášky ako aktívnej. Bez vyriešenia konfliktu nie je možné prihlášku ďalej spracovávať.')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Konflikty/Page_Podrobnosti prihlky  ePrihlky/div_Zrui prihlku_panel-header red'), 

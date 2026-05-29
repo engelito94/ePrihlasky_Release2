@@ -214,12 +214,12 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/VymazFilter'))
 **/
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'),
-	'Automat 4')
+	'Stredná Škola Bratislava Lesná')
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Nzov koly alebo jej adresa_fulltext-_b34249'))
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef'))
-WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_1'))
-WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_2'))
-WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_3'))
+//WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_1'))
+//WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_2'))
+//WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_slovensk_pridat-do-prihlasky govuk-b_844eef_3'))
 
 'Nastavenie termínov pre odbory'
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
@@ -227,11 +227,10 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Pag
 WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_9dda30'), 
     '11', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_108023'), 
-    '21', true) //21
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_108023'), '21', true) //21
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_09a6c5'), '11', true)
-WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_c48eec'),  '21', true)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_09a6c5'), '11', true)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/select_(nepovinn)_select-termin-prijimacej-_c48eec'),  '21', true)
 
 WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Uloi a ods_btn-dalej govuk-button go_178f87'))
 

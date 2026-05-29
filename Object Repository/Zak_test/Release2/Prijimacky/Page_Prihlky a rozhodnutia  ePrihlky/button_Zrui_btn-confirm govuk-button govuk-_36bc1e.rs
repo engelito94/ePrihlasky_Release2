@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[4]/following::button[1]</value>
+         <value>//button[contains(text(),'Pokračovať')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>950f6685-8206-4bd6-82e2-8a1f47f0f56b</webElementGuid>
+      <webElementGuid>c7f81549-1037-43f1-b484-8a2a4fd16f05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-confirm govuk-button govuk-button__large last-focusable</value>
-      <webElementGuid>b1bb8ba9-4f53-49bc-a9fe-b6446071fe84</webElementGuid>
+      <webElementGuid>cfd7b32f-38a9-4c92-90bd-487e4553f993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pokračovať</value>
-      <webElementGuid>0d032493-9450-48d4-8873-1d25761ef5fb</webElementGuid>
+      <webElementGuid>995f1291-8ce7-4ba3-9500-9d8085001aa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;modal-wrapper confirm-modal-wrapper&quot;]/div[@class=&quot;modal confirm-modal modal-136-MO&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons&quot;]/button[@class=&quot;btn-confirm govuk-button govuk-button__large last-focusable&quot;]</value>
-      <webElementGuid>8b4e175c-f5de-4804-8b80-c3fb48e6a983</webElementGuid>
+      <webElementGuid>ff39b880-714d-4a9d-a8da-bb9da5fabe80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[4]/following::button[1]</value>
-      <webElementGuid>08457ac1-d931-411d-a071-aa42de042efb</webElementGuid>
+      <webElementGuid>55419070-f31b-48c6-8a01-6afec8601ddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Želáte si pokračovať?'])[1]/following::button[2]</value>
-      <webElementGuid>55902631-5ca6-4b17-a187-a866fec4ad17</webElementGuid>
+      <webElementGuid>60d65493-7c2f-4806-b4b6-8ddcf75c08ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pokračovať']/parent::*</value>
-      <webElementGuid>7b8d8dbb-4d0d-4e33-8859-5c3d84838b77</webElementGuid>
+      <webElementGuid>81106d4e-1665-4b62-b0e6-c4222ce9e2b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div[2]/div[2]/button</value>
-      <webElementGuid>067798af-693f-4c5e-846f-2bfe84a6f561</webElementGuid>
+      <webElementGuid>ecf249fb-f10d-4ffb-b3ef-a08fb84ec12a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Pokračovať' or . = 'Pokračovať')]</value>
-      <webElementGuid>3bab4a47-d7c0-490f-b089-7e82b92ac8be</webElementGuid>
+      <webElementGuid>b84043cd-8137-49e8-9707-f97db460ddeb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -281,11 +281,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_alej_btn-odoslat-ziadost govuk-butto_d925c5'))
 
+WebUI.waitForJQueryLoad(60, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Prihlky a rozhodnutia  ePrihlky/span_check_circle_panel-text'), 
     'Prihlášku pre dieťa ste úspešne pridali.')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Prihlky a rozhodnutia  ePrihlky/input_Povinn prihlky na prijatie, ale kvli _9491e4'), 
-    (meno + '') + priezvisko)
+    (meno + ' ') + priezvisko)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Prihlky a rozhodnutia  ePrihlky/button_Povinn prihlky na prijatie, ale kvli_21db34'))
 

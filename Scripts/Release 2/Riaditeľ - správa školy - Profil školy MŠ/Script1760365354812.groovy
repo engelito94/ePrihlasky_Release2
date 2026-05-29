@@ -57,7 +57,7 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/P
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/button_Nie s dostupn dta_zobrazit-profil-sk_4af58a'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/div_Zavrie_title'), 
-    'Materská škola pre AT, Balková 8')
+    'Balková 8, 365 78 Banská Bystrica')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/ProfilSkoly/MS/Page_Njs kolu  ePrihlky/div_Wupertalsk 10, 041 01 Koice-Sdlisko KVP_9fdc95'), 
     'testovací popis 1')

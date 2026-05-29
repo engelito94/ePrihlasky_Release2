@@ -6,12 +6,12 @@
    <elementGuidId>1ebffa48-15a4-48a1-9faf-6b78dfb9c190</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h1.title.odbory-title</value>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-odbory']/div[7]/h1</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='riaditel-odbory']/div[6]/h1</value>
+         <key>CSS</key>
+         <value>h1.title.odbory-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>f2e6577b-f061-4bdb-a34a-8d8e014593fd</webElementGuid>
+      <webElementGuid>05eedeb1-1551-4db2-af5e-e4bedc13af0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title odbory-title</value>
-      <webElementGuid>a0549133-a56a-47a1-bc36-d25923fb065c</webElementGuid>
+      <webElementGuid>62885e78-b1ff-4139-86ba-082a7f15160a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Moje odbory</value>
-      <webElementGuid>1c76feb9-6597-42f6-8b76-b98d7c75e250</webElementGuid>
+      <webElementGuid>1a7cba71-3529-4ce4-8e09-5369218b2ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;riaditel-odbory&quot;)/div[6]/h1[@class=&quot;title odbory-title&quot;]</value>
-      <webElementGuid>ec2aa0e6-0829-4ce2-9ae0-470510917380</webElementGuid>
+      <webElementGuid>6a209fb2-5b6f-44b6-a44b-01062044cd92</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='riaditel-odbory']/div[6]/h1</value>
-      <webElementGuid>41bf248f-3f30-4b48-824d-6ae82a887e4a</webElementGuid>
+      <webElementGuid>cb3f575e-1d71-4f43-8b92-2ecb8a7576f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nahrať rozhodnutie'])[1]/following::h1[1]</value>
-      <webElementGuid>56ab13d0-4c5f-4c5b-a920-fe4fd59ed23c</webElementGuid>
+      <webElementGuid>cf773e37-b9bd-4e2a-8cf4-d9264c67b8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nie je možné zverejniť odbory.'])[1]/following::h1[1]</value>
-      <webElementGuid>c5991892-a934-406b-a41f-31f566a6cda5</webElementGuid>
+      <webElementGuid>a0d4b4c3-5eef-42f8-b5ae-3db81efaf67d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Školský rok'])[1]/preceding::h1[1]</value>
-      <webElementGuid>560c7a0e-ede8-47ba-b90c-556d7a0ac7b3</webElementGuid>
+      <webElementGuid>c8e9199c-3526-4a32-ac7d-656478039cb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[1]/preceding::h1[1]</value>
-      <webElementGuid>adea694d-5f7c-488e-ac94-73fb1d28576c</webElementGuid>
+      <webElementGuid>2e1bac90-b4bc-4285-bf68-586baef23406</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Moje odbory']/parent::*</value>
-      <webElementGuid>ea7556e9-fcd8-4fe9-be0f-d8fef51d4c67</webElementGuid>
+      <webElementGuid>7cdf49c5-488f-48af-80cd-c7d7fcbea73c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/h1</value>
-      <webElementGuid>47b67101-309c-4935-9f26-bfb1b159d588</webElementGuid>
+      <webElementGuid>e437db63-6ba1-4741-b75a-d3ddd0f6f04d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Moje odbory' or . = 'Moje odbory')]</value>
-      <webElementGuid>37f44164-ab57-4e02-8610-b53d4d0e4773</webElementGuid>
+      <webElementGuid>53f76222-dfe6-4d01-a3fd-de523feda57d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

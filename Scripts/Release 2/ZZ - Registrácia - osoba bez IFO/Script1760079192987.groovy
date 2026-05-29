@@ -93,6 +93,8 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Registracia/Page
 
 WebUI.waitForJQueryLoad(150)
 
+WebUI.delay(15)
+
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Registracia/Page_Registrcia  ePrihlky/div_Sksi znova_title'), 
     'Potvrdenie registrácie')
 

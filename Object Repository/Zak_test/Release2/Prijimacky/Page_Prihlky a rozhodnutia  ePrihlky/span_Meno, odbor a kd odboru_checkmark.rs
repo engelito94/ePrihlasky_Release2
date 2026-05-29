@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@id='vybratCheckbox']/span)[22]</value>
+         <value>//body/div[@class='wrapper-full']/div[@class='govuk-width-container']/div[@class='govuk-main-wrapper verejna-zona']/div[@class='sub-container']/div[@class='riaditel-prijimacky-container']/div[@class='fixed-left-column']/div[2]/div[1]/div[1]/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3ce186c4-30b2-46bd-a925-bf364dd7d85d</webElementGuid>
+      <webElementGuid>30429e2a-c55c-4e5d-9a8b-18727180aae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkmark</value>
-      <webElementGuid>e5115b97-6e20-499a-87ab-6eb389e8af69</webElementGuid>
+      <webElementGuid>22520c48-1fe2-404c-897c-2f24eff1213f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vybrate-4732c3be-258b-4bb2-b740-bf2dc63b8bc1&quot;)/div[@id=&quot;vybratCheckbox&quot;]/span[@class=&quot;checkmark&quot;]</value>
-      <webElementGuid>384a30e7-30d5-40a3-a47a-5b9ae2e77ce3</webElementGuid>
+      <webElementGuid>1cd3a8e5-7d18-402d-8c14-a4aae8c0456d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>(//div[@id='vybratCheckbox']/span)[22]</value>
-      <webElementGuid>9470b5db-b243-4784-952b-c8fcee4a1c1b</webElementGuid>
+      <webElementGuid>80444bbc-fcfe-40df-a751-22b5dd2a172a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div[2]/div/div/span</value>
-      <webElementGuid>5e91c1b5-4ce3-43c8-be1e-4843975766f6</webElementGuid>
+      <webElementGuid>0bc61b3f-2071-486a-b8b6-df9b2eb84284</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

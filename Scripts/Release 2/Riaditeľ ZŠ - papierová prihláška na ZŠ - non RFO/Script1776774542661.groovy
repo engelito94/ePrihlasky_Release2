@@ -293,7 +293,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'Prihlášku pre dieťa ste úspešne pridali.')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Prihlky a rozhodnutia  ePrihlky/input_Povinn prihlky na prijatie, ale kvli _9491e4'), 
-    (meno + '') + priezvisko)
+    (meno + ' ') + priezvisko)
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Prihlky a rozhodnutia  ePrihlky/button_Povinn prihlky na prijatie, ale kvli_21db34'))
 

@@ -46,7 +46,7 @@ WebUI.waitForJQueryLoad(20)
 
 'Zoradenie'
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Prihlky naich iakov  ePrihlky/input_Vyhadvanie v prihlkach_fulltext-input'), 
-    (meno.toString() + '') + priezvisko.toString())
+    (meno.toString() + ' ') + priezvisko.toString())
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Prihlky naich iakov  ePrihlky/button_Vyhadvanie v prihlkach_fulltext-inpu_1e6782'))
 
@@ -222,7 +222,7 @@ prihlasovanie.odhlasPouzivatela()
 prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021626')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Prihlky naich iakov  ePrihlky/input_Vyhadvanie v prihlkach_fulltext-input'),
-	(meno.toString() + '') + priezvisko.toString())
+	(meno.toString() + ' ') + priezvisko.toString())
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaZZ/KontrolaZS/Page_Prihlky naich iakov  ePrihlky/button_Vyhadvanie v prihlkach_fulltext-inpu_1e6782'))
 

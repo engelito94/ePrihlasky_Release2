@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::div[5]</value>
+         <value>//div[contains(text(),'Vygenerovať správu o plnom počte bodov')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c03cfcc6-108c-450b-b932-f115c760b2f4</webElementGuid>
+      <webElementGuid>4758cdec-9a85-4189-b9fd-2f7eca89f74d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title</value>
-      <webElementGuid>a8aa96a0-4606-489b-a936-87cf9154b03f</webElementGuid>
+      <webElementGuid>d86fa024-6fb0-40e4-9066-d681a7b46359</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vygenerovať správu o plnom počte bodov</value>
-      <webElementGuid>82c5237f-a36b-4fde-9c35-049dfe5343e9</webElementGuid>
+      <webElementGuid>26fb9f6c-7776-4024-b544-79f551397cec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;modal-wrapper confirm-modal-wrapper&quot;]/div[@class=&quot;modal confirm-modal modal-127-MO&quot;]/div[@class=&quot;modal-header title-with-border&quot;]/div[@class=&quot;title-wrapper&quot;]/div[@class=&quot;title&quot;]</value>
-      <webElementGuid>b6813e41-30a1-475f-8378-c03328682567</webElementGuid>
+      <webElementGuid>507e7584-7366-4207-ab9f-e692ceaf293c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::div[5]</value>
-      <webElementGuid>1f1f0e1c-5264-4d28-be8b-ee92a903d3be</webElementGuid>
+      <webElementGuid>1b56ff83-a55d-4c20-ab06-b5ed59a8366f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::div[5]</value>
-      <webElementGuid>9910c0d0-dd42-4faf-821b-f1c283cb511d</webElementGuid>
+      <webElementGuid>3451b819-08af-4508-b561-ba4bdac9afab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Želáte si pokračovať?'])[1]/preceding::div[1]</value>
-      <webElementGuid>fe64a1f7-a972-43a1-a5c4-3143835e6bd2</webElementGuid>
+      <webElementGuid>e4061427-80d9-4823-9db5-259ac4391218</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[4]/preceding::div[2]</value>
-      <webElementGuid>71f19196-dd3a-4d2f-85e6-5eeec80d07ad</webElementGuid>
+      <webElementGuid>61ca5eed-85f8-4329-85b7-b8f0139bdc0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vygenerovať správu o plnom počte bodov']/parent::*</value>
-      <webElementGuid>21c83d50-44f4-40f7-89fa-636c40df0a5c</webElementGuid>
+      <webElementGuid>fa565f4c-6878-419b-abf0-f6e900ed84f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div[8]/div/div/div/div</value>
-      <webElementGuid>2fb9a23e-0f58-4fa0-b6cd-221393ba31f9</webElementGuid>
+      <webElementGuid>d0e75b16-2bea-4b33-89ae-99d7e9d45614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Vygenerovať správu o plnom počte bodov' or . = 'Vygenerovať správu o plnom počte bodov')]</value>
-      <webElementGuid>ecb0c1af-841b-40d6-a7d1-30bb58c303e3</webElementGuid>
+      <webElementGuid>7adcd936-75bf-40e2-b7da-6e5066c2ca5f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
