@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nvod na pouvanie_material-icons govuk-_38ec53</name>
+   <tag></tag>
+   <elementGuidId>7a5967ac-35fc-44a5-99f4-6e86fcc76f1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/div[2]/div/div/div/h4/button/span[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sub-riaditel-prijimacky > div.faq-list.margin-bottom-30 > div.govuk-accordion > div.govuk-accordion__section > div.govuk-accordion__section-header > h4.govuk-accordion__section-heading.govuk-heading-m > button.govuk-accordion__section-button.flex-center-ver.data-faq-question > span.govuk-accordion__section-toggle > span.govuk-accordion__section-toggle-focus > span.material-icons.govuk-accordion-nav__chevron--down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc131b97-fcd1-42fc-8db3-44b263cf6967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons govuk-accordion-nav__chevron--down</value>
+      <webElementGuid>1c3e90d6-5acb-4922-b5a5-beec3db55687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ffa6b506-3c2a-41c6-a20d-a92170c651b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    add
+                                </value>
+      <webElementGuid>13cf2a30-cff3-431d-a904-706e35758863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;faq-list margin-bottom-30&quot;]/div[@class=&quot;govuk-accordion&quot;]/div[@class=&quot;govuk-accordion__section&quot;]/div[@class=&quot;govuk-accordion__section-header&quot;]/h4[@class=&quot;govuk-accordion__section-heading govuk-heading-m&quot;]/button[@class=&quot;govuk-accordion__section-button flex-center-ver data-faq-question&quot;]/span[@class=&quot;govuk-accordion__section-toggle&quot;]/span[@class=&quot;govuk-accordion__section-toggle-focus&quot;]/span[@class=&quot;material-icons govuk-accordion-nav__chevron--down&quot;]</value>
+      <webElementGuid>6fbb117a-f1eb-4908-b351-a00d566a7550</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[2]/div/div/div/h4/button/span[2]/span/span</value>
+      <webElementGuid>cb889237-ad11-424c-8b7b-dcf887df38a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Návod na používanie'])[1]/following::span[3]</value>
+      <webElementGuid>33b3a0a1-0c64-4ea3-827e-bfc70c2ed8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pozvánky na prijímacie skúšky'])[1]/following::span[5]</value>
+      <webElementGuid>f85c2a09-a151-4b26-b133-d36e457c19eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odoslanie správy o plnom počte bodov'])[1]/preceding::span[1]</value>
+      <webElementGuid>9eea15c5-827c-484f-85a7-d5bef7ac04cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hromadná pozvánka na prijímacie skúšky'])[1]/preceding::span[1]</value>
+      <webElementGuid>5fee1335-a969-4573-889c-36c9f0cc3897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div/h4/button/span[2]/span/span</value>
+      <webElementGuid>66d1189c-90da-4f3a-a82a-99e9bad702ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                    add
+                                ' or . = '
+                                    add
+                                ')]</value>
+      <webElementGuid>92ea0793-70bb-47ca-a67f-54275ec40d61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

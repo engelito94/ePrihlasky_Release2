@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1</name>
+   <tag></tag>
+   <elementGuidId>4a80c056-fcde-484b-ae29-7ab22a7bde92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup-main']/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#popup-main > div.popup-content > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fce2ed4c-3c92-4fb1-bbf9-1ff8c139650a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: void(0);</value>
+      <webElementGuid>ba5d0acf-4b8d-4af5-9443-f04c4d3995a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stiahnuť PDF - Pozvánka</value>
+      <webElementGuid>ceb116b6-83d5-4ef4-8237-3ff191815ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup-main&quot;)/div[@class=&quot;popup-content&quot;]/a[2]</value>
+      <webElementGuid>2e8ef3c6-b218-4aab-a127-a1fe132b6b09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup-main']/div/a[2]</value>
+      <webElementGuid>b1b6c81f-8a64-4874-a83d-264b65e5c988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Stiahnuť PDF - Pozvánka')])[2]</value>
+      <webElementGuid>e4c65611-6176-4cdf-9f06-6c8c8accd799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[2]/following::a[1]</value>
+      <webElementGuid>e9fb09c4-77c0-4478-a694-f5f4e0ca5004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='xlsx'])[6]/following::a[2]</value>
+      <webElementGuid>b108fa14-e686-4c5f-85d5-915732af97d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stiahnuť PDF - Správa o bodoch'])[2]/preceding::a[1]</value>
+      <webElementGuid>b16896c7-5f2d-4762-876e-408e76d0b268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť údaje rozhodnutia'])[1]/preceding::a[2]</value>
+      <webElementGuid>dbe308d2-6870-4c0f-8b7a-d512486435a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript: void(0);')])[33]</value>
+      <webElementGuid>e2a1c0da-d154-49d3-ad01-62def2dc43b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/a[2]</value>
+      <webElementGuid>9612df5e-71e9-4aec-ab64-3a6f062408ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript: void(0);' and (text() = 'Stiahnuť PDF - Pozvánka' or . = 'Stiahnuť PDF - Pozvánka')]</value>
+      <webElementGuid>b2ba89d1-47e1-4fd7-8188-11a6962eec97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

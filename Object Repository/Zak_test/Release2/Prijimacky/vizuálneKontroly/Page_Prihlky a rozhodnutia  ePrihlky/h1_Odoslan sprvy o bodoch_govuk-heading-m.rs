@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Odoslan sprvy o bodoch_govuk-heading-m</name>
+   <tag></tag>
+   <elementGuidId>2ccda8c7-1d01-405c-baa1-0f654aed7dba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sub-riaditel-prijimacky > h1.govuk-heading-m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2aa75ce5-27d8-4c5b-8659-90bcfb3828ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-heading-m</value>
+      <webElementGuid>4b113912-3b64-4ed7-aa58-d4b76a665f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pozvánky na prijímacie skúšky</value>
+      <webElementGuid>9642d322-05eb-48df-bfcf-0aeeb4a86619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/h1[@class=&quot;govuk-heading-m&quot;]</value>
+      <webElementGuid>83b01df5-6fbd-4584-8881-28f75e4196a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/h1</value>
+      <webElementGuid>88487a07-4a79-4ca1-a023-7a91b201af1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odoslané správy o bodoch'])[1]/following::h1[1]</value>
+      <webElementGuid>6048205f-7506-4933-be9d-8dbdd0c5aefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nerobia prijímačky'])[1]/following::h1[1]</value>
+      <webElementGuid>56d00ef0-de8e-480c-9626-686ff573cc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Návod na používanie'])[1]/preceding::h1[1]</value>
+      <webElementGuid>70bcd7e6-be1f-48dc-9a53-8c5f0d8cf0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odoslanie správy o plnom počte bodov'])[1]/preceding::h1[1]</value>
+      <webElementGuid>942f0b0a-1051-420d-8a1b-88cfcb03526e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pozvánky na prijímacie skúšky']/parent::*</value>
+      <webElementGuid>cc27b1fd-2ec9-4034-bfcd-1a3cd9cefd8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/h1</value>
+      <webElementGuid>e5248615-3444-4795-89d5-2cb8476306dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Pozvánky na prijímacie skúšky' or . = 'Pozvánky na prijímacie skúšky')]</value>
+      <webElementGuid>fb20fab4-07f5-4bb6-8c9f-b6422ba0c19e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

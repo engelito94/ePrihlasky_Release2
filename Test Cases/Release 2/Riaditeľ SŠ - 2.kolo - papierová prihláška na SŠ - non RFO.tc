@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Riaditeľ SŠ - 2.kolo - papierová prihláška na SŠ - non RFO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb5e31ed-e9cf-4880-85dd-67d6ce5709d8</testCaseGuid>
+</TestCaseEntity>

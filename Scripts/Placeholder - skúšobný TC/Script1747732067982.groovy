@@ -1,25 +1,12 @@
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
-import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
-import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
-import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
-import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
-import com.kms.katalon.core.model.FailureHandling as FailureHandling
-import com.kms.katalon.core.testcase.TestCase as TestCase
-import com.kms.katalon.core.testdata.TestData as TestData
-import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.TestObject as TestObject
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable
+
+import com.kms.katalon.core.configuration.RunConfiguration
+
 import portal.Helper
-import portal.Prihlasovanie as Prihlasovanie
-import com.kms.katalon.core.testobject.ConditionType as ConditionType
-import org.openqa.selenium.Keys as Keys
+
+import java.time.LocalDate
+import java.time.LocalDateTime as LocalDate
+
 /**
 // Automat 1 - netalent 1
 WebUI.setText(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/FilterSKoly/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_Nzov koly alebo jej adresa_fulltext-input-SS'), 
@@ -326,20 +313,33 @@ Mail mail = new Mail()
 Helper help = new Helper()
 
 
+def filePath = RunConfiguration.getProjectDir()
 
-String identifikator = 'P-2026-13334'
+def priloha = filePath + '/Data Files/PozvánkaPredloha.pdf'
 
-int lastDash = identifikator.lastIndexOf('-')
-String prefix = identifikator[0..lastDash]          // "P-2026-"
-String numberPart = identifikator[(lastDash+1)..-1] // "13334"
 
-int lastNumber = numberPart.toInteger()
-String identifikator1 = "${prefix}${lastNumber + 1}"
 
-String teloMailu = mail.getLastEmailText('pop.gmail.com', 'pop3', GlobalVariable.mailLogin, GlobalVariable.mailHeslo)
-teloMailu = help.cleanupCidUrls(teloMailu)
-println(teloMailu)
-teloMailu = teloMailu.replaceAll(/\r?\n+/, ' ').replaceAll(/\s+/, ' ').trim()
-assert teloMailu.equals('Vážený/á pán/pani Tomáš Lukáč, v systéme bolo zistené, že pre žiaka Jana Nováková nar. 18.01.2010 boli podané viaceré prihlášky. Riaditeľ školy Stredná škola pre AT vás týmto vyzýva, aby ste ho bezodkladne kontaktovali a informovali, ktorú prihlášku si želáte ponechať ako platnú. Sprievodná správa od riaditeľa: Prosím o vyriešenie konfliktu. Váš katalon :) Bez vyriešenia tohto konfliktu nebudú prihlášky ďalej spracované. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň.')
+def den = LocalDate.now().dayOfMonth
 
-//'Vážený/á pán/pani Tomáš Lukáč, v systéme bolo zistené, že pre žiaka Jana Nováková nar. 18.01.2010 boli podané viaceré prihlášky. Riaditeľ školy Stredná škola pre AT vás týmto vyzýva, aby ste ho bezodkladne kontaktovali a informovali, ktorú prihlášku si želáte ponechať ako platnú. Sprievodná správa od riaditeľa: Prosím o vyriešenie konfliktu. Váš katalon :) Bez vyriešenia tohto konfliktu nebudú prihlášky ďalej spracované. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň.'
+def mesiac = LocalDate.now().monthValue
+
+def rok = LocalDate.now().year
+
+def hodina = LocalDate.now().hour
+
+def minuta = LocalDate.now().minute
+
+if(mesiac < 10)
+{
+	mesiac = "0"+mesiac
+}
+
+if(den < 10)
+	{
+		den = "0"+den
+	}
+String cesta = "C:/Users/barcik/Downloads/Správa o bodoch_EDUID_910021624_"+rok+"-"+mesiac+"-"+den+"_"+hodina+"-"+minuta+".pdf"
+
+print(cesta)
+
+CustomKeywords.'com.kms.katalon.keyword.pdf.PDF.compareAllPages'(priloha, priloha, ['Lt1eGGzanuNB','Gizela Ábelová 13.01.2010'])

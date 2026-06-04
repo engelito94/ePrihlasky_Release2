@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Prihlky_ss-riaditel-prijimacky</name>
+   <tag></tag>
+   <elementGuidId>2bb3e6ec-f9f6-4b88-b928-4e0d34c6db05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ss-riaditel-prijimacky']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ss-riaditel-prijimacky</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4d4c180e-9385-4956-a3c7-e53470389161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ss-riaditel-prijimacky</value>
+      <webElementGuid>b68705c0-4efc-43ee-a6ba-13b23b14e47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-header__navigation-item</value>
+      <webElementGuid>ca48c644-9a62-4323-b119-3a683856df46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>c4068e25-0f0b-4309-88e8-c86d64544c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    
+                                        Prijímačky
+                                    
+                                </value>
+      <webElementGuid>f30eac56-198e-4ddc-9534-8e7585e75d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ss-riaditel-prijimacky&quot;)</value>
+      <webElementGuid>612e220a-b54f-4bdc-892a-80e18749ae56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='ss-riaditel-prijimacky']</value>
+      <webElementGuid>edc0702a-d932-48ea-b70a-c7a08f1fe63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-navigation']/div/ul/li[2]</value>
+      <webElementGuid>1e558996-7254-4ef1-9ff6-e6d681621624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prihlášky'])[1]/following::li[1]</value>
+      <webElementGuid>eda932fc-90ff-4a4c-94d7-8ef9ad9218ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[5]/following::li[2]</value>
+      <webElementGuid>b7f29710-9df5-452d-a3dd-175cfd756f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poradie'])[1]/preceding::li[1]</value>
+      <webElementGuid>d8263151-f095-452e-b5ec-dd5e5cd268e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li[2]</value>
+      <webElementGuid>c158d4b5-4e8f-4822-84ba-f65b778b83aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'ss-riaditel-prijimacky' and (text() = '
+                                    
+                                        Prijímačky
+                                    
+                                ' or . = '
+                                    
+                                        Prijímačky
+                                    
+                                ')]</value>
+      <webElementGuid>16ae18f8-3e4f-4940-ab2c-721458561500</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Komunikcia_name-label</name>
+   <tag></tag>
+   <elementGuidId>d0eadf11-de81-429d-a91d-daa8935bc495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[3]/div/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.riaditel-prijimacky-cell.prijimacie-skusky-cell.cell-pink > div.name-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7551165f-f955-4e05-9ae0-22e55d165f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-label</value>
+      <webElementGuid>ea4378b1-f867-4d33-88a6-5bb3d6debc45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nie</value>
+      <webElementGuid>d200f4e2-35a1-4a6c-8c50-7ce7b85984eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;riaditel-prijimacky-container&quot;]/div[@class=&quot;scrollable-middle-area&quot;]/div[@class=&quot;scroll-content-wrapper&quot;]/div[@class=&quot;row data-row&quot;]/div[@class=&quot;riaditel-prijimacky-cell prijimacie-skusky-cell cell-pink&quot;]/div[@class=&quot;name-label&quot;]</value>
+      <webElementGuid>527c3e26-3b53-445c-aa88-a5c9c4943bf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[3]/div/div[2]/div[3]/div</value>
+      <webElementGuid>3ec0e211-cb79-4afe-9434-c33f52fa9d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komunikácia'])[1]/following::div[7]</value>
+      <webElementGuid>90363390-4458-49a5-b0da-3719d65c1552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miestnosť'])[1]/following::div[8]</value>
+      <webElementGuid>99cf8a7e-9cac-46b2-a0a7-58008d1266c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Náhradný termín'])[1]/preceding::div[2]</value>
+      <webElementGuid>92efbbf9-126d-40f3-8af9-fa325220a8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[4]</value>
+      <webElementGuid>6cafe597-62c3-408b-becc-40c74ccfe47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nie']/parent::*</value>
+      <webElementGuid>376575a2-9b75-4726-a661-eedeb4281dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[3]/div</value>
+      <webElementGuid>ef59f167-baca-4074-8959-b6f5f293438d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nie' or . = 'Nie')]</value>
+      <webElementGuid>70d70ca6-b751-4c59-a54f-300b3e6ed72f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

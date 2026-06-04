@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Upravi informcie_prij_edit_meno</name>
+   <tag></tag>
+   <elementGuidId>d2c1cf41-d2bf-4a06-8e02-1705fccbffff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='prij_edit_meno']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#prij_edit_meno</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>e8943854-2a67-4bb0-8272-6b331838cc9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prij_edit_meno</value>
+      <webElementGuid>d829a191-86cb-499a-8d06-b06c74faae9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-!-margin-bottom-0  govuk-!-margin-top-1</value>
+      <webElementGuid>b1bb43e1-e25f-4088-b6a5-15f57e8d5aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Balážová Tomáša</value>
+      <webElementGuid>a9820fcd-62b1-4d17-be1c-b746cb6fe807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prij_edit_meno&quot;)</value>
+      <webElementGuid>70296c96-6782-4f2e-a0b9-a72599959148</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4[@id='prij_edit_meno']</value>
+      <webElementGuid>19d665ce-75ff-4118-b134-ec7c7c8bcf3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[9]/div/div[2]/div/h4</value>
+      <webElementGuid>2393efcc-e2e5-40fa-93f3-239a00a79e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť informácie'])[1]/following::h4[1]</value>
+      <webElementGuid>7990098b-7f9e-4b7b-acfb-27c930212415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtrovať'])[2]/following::h4[1]</value>
+      <webElementGuid>c0ddebe3-6f34-4fc3-97cf-bb5924ce5eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- kvasná technológia • slovenský • 2940M04'])[1]/preceding::h4[1]</value>
+      <webElementGuid>aad307a8-6ff0-42c9-b31c-d10e7fc1eaff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4</value>
+      <webElementGuid>9e59ad65-86a0-450c-95da-fd5aa07b5253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'prij_edit_meno' and (text() = 'Balážová Tomáša' or . = 'Balážová Tomáša')]</value>
+      <webElementGuid>05bf16de-eafd-40ca-97a0-0612f6b0f2cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

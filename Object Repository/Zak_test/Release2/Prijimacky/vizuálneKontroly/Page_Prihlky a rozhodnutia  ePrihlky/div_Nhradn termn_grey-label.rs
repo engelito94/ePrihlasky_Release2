@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nhradn termn_grey-label</name>
+   <tag></tag>
+   <elementGuidId>38eb7bc2-96c1-45cd-96f8-906bc4b3b5d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[3]/div/div[2]/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.riaditel-prijimacky-cell.datum-cell > div.grey-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a76d3ea7-b680-44f2-b67c-d4d7f896f67f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-label</value>
+      <webElementGuid>15f4e093-c8a3-4263-a4ad-c0a565750a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11.11.2111</value>
+      <webElementGuid>e8872fd9-32ff-426d-b6ba-56884745afd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;riaditel-prijimacky-container&quot;]/div[@class=&quot;scrollable-middle-area&quot;]/div[@class=&quot;scroll-content-wrapper&quot;]/div[@class=&quot;row data-row&quot;]/div[@class=&quot;riaditel-prijimacky-cell datum-cell&quot;]/div[@class=&quot;grey-label&quot;]</value>
+      <webElementGuid>bb6e42fd-3062-47b0-b635-693a81f60f91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[5]/div[3]/div/div[2]/div[5]/div</value>
+      <webElementGuid>94e92763-fc8f-45ba-b818-dca94efea0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Náhradný termín'])[1]/following::div[2]</value>
+      <webElementGuid>83fdd068-87c1-4395-8109-8dc94d405db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Áno'])[1]/following::div[5]</value>
+      <webElementGuid>657efb66-2f17-4629-90e0-eda2bf5cced2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[3]</value>
+      <webElementGuid>d8766c47-5ae7-418f-bfe5-54fab58749b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Náhradný termín'])[2]/preceding::div[5]</value>
+      <webElementGuid>d266800e-dd9c-48d6-80d3-2e1b1e0b4169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11.11.2111']/parent::*</value>
+      <webElementGuid>fa9e1a95-5895-453d-a8e0-20db9014368c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[5]/div</value>
+      <webElementGuid>2e18c5e9-df13-446b-b840-40be615438d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '11.11.2111' or . = '11.11.2111')]</value>
+      <webElementGuid>efe71f48-8e17-41e5-9ed8-e7ab06c4810c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

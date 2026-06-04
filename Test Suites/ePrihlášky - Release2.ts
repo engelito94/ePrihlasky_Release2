@@ -89,52 +89,73 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>23ccf918-40a9-4ddd-863e-52f3c98a3c14</guid>
+      <guid>e545fd4a-7b57-4126-85c0-c96437ef76d4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/ZZ - Prihláška - 2.kolo - non RFO dieťa zo ZŠ na Slovensku</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f9b824e6-8cb9-461f-bce1-0a6259853242</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - 2.kolo - papierová prihláška na SŠ - non RFO</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>23ccf918-40a9-4ddd-863e-52f3c98a3c14</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Prihláška - dieťa je zo ZŠ mimo SK - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>51f77370-d105-4202-89f5-b28d53018350</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Prihláška - dieťa zo ZŠ na SK - RFO - Vymazanie prihlášky</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>843bf554-927a-4075-82ae-bf8ed3206c71</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Prihláška na SŠ - non RFO dieťa zo ZŠ na Slovensku</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>796a5ca1-40fa-45f2-8227-17733e82893a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Prílohy doplnenie - Vyžiadanie riaditeľom SŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>10991be7-a59b-4e5a-84d7-7f2be4f09d11</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Riaditeľ - Vytvorenie konfliktu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0c968d57-e4ff-4dd9-9478-4c2fa7fc2ae4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - Konflikt - Vyriešenie</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b16053c1-1406-4a9b-97f8-1864bcc062fb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ - Prijímačky SŠ - úprava, náhradný termín</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>5842803a-7085-407d-be26-37795427edb8</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/Riaditeľ - Prijímačky SŠ</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ - Prijímačky SŠ - pozvánka, správa o bodoch</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -203,15 +224,15 @@
    <testCaseLink>
       <guid>ca7e4338-900e-4668-8a90-be4eb3aeadfb</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Odbory - Pridať odbor - stav Skontrolovaný</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fc1c2e01-e076-4f95-9f98-ce44f7e9446a</guid>
+      <guid>07ad6fd0-04c1-481b-b6f9-97093fee3b6d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/Riaditeľ - Prijímačky SŠ</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Release 2/Odbory - Odstrániť odbor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

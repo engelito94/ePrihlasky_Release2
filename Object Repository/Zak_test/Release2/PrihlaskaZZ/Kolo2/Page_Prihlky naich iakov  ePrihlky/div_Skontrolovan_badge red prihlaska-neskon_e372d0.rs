@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Skontrolovan_badge red prihlaska-neskon_e372d0</name>
+   <tag></tag>
+   <elementGuidId>abfc8c57-51b4-445f-9ed4-84fba6d82e51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[4]/div/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.badge.red.prihlaska-neskontrolovana</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7802fc87-493d-4cce-8568-7aaf9efe4da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge red prihlaska-neskontrolovana</value>
+      <webElementGuid>82146466-e8e3-433c-a8f6-6b182c69d896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Neskontrolovaná</value>
+      <webElementGuid>753277d2-c4fe-4a4b-9cf0-ffafacb67393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-prihlasky-na-strednu-skolu&quot;)/div[@class=&quot;riaditel-prihlasky-nasich-ziakov-container&quot;]/div[@class=&quot;scrollable-middle-area&quot;]/div[@class=&quot;scroll-content-wrapper&quot;]/div[@class=&quot;row data-row&quot;]/div[@class=&quot;riaditel-prihlasky-cell&quot;]/div[@class=&quot;badge red prihlaska-neskontrolovana&quot;]</value>
+      <webElementGuid>9cf9023a-fbf9-4961-a61b-5572dbc990d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='riaditel-prihlasky-na-strednu-skolu']/div[3]/div[4]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>cbe78870-319e-49ca-9290-b2c6197c7c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skontrolovaná'])[1]/following::div[1]</value>
+      <webElementGuid>d9d48389-f15f-44c9-9620-cebc844b3f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Podaná'])[2]/following::div[4]</value>
+      <webElementGuid>0ff52f9d-9ced-4caf-86c0-82e7d81d5870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronicky'])[1]/preceding::div[2]</value>
+      <webElementGuid>c3f689a5-3f3a-4395-8630-b5f7dc66b1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talent'])[1]/preceding::div[6]</value>
+      <webElementGuid>b7d648c0-f90f-44c0-a01f-afda82216997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neskontrolovaná']/parent::*</value>
+      <webElementGuid>481d8d3b-4d2b-4466-812b-c4864713d534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>8fc58dc2-8d29-4c2d-9e9f-72832fbb2f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Neskontrolovaná' or . = 'Neskontrolovaná')]</value>
+      <webElementGuid>a4ad24f3-083a-474e-ad4d-c47af9cb19ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

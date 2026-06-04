@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zrui_btn-edit govuk-button govuk-but_6cb5b0</name>
+   <tag></tag>
+   <elementGuidId>4ababffd-8c27-451c-a7f9-e5c3781f457f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-riaditel-prijimacky']/div[9]/div/div[3]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-edit.govuk-button.govuk-button--basic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>abc3a339-5233-470d-ba52-cf610512be6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-edit govuk-button govuk-button--basic</value>
+      <webElementGuid>0bd4c8c6-3f5e-40a9-849f-7479bfca27cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uložiť</value>
+      <webElementGuid>87a7d821-6dcb-482f-909a-be60fa84290b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;modal-wrapper upravit-prijimacku-modal-wrapper&quot;]/div[@class=&quot;modal upravit-prijimacku-modal&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;right-buttons-modal&quot;]/button[@class=&quot;btn-edit govuk-button govuk-button--basic&quot;]</value>
+      <webElementGuid>47947761-06f3-455f-b7af-dfbd6cea782e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sub-riaditel-prijimacky']/div[9]/div/div[3]/div/button</value>
+      <webElementGuid>b748f0ca-3aec-41ed-86e2-df89a5ce4686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[1]/following::button[1]</value>
+      <webElementGuid>f97aab3a-9eaf-4ee4-9cf7-c8da10526afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neodoslaná'])[7]/following::button[2]</value>
+      <webElementGuid>ec7049a6-8144-4217-8012-32a8731ce630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nastavenie termínu skúšky'])[2]/preceding::button[1]</value>
+      <webElementGuid>e31d9acd-630b-42a6-b3f6-57035371276c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre vybraných žiakov.'])[1]/preceding::button[1]</value>
+      <webElementGuid>ff4b8eb8-648c-4779-bc34-c7061f968053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[3]/div/button</value>
+      <webElementGuid>6aaf74cf-cee2-4745-9e07-e3d7e8705ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Uložiť' or . = 'Uložiť')]</value>
+      <webElementGuid>3a32bd16-5203-4d28-a98e-f78306616f9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -10,11 +10,15 @@
          <value>#dietaMeno</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'dietaMeno']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='dietaMeno']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>720ea3a2-f7da-4109-8b3c-cbb787cbadb6</webElementGuid>
+      <webElementGuid>98077b92-7939-4ca3-9b3c-06dd0c9f43fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +35,15 @@
       <name>id</name>
       <type>Main</type>
       <value>dietaMeno</value>
-      <webElementGuid>1d39e776-9505-402c-9223-2b0c1b3967b8</webElementGuid>
+      <webElementGuid>26eb5970-cb30-4679-adf4-10e83e0cf9be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Dávid</value>
-      <webElementGuid>3ef1a327-f32b-4291-b03a-d14bf7998710</webElementGuid>
+      <webElementGuid>b9be5104-db43-4883-a338-c7ceef400266</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dietaMeno&quot;)</value>
-      <webElementGuid>ada91de7-bd17-422d-a2e5-53d3ef0b39ae</webElementGuid>
+      <webElementGuid>6168895c-00ed-4951-8e9d-9a175c2ca09f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='dietaMeno']</value>
-      <webElementGuid>f9b824bb-12cf-437b-92a3-fb6553dff428</webElementGuid>
+      <webElementGuid>58f0f240-6f4d-4d0e-ba4c-db6e11de21c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detail-prihlasky-riad-SS-content']/div[5]/div[2]/div/div[2]</value>
-      <webElementGuid>006e0503-6d4d-4acd-91d0-7b76cb8d17d4</webElementGuid>
+      <webElementGuid>16d7db74-2cdb-4adf-9f0b-4f4f5763d2b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Meno'])[1]/following::div[1]</value>
-      <webElementGuid>71c1c911-9bac-45b3-9110-7d3ae745cc3a</webElementGuid>
+      <webElementGuid>2a283da9-2f8b-4bda-ba24-a179a8a4609a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='remove'])[2]/following::div[4]</value>
-      <webElementGuid>011c9a0f-2528-453c-9f7a-76e84e7c5baf</webElementGuid>
+      <webElementGuid>266bfaef-5d4f-4dcf-824e-de028bd89982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Priezvisko'])[1]/preceding::div[1]</value>
-      <webElementGuid>a0ff0dd6-f3aa-48a2-ac31-b25d50d7ac9b</webElementGuid>
+      <webElementGuid>b5aea83e-67fc-4eb6-bd77-6503ecdf79ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hraško'])[1]/preceding::div[2]</value>
-      <webElementGuid>d548a6cb-8269-4d1c-84a8-8227e63a8d31</webElementGuid>
+      <webElementGuid>86b6429f-1c62-45ba-8029-19784f5f948b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Dávid']/parent::*</value>
-      <webElementGuid>4bdcf64b-a4f5-4377-8fc0-64f076b6e33a</webElementGuid>
+      <webElementGuid>a17ed2f6-9c0e-4856-80d5-d6eae2680413</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div/div[2]</value>
-      <webElementGuid>8c002338-ff77-4703-ab9d-01619872a255</webElementGuid>
+      <webElementGuid>f4056be6-55a4-4873-abc3-e432a0322a94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +123,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'dietaMeno' and (text() = 'Dávid' or . = 'Dávid')]</value>
-      <webElementGuid>f71bbd54-c49d-4f7a-870a-ee5ad78ddafa</webElementGuid>
+      <webElementGuid>b18ee17d-e8ab-42f5-a930-f56206c65ef5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

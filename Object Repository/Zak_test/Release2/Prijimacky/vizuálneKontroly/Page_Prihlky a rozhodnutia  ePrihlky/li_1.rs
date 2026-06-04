@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1</name>
+   <tag></tag>
+   <elementGuidId>1924d397-5b32-4121-9d83-d2b6ac2a259d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='acc-content-0']/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#acc-content-0 > ul > li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>37b09e25-3db1-4c9c-8dd0-5c7c6d363bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Neodoslaná</value>
+      <webElementGuid>65fe917d-9f01-443f-8ed9-84c88d5837b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub-riaditel-prijimacky&quot;)/div[@class=&quot;faq-list margin-bottom-30&quot;]/div[@class=&quot;govuk-accordion&quot;]/div[@class=&quot;govuk-accordion__section&quot;]/div[@id=&quot;acc-content-0&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>cb004f0d-2507-43a0-8eee-49ef524ae5d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='acc-content-0']/ul/li[2]</value>
+      <webElementGuid>f419e27d-c39a-4f90-a32f-71b33880fab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odoslaná - prečítaná alebo neprečítaná v centre oznámení'])[1]/following::li[1]</value>
+      <webElementGuid>f8b67eef-b98e-48eb-a910-af310069967c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stav komunikácie'])[1]/following::li[2]</value>
+      <webElementGuid>9f275b43-8f46-46ca-9eae-bc819cfd4661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chyba doručenie - odošlite znova pomocou tlačidla „Odoslať znova“.'])[1]/preceding::li[1]</value>
+      <webElementGuid>a432ef3c-27fb-4654-b0c8-149aba3d9ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export tabuľky'])[1]/preceding::li[2]</value>
+      <webElementGuid>094598d4-8297-4896-a9ef-7ddd8baa2b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Neodoslaná']/parent::*</value>
+      <webElementGuid>141123f5-d517-48fb-8e1d-b673fb0d11fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/ul/li[2]</value>
+      <webElementGuid>db165297-5053-4ca8-9a6a-4669ede01bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Neodoslaná' or . = 'Neodoslaná')]</value>
+      <webElementGuid>c5af8f5e-faf0-4d6d-af30-130fd47b92f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
