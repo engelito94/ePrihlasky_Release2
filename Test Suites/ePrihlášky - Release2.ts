@@ -49,15 +49,29 @@
    <testCaseLink>
       <guid>82c3651e-2db7-46a9-a90e-23f1e11e2267</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - papierová prihláška na SŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>487da88b-cb85-41f6-ab6a-fe27e7324942</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ ZŠ - papierová prihláška na SŠ - RFO</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f9b824e6-8cb9-461f-bce1-0a6259853242</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - 2.kolo - papierová prihláška na SŠ - non RFO</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>491c147a-b305-4496-b4b3-9027cc691c06</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ ZŠ - 2.kolo - Prihláška na SŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -96,10 +110,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f9b824e6-8cb9-461f-bce1-0a6259853242</guid>
+      <guid>3405de85-e861-4366-ab73-8bd434e5bb91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/Riaditeľ SŠ - 2.kolo - papierová prihláška na SŠ - non RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/ZZ - 2.kolo - Prílohy doplnenie - Vyžiadanie riaditeľom SŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -161,14 +175,14 @@
    <testCaseLink>
       <guid>4e7f180b-58d8-4ab9-87ec-a8215eb508af</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Prihláška na ZŠ - non RFO dieťa</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>124b9d36-7aca-4746-891d-aa2aefe141f4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ - Prílohy doplnenie - Vyžiadanie riaditeľom ZŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
