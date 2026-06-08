@@ -30,7 +30,7 @@ Subor subor = new Subor()
 
 def filePath = RunConfiguration.getProjectDir()
 
-def udaje = subor.dajDietaRiadSS(filePath + '/Data Files/detiZSNonRFO.txt')
+def udaje = subor.dajDietaRiadSS(filePath + '/Data Files/detiMSNonRFO.txt')
 
 def meno = udaje.meno
 
@@ -61,7 +61,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Pa
     'Slovensko')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_(nepovinn)_govuk-input autocomplete-input'), 
-    'Sloven')
+    'Slovenská re')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Riad_UpravaMS/Page_Upravi prihlku  ePrihlky/div_Veobecn informcie                      _1aa588'))
 
@@ -134,7 +134,6 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papi
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/div_Prilote vetky potrebn prlohy_govuk-acco_a7b82c'))
 
 //WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/a_alebo ho sem potiahnite (max. 10 MB, vo f_05689b'))
-
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Vytvorenie elektronickej prihlky  ePrihlky/button_Sp_btn-dalej govuk-button govuk-butt_c9f647'))
 
 def den = LocalDate.now().dayOfMonth

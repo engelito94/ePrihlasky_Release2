@@ -3,12 +3,10 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-
-import java.time.LocalDate
-import java.time.LocalDateTime
-
-import com.kms.katalon.core.checkpoint.Checkpoint
-import com.kms.katalon.core.configuration.RunConfiguration
+import java.time.LocalDate as LocalDate
+import java.time.LocalDateTime as LocalDateTime
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
@@ -19,9 +17,8 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable
-import portal.Prihlasovanie
-
+import internal.GlobalVariable as GlobalVariable
+import portal.Prihlasovanie as Prihlasovanie
 import org.openqa.selenium.Keys as Keys
 
 Prihlasovanie prihlasovanie = new Prihlasovanie()
@@ -29,6 +26,7 @@ Prihlasovanie prihlasovanie = new Prihlasovanie()
 def filePath = RunConfiguration.getProjectDir()
 
 def pozvanka = filePath + '/Data Files/PozvánkaPredloha.pdf'
+
 def body = filePath + '/Data Files/BodyPredloha.pdf'
 
 prihlasovanie.prihlasRiaditela('930593020', 'hvisbbHiKeCSox23I94xOA==', GlobalVariable.F2A, '910021624')
@@ -43,9 +41,11 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizu�
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/strong'), 
     'Odoslanie správy o plnom počte bodov')
 
-WebUI.verifyTextPresent('Pre žiakov, ktorí nerobia prijímacie skúšky kvôli dobrým výsledkom na Testovaní 9 (T9), môžete hromadne odoslať správu o plnom počte bodov na e-mail zákonného zástupcu žiaka.',false)
+WebUI.verifyTextPresent('Pre žiakov, ktorí nerobia prijímacie skúšky kvôli dobrým výsledkom na Testovaní 9 (T9), môžete hromadne odoslať správu o plnom počte bodov na e-mail zákonného zástupcu žiaka.', 
+    false)
 
-WebUI.verifyTextPresent('Označte vybraných uchádzačov, kliknite na tlačidlo "Vykonať akciu" a vyberte "Odoslať správu o plnom počte bodov".', false)
+WebUI.verifyTextPresent('Označte vybraných uchádzačov, kliknite na tlačidlo "Vykonať akciu" a vyberte "Odoslať správu o plnom počte bodov".', 
+    false)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/strong_1'), 
     'Hromadná pozvánka na prijímacie skúšky')
@@ -125,7 +125,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/viz
     '11')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/input_(nepovinn)_input-prij__edit_datumRok'), 
-    '2111')
+    '2026')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/input_(nepovinn)_input-prij__edit_casHodina'), 
     '11')
@@ -136,7 +136,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/viz
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/button_Zrui_btn-edit govuk-button govuk-but_6cb5b0'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/div_Nhradn termn_grey-label'), 
-    '11.11.2111')
+    '11.11.2026')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prijimacky/vizuálneKontroly/Page_Prihlky a rozhodnutia  ePrihlky/div_Nhradn termn_grey-label_1'), 
     '11:00')
@@ -159,3 +159,4 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prij
     'Áno')
 
 prihlasovanie.odhlasPouzivatela()
+

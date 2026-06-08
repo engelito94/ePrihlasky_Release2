@@ -64,7 +64,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Pa
     'Slovensko')
 
 WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Vytvorenie elektronickej prihlky  ePrihlky/input_(nepovinn)_govuk-input autocomplete-input'), 
-    'Slove')
+    'Slovenská re')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Riad_UpravaMS/Page_Upravi prihlku  ePrihlky/div_Veobecn informcie                      _1aa588'))
 
