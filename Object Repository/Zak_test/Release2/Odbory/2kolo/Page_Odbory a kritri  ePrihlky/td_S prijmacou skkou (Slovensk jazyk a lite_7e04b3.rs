@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_S prijmacou skkou (Slovensk jazyk a lite_7e04b3</name>
+   <tag></tag>
+   <elementGuidId>4a556932-f346-4a2d-87de-775ba8436d07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='riaditel-odbory-2-list-body']/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#riaditel-odbory-2-list-body > tr > td.odbor-kapacita</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>147e869c-4883-492d-b231-ab9b78ee5591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>odbor-kapacita</value>
+      <webElementGuid>9806645e-0730-4073-b7b7-213ce4d1530c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>Kapacita:</value>
+      <webElementGuid>9d135afd-b990-4504-80ca-e8c88f0316dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>120</value>
+      <webElementGuid>738aa748-431a-4a13-ba4b-e04c029fb836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-odbory-2-list-body&quot;)/tr[1]/td[@class=&quot;odbor-kapacita&quot;]</value>
+      <webElementGuid>9daa36d0-7d2d-4f05-8ec5-f11a503bf7e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='riaditel-odbory-2-list-body']/tr/td[4]</value>
+      <webElementGuid>45d5991f-2a45-4bac-8722-58f7bfb802e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S prijímacou skúškou (Slovenský jazyk a literatúra)'])[2]/following::td[1]</value>
+      <webElementGuid>5eef92bc-6192-4252-90c6-da7c2e283682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duálne vzdelávanie'])[2]/following::td[1]</value>
+      <webElementGuid>cb53ad06-5994-49e7-8343-80ab9a70f666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upraviť'])[2]/preceding::td[1]</value>
+      <webElementGuid>890db13f-7c80-4229-b2d3-03298a659fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odstrániť'])[2]/preceding::td[1]</value>
+      <webElementGuid>58b42bd5-54a1-4d22-a0ef-5d23bcb432d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/table/tbody/tr/td[4]</value>
+      <webElementGuid>984422c6-79b3-43cb-81b5-08a179d0cea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '120' or . = '120')]</value>
+      <webElementGuid>c8cebba6-de07-4ce6-b92a-49301c312061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

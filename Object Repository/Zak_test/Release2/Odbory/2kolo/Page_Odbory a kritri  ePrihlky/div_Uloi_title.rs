@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Uloi_title</name>
+   <tag></tag>
+   <elementGuidId>3a61422e-33fa-4323-a289-c9bbe0197792</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-header > div.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8843f6c8-12c9-4c90-93cc-862765eb7e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>d4017ce5-fd6b-425d-8597-e24f82589904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Otvoriť odbor pre 2. kolo</value>
+      <webElementGuid>667605b0-e5d1-426f-8b51-0d672a40f0b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-a-kriteria-content&quot;)/div[@class=&quot;modal-wrapper otvorit-odbor-pre-2-kolo-wrapper&quot;]/div[@class=&quot;modal pridat-odbor-modal&quot;]/div[@class=&quot;modal-header&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>5cf5389f-4e9c-4d35-8f88-9881eb0c2700</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-a-kriteria-content']/div[5]/div/div/div</value>
+      <webElementGuid>a580cb2f-5889-4511-82a4-f03a0aaca99e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uložiť'])[1]/following::div[5]</value>
+      <webElementGuid>08283312-e364-482b-b0ae-3522590abb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zrušiť'])[2]/following::div[6]</value>
+      <webElementGuid>64f1f435-8128-497d-9989-84b49375a349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odbor pre 2. kolo'])[1]/preceding::div[2]</value>
+      <webElementGuid>3d5678a8-4bc3-462b-9213-061fedd8b006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(nepovinné)'])[7]/preceding::div[2]</value>
+      <webElementGuid>08130945-feb4-4961-b5a4-61bc60fb3872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]/div/div/div</value>
+      <webElementGuid>f3feaa63-bf0f-453a-8700-3be7400190d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Otvoriť odbor pre 2. kolo' or . = 'Otvoriť odbor pre 2. kolo')]</value>
+      <webElementGuid>3a9b7b5a-d6d7-430f-a198-17673172ffee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

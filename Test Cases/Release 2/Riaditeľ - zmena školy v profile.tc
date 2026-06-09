@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Riaditeľ - zmena školy v profile</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>490f1bdc-4de7-48f2-9e23-f051bdbd5027</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_1</name>
+   <tag></tag>
+   <elementGuidId>aedc0ff5-4766-4e16-988e-df8b2368086d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='odbory-message-box']/div/div/div/span/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.govuk-panel.govuk-panel--warning > div > div.govuk-panel__body > span.panel-text > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>dd324a49-56bc-4446-9909-4f1afb14fc1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odbory pre 2. kolo nie sú zverejnené</value>
+      <webElementGuid>0d9340f8-9f75-4041-96f5-77a262c860d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;odbory-message-box&quot;)/div[@class=&quot;govuk-panel govuk-panel--warning&quot;]/div[1]/div[@class=&quot;govuk-panel__body&quot;]/span[@class=&quot;panel-text&quot;]/strong[1]</value>
+      <webElementGuid>f3369fd2-abc4-434d-939e-6a4dca46d480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='odbory-message-box']/div/div/div/span/strong</value>
+      <webElementGuid>18cbf3b2-6e81-424e-8ff9-c0d5042ef632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='error'])[1]/following::strong[1]</value>
+      <webElementGuid>a3ad0b8d-244a-4fc4-a1c3-9d76bb8c5930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odbory a kritériá'])[2]/preceding::strong[1]</value>
+      <webElementGuid>3c57647d-9a41-49ec-a532-a767fe4968cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odbory'])[1]/preceding::strong[1]</value>
+      <webElementGuid>7c0dcf8e-9d8e-45ac-9945-837f3f6509f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odbory pre 2. kolo nie sú zverejnené']/parent::*</value>
+      <webElementGuid>ddcf9c58-ec6d-448d-a1ad-287870ccfc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span/strong</value>
+      <webElementGuid>617a83ab-2752-4a64-a9f5-6ba0ad07f34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Odbory pre 2. kolo nie sú zverejnené' or . = 'Odbory pre 2. kolo nie sú zverejnené')]</value>
+      <webElementGuid>92f53a43-7d1e-4c31-b14b-2e8d6a0677be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

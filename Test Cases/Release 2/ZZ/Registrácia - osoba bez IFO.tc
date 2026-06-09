@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registrácia - osoba bez IFO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ebd752d-eeb1-4483-8568-b4ec224be7b1</testCaseGuid>
+</TestCaseEntity>

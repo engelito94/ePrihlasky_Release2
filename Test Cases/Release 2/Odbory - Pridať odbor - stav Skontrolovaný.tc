@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Odbory - Pridať odbor - stav Skontrolovaný</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>2282a209-3911-416d-9f03-f5d924855d59</testCaseGuid>
-</TestCaseEntity>

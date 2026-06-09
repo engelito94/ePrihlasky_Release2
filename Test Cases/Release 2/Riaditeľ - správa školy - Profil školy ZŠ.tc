@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Riaditeľ - správa školy - Profil školy ZŠ</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>584dd91e-e0f4-419e-b36c-86633391959a</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_O1_odbor-nazov</name>
+   <tag></tag>
+   <elementGuidId>89ea3afe-6378-4630-bb13-afce3f158494</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='riaditel-odbory-2-list-body']/tr/td[3]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#riaditel-odbory-2-list-body > tr > td.odbor-info > div > div.odbor-nazov-stav > span.odbor-nazov</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72341426-c0a9-4ca9-826e-df16ccb06e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>odbor-nazov</value>
+      <webElementGuid>b92867d5-77b3-48d7-93a8-b9ed5ee8f9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>gymnázium - 4 ročné</value>
+      <webElementGuid>6cb436ef-57b8-4a74-b693-f7315948429b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;riaditel-odbory-2-list-body&quot;)/tr[1]/td[@class=&quot;odbor-info&quot;]/div[1]/div[@class=&quot;odbor-nazov-stav&quot;]/span[@class=&quot;odbor-nazov&quot;]</value>
+      <webElementGuid>92474133-d6a1-41bc-a667-50631a26872a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='riaditel-odbory-2-list-body']/tr/td[3]/div/div/span</value>
+      <webElementGuid>719f7686-59e2-47a0-adaf-84a4475471de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O1'])[2]/following::span[1]</value>
+      <webElementGuid>057caab8-7719-4d46-a353-a57cc3f8b1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akcia'])[2]/following::span[1]</value>
+      <webElementGuid>c6fccb79-27dd-4c4e-abe7-0844f30a2e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netalentový odbor'])[2]/preceding::span[2]</value>
+      <webElementGuid>cb4306ca-1583-47db-ba89-64518ac2111a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/table/tbody/tr/td[3]/div/div/span</value>
+      <webElementGuid>44132970-15be-4da2-a1ba-ba92ed568af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'gymnázium - 4 ročné' or . = 'gymnázium - 4 ročné')]</value>
+      <webElementGuid>39da7610-057c-4e01-846a-badcfa08485a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Správa školy - Profil školy MŠ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>261ff1c8-cc2c-45e5-b0eb-95933c27a22e</testCaseGuid>
+</TestCaseEntity>
