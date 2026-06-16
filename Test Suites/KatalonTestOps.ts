@@ -15,7 +15,7 @@
       <guid>f589adc8-264b-4127-b8f9-6f345c98fc72</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Zmena školy v profile</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Zmena školy v profile</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

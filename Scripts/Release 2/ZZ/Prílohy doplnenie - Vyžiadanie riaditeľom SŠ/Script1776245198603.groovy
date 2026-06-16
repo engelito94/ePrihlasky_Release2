@@ -85,10 +85,18 @@ prihlasovanie.odhlasPouzivatela()
 
 prihlasovanie.prihlasPouzivatela('ljxikynq7v@dollicons.com', 'w1oXMoeykcdLiib/wAKM5A==', false, GlobalVariable.F2A)
 
+WebUI.waitForJQueryLoad(60)
+
 'ZZ doplnenie prílohy na SŠ'
 //WebUI.rightClick(findTestObject('Object Repository/Zak_test/VyziadaniePrilohySS/Page_Moje prihlky  ePrihlky/span_warning_panel-text'))
 
-WebUI.verifyTextPresent('Riaditeľ strednej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.', false)
+//WebUI.verifyTextPresent('Riaditeľ strednej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.', false)
+
+String text = WebUI.getText(findTestObject('Object Repository/Zak_test/VyziadaniePrilohySS/Banner_pozadovaniePrilohy'))
+
+text = text.replaceAll("[^\\p{L} ]", "");
+
+assert(text.equals("Nahrajte prílohyRiaditeľ strednej školy požaduje doplnenie príloh Pridanie prílohy nájdete v stĺpci Akcia"));
 
 //nájdenie správnej prihlášky podľa mena dieťaťa
 int cislo = 5

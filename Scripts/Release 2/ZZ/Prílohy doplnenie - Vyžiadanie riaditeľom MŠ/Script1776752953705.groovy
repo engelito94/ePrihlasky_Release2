@@ -84,7 +84,8 @@ WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Pril
 'Odvolať žiadosť'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Prilohy/Page_Podrobnosti prihlky  ePrihlky/button_Nie_btn-confirm govuk-button govuk-b_cf1cc7'))
 
-WebUI.delay(4)
+
+WebUI.delay(3)
 
 //Kontrola odvolania
 teloMailu = mail.getLastEmailText('pop.gmail.com', 'pop3', GlobalVariable.mailLogin, GlobalVariable.mailHeslo)
@@ -115,7 +116,7 @@ WebUI.setText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Pr
 'Vyžiadať prílohu'
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Prilohy/Page_Vyiada prlohu  ePrihlky/button_Sp_btn-odoslat govuk-button govuk-bu_528af4'))
 
-WebUI.delay(3)
+//WebUI.delay(3)
 
 //Kontrola vyžiadania
 teloMailu = mail.getLastEmailText('pop.gmail.com', 'pop3', GlobalVariable.mailLogin, GlobalVariable.mailHeslo)
@@ -124,8 +125,10 @@ teloMailu = help.cleanupCidUrls(teloMailu)
 
 teloMailu = teloMailu.replaceAll('\\r?\\n+', ' ').replaceAll('\\s+', ' ').trim()
 
-assert teloMailu.equals(((((('Vážený/á pán/pani Tomáš Lukáč, pri kontrole prihlášky ' + identifikator) + ' pre školu Materská škola pre AT pre ') + 
-    meno) + ' ') + priezvisko) + ' sme zistili, že je potrebné doložiť nasledujúcu prílohu: Čestné vyhlásenie zákonného zástupcu z dôvodu že " Príloha k MŠ ". Prosíme Vás o doplnenie požadovanej prílohy k prihláške. Pre podrobnejšie informácie o stave Vašej prihlášky a priebehu jej spracovania sa sa prihláste na portáli Elektronické prihlášky do škôl.   Link na prihlásenie S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň."')
+println(teloMailu)
+
+assert teloMailu.equals(((((('"Vážený/á pán/pani Tomáš Lukáč, pri kontrole prihlášky ' + identifikator) + ' pre školu Materská škola pre AT pre ') + 
+    meno) + ' ') + priezvisko) + ' sme zistili, že je potrebné doložiť nasledujúcu prílohu: Čestné vyhlásenie zákonného zástupcu z dôvodu že "" Príloha k MŠ "". Prosíme Vás o doplnenie požadovanej prílohy k prihláške. Doplnenie príloh môžete vykonať prostredníctvom portálu Elektronické prihlášky do škôl:   Link na prihlásenie Ak ešte nemáte vytvorené konto, zaregistrujte sa prostredníctvom odkazu: Registrovať sa Po registrácii a prihlásení sa dostanete do sekcie Moje prihlášky, kde nájdete možnosť pridať existujúcu prihlášku do svojho konta. Na pridanie prihlášky zadajte tento identifikátor prihlášky: '+identifikator+' Po pridaní prihlášky do konta budete môcť sledovať jej stav, doplniť požadované prílohy a komunikovať so školou. V prípade, že už konto v portáli máte, prihláste sa a pokračujte podľa pokynov v portáli. S pozdravom Tím elektronických prihlášok MŠVVaM SR Tento email bol generovaný automaticky portálom Elektronické prihlášky do škôl, ktorý je v správe Ministerstva školstva, výskumu, vývoja a mládeže Slovenskej republiky. Neodpovedajte naň."""')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Prilohy/Page_Podrobnosti prihlky  ePrihlky/b'), 
     'Žiadosť o doplnenie prílohy bola úspešne odoslaná')

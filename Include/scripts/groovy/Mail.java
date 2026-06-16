@@ -18,7 +18,7 @@ import javax.mail.*;
 public class Mail {
 
     // Define the fixed polling parameters
-    private static final long MAX_WAIT_SECONDS = 10 * 60; // 10 minutes
+    private static final long MAX_WAIT_SECONDS = 3 * 60; // 10 minutes
     private static final long POLLING_INTERVAL_SECONDS = 15; // 15 seconds
 
     /**
@@ -232,76 +232,146 @@ public class Mail {
             return null;
         }
     }
-    
+
+
     public static String getLastEmailText(
             String host, String storeType, String user, String password) {
 
+        final long functionStartMillis = System.currentTimeMillis();
+        final long endTimeMillis = functionStartMillis + (MAX_WAIT_SECONDS * 1000L);
+
         Store store = null;
         Folder emailFolder = null;
-        String emailText = null;
+        int pollAttempt = 0;
+        int initialMessageCount = -1;
 
-        Date startTime = new Date(System.currentTimeMillis() - 8000);
-        long endTimeMillis = System.currentTimeMillis() + (MAX_WAIT_SECONDS * 1000);
+        System.out.println("[MAIL] getLastEmailText started");
+        System.out.println("[MAIL] functionStartMillis = " + functionStartMillis);
+        System.out.println("[MAIL] MAX_WAIT_SECONDS = " + MAX_WAIT_SECONDS);
+        System.out.println("[MAIL] POLLING_INTERVAL_SECONDS = " + POLLING_INTERVAL_SECONDS);
+        System.out.println("[MAIL] endTimeMillis = " + endTimeMillis);
 
-        while (System.currentTimeMillis() < endTimeMillis && emailText == null) {
+        while (System.currentTimeMillis() < endTimeMillis) {
+            pollAttempt++;
+            long now = System.currentTimeMillis();
+
+            System.out.println("--------------------------------------------------");
+            System.out.println("[MAIL] Poll attempt #" + pollAttempt);
+            System.out.println("[MAIL] Current time = " + now);
+            System.out.println("[MAIL] Remaining wait ms = " + (endTimeMillis - now));
+
             try {
                 Properties properties = new Properties();
+                properties.put("mail.store.protocol", storeType);
                 properties.put("mail.pop3.host", host);
                 properties.put("mail.pop3.port", "995");
-                properties.put("mail.pop3.starttls.enable", "true");
                 properties.put("mail.pop3.ssl.enable", "true");
+                properties.put("mail.pop3.starttls.enable", "true");
 
-                Session emailSession = Session.getDefaultInstance(properties);
+                Session emailSession = Session.getInstance(properties);
                 store = emailSession.getStore(storeType);
+
+                System.out.println("[MAIL] Connecting to store...");
                 store.connect(host, user, password);
+                System.out.println("[MAIL] Connected to store successfully");
 
                 emailFolder = store.getFolder("INBOX");
+                System.out.println("[MAIL] Opening folder: " + emailFolder.getFullName());
                 emailFolder.open(Folder.READ_ONLY);
 
                 Message[] messages = emailFolder.getMessages();
+                int messageCount = messages != null ? messages.length : 0;
 
-                if (messages.length > 0) {
-                    Message lastMessage = messages[messages.length - 1];
+                System.out.println("[MAIL] Message count in INBOX = " + messageCount);
 
-                    Date messageDate = lastMessage.getReceivedDate();
-                    if (messageDate == null) {
-                        messageDate = lastMessage.getSentDate();
-                    }
+                if (initialMessageCount == -1) {
+                    initialMessageCount = messageCount;
+                    System.out.println("[MAIL] Initial message count recorded = " + initialMessageCount);
+                } else {
+                    System.out.println("[MAIL] Initial message count = " + initialMessageCount);
+                }
 
-                    if (messageDate != null && messageDate.after(startTime)) {
-                        emailText = extractText(lastMessage);
-                        if (emailText != null && !emailText.trim().isEmpty()) {
-                            return emailText.trim();
+                if (messageCount > initialMessageCount) {
+                    System.out.println("[MAIL] New message(s) detected: " + (messageCount - initialMessageCount));
+
+                    for (int i = messageCount - 1; i >= initialMessageCount; i--) {
+                        Message message = messages[i];
+
+                        Date receivedDate = message.getReceivedDate();
+                        Date sentDate = message.getSentDate();
+
+                        String subject;
+                        try {
+                            subject = message.getSubject();
+                        } catch (Exception ex) {
+                            subject = "<unable to read subject>";
                         }
+
+                        System.out.println("[MAIL] Checking NEW message index = " + i);
+                        System.out.println("[MAIL] Subject = " + subject);
+                        System.out.println("[MAIL] receivedDate = " + receivedDate);
+                        System.out.println("[MAIL] sentDate = " + sentDate);
+
+                        String emailText = extractText(message);
+
+                        if (emailText == null) {
+                            System.out.println("[MAIL] extractText returned null");
+                            continue;
+                        }
+
+                        if (emailText.trim().isEmpty()) {
+                            System.out.println("[MAIL] extractText returned empty text");
+                            continue;
+                        }
+
+                        System.out.println("[MAIL] Email text extracted successfully");
+                        System.out.println("[MAIL] Returning email text");
+                        return emailText.trim();
                     }
+                } else {
+                    System.out.println("[MAIL] No new messages since function start");
                 }
 
             } catch (Exception e) {
+                System.out.println("[MAIL] Exception while reading email: " + e.getMessage());
                 e.printStackTrace();
             } finally {
                 try {
                     if (emailFolder != null && emailFolder.isOpen()) {
+                        System.out.println("[MAIL] Closing folder");
                         emailFolder.close(false);
                     }
-                } catch (MessagingException ignored) {}
+                } catch (MessagingException e) {
+                    System.out.println("[MAIL] Failed to close folder: " + e.getMessage());
+                }
 
                 try {
                     if (store != null && store.isConnected()) {
+                        System.out.println("[MAIL] Closing store");
                         store.close();
                     }
-                } catch (MessagingException ignored) {}
+                } catch (MessagingException e) {
+                    System.out.println("[MAIL] Failed to close store: " + e.getMessage());
+                }
+
+                emailFolder = null;
+                store = null;
             }
 
-            if (emailText == null && System.currentTimeMillis() < endTimeMillis) {
+            if (System.currentTimeMillis() < endTimeMillis) {
                 try {
-                    Thread.sleep(POLLING_INTERVAL_SECONDS * 1000);
+                    System.out.println("[MAIL] No matching email yet, sleeping for "
+                            + POLLING_INTERVAL_SECONDS + " seconds...");
+                    Thread.sleep(POLLING_INTERVAL_SECONDS * 1000L);
                 } catch (InterruptedException e) {
+                    System.out.println("[MAIL] Thread interrupted, returning null");
                     Thread.currentThread().interrupt();
                     return null;
                 }
             }
         }
 
+        System.out.println("[MAIL] Timeout reached, no matching email found");
         return null;
     }
 

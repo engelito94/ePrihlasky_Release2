@@ -1,8 +1,12 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
+import com.eviware.soapui.config.impl.AssertionEntryImpl
 import com.kms.katalon.core.configuration.RunConfiguration
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
+import internal.GlobalVariable
 import portal.Helper
+import portal.Prihlasovanie
 
 import java.time.LocalDate
 import java.time.LocalDateTime as LocalDate
@@ -311,35 +315,21 @@ WebUI.click(findTestObject('Object Repository/Ditec_test/VytvoreniePrihlasky/Fil
 
 Mail mail = new Mail()
 Helper help = new Helper()
+Prihlasovanie prihlasovanie = new Prihlasovanie()
 
+prihlasovanie.prihlasPouzivatela('ljxikynq7v@dollicons.com', 'w1oXMoeykcdLiib/wAKM5A==', false, GlobalVariable.F2A)
 
-def filePath = RunConfiguration.getProjectDir()
+'ZZ doplnenie prílohy na SŠ'
+//WebUI.rightClick(findTestObject('Object Repository/Zak_test/VyziadaniePrilohySS/Page_Moje prihlky  ePrihlky/span_warning_panel-text'))
 
-def priloha = filePath + '/Data Files/PozvánkaPredloha.pdf'
+//WebUI.verifyTextPresent('Riaditeľ strednej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.', false)
 
+String text = WebUI.getText(findTestObject('Object Repository/Zak_test/VyziadaniePrilohySS/Banner_pozadovaniePrilohy'))
 
+text = text.replaceAll("[^\\p{L} ]", "");
 
-def den = LocalDate.now().dayOfMonth
+assert(text.equals("Nahrajte prílohyRiaditeľ strednej školy požaduje doplnenie príloh Pridanie prílohy nájdete v stĺpci Akcia"));
 
-def mesiac = LocalDate.now().monthValue
+println(text)
 
-def rok = LocalDate.now().year
-
-def hodina = LocalDate.now().hour
-
-def minuta = LocalDate.now().minute
-
-if(mesiac < 10)
-{
-	mesiac = "0"+mesiac
-}
-
-if(den < 10)
-	{
-		den = "0"+den
-	}
-String cesta = "C:/Users/barcik/Downloads/Správa o bodoch_EDUID_910021624_"+rok+"-"+mesiac+"-"+den+"_"+hodina+"-"+minuta+".pdf"
-
-print(cesta)
-
-CustomKeywords.'com.kms.katalon.keyword.pdf.PDF.compareAllPages'(priloha, priloha, ['Lt1eGGzanuNB','Gizela Ábelová 13.01.2010'])
+//WebUI.verifyElementText(, 'Riaditeľ strednej školy požaduje doplnenie príloh. Pridanie prílohy nájdete v stĺpci Akcia.')

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[(text() = 'Uršula Zálesná' or . = 'Uršula Zálesná')]</value>
+         <value>//div[(text() = 'Svetlomíra Tajomná' or . = 'Uršula Zálesná')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>36bd609a-7202-434e-a0cc-db9ee478b17a</webElementGuid>
+      <webElementGuid>1d8173e6-5758-4b21-8d66-8fa174fd4f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vyzva-zz-item vyzva-zz-meno-priezvisko</value>
-      <webElementGuid>9af14bc8-97c0-424c-a1f0-b953964397d5</webElementGuid>
+      <webElementGuid>46ed5129-e6f8-447e-acab-c0b74eca0ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Uršula Zálesná</value>
-      <webElementGuid>d371b249-a563-422e-9227-f7cef51a7f0d</webElementGuid>
+      <webElementGuid>8dd4f979-0a0c-4793-9d3b-184b3d6404cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;govuk-frontend-supported&quot;]/div[@class=&quot;modal-wrapper vyzva-riesenie-konfliktu-modal-wrapper&quot;]/div[@class=&quot;modal vyzva-riesenie-konfliktu-modal&quot;]/div[@class=&quot;modal-inner&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;zz-items&quot;]/div[@class=&quot;vyzva-zz-card&quot;]/div[@class=&quot;vyzva-zz-item vyzva-zz-meno-priezvisko&quot;]</value>
-      <webElementGuid>5bf8568c-cf16-4adc-bbdf-4de317e5ace9</webElementGuid>
+      <webElementGuid>9f74fe1c-0b6c-4c5c-a07f-bb5ce5171318</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dátum podania:'])[1]/following::div[2]</value>
-      <webElementGuid>5834ac8c-b680-4e50-9c77-e4a233106807</webElementGuid>
+      <webElementGuid>82261d22-5447-4bd7-b732-e5e2ae9de027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronicky'])[1]/following::div[3]</value>
-      <webElementGuid>22dc67fc-5dec-45af-828c-eaaf5ca55082</webElementGuid>
+      <webElementGuid>540059c9-7f37-48e9-bb85-b8ef2d54d8f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Identifikátor prihlášky:'])[2]/preceding::div[1]</value>
-      <webElementGuid>78e6f4e2-4ae5-4b79-bf11-9f1e63fb35e4</webElementGuid>
+      <webElementGuid>16e3882e-3575-443e-be86-88c62ff13b31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='P-2026-13314'])[2]/preceding::div[1]</value>
-      <webElementGuid>e9211f15-1901-44f3-9f72-49e021ceb6c5</webElementGuid>
+      <webElementGuid>d75f3ff1-a1a8-438a-9ed9-9468eeaf4ebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Uršula Zálesná']/parent::*</value>
-      <webElementGuid>abbe0f37-b001-4149-b6d7-aa1846046ad5</webElementGuid>
+      <webElementGuid>2b95ebbb-aaf1-41b5-add1-fe5e5bb19051</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[4]/div[2]/div</value>
-      <webElementGuid>b42e1e4a-d00f-49eb-8d44-15e5d83d5f54</webElementGuid>
+      <webElementGuid>e5ccd127-d43c-436b-bc48-d055d1a10c58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Uršula Zálesná' or . = 'Uršula Zálesná')]</value>
-      <webElementGuid>1032a2e8-7046-47c2-9a10-57b2ca63ca35</webElementGuid>
+      <webElementGuid>3ad3ba90-3753-4b50-b11c-1d122538d9a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

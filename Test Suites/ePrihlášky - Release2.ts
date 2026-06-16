@@ -15,77 +15,77 @@
       <guid>c5a41e70-2bcc-4ef2-b7b6-d7598c8c0708</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Správa školy - Profil školy MŠ</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Správa školy - Profil školy MŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8ccfd7d6-1260-4192-8ef4-6f907af59c19</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Správa školy - Profil školy SŠ</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Správa školy - Profil školy SŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>a0a7ea0e-aa4c-421e-a11a-20c951763182</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Správa školy - Profil školy ZŠ</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Správa školy - Profil školy ZŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>2f5eddaf-82de-4535-b488-d609a24a9b72</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Zmena údajov v profile</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Zmena údajov v profile</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>77c82ef0-6b35-42ed-bdd0-0bd38de46c91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Zmena školy v profile</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Zmena školy v profile</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>82c3651e-2db7-46a9-a90e-23f1e11e2267</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/SŠ - papierová prihláška na SŠ - non RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/SŠ - papierová prihláška na SŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>487da88b-cb85-41f6-ab6a-fe27e7324942</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/ZŠ - papierová prihláška na SŠ - RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/ZŠ - papierová prihláška na SŠ - RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f9b824e6-8cb9-461f-bce1-0a6259853242</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/2.kolo/SŠ - papierová prihláška na SŠ - non RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/2.kolo/SŠ - papierová prihláška na SŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>491c147a-b305-4496-b4b3-9027cc691c06</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/2.kolo/ZŠ - Prihláška na SŠ - non RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/2.kolo/ZŠ - Prihláška na SŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>fa4eb2b5-a3a9-4a47-a223-21a781825e3a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/ZŠ - papierová prihláška na ZŠ - non RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/ZŠ - papierová prihláška na ZŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f40dc022-41d1-49d8-b75d-821aa9b80d91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/MŠ - Papierová prihláška na MŠ - non RFO</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/MŠ - Papierová prihláška na MŠ - non RFO</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -148,49 +148,49 @@
       <guid>10991be7-a59b-4e5a-84d7-7f2be4f09d11</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Release 2/ZZ/Riaditeľ - Vytvorenie konfliktu</testCaseId>
+      <testCaseId>Test Cases/Release 2/ZZ/Riaditeľ SŠ - Vytvorenie konfliktu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0c968d57-e4ff-4dd9-9478-4c2fa7fc2ae4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/SŠ - Konflikt - Vyriešenie</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/SŠ - Konflikt - Vyriešenie</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f4d4ea0a-d8fc-4917-aa62-727ca80496cf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/ZZ/2.kolo/Vytvorenie konfliktu</testCaseId>
+      <testCaseId>Test Cases/Release 2/ZZ/2.kolo/Vytvorenie konfliktu na SŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>35c5394f-61ba-4ccb-851e-ce9f1c3c5108</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/2.kolo/SŠ - Konflikt - Vyriešenie</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/2.kolo/SŠ - Konflikt - Vyriešenie</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b16053c1-1406-4a9b-97f8-1864bcc062fb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Prijímačky SŠ - úprava, náhradný termín</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Prijímačky SŠ - úprava, náhradný termín</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>61c70c84-3a68-4c05-81fb-de22240bc8d5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/2.kolo/Prijímačky SŠ - odoslanie správ</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/2.kolo/Prijímačky SŠ - odoslanie správ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>5842803a-7085-407d-be26-37795427edb8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Release 2/RIaditeľ/Prijímačky SŠ - pozvánka, správa o bodoch</testCaseId>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/Prijímačky SŠ - pozvánka, správa o bodoch</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -219,6 +219,20 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Release 2/ZZ/Prílohy doplnenie - Vyžiadanie riaditeľom MŠ</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dce85058-9749-4560-a654-2f79ac34852d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/ZZ/2.kolo/Vytvorenie konfliktu na MŠ</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>da537d57-4ee2-44a9-8eb9-8d096e4ea18e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Release 2/Riaditeľ/2.kolo/MŠ - Konflikt - Vyriešenie</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
