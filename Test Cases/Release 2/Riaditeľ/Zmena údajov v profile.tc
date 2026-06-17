@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Zmena údajov v profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aefd2c1b-75dd-444f-9c38-c57e0d4770f6</testCaseGuid>
+</TestCaseEntity>
