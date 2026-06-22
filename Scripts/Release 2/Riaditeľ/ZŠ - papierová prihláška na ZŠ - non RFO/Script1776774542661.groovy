@@ -301,7 +301,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     'Papierovo')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Prihlky a rozhodnutia  ePrihlky/div_Neskontrolovan_data-prihlaska-stav badge green'), 
-    'Podaná')
+    'V spracovaní')
 
 WebUI.click(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Prihlky a rozhodnutia  ePrihlky/button_Detail_govuk-button govuk-button--se_40abef'))
 
@@ -312,7 +312,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
     priezvisko.toString())
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_skola-status-badge green'), 
-    'Podaná')
+    'V spracovaní')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Podrobnosti prihlky  ePrihlky/div'), 
     'slovenský', FailureHandling.OPTIONAL)

@@ -70,13 +70,13 @@ public class Helper {
 		// Muž: mesiac 01-12, žena: mesiac 51-62 (po úprave -50 = 01-12)
 		return mesiac <= 12
 	}
-	
+
 	private static String cleanupCidUrls(String text) {
 		if (text == null) return null;
 		// vymaže všetky výskyty typu "cid:image001.png@01DCCE4D.74ED1390" / "[cid:...]"
 		return text
-			.replaceAll("\\[?cid:[^\\s\\]]+\\]?", "")
-			.replaceAll("\\s{2,}", " ")   // nahradí viacero medzier jednou
-			.trim();
+				.replaceAll("\\[?cid:[^\\s\\]]+\\]?", "")
+				.replaceAll("\\s{2,}", " ")   // nahradí viacero medzier jednou
+				.trim();
 	}
 }

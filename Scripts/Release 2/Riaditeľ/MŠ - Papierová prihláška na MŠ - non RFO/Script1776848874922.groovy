@@ -298,3 +298,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/Prih
 WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/PapierovaPrihlaska/Page_Podrobnosti prihlky  ePrihlky/div_Priezvisko_dietaPriezvisko'), 
     priezvisko)
 
+WebUI.verifyElementText(findTestObject('Object Repository/Zak_test/Release2/PrihlaskaMS/Papier/Page_Podrobnosti prihlky  ePrihlky/div_Stav prihlky_skola-status-badge green'), 
+    'V spracovaní', FailureHandling.OPTIONAL)
+

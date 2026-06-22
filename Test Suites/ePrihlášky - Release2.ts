@@ -210,28 +210,28 @@
    <testCaseLink>
       <guid>ee71a318-e1f4-49d4-abd6-ce610fb27ff9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ/Prihláška na MŠ - non RFO dieťa</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>18ca6cbf-7180-46f2-8c88-d64137d7f4cc</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ/Prílohy doplnenie - Vyžiadanie riaditeľom MŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>dce85058-9749-4560-a654-2f79ac34852d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/ZZ/2.kolo/Vytvorenie konfliktu na MŠ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>da537d57-4ee2-44a9-8eb9-8d096e4ea18e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Release 2/Riaditeľ/2.kolo/MŠ - Konflikt - Vyriešenie</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

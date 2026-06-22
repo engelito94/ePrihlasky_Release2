@@ -237,7 +237,7 @@ if (minuta < 10) {
 String cestaBody = "Správa o bodoch_EDUID_910021624_"+rok+"-"+mesiac+"-"+den+"_"+hodina+"-"+minuta+".pdf"
 String cestaPozvanka = "Pozvánka na PS_EDUID_910021624_"+rok+"-"+mesiac+"-"+den+"_"+hodina+"-"+minuta+".pdf"
 
-CustomKeywords.'com.kms.katalon.keyword.pdf.PDF.compareAllPages'(pozvanka, GlobalVariable.downloadFolder+cestaPozvanka, ['xX6pSodxBqT5','Emil Hrnka 01.01.2010', meno+" "+priezvisko+" "+datumNarodenia, pristupovyKod])
+CustomKeywords.'com.kms.katalon.keyword.pdf.PDF.compareAllPages'(pozvanka, GlobalVariable.downloadFolder+cestaPozvanka, ['YVXcWvF1d7dJ','Ľubomír Lukáč 18.01.2010', meno+" "+priezvisko+" "+datumNarodenia, pristupovyKod])
 CustomKeywords.'com.kms.katalon.keyword.pdf.PDF.compareAllPages'(body, GlobalVariable.downloadFolder+cestaBody, ['xX6pSodxBqT5','Emil Hrnka 01.01.2010', meno+" "+priezvisko+" "+datumNarodenia, pristupovyKod])
 
 prihlasovanie.odhlasPouzivatela()
